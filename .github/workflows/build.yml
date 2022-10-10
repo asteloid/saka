@@ -1,0 +1,28 @@
+name: Build Playlist
+on: [workflow_call, workflow_dispatch]
+
+jobs:
+  run:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v3
+        with:
+          fetch-depth: 0
+          submodules: true
+
+      - name: Switch to update branch
+        run: git checkout -f update || git switch --discard-changes --orphan update
+
+      - name: Update saka playlist
+        id: update_config
+        run: |
+          UPDATE_SAKA_M3U=$(curl --compressed --user-agent "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:105.0) Gecko/20100101 Firefox/105.0" https://raw.githubusercontent.com/digital7tech/footballone/main/match.json | jq '(.hits[]| "#EXTINF:-1," + .user, .pageUrl)' | sed -e 's/^"//g;s/","/,/g;s/"$//g')
+          echo "$UPDATE_SAKA_M3U" >live.m3u
+
+      - uses: stefanzweifel/git-auto-commit-action@v4
+        with:
+          branch: update
+          skip_checkout: true
+          file_pattern: live.m3u
+          commit_message: Update saka playlist
