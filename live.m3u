@@ -1,40 +1,34 @@
-#EXTINF:-1,Milan vs Chelsea SD
-https://jq9sucdqmflivnt.vcdn.com.vn/may2SD/may2SD@456.m3u8  
-#EXTINF:-1,Milan vs Chelsea HD1
-https://yypull.gdsth.com/live/stream-2445688.m3u8?auth_key=1665534915-0-0-da6d544d0016f43432143b98d6caa033 
-#EXTINF:-1,Milan vs Chelsea HD2
-https://yypull.gdsth.com/live/stream-552565.m3u8?auth_key=1665535395-0-0-efa6193c7cde146baa40ade816d7a33f 
-#EXTINF:-1,Milan vs Chelsea HD (ENG)
-http://golive.yn.lt/live/champions/05.m3u8  
-#EXTINF:-1,Milan vs Chelsea HD4 (ENG)
-http://P135@45.86.191.47:8081/live/ch2/chunks.m3u8   
-#EXTINF:-1,PSG vs Benfica SD
-https://jq9sucdqmflivnt.vcdn.com.vn/may1SD/may1SD@456.m3u8
-#EXTINF:-1,PSG vs Benfica HD1
-https://yypull.gdsth.com/live/stream-5356701.m3u8?auth_key=1665535395-0-0-c4395529ec9f90ef5002bf52f8ec3285
-#EXTINF:-1,PSG vs Benfica HD2
-https://yypull.gdsth.com/live/stream-411882.m3u8?auth_key=1665535515-0-0-41433b307ae90256496c79954474855a
-#EXTINF:-1,PSG vs Benfica (ENG)
-http://golive.yn.lt/live/champions/03.m3u8
-#EXTINF:-1,Shakhtar Donetsk vs Real Madrid SD
-https://jq9sucdqmflivnt.vcdn.com.vn/may3SD/may3SD@456.m3u8 
-#EXTINF:-1,Shakhtar Donetsk vs Real Madrid HD1
-https://yypull.gdsth.com/live/stream-459976.m3u8?auth_key=1665535575-0-0-3b87a08a4472463b68c5db827e94b4e6  
-#EXTINF:-1,Shakhtar Donetsk vs Real Madrid HD2 (ENG)
-http://golive.yn.lt/live/champions/01.m3u8  
-#EXTINF:-1,Celtic vs RB Leipzig SD
-https://yypull.gdsth.com/live/stream-238362.m3u8?auth_key=1665535035-0-0-b53dab948ae84f6854a50bb17dbc3634  
-#EXTINF:-1,Celtic vs RB Leipzig HD
-https://yypull.gdsth.com/live/stream-238362.m3u8?auth_key=1665535515-0-0-f9a92453677cf022101118a30b728b78
-#EXTINF:-1,Celtic vs RB Leipzig HD (ENG)
-http://golive.yn.lt/live/champions/08.m3u8
-#EXTINF:-1,Borussia Dortmund vs Sevilla SD
-https://jq9sucdqmflivnt.vcdn.com.vn/123SD/123SD@456.m3u8  
-#EXTINF:-1,Borussia Dortmund vs Sevilla HD
-https://yypull.gdsth.com/live/stream-552369.m3u8?auth_key=1665534975-0-0-9ef810ac827d3fa9b3986787a41a8450 
-#EXTINF:-1,Dinamo Zagreb vs Salzburg SD
-https://yypull.gdsth.com/live/stream-466758.m3u8?auth_key=1665535455-0-0-afbc9a13b780b394e73b8d01794da35d 
-#EXTINF:-1,Dinamo Zagreb vs Salzburg HD
-https://1093384063.cdn.khmer-hd.com/may10/chunks.m3u8 
+#EXTINF:-1,Barcelona vs Internazionale SD
+https://jq9sucdqmflivnt.vcdn.com.vn/may1SD/may1SD@456.m3u8 
+#EXTINF:-1,Barcelona vs Internazionale HD1
+https://yypull.gdsth.com/live/stream-5356701.m3u8?auth_key=1665621675-0-0-90fb03648cb0b95dc7aa50de7ff54845 
+#EXTINF:-1,Barcelona vs Internazionale HD2
+https://yypull.gdsth.com/live/stream-259579.m3u8?auth_key=1665621735-0-0-f7c5aed4e4a10547586300b5d12dbc73
+#EXTINF:-1,Barcelona vs Internazionale HD3
+https://yypull.gdsth.com/live/stream-308116.m3u8?auth_key=1665621795-0-0-49b28aaa83a2949c59b29a4966caa44a
+#EXTINF:-1,Rangers vs Liverpool SD
+https://jq9sucdqmflivnt.vcdn.com.vn/may2SD/may2SD@456.m3u8 
+#EXTINF:-1,Rangers vs Liverpool HD1
+https://yypull.gdsth.com/live/stream-459976.m3u8?auth_key=1665621855-0-0-d59e0a74ec721af11a0df2f6aa2b4464
+#EXTINF:-1,Rangers vs Liverpool HD (ENG)
+https://cdn7.footballstreams.top/live/ch1/chunks.m3u8
+#EXTINF:-1,Tottenham vs Eintracht Frankfurt SD
+https://jq9sucdqmflivnt.vcdn.com.vn/1233SD/123SD@456.m3u8 
+#EXTINF:-1,Tottenham vs Eintracht Frankfurt HD1
+https://yypull.gdsth.com/live/stream-2961234.m3u8?auth_key=1665621735-0-0-e2cb817754041320aab2b96b7f5a942f
+#EXTINF:-1,Tottenham vs Eintracht Frankfurt (ENG) 
+http://waksteasa.azureedge.net/live/bts3/chunks.m3u8 
+#EXTINF:-1,Bayer Leverkusen vs Porto SD
+https://yypull.gdsth.com/live/stream-482760.m3u8?auth_key=1665621855-0-0-0c8484259e1d632c499e179c3b212f95
+#EXTINF:-1,Bayer Leverkusen vs Porto HD
+https://yypull.gdsth.com/live/stream-482760.m3u8?auth_key=1665621855-0-0-0c8484259e1d632c499e179c3b212f95 
+#EXTINF:-1,Viktoria Plzeň vs Bayern München SD
+https://jq9sucdqmflivnt.vcdn.com.vn/may3SD/may3SD@456.m3u8  
+#EXTINF:-1,Viktoria Plzeň vs Bayern München HD
+https://yypull.gdsth.com/live/stream-294127.m3u8?auth_key=1665621915-0-0-7e5e6fbdebb273efd215023d08ce501f  
+#EXTINF:-1,Sporting CP vs Marseille SD
+https://yypull.gdsth.com/live/stream-552565.m3u8?auth_key=1665621735-0-0-cc125fc77e379907662b2d54c1faa691 
+#EXTINF:-1,Sporting CP vs Marseille HD
+https://yypull.gdsth.com/live/stream-466384.m3u8?auth_key=1665621135-0-0-a624bcf4344fc1337c5df7a6e18d2f6f 
 #EXTINF:-1,PTV SPORTS
 http://golive.yn.lt/live/champions/03.m3u8  
