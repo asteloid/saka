@@ -1,11 +1,3 @@
-#EXTINF:-1,Frankfurt vs Bayer Leverkusen
-https://yypull.gdsth.com/live/stream-459976.m3u8?auth_key=1665860536-0-0-be466591e84a2b11109d5dc20caae7c2
-#EXTINF:-1,Wolfsburg vs Borussia M'gladbach HD
-https://yypull.gdsth.com/live/stream-329032.m3u8?auth_key=1665860596-0-0-4cc32be3f7309b49dfc5a78da68d588b
-#EXTINF:-1,Stuttgart vs Bochum HD
-https://yypull.gdsth.com/live/stream-78951464.m3u8?auth_key=1665860176-0-0-bc6ffc66c5170d6d31551bfa4376fcf1
-#EXTINF:-1,Werder Bremen vs Mainz 05 HD
-https://jq9sucdqmflivnt.vcdn.com.vn/may4/may4@456.m3u8
 #EXTINF:-1,Fulham vs AFC Bournemouth SD
 https://jq9sucdqmflivnt.vcdn.com.vn/may2SD/may2SD@456.m3u8
 #EXTINF:-1,Fulham vs AFC Bournemouth HD
@@ -19,23 +11,21 @@ https://cdn2.footballstreams.top/live/ch1/playlist.m3u8
 #EXTINF:-1,Lorient vs Reims HD
 https://yypull.gdsth.com/live/stream-441616.m3u8?auth_key=1665866716-0-0-3462b5a6eb32cdfa45f27951170c55bb
 #EXTINF:-1,Torino vs Juventus HD1
-http://38.127.211.18/live/c2eds/RushHD/HLS/index.m3u8
+https://jq9sucdqmflivnt.vcdn.com.vn/may3SD/may3SD@456.m3u8
 #EXTINF:-1,Torino vs Juventus HD2
-http://38.127.211.18/live/c2eds/RushHD/HLS/index.m3u8
+https://jq9sucdqmflivnt.vcdn.com.vn/may4/may4@456.m3u8
 #EXTINF:-1,Torino vs Juventus HD3
-http://38.127.211.18/live/c2eds/RushHD/HLS/index.m3u8
+https://yypull.gdsth.com/live/stream-552369.m3u8?auth_key=1665869656-0-0-9edf63c63877e7c0fe249f7fac73779c
 #EXTINF:-1,Tottenham vs Everton SD
-https://yypull.gdsth.com/live/stream-411882.m3u8?auth_key=1665794116-0-0-9aa2a3ed11cc3f1dceadb01821eca287
+https://jq9sucdqmflivnt.vcdn.com.vn/may2SD/may2SD@456.m3u8
 #EXTINF:-1,Tottenham vs Everton HD
-https://yypull.gdsth.com/live/stream-330076.m3u8?auth_key=1665794416-0-0-ecacbc40023a59d6e40545516fb0431a
+https://jq9sucdqmflivnt.vcdn.com.vn/may2SD/may2SD@456.m3u8
 #EXTINF:-1,Tottenham vs Everton HD (English)
-https://cdn2.footballstreams.top/live/ch2/playlist.m3u8
+https://jq9sucdqmflivnt.vcdn.com.vn/may2SD/may2SD@456.m3u8
 #EXTINF:-1,Mallorca vs Sevilla HD
 https://yypull.gdsth.com/live/stream-441616.m3u8?auth_key=1665794176-0-0-06ea0ef8e39237a3d2c8c9cbb12447b1
-#EXTINF:-1,RB Leipzig vs Hertha BSC HD1
-https://yypull.gdsth.com/live/stream-552369.m3u8?auth_key=1665794116-0-0-9a08e8bd37948b9019e438e2a5288fcf
-#EXTINF:-1,RB Leipzig vs Hertha BSC HD2
-https://yypull.gdsth.com/live/stream-552369.m3u8?auth_key=1665794116-0-0-9a08e8bd37948b9019e438e2a5288fcf
+#EXTINF:-1,RB Leipzig vs Hertha BSC HD
+https://jq9sucdqmflivnt.vcdn.com.vn/may101/may101@456.m3u8
 #EXTINF:-1,Atalanta vs Sassuolo HD1
 http://38.127.211.18/live/c2eds/RushHD/HLS/index.m3u8
 #EXTINF:-1,Atalanta vs Sassuolo HD2
