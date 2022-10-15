@@ -8,12 +8,14 @@ https://jq9sucdqmflivnt.vcdn.com.vn/may4/may4@456.m3u8
 https://yypull.gdsth.com/live/stream-552369.m3u8?auth_key=1665869656-0-0-9edf63c63877e7c0fe249f7fac73779c
 #EXTINF:-1,Tottenham vs Everton SD
 https://jq9sucdqmflivnt.vcdn.com.vn/may2SD/may2SD@456.m3u8
-#EXTINF:-1,Tottenham vs Everton HD
-https://jq9sucdqmflivnt.vcdn.com.vn/may2SD/may2SD@456.m3u8
-#EXTINF:-1,Tottenham vs Everton HD (English)
+#EXTINF:-1,Tottenham vs Everton HD1
+https://yypull.gdsth.com/live/stream-558696.m3u8?auth_key=1665872776-0-0-ccaf1f1e18dafd9998e58fdfb9a9c279
+#EXTINF:-1,Tottenham vs Everton HD (ENG)
 https://cdn2.footballstreams.top/live/ch1/playlist.m3u8
+#EXTINF:-1,Tottenham vs Everton HD2
+https://sun.meta-scores.com/0ba81ce389/0ba81ce389@720p.m3u8
 #EXTINF:-1,Mallorca vs Sevilla HD
-http://clientsportals.tv/play/live.php?mac=00:1A:79:70:39:2a&stream=39406&extension=ts&play_token=TQ6cftyhX8
+https://yypull.gdsth.com/live/stream-552917.m3u8?auth_key=1665872176-0-0-f19d7933c74623ba8f81675ab038337c
 #EXTINF:-1,RB Leipzig vs Hertha BSC HD
 https://jq9sucdqmflivnt.vcdn.com.vn/may101/may101@456.m3u8
 #EXTINF:-1,Atalanta vs Sassuolo HD1
