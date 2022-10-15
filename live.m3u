@@ -1,9 +1,3 @@
-#EXTINF:-1,Girona vs Cádiz HD
-https://1093384063.cdn.khmer-hd.com/may121/chunks.m3u8
-#EXTINF:-1,Empoli vs Monza HD1
-https://jq9sucdqmflivnt.vcdn.com.vn/may10/may10@456.m3u8
-#EXTINF:-1,Empoli vs Monza HD2
-https://sun.meta-scores.com/1cd3e45c83/1cd3e45c83@720p.m3u8
 #EXTINF:-1,Frankfurt vs Bayer Leverkusen
 https://yypull.gdsth.com/live/stream-459976.m3u8?auth_key=1665860536-0-0-be466591e84a2b11109d5dc20caae7c2
 #EXTINF:-1,Wolfsburg vs Borussia M'gladbach HD
@@ -20,14 +14,10 @@ https://yypull.gdsth.com/live/stream-5356701.m3u8?auth_key=1665862876-0-0-e63909
 https://cdn2.footballstreams.top/live/ch3/playlist.m3u8
 #EXTINF:-1,Wolves vs Nottingham Forest SD
 https://yypull.gdsth.com/live/stream-423912.m3u8?auth_key=1665862516-0-0-39dd6455f39d5b338476cb513d545459
-#EXTINF:-1,Wolves vs Nottingham Forest HD
-https://yypull.gdsth.com/live/stream-411882.m3u8?auth_key=1665862576-0-0-78eef7e37f4527381023a37f1dd9d0bc
 #EXTINF:-1,Wolves vs Nottingham Forest HD (ENG)
 https://cdn2.footballstreams.top/live/ch1/playlist.m3u8
-#EXTINF:-1,Valencia vs Elche HD
-https://1093384063.cdn.khmer-hd.com/may12/chunks.m3u8
 #EXTINF:-1,Lorient vs Reims HD
-xaVtVWk1QDloRFl9AVRFOEV5XDV1DDhFpEgpXElwMFlkPGA== 
+https://yypull.gdsth.com/live/stream-441616.m3u8?auth_key=1665866716-0-0-3462b5a6eb32cdfa45f27951170c55bb
 #EXTINF:-1,Torino vs Juventus HD1
 http://38.127.211.18/live/c2eds/RushHD/HLS/index.m3u8
 #EXTINF:-1,Torino vs Juventus HD2
