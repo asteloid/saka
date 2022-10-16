@@ -1,9 +1,3 @@
-#EXTINF:-1,Real Madrid vs Barcelona SD
-https://jq9sucdqmflivnt.vcdn.com.vn/may3SD/may3SD@456.m3u8
-#EXTINF:-1,Real Madrid vs Barcelona HD1
-https://yypull.gdsth.com/live/stream-411882.m3u8?auth_key=1665950236-0-0-a2c8065276a898fc8c8ac951e2c0b014
-#EXTINF:-1,Real Madrid vs Barcelona HD2
-https://yypull.gdsth.com/live/stream-2445688.m3u8?auth_key=1665950296-0-0-ea1fdf34a999b3f88b4b1e120d4b889b
 #EXTINF:-1,Monaco vs Clermont HD
 https://yypull.gdsth.com/live/stream-309440.m3u8?auth_key=1665952936-0-0-14f60b79a3206ca96b3f85159d0f88e0
 #EXTINF:-1,Liverpool vs Manchester City SD
@@ -25,7 +19,7 @@ https://jq9sucdqmflivnt.vcdn.com.vn/may81/may81@456.m3u8
 #EXTINF:-1,Napoli vs Bologna HD3
 https://yypull.gdsth.com/live/stream-557735.m3u8?auth_key=1665955576-0-0-a147d11508d0f3c5a811a8b069427181
 #EXTINF:-1,Espanyol vs Real Valladolid HD
-http://38.127.211.18/live/c2eds/RushHD/HLS/index.m3u8
+https://yypull.gdsth.com/live/stream-317957.m3u8?auth_key=1665958156-0-0-e5d41f957a956b0983f297554f454b5e
 #EXTINF:-1,Bayern München vs Freiburg SD
 http://myott.top/stream/1VGPHYLZTH/235.m3u8
 #EXTINF:-1,Bayern München vs Freiburg HD
