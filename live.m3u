@@ -1,43 +1,9 @@
-#EXTINF:-1,Aston Villa vs Chelsea SD
-https://jq9sucdqmflivnt.vcdn.com.vn/123SD/123SD@456.m3u8
-#EXTINF:-1,Aston Villa vs Chelsea HD1
-https://jq9sucdqmflivnt.vcdn.com.vn/123SD/123SD@456.m3u8
-#EXTINF:-1,Aston Villa vs Chelsea (ENG)
-http://P135@45.86.191.47:8081/live/ch3/chunks.m3u8
 #EXTINF:-1,Leeds vs Arsenal SD
 https://jq9sucdqmflivnt.vcdn.com.vn/may2SD/may2SD@456.m3u8
 #EXTINF:-1,Leeds vs Arsenal HD1
 https://jq9sucdqmflivnt.vcdn.com.vn/may91/may91@456.m3u8
 #EXTINF:-1,Leeds vs Arsenal (ENG)
 https://cdn1.footballstreams.top/live/ch2/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMTYvMjAyMiAxMjo1MToxMyBQTSZoYXNoX3ZhbHVlPWtFd3NvUnIrZG55eURuRko1VE1PVEE9PSZ2YWxpZG1pbnV0ZXM9NzIwJmlkPTEwNS4xMTIuNTcuNzQmc3RybV9sZW49NQ==
-#EXTINF:-1,Manchester United vs Newcastle SD
-https://jq9sucdqmflivnt.vcdn.com.vn/may1SD/may1SD@456.m3u8
-#EXTINF:-1,Manchester United vs Newcastle HD1
-https://yypull.gdsth.com/live/stream-551899.m3u8?auth_key=1665945616-0-0-6a89a51e68f35a90e5defe2ba41c4562
-#EXTINF:-1,Manchester United vs Newcastle (ENG)
-http://P135@45.86.191.47:8081/live/ch1/chunks.m3u8
-#EXTINF:-1,SOUTHAMPTON VS WESTHAM SD
-https://jq9sucdqmflivnt.vcdn.com.vn/may8/may8@456.m3u8
-#EXTINF:-1,SOUTHAMPTON VS WESTHAM HD
-https://yypull.gdsth.com/live/stream-435066.m3u8?auth_key=1665946876-0-0-2b8b5f3c533120e52fcc8f724793ba6b
-#EXTINF:-1,SOUTHAMPTON VS WESTHAM HD (ENG)
-http://P135@45.86.191.47:8081/live/ch4/chunks.m3u8
-#EXTINF:-1,Lazio vs Udinese HD1
-https://jq9sucdqmflivnt.vcdn.com.vn/may81/may81@456.m3u8
-#EXTINF:-1,Lazio vs Udinese HD2
-https://yypull.gdsth.com/live/stream-552369.m3u8?auth_key=1665945916-0-0-22467c3113c0d7583b03476a9c83a37b
-#EXTINF:-1,Spezia vs Cremonese SD
-https://yypull.gdsth.com/live/stream-237152.m3u8?auth_key=1665945976-0-0-542e664162a89a63b77ecce160af65f8
-#EXTINF:-1,Spezia vs Cremonese HD
-https://yypull.gdsth.com/live/stream-441616.m3u8?auth_key=1665946036-0-0-93f02f333acc1cef5db59248d16efe54
-#EXTINF:-1,Rennes vs Lyon HD
-https://yypull.gdsth.com/live/stream-4569315.m3u8?auth_key=1665945676-0-0-ef626e3ec53385dff45c1e0eb4e1ec5d
-#EXTINF:-1,Nantes vs Brest HD
-https://514644076.cloud.anycastapnic.com/xavi/270/chunklist.m3u8
-#EXTINF:-1,Auxerre vs Nice HD
-https://514644076.cloud.anycastapnic.com/xavi/278/chunklist.m3u8
-#EXTINF:-1,Troyes vs Ajaccio HD
-https://514644076.cloud.anycastapnic.com/xavi/269/chunklist.m3u8
 #EXTINF:-1,Köln vs Augsburg HD
 https://sun.meta-scores.com/518bf326e5/index.m3u8
 #EXTINF:-1,Real Madrid vs Barcelona SD
@@ -49,13 +15,13 @@ https://yypull.gdsth.com/live/stream-2445688.m3u8?auth_key=1665950296-0-0-ea1fdf
 #EXTINF:-1,Monaco vs Clermont HD
 https://yypull.gdsth.com/live/stream-309440.m3u8?auth_key=1665952936-0-0-14f60b79a3206ca96b3f85159d0f88e0
 #EXTINF:-1,Liverpool vs Manchester City SD
-https://jq9sucdqmflivnt.vcdn.com.vn/may9/may9@456.m3u8
+https://jq9sucdqmflivcf.vcdn.com.vn/may1SD/may1SD@456.m3u8
 #EXTINF:-1,Liverpool vs Manchester City HD1
-http://38.127.211.18/live/c2eds/RushHD/HLS/index.m3u8
+https://yypull.gdsth.com/live/stream-558696.m3u8?auth_key=1665954076-0-0-e065213b30f008235d6c8ab2036e46cd
 #EXTINF:-1,Liverpool vs Manchester City HD2
-http://38.127.211.18/live/c2eds/RushHD/HLS/index.m3u8
+https://yypull.gdsth.com/live/stream-5356701.m3u8?auth_key=1665954136-0-0-395e31211ff1679f554bc542aad81ccd
 #EXTINF:-1,Liverpool vs Manchester City (ENG)
-http://38.127.211.18/live/c2eds/RushHD/HLS/index.m3u8
+https://jq9sucdqmflivcf.vcdn.com.vn/may1SD/may1SD@456.m3u8
 #EXTINF:-1,Union Berlin vs Dortmund SD
 http://myott.top/stream/1VGPHYLZTH/235.m3u8
 #EXTINF:-1,Union Berlin vs Dortmund HD
