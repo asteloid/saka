@@ -21,15 +21,17 @@ https://yypull.gdsth.com/live/stream-558696.m3u8?auth_key=1665954076-0-0-e065213
 #EXTINF:-1,Liverpool vs Manchester City HD2
 https://yypull.gdsth.com/live/stream-5356701.m3u8?auth_key=1665954136-0-0-395e31211ff1679f554bc542aad81ccd
 #EXTINF:-1,Liverpool vs Manchester City (ENG)
-https://jq9sucdqmflivcf.vcdn.com.vn/may1SD/may1SD@456.m3u8
+https://jozef343.s3-accelerate.amazonaws.com/manutd.m3u8
 #EXTINF:-1,Union Berlin vs Dortmund SD
-http://myott.top/stream/1VGPHYLZTH/235.m3u8
+https://yypull.gdsth.com/live/stream-2412304.m3u8?auth_key=1665954916-0-0-6546e37892dd6fbb184276de12d20543
 #EXTINF:-1,Union Berlin vs Dortmund HD
-http://myott.top/stream/1VGPHYLZTH/235.m3u8
+https://yypull.gdsth.com/live/stream-237152.m3u8?auth_key=1665954976-0-0-19b323c5796446fbfb36c3ed20ba3987
 #EXTINF:-1,Napoli vs Bologna HD1
-http://38.127.211.18/live/c2eds/RushHD/HLS/index.m3u8
+https://jq9sucdqmflivnt.vcdn.com.vn/123SD/123SD@456.m3u8
 #EXTINF:-1,Napoli vs Bologna HD2
-http://38.127.211.18/live/c2eds/RushHD/HLS/index.m3u8
+https://jq9sucdqmflivnt.vcdn.com.vn/may81/may81@456.m3u8
+#EXTINF:-1,Napoli vs Bologna HD3
+https://yypull.gdsth.com/live/stream-557735.m3u8?auth_key=1665955576-0-0-a147d11508d0f3c5a811a8b069427181
 #EXTINF:-1,Espanyol vs Real Valladolid HD
 http://38.127.211.18/live/c2eds/RushHD/HLS/index.m3u8
 #EXTINF:-1,Bayern München vs Freiburg SD
