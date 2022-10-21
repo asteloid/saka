@@ -1,22 +1,2 @@
-#EXTINF:-1,Osasuna vs Espanyol
-https://yypull.gdsth.com/live/stream-5185670.m3u8?auth_key=1666227113-0-0-9cc1d4836d5fc571c3f4971d84ed959e
-#EXTINF:-1,Fulham vs Aston Villa SD
-https://yypull.gdsth.com/live/stream-330076.m3u8?auth_key=1666312097-0-0-46588b824dca583d8177ab981ede3347
-#EXTINF:-1,Fulham vs Aston Villa HD
-https://1093384063.cdn.khmer-hd.com/may91/chunks.m3u8
-#EXTINF:-1,Fulham vs Aston Villa HD (ENG)
-https://cdn4.footballstreams.top/live/ch2/chunks.m3u8?nimblesessionid=11595975&wmsAuthSign=c2VydmVyX3RpbWU9MTAvMjAvMjAyMiA2OjA1OjIwIFBNJmhhc2hfdmFsdWU9YzBXamFSWlIyWi84bi9SaFI1RjZtdz09JnZhbGlkbWludXRlcz03MjAmaWQ9MTA1LjExMi4xNjEuMTkyJnN0cm1fbGVuPTU=
-#EXTINF:-1,Barcelona vs Villarreal SD
-https://yypull.gdsth.com/live/stream-4569315.m3u8?auth_key=1666313237-0-0-97bbfd2aedc450d4a18bc22d35a9870c
-#EXTINF:-1,Barcelona vs Villarreal HD
-https://yypull.gdsth.com/live/stream-494765.m3u8?auth_key=1666313237-0-0-d209f531b4cd9af2af739e6547b3f39e
-#EXTINF:-1,Bologna vs Cagliari
-https://yypull.gdsth.com/live/stream-482183.m3u8?auth_key=1666314317-0-0-109553f18eca1d47130acbd07050c408
-#EXTINF:-1,Leicester vs Leeds SD
-https://yypull.gdsth.com/live/stream-2961234.m3u8?auth_key=1666314497-0-0-35ef0022b74a23b0b789c49ad72bd9ed
-#EXTINF:-1,Leicester vs Leeds HD
-https://1093384063.cdn.khmer-hd.com/oldSD/chunks.m3u8
-#EXTINF:-1,Leicester vs LeedsHD (ENG)
-https://cdn7.footballstreams.top/live/ch1/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMjAvMjAyMiA2OjUxOjM0IFBNJmhhc2hfdmFsdWU9K1RJdU1KbngyNENJZGRTcVJISmtCUT09JnZhbGlkbWludXRlcz03MjAmaWQ9MTA1LjExMi4xMDAuODgmc3RybV9sZW49NQ==
 #EXTINF:-1,PTV SPORTS
 http://golive.yn.lt/live/champions/03.m3u8  
