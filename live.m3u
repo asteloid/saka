@@ -1,59 +1,25 @@
-#EXTINF:-1,Salernitana vs Spezia HD1
-https://yypull.gdsth.com/live/stream-278165.m3u8?auth_key=1666465457-0-0-367d788a6b6b7250833ebec443f4d7b0
-#EXTINF:-1,Salernitana vs Spezia HD2
-https://sun.meta-scores.com/b9a4d60b85/b9a4d60b85@720p.m3u8
-#EXTINF:-1,Hoffenheim vs Bayern München SD
-https://yypull.gdsth.com/live/stream-330076.m3u8?auth_key=1666465637-0-0-46f01b46d7393299952f06d00e4ca869
-#EXTINF:-1,Hoffenheim vs Bayern München HD
-https://yypull.gdsth.com/live/stream-459976.m3u8?auth_key=1666465997-0-0-09c3f93e0bd62ad1d81dd73aab621a13
-#EXTINF:-1,Borussia Dortmund vs Stuttgart HD
-https://yypull.gdsth.com/live/stream-232996.m3u8?auth_key=1666465577-0-0-ff04759313286919fc6afe23174c2633
-#EXTINF:-1,Bayer Leverkusen vs Wolfsburg HD
-https://yypull.gdsth.com/live/stream-2445688.m3u8?auth_key=1666465637-0-0-f974234f9f610d5b193c6929700f5341
-#EXTINF:-1,Freiburg vs Werder Bremen HD
-https://yypull.gdsth.com/live/stream-237152.m3u8?auth_key=1666465757-0-0-fb92cb6255872ebe4a52a550533020e9
-#EXTINF:-1,Augsburg vs RB Leipzig HD
-https://yypull.gdsth.com/live/stream-418311.m3u8?auth_key=1666465697-0-0-e4e753958444e4d0cee3986b21ae185e
-#EXTINF:-1,Manchester City vs Brighton SD
-https://yypull.gdsth.com/live/stream-558696.m3u8?auth_key=1666466812-0-0-e126c17bb6532e216b7f5b83bb950b22
-#EXTINF:-1,Manchester City vs Brighton HD1
-https://yypull.gdsth.com/live/stream-78951464.m3u8?auth_key=1666469657-0-0-8987bbd769f18b8e026a569221a58565
-#EXTINF:-1,Manchester City vs Brighton (ENG)
-http://nbvcop.azureedge.net/scripts/NTcwNw==/1080p.m3u8
-#EXTINF:-1,Manchester City vs Brighton HD2
-https://sun.meta-scores.com/7b4a4e4e0a/7b4a4e4e0a@720p.m3u8
-#EXTINF:-1,Everton vs Crystal Palace SD
-https://yypull.gdsth.com/live/stream-238362.m3u8?auth_key=1666466837-0-0-066e9efba5b4490d6700fbd7282d6ef3
-#EXTINF:-1,Everton vs Crystal Palace HD1
-https://yypull.gdsth.com/live/stream-2412304.m3u8?auth_key=1666469597-0-0-29c42f9ddf57835766fd90600b720181
-#EXTINF:-1,Everton vs Crystal Palace HD (ENG)
-http://vbpllp.azureedge.net/scripts/NTcwNg==/1080p.m3u8
-#EXTINF:-1,Everton vs Crystal Palace HD2
-https://sun.meta-scores.com/d7d3d5937c/d7d3d5937c@720p.m3u8
-#EXTINF:-1,Real Valladolid vs Real Sociedad
-https://yypull.gdsth.com/live/stream-232996.m3u8?auth_key=1666468337-0-0-2502dc074f461c912783a11cb41a698c
 #EXTINF:-1,Montpellier vs Lyon HD
 https://yypull.gdsth.com/live/stream-309440.m3u8?auth_key=1666471277-0-0-59770986cd656407a7d43c903fee3d2f
 #EXTINF:-1,Milan vs Monza HD1
-http://38.127.211.18/live/c2eds/RushHD/HLS/index.m3u8
+https://yypull.gdsth.com/live/stream-553612.m3u8?auth_key=1666474337-0-0-5e7ac978bc5202d526ea44a8d876861c
 #EXTINF:-1,Milan vs Monza HD2
-http://38.127.211.18/live/c2eds/RushHD/HLS/index.m3u8
+https://sun.meta-scores.com/6d4a1212a3/6d4a1212a3@720p.m3u8
 #EXTINF:-1,Milan vs Monza HD3
-http://38.127.211.18/live/c2eds/RushHD/HLS/index.m3u8
+https://yypull.gdsth.com/live/stream-459976.m3u8?auth_key=1666474397-0-0-3218e5d6bf3c61d64bc8e94ef27edd6f
 #EXTINF:-1,Chelsea vs Manchester United SD
-http://38.127.211.18/live/c2eds/RushHD/HLS/index.m3u8
+https://yypull.gdsth.com/live/stream-330076.m3u8?auth_key=1666476737-0-0-5a7410d4875ecb88d3b607a985a5e1e1
 #EXTINF:-1,Chelsea vs Manchester United HD1
-http://38.127.211.18/live/c2eds/RushHD/HLS/index.m3u8
+https://yypull.gdsth.com/live/stream-558696.m3u8?auth_key=1666476797-0-0-bfa4fb2fce2e43275946a6c26d344f99
 #EXTINF:-1,Chelsea vs Manchester United HD2
-http://38.127.211.18/live/c2eds/RushHD/HLS/index.m3u8
+https://sun.meta-scores.com/b11f67fdb2/b11f67fdb2@720p.m3u8
 #EXTINF:-1,Chelsea vs Manchester United (ENG)
-http://38.127.211.18/live/c2eds/RushHD/HLS/index.m3u8
+https://cdn4.footballstreams.top/live/ch1/chunks.m3u8?nimblesessionid=12273238&wmsAuthSign=c2VydmVyX3RpbWU9MTAvMjIvMjAyMiA0OjA0OjMzIFBNJmhhc2hfdmFsdWU9MmxTc25GMG5kblVGUFhFQ09vd1p1dz09JnZhbGlkbWludXRlcz03MjAmaWQ9MTA1LjExMi40NC4xMDgmc3RybV9sZW49NQ==
 #EXTINF:-1,Valencia vs Mallorca HD
-http://38.127.211.18/live/c2eds/RushHD/HLS/index.m3u8
+https://yypull.gdsth.com/live/stream-482760.m3u8?auth_key=1666476617-0-0-e3e271495beceb99254c6d2ab6453122
 #EXTINF:-1,Borussia M'gladbach vs Frankfurt SD
-http://myott.top/stream/1VGPHYLZTH/235.m3u8
+https://yypull.gdsth.com/live/stream-466384.m3u8?auth_key=1666476017-0-0-6a6f7a7a1437346d2e283490347194ad
 #EXTINF:-1,Borussia M'gladbach vs Frankfurt HD
-http://myott.top/stream/1VGPHYLZTH/235.m3u8
+https://yypull.gdsth.com/live/stream-4569315.m3u8?auth_key=1666476857-0-0-996cff1de4259be430379f0e0cc12a43
 #EXTINF:-1,Fiorentina vs Internazionale HD1
 http://38.127.211.18/live/c2eds/RushHD/HLS/index.m3u8
 #EXTINF:-1,Fiorentina vs Internazionale HD2
