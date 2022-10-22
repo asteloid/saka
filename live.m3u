@@ -1,38 +1,12 @@
-#EXTINF:-1,Montpellier vs Lyon HD
-https://yypull.gdsth.com/live/stream-309440.m3u8?auth_key=1666471277-0-0-59770986cd656407a7d43c903fee3d2f
-#EXTINF:-1,Milan vs Monza HD1
-https://yypull.gdsth.com/live/stream-553612.m3u8?auth_key=1666474337-0-0-5e7ac978bc5202d526ea44a8d876861c
-#EXTINF:-1,Milan vs Monza HD2
-https://sun.meta-scores.com/6d4a1212a3/6d4a1212a3@720p.m3u8
-#EXTINF:-1,Milan vs Monza HD3
-https://yypull.gdsth.com/live/stream-459976.m3u8?auth_key=1666474397-0-0-3218e5d6bf3c61d64bc8e94ef27edd6f
-#EXTINF:-1,Chelsea vs Manchester United SD
-https://yypull.gdsth.com/live/stream-330076.m3u8?auth_key=1666476737-0-0-5a7410d4875ecb88d3b607a985a5e1e1
-#EXTINF:-1,Chelsea vs Manchester United HD1
-https://yypull.gdsth.com/live/stream-558696.m3u8?auth_key=1666476797-0-0-bfa4fb2fce2e43275946a6c26d344f99
-#EXTINF:-1,Chelsea vs Manchester United HD2
-https://sun.meta-scores.com/b11f67fdb2/b11f67fdb2@720p.m3u8
-#EXTINF:-1,Chelsea vs Manchester United (ENG)
-https://cdn4.footballstreams.top/live/ch1/chunks.m3u8?nimblesessionid=12273238&wmsAuthSign=c2VydmVyX3RpbWU9MTAvMjIvMjAyMiA0OjA0OjMzIFBNJmhhc2hfdmFsdWU9MmxTc25GMG5kblVGUFhFQ09vd1p1dz09JnZhbGlkbWludXRlcz03MjAmaWQ9MTA1LjExMi40NC4xMDgmc3RybV9sZW49NQ==
-#EXTINF:-1,Valencia vs Mallorca HD
-https://yypull.gdsth.com/live/stream-482760.m3u8?auth_key=1666476617-0-0-e3e271495beceb99254c6d2ab6453122
-#EXTINF:-1,Borussia M'gladbach vs Frankfurt SD
-https://yypull.gdsth.com/live/stream-466384.m3u8?auth_key=1666476017-0-0-6a6f7a7a1437346d2e283490347194ad
-#EXTINF:-1,Borussia M'gladbach vs Frankfurt HD
-https://yypull.gdsth.com/live/stream-4569315.m3u8?auth_key=1666476857-0-0-996cff1de4259be430379f0e0cc12a43
 #EXTINF:-1,Fiorentina vs Internazionale HD1
-http://38.127.211.18/live/c2eds/RushHD/HLS/index.m3u8
+https://yypull.gdsth.com/live/stream-459976.m3u8?auth_key=1666483757-0-0-263f11af43b09598db08a014f1dd3fb6
 #EXTINF:-1,Fiorentina vs Internazionale HD2
-http://38.127.211.18/live/c2eds/RushHD/HLS/index.m3u8
+https://yypull.gdsth.com/live/stream-411882.m3u8?auth_key=1666484777-0-0-e3928736d78f9c32acaf8dcb1898f7c7
 #EXTINF:-1,Fiorentina vs Internazionale HD3
-http://38.127.211.18/live/c2eds/RushHD/HLS/index.m3u8
-#EXTINF:-1,Marseille vs Lens SD
-https://16live00.akamaized.net/BTSPORTS_ESPN/index.m3u8
+https://yypull.gdsth.com/live/stream-317957.m3u8?auth_key=1666484117-0-0-dc1a7b888a8c05794d8aeb249c118c4d
 #EXTINF:-1,Marseille vs Lens HD
-https://16live00.akamaized.net/BTSPORTS_ESPN/index.m3u8
-#EXTINF:-1,Real Madrid vs Sevilla SD
-http://38.127.211.18/live/c2eds/RushHD/HLS/index.m3u8
+https://sun.meta-scores.com/34c2c73293/34c2c73293@720p.m3u8
 #EXTINF:-1,Real Madrid vs Sevilla HD
-http://38.127.211.18/live/c2eds/RushHD/HLS/index.m3u8
+https://yypull.gdsth.com/live/stream-559725.m3u8?auth_key=1666486337-0-0-9e5ce5e5642d0d5c0f9b5923e058f670
 #EXTINF:-1,PTV SPORTS
 http://221.120.204.4:8080/LOCKLE-PTV-SPORTS/index.m3u8 
