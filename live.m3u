@@ -1,13 +1,3 @@
-#EXTINF:-1,Nottingham Forest vs Liverpool SD
-https://yypull.gdsth.com/live/stream-558696.m3u8?auth_key=1666459217-0-0-03eba1b3cb5efaa133a434f11995690b
-#EXTINF:-1,Nottingham Forest vs Liverpool HD1
-https://yypull.gdsth.com/live/stream-556902.m3u8?auth_key=1666459637-0-0-26e4bef38f7367eb984eb6efb6efaa81
-#EXTINF:-1,Nottingham Forest vs Liverpool (ENG)
-http://aiopn.azureedge.net/scripts/NTcwNQ==/1080p.m3u8
-#EXTINF:-1,Nottingham Forest vs Liverpool HD2
-https://sun.meta-scores.com/6f3e79d5a2/6f3e79d5a2@720p.m3u8
-#EXTINF:-1,Rayo Vallecano vs Cádiz 
-https://yypull.gdsth.com/live/stream-3045619.m3u8?auth_key=1666460717-0-0-cf41b64726348645c32919a24cd7bdfb
 #EXTINF:-1,Salernitana vs Spezia HD1
 https://yypull.gdsth.com/live/stream-278165.m3u8?auth_key=1666465457-0-0-367d788a6b6b7250833ebec443f4d7b0
 #EXTINF:-1,Salernitana vs Spezia HD2
@@ -25,21 +15,25 @@ https://yypull.gdsth.com/live/stream-237152.m3u8?auth_key=1666465757-0-0-fb92cb6
 #EXTINF:-1,Augsburg vs RB Leipzig HD
 https://yypull.gdsth.com/live/stream-418311.m3u8?auth_key=1666465697-0-0-e4e753958444e4d0cee3986b21ae185e
 #EXTINF:-1,Manchester City vs Brighton SD
-https://jq9sucdqmflivnt.vcdn.com.vn/may9/may9@456.m3u8
+https://yypull.gdsth.com/live/stream-558696.m3u8?auth_key=1666466812-0-0-e126c17bb6532e216b7f5b83bb950b22
 #EXTINF:-1,Manchester City vs Brighton HD1
-http://38.127.211.18/live/c2eds/RushHD/HLS/index.m3u8
+https://yypull.gdsth.com/live/stream-78951464.m3u8?auth_key=1666469657-0-0-8987bbd769f18b8e026a569221a58565
 #EXTINF:-1,Manchester City vs Brighton (ENG)
-http://38.127.211.18/live/c2eds/RushHD/HLS/index.m3u8
+http://nbvcop.azureedge.net/scripts/NTcwNw==/1080p.m3u8
+#EXTINF:-1,Manchester City vs Brighton HD2
+https://sun.meta-scores.com/7b4a4e4e0a/7b4a4e4e0a@720p.m3u8
 #EXTINF:-1,Everton vs Crystal Palace SD
-https://jq9sucdqmflivnt.vcdn.com.vn/may9/may9@456.m3u8
+https://yypull.gdsth.com/live/stream-238362.m3u8?auth_key=1666466837-0-0-066e9efba5b4490d6700fbd7282d6ef3
 #EXTINF:-1,Everton vs Crystal Palace HD1
-http://38.127.211.18/live/c2eds/RushHD/HLS/index.m3u8
+https://yypull.gdsth.com/live/stream-2412304.m3u8?auth_key=1666469597-0-0-29c42f9ddf57835766fd90600b720181
 #EXTINF:-1,Everton vs Crystal Palace HD (ENG)
-http://38.127.211.18/live/c2eds/RushHD/HLS/index.m3u8
+http://vbpllp.azureedge.net/scripts/NTcwNg==/1080p.m3u8
+#EXTINF:-1,Everton vs Crystal Palace HD2
+https://sun.meta-scores.com/d7d3d5937c/d7d3d5937c@720p.m3u8
 #EXTINF:-1,Real Valladolid vs Real Sociedad
-http://38.127.211.18/live/c2eds/RushHD/HLS/index.m3u8
+https://yypull.gdsth.com/live/stream-232996.m3u8?auth_key=1666468337-0-0-2502dc074f461c912783a11cb41a698c
 #EXTINF:-1,Montpellier vs Lyon HD
-https://16live00.akamaized.net/BTSPORTS_ESPN/index.m3u8
+https://yypull.gdsth.com/live/stream-309440.m3u8?auth_key=1666471277-0-0-59770986cd656407a7d43c903fee3d2f
 #EXTINF:-1,Milan vs Monza HD1
 http://38.127.211.18/live/c2eds/RushHD/HLS/index.m3u8
 #EXTINF:-1,Milan vs Monza HD2
