@@ -1,16 +1,68 @@
-#EXTINF:-1,Roma vs Napoli HD1
-https://yypull.gdsth.com/live/stream-486118.m3u8?auth_key=1666570157-0-0-ef69197d8b37459ba25db55a44ead147
-#EXTINF:-1,Roma vs Napoli HD2
-https://yypull.gdsth.com/live/stream-2961234.m3u8?auth_key=1666571237-0-0-f883df71c6b1f33e6331e9f7c5db34ab
-#EXTINF:-1,Roma vs Napoli HD3
-https://yypull.gdsth.com/live/stream-482760.m3u8?auth_key=1666570277-0-0-522a9e086e22caab65693bd2d5dc1dbc
-#EXTINF:-1,Lille vs Monaco SD
-https://yypull.gdsth.com/live/stream-238362.m3u8?auth_key=1666570277-0-0-b092ae1f1374bae3339516c2a2213e53
-#EXTINF:-1,Lille vs Monaco HD
-https://yypull.gdsth.com/live/stream-309440.m3u8?auth_key=1666571237-0-0-4aa0170a4a26ac36ffcb9c672e4e969d
-#EXTINF:-1,Barcelona vs Athletic Club SD
-https://yypull.gdsth.com/live/stream-552369.m3u8?auth_key=1666570337-0-0-d5653b846b9af8e9cfa8dbda0c759af7
-#EXTINF:-1,Barcelona vs Athletic Club HD
-https://yypull.gdsth.com/live/stream-557735.m3u8?auth_key=1666571297-0-0-d0538e98cd993b6d0a35079f310cd153
+#EXTINF:-1,PSV vs Arsenal SD
+https://yypull.gdsth.com/live/stream-232996.m3u8?auth_key=1666908798-0-0-f596e6f021a0a791c31e904053c66bcf
+#EXTINF:-1,PSV vs Arsenal (ENG)
+https://yypull.gdsth.com/live/stream-232996.m3u8?auth_key=1666908798-0-0-f596e6f021a0a791c31e904053c66bcf
+#EXTINF:-1,Lazio vs Midtjylland
+https://yypull.gdsth.com/live/stream-553612.m3u8?auth_key=1666908858-0-0-e42bf33dcf438e6710d1b1bcca2a19ce
+#EXTINF:-1,AEK Larnaca vs Dynamo Kyiv
+https://play.google.com/store/apps/details?id=com.cecinet.scorefootball
+#EXTINF:-1,Fenerbahçe vs Rennes
+https://play.google.com/store/apps/details?id=com.cecinet.scorefootball
+#EXTINF:-1,Ludogorets vs Real Betis
+https://yypull.gdsth.com/live/stream-411882.m3u8?auth_key=1666908858-0-0-ff78efbf2517292e1dd5d4cd6d348293
+#EXTINF:-1,Malmö FF vs Union Saint-Gilloise
+https://play.google.com/store/apps/details?id=com.cecinet.scorefootball
+#EXTINF:-1,Union Berlin vs Sporting Braga
+https://yypull.gdsth.com/live/stream-321213.m3u8?auth_key=1666908918-0-0-4c4edd382b09103623a351c30dab923d
+#EXTINF:-1,Zürich vs Bodø / Glimt
+https://play.google.com/store/apps/details?id=com.cecinet.scorefootball
+#EXTINF:-1,Villarreal vs Hapoel Be'er Sheva
+https://play.google.com/store/apps/details?id=com.cecinet.scorefootball
+#EXTINF:-1,Fiorentina vs İstanbul Başakşehir
+https://play.google.com/store/apps/details?id=com.cecinet.scorefootball
+#EXTINF:-1,Anderlecht vs FCSB
+https://play.google.com/store/apps/details?id=com.cecinet.scorefootball
+#EXTINF:-1,Slovácko vs Köln
+https://play.google.com/store/apps/details?id=com.cecinet.scorefootball
+#EXTINF:-1,Nice vs Partizan
+https://play.google.com/store/apps/details?id=com.cecinet.scorefootball
+#EXTINF:-1,Vaduz vs AZ
+https://play.google.com/store/apps/details?id=com.cecinet.scorefootball
+#EXTINF:-1,Manchester United vs Sheriff SD
+https://play.google.com/store/apps/details?id=com.cecinet.scorefootball
+#EXTINF:-1,Manchester United vs Sheriff (ENG)
+https://play.google.com/store/apps/details?id=com.cecinet.scorefootball
+#EXTINF:-1,HJK vs Roma
+https://play.google.com/store/apps/details?id=com.cecinet.scorefootball
+#EXTINF:-1,Omonia Nicosia vs Real Sociedad
+https://play.google.com/store/apps/details?id=com.cecinet.scorefootball
+#EXTINF:-1,Sturm Graz vs Feyenoord
+https://play.google.com/store/apps/details?id=com.cecinet.scorefootball
+#EXTINF:-1,Freiburg vs Olympiakos Piraeus
+https://play.google.com/store/apps/details?id=com.cecinet.scorefootball
+#EXTINF:-1,Nantes vs Qarabağ
+https://play.google.com/store/apps/details?id=com.cecinet.scorefootball
+#EXTINF:-1,Crvena Zvezda vs Trabzonspor
+https://play.google.com/store/apps/details?id=com.cecinet.scorefootball
+#EXTINF:-1,Ferencváros vs Monaco
+https://play.google.com/store/apps/details?id=com.cecinet.scorefootball
+#EXTINF:-1,WestHam vs Silkeborg
+https://play.google.com/store/apps/details?id=com.cecinet.scorefootball
+#EXTINF:-1,Hearts vs Rīgas FS
+https://play.google.com/store/apps/details?id=com.cecinet.scorefootball
+#EXTINF:-1,Dnipro-1 vs Apollon
+https://play.google.com/store/apps/details?id=com.cecinet.scorefootball
+#EXTINF:-1,Molde vs Djurgården
+https://play.google.com/store/apps/details?id=com.cecinet.scorefootball
+#EXTINF:-1,Shamrock Rovers vs Gent
+https://play.google.com/store/apps/details?id=com.cecinet.scorefootball
+#EXTINF:-1,Ballkani vs Slavia Praha
+https://play.google.com/store/apps/details?id=com.cecinet.scorefootball
+#EXTINF:-1,Sivasspor vs CFR Cluj
+https://play.google.com/store/apps/details?id=com.cecinet.scorefootball
+#EXTINF:-1,Slovan Bratislava vs Pyunik
+https://play.google.com/store/apps/details?id=com.cecinet.scorefootball
+#EXTINF:-1,Basel vs Žalgiris
+https://play.google.com/store/apps/details?id=com.cecinet.scorefootball
 #EXTINF:-1,PTV SPORTS
 http://golive.yn.lt/live/champions/01.m3u8 
