@@ -1,46 +1,26 @@
-#EXTINF:-1,Cádiz vs Atlético Madrid HD
-https://yypull.gdsth.com/live/stream-557735.m3u8?auth_key=1667074278-0-0-fb77d7a375ee968cfb32a25f90ad1500
-#EXTINF:-1,PSG vs Troyes SD
-https://yypull.gdsth.com/live/stream-411882.m3u8?auth_key=1667076258-0-0-bd12428a5a18f55cdaaeeff0e9682f95
-#EXTINF:-1,PSG vs Troyes HD
-https://yypull.gdsth.com/live/stream-484463.m3u8?auth_key=1667076318-0-0-b21cef1b7f5d362e1cffa175d4f966f1
-#EXTINF:-1,Lecce vs Juventus HD1
-https://yypull.gdsth.com/live/stream-309440.m3u8?auth_key=1667080698-0-0-4f7470c6f99c5f793aacaa3e24278b96
-#EXTINF:-1,Lecce vs Juventus HD2
-https://yypull.gdsth.com/live/stream-309440.m3u8?auth_key=1667080698-0-0-4f7470c6f99c5f793aacaa3e24278b96
-#EXTINF:-1,Fulham vs Everton SD
-https://yypull.gdsth.com/live/stream-486118.m3u8?auth_key=1667080818-0-0-08cd28cbcc9f46a8f47423fb1c8ff94b
-#EXTINF:-1,Fulham vs Everton HD
-https://yypull.gdsth.com/live/stream-279875.m3u8?auth_key=1667080818-0-0-c55caadf4d624349a1ddf4ba6f83accc
-#EXTINF:-1,Fulham vs Everton(ENG)
-http://cvvvbn.azureedge.net/scripts/NTg2NA==/1080p.m3u8
-#EXTINF:-1,Sevilla vs Rayo Vallecano HD
-https://yypull.gdsth.com/live/stream-459976.m3u8?auth_key=1667080938-0-0-af19add79cb51ba5e7428411fc9a1b4f
-#EXTINF:-1,Eintracht Frankfurt vs Dortmund SD
-https://yypull.gdsth.com/live/stream-551876.m3u8?auth_key=1667080878-0-0-b2966ac6e9547b3d19eb352184ff5cbd
-#EXTINF:-1,Eintracht Frankfurt vs Dortmund HD
-https://yypull.gdsth.com/live/stream-551876.m3u8?auth_key=1667080878-0-0-b2966ac6e9547b3d19eb352184ff5cbd
 #EXTINF:-1,Liverpool vs Leeds SD
-https://yypull.gdsth.com/live/stream-492306.m3u8?auth_key=1666558757-0-0-4068f178854fbe24f438478e2592299c
+https://yypull.gdsth.com/live/stream-278165.m3u8?auth_key=1667089638-0-0-2ce7e0da7ebf7afbc920f7dd7a76cfd9
 #EXTINF:-1,Liverpool vs Leeds HD
-https://yypull.gdsth.com/live/stream-558696.m3u8?auth_key=1666558817-0-0-1ccff0cb9f56cc6a19b73b543da4291c
-#EXTINF:-1,Liverpool vs Leeds HD1 (ENG)
-http://lopmse.azureedge.net/scripts/NTc0MA==/1080p.m3u8
+https://yypull.gdsth.com/live/stream-232996.m3u8?auth_key=1667089638-0-0-f7eb7c0e0a1ecd0ecf3b0834951041d7
+#EXTINF:-1,Liverpool vs Leeds SD (ENG)
+https://d2gj5hb7qhg3rg.cloudfront.net/out/v1/f774ba39a9fb415ca156fb14d8c1e204/index_2.m3u8 
+#EXTINF:-1,Liverpool vs Leeds HD (ENG) 
+http://lowss.azureedge.net/scripts/NTg2Mw==/1080p.m3u8
 #EXTINF:-1,Liverpool vs Leeds HD2 (ENG) 
-http://beem.azureedge.net/scripts/NTc0MA==/1080p.m3u8
+https://d2gj5hb7qhg3rg.cloudfront.net/out/v1/f774ba39a9fb415ca156fb14d8c1e204/index_1.m3u8 
 #EXTINF:-1,Internazionale vs Sampdoria HD1
-http://38.127.211.18/live/c2eds/RushHD/HLS/index.m3u8
+https://yypull.gdsth.com/live/stream-552369.m3u8?auth_key=1667088318-0-0-c3d97631065012f5ab60e32da7cf2758
 #EXTINF:-1,Internazionale vs Sampdoria HD2
-http://38.127.211.18/live/c2eds/RushHD/HLS/index.m3u8
+https://yypull.gdsth.com/live/stream-37723410.m3u8?auth_key=1667089758-0-0-da325fd747727705f2a294b96b408997
 #EXTINF:-1,Internazionale vs Sampdoria HD3
-http://38.127.211.18/live/c2eds/RushHD/HLS/index.m3u8
-#EXTINF:-1,Lille vs Monaco SD
-https://16live00.akamaized.net/BTSPORTS_ESPN/index.m3u8
-#EXTINF:-1,Lille vs Monaco HD
-https://16live00.akamaized.net/BTSPORTS_ESPN/index.m3u8
+https://yypull.gdsth.com/live/stream-330076.m3u8?auth_key=1667090118-0-0-9305b0fd6e00e250bff10e7ab376b405
+#EXTINF:-1,Straosburg vs Marseille SD
+https://yypull.gdsth.com/live/stream-466384.m3u8?auth_key=1667091738-0-0-bed1707cd87dd3d3701cdfb0181add39
+#EXTINF:-1,Straosburg vs Marseille HD
+https://yypull.gdsth.com/live/stream-466384.m3u8?auth_key=1667089818-0-0-a4a786163b903b588bed6233d504fd51
 #EXTINF:-1,Valencia vs Barcelona SD
-http://38.127.211.18/live/c2eds/RushHD/HLS/index.m3u8
+https://yypull.gdsth.com/live/stream-411882.m3u8?auth_key=1667090058-0-0-f9b63d9d8b38af535d2f940024ebe82a
 #EXTINF:-1,Valencia vs Barcelona HD
-https://n3.thehesgoal.com/live/ch3/chunks.m3u8?nimblesessionid=293393&wmsAuthSign=c2VydmVyX3RpbWU9MTAvMjkvMjAyMiAxOjQ4OjE2IFBNJmhhc2hfdmFsdWU9UEZ6aFpQMjR6OTZyencwUXdhdzNPQT09JnZhbGlkbWludXRlcz03MjAmaWQ9MTA1LjExMi41NS4xNzMmc3RybV9sZW49NQ==
+https://yypull.gdsth.com/live/stream-482183.m3u8?auth_key=1667089878-0-0-a3231e3a61d7a624656be0ccd2a5d150
 #EXTINF:-1,PTV SPORTS
 http://golive.yn.lt/live/champions/01.m3u8 
