@@ -1,25 +1,19 @@
-#EXTINF:-1,Union Berlin vs Borussia M'gladbach
-https://yypull.gdsth.com/live/stream-459976.m3u8?auth_key=1667161039-0-0-9bc6aed22640c1cbf92520ce4a76bae5
-#EXTINF:-1,Real Madrid vs Girona SD
-https://yypull.gdsth.com/live/stream-411882.m3u8?auth_key=1667164099-0-0-43452ab9ec3744bf4d6f76cef3e5c32a
-#EXTINF:-1,Real Madrid vs Girona HD
-https://yypull.gdsth.com/live/stream-1756728.m3u8?auth_key=1667162838-0-0-ed238404a3d8eda5fe855c038787ec9e
 #EXTINF:-1,Manchester United vs WestHam SD
 https://yypull.gdsth.com/live/stream-558696.m3u8?auth_key=1667166918-0-0-54c0267853b811a0045f632274f79d5a
 #EXTINF:-1,Manchester United vs WestHam HD
 https://yypull.gdsth.com/live/stream-492306.m3u8?auth_key=1667167278-0-0-120f28355a080c63fa35f9cc08fe7d4c
 #EXTINF:-1,Manchester United vs WestHam (ENG)
-http://lkoop.azureedge.net/scripts/NTg2Ng==/1080p.m3u8
+http://exoolo.azureedge.net/scripts/NTg2Ng==/1080p.m3u8
 #EXTINF:-1,Manchester United vs WestHam 2 (ENG)
-http://nbiop.azureedge.net/scripts/NTg2Ng==/1080p.m3u8
+http://lkoop.azureedge.net/scripts/NTg2Ng==/1080p.m3u8 
 #EXTINF:-1,Schalke 04 vs Freiburg
 https://yypull.gdsth.com/live/stream-557735.m3u8?auth_key=1667166858-0-0-1631f42cd59d850f49dfaaa7f5a95c74
 #EXTINF:-1,Lazio vs Salernitana HD1
-https://yypull.gdsth.com/live/stream-238362.m3u8?auth_key=1666558517-0-0-46643065b4830ade580eaef54f6a0372
+https://yypull.gdsth.com/live/stream-459976.m3u8?auth_key=1667169979-0-0-da38a3a6724195491a3bca3b21853c38
 #EXTINF:-1,Lazio vs Salernitana HD2
-https://yypull.gdsth.com/live/stream-279875.m3u8?auth_key=1666558577-0-0-c3cdbcb26ab1b8f49619709d21c3d47c
+https://yypull.gdsth.com/live/stream-435925.m3u8?auth_key=1667169019-0-0-9119d349c7b1b1af8bbabf736f6d4a7d
 #EXTINF:-1,Athletic Club vs Villarreal HD
-http://38.127.211.18/live/c2eds/RushHD/HLS/index.m3u8
+https://yypull.gdsth.com/live/stream-411882.m3u8?auth_key=1667172318-0-0-ff269fb32f02e97ee6dc9dcc82d2ee2b
 #EXTINF:-1,Köln vs Hoffenheim
 https://yypull.gdsth.com/live/stream-482760.m3u8?auth_key=1666560077-0-0-f8baca49809b926ee38ee56f0bf9df75
 #EXTINF:-1,Torino vs Milan HD1
