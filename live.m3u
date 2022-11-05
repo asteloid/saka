@@ -1,70 +1,14 @@
-#EXTINF:-1,Hertha BSC vs Bayern München SD
-https://yypull.gdsth.com/live/stream-484463.m3u8?auth_key=1667678840-0-0-ed01fcb6efa7bcdb5e63ccb48cd76f76
-#EXTINF:-1,Hertha BSC vs Bayern München HD
-https://yypull.gdsth.com/live/stream-556802.m3u8?auth_key=1667678719-0-0-791dfa5e63ee4de9e96c6a9aab6cf78f
-#EXTINF:-1,Borussia Dortmund vs Bochum HD
-https://yypull.gdsth.com/live/stream-459976.m3u8?auth_key=1667678900-0-0-de13ea40193fb146162dbf4c8c9fe90b
-#EXTINF:-1,Mainz 05 vs Wolfsburg HD
-https://yypull.gdsth.com/live/stream-8456863.m3u8?auth_key=1667678840-0-0-8ccd8d62b70d6fba6abb3e7d271103a0
-#EXTINF:-1,Hoffenheim vs RB Leipzig HD
-https://yypull.gdsth.com/live/stream-441616.m3u8?auth_key=1667678780-0-0-71e174b4d343c18a1a61c18ae76e63df
-#EXTINF:-1,Augsburg vs Eintracht Frankfurt HD
-https://yypull.gdsth.com/live/stream-4569315.m3u8?auth_key=1667678960-0-0-6de8c4f7ac0918d4a16bb33fa53ba970
-#EXTINF:-1,Manchester City vs Fulham SD
-https://yypull.gdsth.com/live/stream-558696.m3u8?auth_key=1667681300-0-0-99977b8eac37cace40dafa17e47f2dea
-#EXTINF:-1,Manchester City vs Fulham HD
-https://yypull.gdsth.com/live/stream-558696.m3u8?auth_key=1667681300-0-0-99977b8eac37cace40dafa17e47f2dea
-#EXTINF:-1,Manchester City vs Fulham HD1(ENG)
-http://gyuunn.azureedge.net/scripts/NjA0Mw==/1080p.m3u8
-#EXTINF:-1,Manchester City vs Fulham HD2(ENG)
-http://cvvvbn.azureedge.net/scripts/NjA0Mw==/1080p.m3u8
-#EXTINF:-1,Leeds vs AFC Bournemouth SD
-https://yypull.gdsth.com/live/stream-238362.m3u8?auth_key=1667681360-0-0-653b7ea883e5ffaa8066bda2efa71683
-#EXTINF:-1,Leeds vs AFC Bournemouth HD
-https://yypull.gdsth.com/live/stream-238362.m3u8?auth_key=1667681360-0-0-653b7ea883e5ffaa8066bda2efa71683
-#EXTINF:-1,Nottingham Forest vs Brentford SD
-https://yypull.gdsth.com/live/stream-435066.m3u8?auth_key=1667681540-0-0-9a8f9e095ecb5f5486ea8ba3ae57c4d6
-#EXTINF:-1,Nottingham Forest vs Brentford HD
-https://yypull.gdsth.com/live/stream-466384.m3u8?auth_key=1667681480-0-0-6febad2dd051916963688c4a7d8e552f
-#EXTINF:-1,Wolves vs Brighton SD
-https://yypull.gdsth.com/live/stream-435925.m3u8?auth_key=1667681420-0-0-c73b591b2e9aee2bc9978def4870a071
-#EXTINF:-1,Wolves vs Brighton HD
-hhttps://yypull.gdsth.com/live/stream-482760.m3u8?auth_key=1667682260-0-0-01ad8adfbdc4bad817df26d53cfaeea0
-#EXTINF:-1,Real Valladolid vs Elche HD
-http://38.127.211.18/live/c2eds/RushHD/HLS/index.m3u8
-#EXTINF:-1,Ajaccio vs Strasbourg HD
-https://yypull.gdsth.com/live/stream-231411.m3u8?auth_key=1667685319-0-0-9e5ebf33f49035357d1c7aa6da016781
-#EXTINF:-1,Atalanta vs Napoli HD1
-http://38.127.211.18/live/c2eds/RushHD/HLS/index.m3u8
-#EXTINF:-1,Atalanta vs Napoli HD2
-http://38.127.211.18/live/c2eds/RushHD/HLS/index.m3u8
-#EXTINF:-1,Atalanta vs Napoli HD3
-http://38.127.211.18/live/c2eds/RushHD/HLS/index.m3u8
-#EXTINF:-1,Everton vs Leicester City SD
-https://yypull.gdsth.com/live/stream-492306.m3u8?auth_key=1666558757-0-0-4068f178854fbe24f438478e2592299c
-#EXTINF:-1,Everton vs Leicester City HD
-https://yypull.gdsth.com/live/stream-558696.m3u8?auth_key=1666558817-0-0-1ccff0cb9f56cc6a19b73b543da4291c
-#EXTINF:-1,Everton vs Leicester City HD1(ENG)
-http://lopmse.azureedge.net/scripts/NTc0MA==/1080p.m3u8
-#EXTINF:-1,Everton vs Leicester City HD2(ENG)
-http://beem.azureedge.net/scripts/NTc0MA==/1080p.m3u8
-#EXTINF:-1,Werder Bremen vs Schalke 04 SD
-https://yypull.gdsth.com/live/stream-482760.m3u8?auth_key=1666560077-0-0-f8baca49809b926ee38ee56f0bf9df75
-#EXTINF:-1,Werder Bremen vs Schalke 04 HD
-https://yypull.gdsth.com/live/stream-2412304.m3u8?auth_key=1666558937-0-0-2a9e80413bbc9cae411024f6483b0b6c
-#EXTINF:-1,Celta de Vigo vs Osasuna HD
-http://38.127.211.18/live/c2eds/RushHD/HLS/index.m3u8
 #EXTINF:-1,Milan vs Spezia HD1
-http://38.127.211.18/live/c2eds/RushHD/HLS/index.m3u8
+https://yypull.gdsth.com/live/stream-330076.m3u8?auth_key=1667697799-0-0-0f3eabc11e88a783c23507ab4f4bab44
 #EXTINF:-1,Milan vs Spezia HD2
-http://38.127.211.18/live/c2eds/RushHD/HLS/index.m3u8
+https://yypull.gdsth.com/live/stream-37723410.m3u8?auth_key=1667697979-0-0-ef414d35fba4e4b9dcf04a73a1bfe370
 #EXTINF:-1,Milan vs Spezia HD3
-http://38.127.211.18/live/c2eds/RushHD/HLS/index.m3u8
+https://yypull.gdsth.com/live/stream-551876.m3u8?auth_key=1667698159-0-0-517bf130d5ce439af68ebb6f27d2a88d
 #EXTINF:-1,Barcelona vs Almería SD
-http://38.127.211.18/live/c2eds/RushHD/HLS/index.m3u8
+https://yypull.gdsth.com/live/stream-411882.m3u8?auth_key=1667698279-0-0-e59951723823047124fec06e606b9ee4
 #EXTINF:-1,Barcelona vs Almería HD
-http://38.127.211.18/live/c2eds/RushHD/HLS/index.m3u8
+https://yypull.gdsth.com/live/stream-286721.m3u8?auth_key=1667698279-0-0-b56e8b78ed45211af7c12c81afca0430
 #EXTINF:-1,Angers SCO vs Lens HD
-https://16live00.akamaized.net/BTSPORTS_ESPN/index.m3u8
+https://yypull.gdsth.com/live/stream-278165.m3u8?auth_key=1667699179-0-0-1c6a105db604d9e1f85a93ad04e22026
 #EXTINF:-1,PTV SPORTS
 http://golive.yn.lt/live/champions/01.m3u8 
