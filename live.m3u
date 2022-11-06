@@ -1,14 +1,96 @@
-#EXTINF:-1,Milan vs Spezia HD1
-https://yypull.gdsth.com/live/stream-330076.m3u8?auth_key=1667697799-0-0-0f3eabc11e88a783c23507ab4f4bab44
-#EXTINF:-1,Milan vs Spezia HD2
-https://yypull.gdsth.com/live/stream-37723410.m3u8?auth_key=1667697979-0-0-ef414d35fba4e4b9dcf04a73a1bfe370
-#EXTINF:-1,Milan vs Spezia HD3
-https://yypull.gdsth.com/live/stream-551876.m3u8?auth_key=1667698159-0-0-517bf130d5ce439af68ebb6f27d2a88d
-#EXTINF:-1,Barcelona vs Almería SD
-https://yypull.gdsth.com/live/stream-411882.m3u8?auth_key=1667698279-0-0-e59951723823047124fec06e606b9ee4
-#EXTINF:-1,Barcelona vs Almería HD
-https://yypull.gdsth.com/live/stream-286721.m3u8?auth_key=1667698279-0-0-b56e8b78ed45211af7c12c81afca0430
-#EXTINF:-1,Angers SCO vs Lens HD
+#EXTINF:-1,Bologna vs Torino HD1
+https://yypull.gdsth.com/live/stream-279932.m3u8?auth_key=1667754080-0-0-d05f577de94e74c005368ae020a3c034
+#EXTINF:-1,Bologna vs Torino HD2
+https://yypull.gdsth.com/live/stream-279932.m3u8?auth_key=1667754080-0-0-d05f577de94e74c005368ae020a3c034
+#EXTINF:-1,Chelsea vs Arsenal SD
+https://yypull.gdsth.com/live/stream-558696.m3u8?auth_key=1667689940-0-0-a2308ed27afdd8ced13854ec641d1bb1
+#EXTINF:-1,Chelsea vs Arsenal HD1
+https://yypull.gdsth.com/live/stream-286721.m3u8?auth_key=1667689999-0-0-4519a50fe909a3799b470be5b4ccfd97
+#EXTINF:-1,Chelsea vs Arsenal HD2
+https://yypull.gdsth.com/live/stream-286721.m3u8?auth_key=1667689999-0-0-4519a50fe909a3799b470be5b4ccfd97
+#EXTINF:-1,Chelsea vs Arsenal HD3(ENG)
+https://yypull.gdsth.com/live/stream-558696.m3u8?auth_key=1667689940-0-0-a2308ed27afdd8ced13854ec641d1bb1
+#EXTINF:-1,Chelsea vs Arsenal HD4(ENG)
+https://moon.meta-scores.com/0f1fa470e6/0f1fa470e6@720p.m3u8
+#EXTINF:-1,Lorient vs PSG SD
 https://yypull.gdsth.com/live/stream-278165.m3u8?auth_key=1667699179-0-0-1c6a105db604d9e1f85a93ad04e22026
+#EXTINF:-1,Lorient vs PSG HD
+https://yypull.gdsth.com/live/stream-278165.m3u8?auth_key=1667699179-0-0-1c6a105db604d9e1f85a93ad04e22026
+#EXTINF:-1,Atlético Madrid vs Espanyol HD
+https://yypull.gdsth.com/live/stream-286721.m3u8?auth_key=1667698279-0-0-b56e8b78ed45211af7c12c81afca0430
+#EXTINF:-1,Aston Villa vs Manchester United SD
+https://yypull.gdsth.com/live/stream-286721.m3u8?auth_key=1667689999-0-0-4519a50fe909a3799b470be5b4ccfd97
+#EXTINF:-1,Aston Villa vs Manchester United HD
+https://yypull.gdsth.com/live/stream-286721.m3u8?auth_key=1667689999-0-0-4519a50fe909a3799b470be5b4ccfd97
+#EXTINF:-1,Aston Villa vs Manchester United HD(ENG)
+https://yypull.gdsth.com/live/stream-558696.m3u8?auth_key=1667689940-0-0-a2308ed27afdd8ced13854ec641d1bb1
+#EXTINF:-1,Aston Villa vs Manchester United HD2(ENG)
+https://moon.meta-scores.com/0f1fa470e6/0f1fa470e6@720p.m3u8
+#EXTINF:-1,Southampton vs Newcastle SD
+https://yypull.gdsth.com/live/stream-286721.m3u8?auth_key=1667689999-0-0-4519a50fe909a3799b470be5b4ccfd97
+#EXTINF:-1,Southampton vs Newcastle HD
+https://yypull.gdsth.com/live/stream-286721.m3u8?auth_key=1667689999-0-0-4519a50fe909a3799b470be5b4ccfd97
+#EXTINF:-1,WestHam vs Crystal Palace SD
+https://yypull.gdsth.com/live/stream-286721.m3u8?auth_key=1667689999-0-0-4519a50fe909a3799b470be5b4ccfd97
+#EXTINF:-1,WestHam vs Crystal Palace HD
+https://yypull.gdsth.com/live/stream-286721.m3u8?auth_key=1667689999-0-0-4519a50fe909a3799b470be5b4ccfd97
+#EXTINF:-1,Sampdoria vs Fiorentina HD1
+https://yypull.gdsth.com/live/stream-330076.m3u8?auth_key=1667697799-0-0-0f3eabc11e88a783c23507ab4f4bab44
+#EXTINF:-1,Sampdoria vs Fiorentina HD2
+https://yypull.gdsth.com/live/stream-37723410.m3u8?auth_key=1667697979-0-0-ef414d35fba4e4b9dcf04a73a1bfe370
+#EXTINF:-1,Monza vs Hellas Verona
+https://yypull.gdsth.com/live/stream-551876.m3u8?auth_key=1667698159-0-0-517bf130d5ce439af68ebb6f27d2a88d
+#EXTINF:-1,Toulouse vs Monaco HD
+https://yypull.gdsth.com/live/stream-278165.m3u8?auth_key=1667699179-0-0-1c6a105db604d9e1f85a93ad04e22026
+#EXTINF:-1,Reims vs Nantes HD
+https://yypull.gdsth.com/live/stream-278165.m3u8?auth_key=1667699179-0-0-1c6a105db604d9e1f85a93ad04e22026
+#EXTINF:-1,Clermont vs Montpellier HD
+https://yypull.gdsth.com/live/stream-278165.m3u8?auth_key=1667699179-0-0-1c6a105db604d9e1f85a93ad04e22026
+#EXTINF:-1,Nice vs Brest HD
+https://yypull.gdsth.com/live/stream-278165.m3u8?auth_key=1667699179-0-0-1c6a105db604d9e1f85a93ad04e22026
+#EXTINF:-1,Bayer Leverkusen vs Union Berlin SD
+https://yypull.gdsth.com/live/stream-482760.m3u8?auth_key=1666560077-0-0-f8baca49809b926ee38ee56f0bf9df75
+#EXTINF:-1,Bayer Leverkusen vs Union Berlin HD
+https://yypull.gdsth.com/live/stream-482760.m3u8?auth_key=1666560077-0-0-f8baca49809b926ee38ee56f0bf9df75
+#EXTINF:-1,Real Sociedad vs Valencia
+https://yypull.gdsth.com/live/stream-411882.m3u8?auth_key=1667698279-0-0-e59951723823047124fec06e606b9ee4
+#EXTINF:-1,Lille vs Rennes HD
+https://yypull.gdsth.com/live/stream-278165.m3u8?auth_key=1667699179-0-0-1c6a105db604d9e1f85a93ad04e22026
+#EXTINF:-1,Tottenham vs Liverpool SD
+https://yypull.gdsth.com/live/stream-558696.m3u8?auth_key=1667689940-0-0-a2308ed27afdd8ced13854ec641d1bb1
+#EXTINF:-1,Tottenham vs Liverpool HD1
+https://yypull.gdsth.com/live/stream-286721.m3u8?auth_key=1667689999-0-0-4519a50fe909a3799b470be5b4ccfd97
+#EXTINF:-1,Tottenham vs Liverpool HD2
+https://yypull.gdsth.com/live/stream-286721.m3u8?auth_key=1667689999-0-0-4519a50fe909a3799b470be5b4ccfd97
+#EXTINF:-1,Tottenham vs Liverpool HD3(ENG)
+https://yypull.gdsth.com/live/stream-558696.m3u8?auth_key=1667689940-0-0-a2308ed27afdd8ced13854ec641d1bb1
+#EXTINF:-1,Tottenham vs Liverpool HD4(ENG)
+https://moon.meta-scores.com/0f1fa470e6/0f1fa470e6@720p.m3u8
+#EXTINF:-1,Freiburg vs Köln SD
+https://yypull.gdsth.com/live/stream-482760.m3u8?auth_key=1666560077-0-0-f8baca49809b926ee38ee56f0bf9df75
+#EXTINF:-1,Freiburg vs Köln HD
+https://yypull.gdsth.com/live/stream-482760.m3u8?auth_key=1666560077-0-0-f8baca49809b926ee38ee56f0bf9df75
+#EXTINF:-1,Roma vs Lazio HD1
+https://yypull.gdsth.com/live/stream-330076.m3u8?auth_key=1667697799-0-0-0f3eabc11e88a783c23507ab4f4bab44
+#EXTINF:-1,Roma vs Lazio HD2
+https://yypull.gdsth.com/live/stream-37723410.m3u8?auth_key=1667697979-0-0-ef414d35fba4e4b9dcf04a73a1bfe370
+#EXTINF:-1,Villarreal vs Mallorca HD
+https://yypull.gdsth.com/live/stream-286721.m3u8?auth_key=1667698279-0-0-b56e8b78ed45211af7c12c81afca0430
+#EXTINF:-1,Juventus vs Internazionale HD1
+https://yypull.gdsth.com/live/stream-330076.m3u8?auth_key=1667697799-0-0-0f3eabc11e88a783c23507ab4f4bab44
+#EXTINF:-1,Juventus vs Internazionale HD2
+https://yypull.gdsth.com/live/stream-37723410.m3u8?auth_key=1667697979-0-0-ef414d35fba4e4b9dcf04a73a1bfe370
+#EXTINF:-1,Juventus vs Internazionale HD3
+https://yypull.gdsth.com/live/stream-330076.m3u8?auth_key=1667697799-0-0-0f3eabc11e88a783c23507ab4f4bab44
+#EXTINF:-1,Juventus vs Internazionale HD4
+https://yypull.gdsth.com/live/stream-37723410.m3u8?auth_key=1667697979-0-0-ef414d35fba4e4b9dcf04a73a1bfe370
+#EXTINF:-1,Marseille vs Lyon SD
+https://yypull.gdsth.com/live/stream-278165.m3u8?auth_key=1667699179-0-0-1c6a105db604d9e1f85a93ad04e22026
+#EXTINF:-1,Marseille vs Lyon HD
+https://yypull.gdsth.com/live/stream-278165.m3u8?auth_key=1667699179-0-0-1c6a105db604d9e1f85a93ad04e22026
+#EXTINF:-1,Real Betis vs Sevilla SD
+https://yypull.gdsth.com/live/stream-286721.m3u8?auth_key=1667698279-0-0-b56e8b78ed45211af7c12c81afca0430
+#EXTINF:-1,Real Betis vs Sevilla HD
+https://yypull.gdsth.com/live/stream-286721.m3u8?auth_key=1667698279-0-0-b56e8b78ed45211af7c12c81afca0430
 #EXTINF:-1,PTV SPORTS
 http://golive.yn.lt/live/champions/01.m3u8 
