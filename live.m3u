@@ -1,18 +1,10 @@
-#EXTINF:-1,Juventus vs Internazionale HD1
-https://yypull.gdsth.com/live/stream-330076.m3u8?auth_key=1667784140-0-0-76916bb9d1de4ca726d86998d0e57479
-#EXTINF:-1,Juventus vs Internazionale HD2
-https://yypull.gdsth.com/live/stream-238362.m3u8?auth_key=1667784140-0-0-7863985ed9c111beb71f75cff987e14d
-#EXTINF:-1,Juventus vs Internazionale HD3
-http://213.13.19.35/shls/LIVE$SPORTTV3_HD/index.m3u8?device=ANDROID_Live&start=LIVE&end=END
-#EXTINF:-1,Juventus vs Internazionale HD4
-https://yypull.gdsth.com/live/stream-482760.m3u8?auth_key=1667784620-0-0-c8918b749cf8227e1ec9dadf95f9eefe
-#EXTINF:-1,Marseille vs Lyon SD
-https://yypull.gdsth.com/live/stream-466384.m3u8?auth_key=1667785700-0-0-91a850d9e1dceac6568e742a9bfccd89
-#EXTINF:-1,Marseille vs Lyon HD
-https://yypull.gdsth.com/live/stream-317957.m3u8?auth_key=1667783300-0-0-bd3782f6b399ecabbddb8200bab083dc
-#EXTINF:-1,Real Betis vs Sevilla SD
-https://yypull.gdsth.com/live/stream-411882.m3u8?auth_key=1667785640-0-0-2f877249d61bb1581e67340e7e274bff
-#EXTINF:-1,Real Betis vs Sevilla HD
-https://yypull.gdsth.com/live/stream-286721.m3u8?auth_key=1667698279-0-0-b56e8b78ed45211af7c12c81afca0430
+#EXTINF:-1,Rayo Vallecano vs Real Madrid SD
+https://yypull.gdsth.com/live/stream-411882.m3u8?auth_key=1667872220-0-0-87fea692749bd9062fc469b02c9a5af8
+#EXTINF:-1,Rayo Vallecano vs Real Madrid HD
+https://yypull.gdsth.com/live/stream-330076.m3u8?auth_key=1667872220-0-0-6d98ea21adc640415571d8d807f249a0
+#EXTINF:-1,Rayo Vallecano vs Real Madrid HD2
+https://yypull.gdsth.com/live/stream-6892349.m3u8?auth_key=1667872280-0-0-4a1ccd27dff9f74ce5eeb61c8b28a25a
+#EXTINF:-1,Rayo Vallecano vs Real Madrid HD3
+https://moon.meta-scores.com/779850c046/779850c046@720p.m3u8
 #EXTINF:-1,PTV SPORTS
 http://golive.yn.lt/live/champions/01.m3u8 
