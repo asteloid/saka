@@ -41,7 +41,7 @@ http://213.13.19.35/shls/LIVE$SPORTTV2_HD/index.m3u8?device=ANDROID_Live&start=L
 #EXTINF:-1,Liverpool vs Derby County SD
 https://yypull.gdsth.com/live/stream-418311.m3u8?auth_key=1668045200-0-0-8c9f8b685dd4fffd79855a4b1354ba40
 #EXTINF:-1,Liverpool vs Derby County HD (ENG)
-https://moon.meta-scores.com/a84de816b7/a84de816b7@720p.m3u8
+http://213.13.19.35/shls/LIVE$SPORTTV6_HD/index.m3u8?device=ANDROID_Live&start=LIVE&end=END
 #EXTINF:-1,Mallorca vs Atlético Madrid HD
 https://yypull.gdsth.com/live/stream-557735.m3u8?auth_key=1667958320-0-0-fcf0a86bae8a26114327a38d28f3aebf
 #EXTINF:-1,PTV SPORTS
