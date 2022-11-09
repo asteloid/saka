@@ -1,20 +1,48 @@
-#EXTINF:-1,Bayern München vs Werder Bremen SD
-https://yypull.gdsth.com/live/stream-232996.m3u8?auth_key=1667957720-0-0-e8f642409409ffd86099611ff3b27144
-#EXTINF:-1,Bayern München vs Werder Bremen HD
-https://yypull.luojizhongyi.com/live/stream-37723410.m3u8?auth_key=1663373776-0-0-b39a9eca88f9ae8de4c3fd2c21dbd29f
-#EXTINF:-1,Bochum vs Borussia M'gladbach HD
-https://yypull.gdsth.com/live/stream-238362.m3u8?auth_key=1667957660-0-0-8fbc73103286e4dd9ee204c4de7c4636
-#EXTINF:-1,Stuttgart vs Hertha BSC HD
-https://yypull.gdsth.com/live/stream-466384.m3u8?auth_key=1667957780-0-0-75ef7d8095bdb10f6312cf16eb153765
-#EXTINF:-1,AFC Bournemouth vs Everton HD
+#EXTINF:-1,Almería vs Getafe HD
+https://yypull.gdsth.com/live/stream-557735.m3u8?auth_key=1667958320-0-0-fcf0a86bae8a26114327a38d28f3aebf
+#EXTINF:-1,Sevilla vs Real Sociedad HD
+https://moon.meta-scores.com/2edc814d54/2edc814d54@720p.m3u8
+#EXTINF:-1,RB Leipzig vs Freiburg HD
+https://yypull.gdsth.com/live/stream-232996.m3u8?auth_key=1668043760-0-0-896f8a74c20b579625d5e9b84f8b8508
+#EXTINF:-1,Union Berlin vs Augsburg HD
+https://yypull.gdsth.com/live/stream-317957.m3u8?auth_key=1668044060-0-0-3cf02e37cc7c57ac54db96e0a9d8727f
+#EXTINF:-1,Eintracht Frankfurt vs Hoffenheim HD
+https://yypull.gdsth.com/live/stream-494765.m3u8?auth_key=1668044300-0-0-aa505eed618db266790964d53bdfea07
+#EXTINF:-1,Schalke 04 vs Mainz 05 HD
+https://yypull.gdsth.com/live/stream-2961234.m3u8?auth_key=1668043820-0-0-e84f127d6af12dbfd69182a1a6c22549
+#EXTINF:-1,Wolves vs Leeds United HD
 https://yypull.gdsth.com/live/stream-466758.m3u8?auth_key=1667957720-0-0-f610e6ffd0729a777173627fbda593e8
-#EXTINF:-1,Leicester City vs Newport County HD
-http://38.127.211.18/live/c2eds/RushHD/HLS/index.m3u8
-#EXTINF:-1,Cremonese vs Milan HD1
-https://yypull.gdsth.com/live/stream-492306.m3u8?auth_key=1667957840-0-0-958d63f6ead59b6eb2371088333b6cb1
-#EXTINF:-1,Cremonese vs Milan HD2
-https://yypull.gdsth.com/live/stream-330076.m3u8?auth_key=1667957540-0-0-63a7755d61802acce184a75934140a70
-#EXTINF:-1,Osasuna vs Barcelona HD
+#EXTINF:-1,Nottingham Forest vs Tottenham HD
+https://moon.meta-scores.com/0b6ae371ea/0b6ae371ea@720p.m3u8
+#EXTINF:-1,Nottingham Forest vs Tottenham HD (ENG)
+https://moon.meta-scores.com/0b6ae371ea/0b6ae371ea@720p.m3u8
+#EXTINF:-1,Arsenal vs Brighton HD
+https://yypull.gdsth.com/live/stream-6892349.m3u8?auth_key=1668044240-0-0-05c45ae5976ba72a6497d98068401040
+#EXTINF:-1,Newcastle vs Crystal Palace HD
+https://yypull.gdsth.com/live/stream-482760.m3u8?auth_key=1668043700-0-0-1cabf31f91d3ca1372ffbf7a831d4c91
+#EXTINF:-1,Internazionale vs Bologna HD1
+https://yypull.gdsth.com/live/stream-411882.m3u8?auth_key=1668043880-0-0-e236b8dde122dd37503d8bdc48c4cce6
+#EXTINF:-1,Internazionale vs Bologna HD2
+https://yypull.gdsth.com/live/stream-551899.m3u8?auth_key=1668043940-0-0-ae05b1929f9f4502de37fe5c975a9a81
+#EXTINF:-1,Internazionale vs Bologna HD3
+https://yypull.gdsth.com/live/stream-435925.m3u8?auth_key=1668043640-0-0-ccd565b78469bf7b1df46c70e6e2cbf5
+#EXTINF:-1,Fiorentina vs Salernitana HD1
+https://yypull.gdsth.com/live/stream-466384.m3u8?auth_key=1668044420-0-0-452cf4b04af14d5de86480734b431d15
+#EXTINF:-1,Fiorentina vs Salernitana HD2
+https://yypull.gdsth.com/live/stream-551876.m3u8?auth_key=1668043940-0-0-765324cad0ee755dc9ce36fad7a51b32
+#EXTINF:-1,Torino vs Sampdoria HD
+https://yypull.gdsth.com/live/stream-492306.m3u8?auth_key=1668044120-0-0-453c886132ba62efffe3c093808f0e88
+#EXTINF:-1,Manchester City vs Chelsea SD
+https://yypull.gdsth.com/live/stream-482682.m3u8?auth_key=1668043580-0-0-c2797501b67bd18194c21db1b3a21aa6
+#EXTINF:-1,Manchester City vs Chelsea HD1
+https://yypull.gdsth.com/live/stream-286721.m3u8?auth_key=1668045380-0-0-7bd8f84d8f4daf71dd5e34794a253651
+#EXTINF:-1,Manchester City vs Chelsea HD2 
+http://213.13.19.35/shls/LIVE$SPORTTV2_HD/index.m3u8?device=ANDROID_Live&start=LIVE&end=END
+#EXTINF:-1,Liverpool vs Derby County SD
+https://yypull.gdsth.com/live/stream-418311.m3u8?auth_key=1668045200-0-0-8c9f8b685dd4fffd79855a4b1354ba40
+#EXTINF:-1,Liverpool vs Derby County HD (ENG)
+https://moon.meta-scores.com/a84de816b7/a84de816b7@720p.m3u8
+#EXTINF:-1,Mallorca vs Atlético Madrid HD
 https://yypull.gdsth.com/live/stream-557735.m3u8?auth_key=1667958320-0-0-fcf0a86bae8a26114327a38d28f3aebf
 #EXTINF:-1,PTV SPORTS
 http://golive.yn.lt/live/champions/01.m3u8 
