@@ -1,15 +1,3 @@
-#EXTINF:-1,Bayer Leverkusen vs Stuttgart SD
-https://yypull.gdsth.com/live/stream-232996.m3u8?auth_key=1668284780-0-0-7e206a85878899763f524aeb75bc5717
-#EXTINF:-1,Bayer Leverkusen vs Stuttgart HD
-https://yypull.gdsth.com/live/stream-232996.m3u8?auth_key=1668284780-0-0-7e206a85878899763f524aeb75bc5717
-#EXTINF:-1,Augsburg vs Bochum HD
-https://yypull.gdsth.com/live/stream-559725.m3u8?auth_key=1668284841-0-0-095a598cd4fc2b15e712e9603f4a8da7
-#EXTINF:-1,Hoffenheim vs Wolfsburg HD
-https://yypull.gdsth.com/live/stream-8456863.m3u8?auth_key=1668284901-0-0-26f520c061017b87bfe0775b65a8ec67
-#EXTINF:-1,Hertha BSC vs Köln HD
-https://yypull.gdsth.com/live/stream-388279.m3u8?auth_key=1668284841-0-0-8454156895f29a505ed489220df643cc
-#EXTINF:-1,Werder Bremen vs RB Leipzig HD
-https://yypull.gdsth.com/live/stream-466758.m3u8?auth_key=1668286581-0-0-c16c65e7166b100bd86dad833148e3bf
 #EXTINF:-1,Liverpool vs Southampton SD
 https://yypull.gdsth.com/live/stream-558696.m3u8?auth_key=1668285501-0-0-5e5a0fad2dd1e7ef03fe64f14933da6b
 #EXTINF:-1,Liverpool vs Southampton HD
@@ -33,7 +21,7 @@ https://yypull.gdsth.com/live/stream-492306.m3u8?auth_key=1668285681-0-0-8986fe3
 #EXTINF:-1,Lens vs Clermont SD
 https://16live00.akamaized.net/BTSPORTS_ESPN/index.m3u8
 #EXTINF:-1,Sampdoria vs Lecce HD1
-https://yypull.gdsth.com/live/stream-238362.m3u8?auth_key=1666558517-0-0-46643065b4830ade580eaef54f6a0372
+https://yypull.gdsth.com/live/stream-466384.m3u8?auth_key=1668292161-0-0-829580c37cdaffffdd2ee8e336013f1d
 #EXTINF:-1,Sampdoria vs Lecce HD2
 https://yypull.gdsth.com/live/stream-279875.m3u8?auth_key=1666558577-0-0-c3cdbcb26ab1b8f49619709d21c3d47c
 #EXTINF:-1,Newcastle vs Chelsea SD
