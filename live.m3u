@@ -1,52 +1,30 @@
-#EXTINF:-1,Liverpool vs Southampton SD
-https://yypull.gdsth.com/live/stream-558696.m3u8?auth_key=1668285501-0-0-5e5a0fad2dd1e7ef03fe64f14933da6b
-#EXTINF:-1,Liverpool vs Southampton HD
-https://yypull.gdsth.com/live/stream-2412304.m3u8?auth_key=1668285561-0-0-29de775763b163c4ee1535b889823191
-#EXTINF:-1,Tottenham vs Leeds SD
-https://yypull.gdsth.com/live/stream-411882.m3u8?auth_key=1668285141-0-0-48b19f22d505a4dac44ef0da99bde667
-#EXTINF:-1,Tottenham vs Leeds HD
-https://yypull.gdsth.com/live/stream-348285.m3u8?auth_key=1668285201-0-0-6e6f373fbd8fa83b89ec414c4706bc6d
-#EXTINF:-1,AFC Bournemouth vs Everton SD
-https://yypull.gdsth.com/live/stream-284564.m3u8?auth_key=1668285861-0-0-a9d6c6076aa72bc2cfd3cddd00e8c9ab
-#EXTINF:-1,AFC Bournemouth vs Everton HD
-https://yypull.gdsth.com/live/stream-284564.m3u8?auth_key=1668285561-0-0-865a09f028ba65fd61b7388a2a525a53
-#EXTINF:-1,Nottingham Forest vs Crystal Palace SD
-https://yypull.gdsth.com/live/stream-238362.m3u8?auth_key=1668285141-0-0-cfaafdfd28f0f8202b47c04060cdcf4e
-#EXTINF:-1,Nottingham Forest vs Crystal Palace HD
-https://yypull.gdsth.com/live/stream-238362.m3u8?auth_key=1668285141-0-0-cfaafdfd28f0f8202b47c04060cdcf4e
-#EXTINF:-1,West Ham vs Leicester City SD
-https://yypull.gdsth.com/live/stream-330076.m3u8?auth_key=1668285741-0-0-0f77994b295b40e892f681ffc73a9f6a
-#EXTINF:-1,West Ham vs Leicester City HD
-https://yypull.gdsth.com/live/stream-492306.m3u8?auth_key=1668285681-0-0-8986fe34eefd04da1d3463f1a76c1e4f
-#EXTINF:-1,Lens vs Clermont SD
+#EXTINF:-1,Strasbourg vs Lorient
 https://16live00.akamaized.net/BTSPORTS_ESPN/index.m3u8
-#EXTINF:-1,Sampdoria vs Lecce HD1
-https://yypull.gdsth.com/live/stream-466384.m3u8?auth_key=1668292161-0-0-829580c37cdaffffdd2ee8e336013f1d
-#EXTINF:-1,Sampdoria vs Lecce HD2
-https://yypull.gdsth.com/live/stream-279875.m3u8?auth_key=1666558577-0-0-c3cdbcb26ab1b8f49619709d21c3d47c
-#EXTINF:-1,Newcastle vs Chelsea SD
-https://yypull.gdsth.com/live/stream-492306.m3u8?auth_key=1666558757-0-0-4068f178854fbe24f438478e2592299c
-#EXTINF:-1,Newcastle vs Chelsea HD
-https://yypull.gdsth.com/live/stream-558696.m3u8?auth_key=1666558817-0-0-1ccff0cb9f56cc6a19b73b543da4291c
-#EXTINF:-1,Newcastle vs Chelsea HD1(ENG)
-http://lopmse.azureedge.net/scripts/NTc0MA==/1080p.m3u8
-#EXTINF:-1,Newcastle vs Chelsea HD2(ENG)
-http://beem.azureedge.net/scripts/NTc0MA==/1080p.m3u8
-#EXTINF:-1,Lens vs Clermont SD
+#EXTINF:-1,Fulham vs Manchester United SD
+https://yypull.gdsth.com/live/stream-558696.m3u8?auth_key=1668377541-0-0-8a11805c8256387499cde44bafdd7b5f
+#EXTINF:-1,Fulham vs Manchester United HD1
+https://yypull.gdsth.com/live/stream-558696.m3u8?auth_key=1668377541-0-0-8a11805c8256387499cde44bafdd7b5f
+#EXTINF:-1,Fulham vs Manchester United HD2
+https://yypull.gdsth.com/live/stream-558696.m3u8?auth_key=1668377541-0-0-8a11805c8256387499cde44bafdd7b5f
+#EXTINF:-1,Fulham vs Manchester United HD(ENG)
+https://yypull.gdsth.com/live/stream-558696.m3u8?auth_key=1668377541-0-0-8a11805c8256387499cde44bafdd7b5f
+#EXTINF:-1,Freiburg vs Union Berlin
+https://yypull.luojizhongyi.com/live/stream-37723410.m3u8?auth_key=1663373776-0-0-b39a9eca88f9ae8de4c3fd2c21dbd29f
+#EXTINF:-1,Milan vs Fiorentina SD
+https://jq9sucdqmflivnt.vcdn.com.vn/may11/may11@456.m3u8
+#EXTINF:-1,Milan vs Fiorentina HD
+https://jq9sucdqmflivnt.vcdn.com.vn/may11/may11@456.m3u8
+#EXTINF:-1,Milan vs Fiorentina HD2
+https://jq9sucdqmflivnt.vcdn.com.vn/may11/may11@456.m3u8
+#EXTINF:-1,Juventus vs Lazio SD
+https://jq9sucdqmflivnt.vcdn.com.vn/may11/may11@456.m3u8
+#EXTINF:-1,Juventus vs Lazio HD
+https://jq9sucdqmflivnt.vcdn.com.vn/may11/may11@456.m3u8
+#EXTINF:-1,Juventus vs Lazio HD2
+https://jq9sucdqmflivnt.vcdn.com.vn/may11/may11@456.m3u8
+#EXTINF:-1,Monaco vs Olympique Marseille SD
 https://16live00.akamaized.net/BTSPORTS_ESPN/index.m3u8
-#EXTINF:-1,Wolves vs Arsenal SD
-https://yypull.gdsth.com/live/stream-492306.m3u8?auth_key=1666558757-0-0-4068f178854fbe24f438478e2592299c
-#EXTINF:-1,Wolves vs Arsenal HD
-https://yypull.gdsth.com/live/stream-558696.m3u8?auth_key=1666558817-0-0-1ccff0cb9f56cc6a19b73b543da4291c
-#EXTINF:-1,Wolves vs Arsenal HD(ENG)
-http://lopmse.azureedge.net/scripts/NTc0MA==/1080p.m3u8
-#EXTINF:-1,Wolves vs Arsenal HD2(ENG)
-http://beem.azureedge.net/scripts/NTc0MA==/1080p.m3u8
-#EXTINF:-1,Bologna vs Sassuolo HD1
-https://yypull.gdsth.com/live/stream-238362.m3u8?auth_key=1666558517-0-0-46643065b4830ade580eaef54f6a0372
-#EXTINF:-1,Bologna vs Sassuolo HD2
-https://yypull.gdsth.com/live/stream-279875.m3u8?auth_key=1666558577-0-0-c3cdbcb26ab1b8f49619709d21c3d47c
-#EXTINF:-1,Rennes vs Toulouse SD
+#EXTINF:-1,Monaco vs Olympique Marseille HD
 https://16live00.akamaized.net/BTSPORTS_ESPN/index.m3u8
 #EXTINF:-1,PTV SPORTS
 http://golive.yn.lt/live/champions/01.m3u8 
