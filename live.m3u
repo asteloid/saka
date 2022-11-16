@@ -1,30 +1,22 @@
-#EXTINF:-1,Strasbourg vs Lorient
-https://16live00.akamaized.net/BTSPORTS_ESPN/index.m3u8
-#EXTINF:-1,Fulham vs Manchester United SD
-https://yypull.gdsth.com/live/stream-558696.m3u8?auth_key=1668377541-0-0-8a11805c8256387499cde44bafdd7b5f
-#EXTINF:-1,Fulham vs Manchester United HD1
-https://yypull.gdsth.com/live/stream-330076.m3u8?auth_key=1668377721-0-0-dbb5133496bfa490f95d1575ef105082
-#EXTINF:-1,Fulham vs Manchester United HD2
-https://yypull.gdsth.com/live/stream-411882.m3u8?auth_key=1668377721-0-0-bd9a4eb0611e231327de6dd78f28aef4
-#EXTINF:-1,Fulham vs Manchester United HD3
-https://moon.meta-scores.com/a113e4d6f3/index.m3u8
-#EXTINF:-1,Freiburg vs Union Berlin
-https://yypull.gdsth.com/live/stream-363344.m3u8?auth_key=1668377781-0-0-1fec2a80cf7228d804755ea3ee60a47f
-#EXTINF:-1,Milan vs Fiorentina SD
-https://yypull.gdsth.com/live/stream-494765.m3u8?auth_key=1668378981-0-0-931f29503fe1e8de547569e4200c8f2f
-#EXTINF:-1,Milan vs Fiorentina HD
-https://yypull.gdsth.com/live/stream-37723410.m3u8?auth_key=1668379581-0-0-77cb9b09a3edf9a878791bc8e5442c44
-#EXTINF:-1,Milan vs Fiorentina HD2
-https://yypull.gdsth.com/live/stream-494765.m3u8?auth_key=1668378981-0-0-931f29503fe1e8de547569e4200c8f2f
-#EXTINF:-1,Juventus vs Lazio SD
-https://jq9sucdqmflivnt.vcdn.com.vn/may11/may11@456.m3u8
-#EXTINF:-1,Juventus vs Lazio HD
-https://jq9sucdqmflivnt.vcdn.com.vn/may11/may11@456.m3u8
-#EXTINF:-1,Juventus vs Lazio HD2
-https://jq9sucdqmflivnt.vcdn.com.vn/may11/may11@456.m3u8
-#EXTINF:-1,Monaco vs Olympique Marseille SD
-https://16live00.akamaized.net/BTSPORTS_ESPN/index.m3u8
-#EXTINF:-1,Monaco vs Olympique Marseille HD
-https://16live00.akamaized.net/BTSPORTS_ESPN/index.m3u8
+#EXTINF:-1,Saudi Arabia vs Croatia
+https://yypull.gdsth.com/live/stream-308116.m3u8?auth_key=1668614001-0-0-219d76b49e370286d196ff2e14c02878 
+#EXTINF:-1,United Arab Emirates vs Argentina SD
+https://yypull.gdsth.com/live/stream-411882.m3u8?auth_key=1668634581-0-0-11656ad1525881db085bd76414c78ca5 
+#EXTINF:-1,United Arab Emirates vs Argentina HD
+https://moon.meta-scores.com/3e6390de9e/3e6390de9e@720p.m3u8 
+#EXTINF:-1,Czech Republic vs Faroe Islands
+http://golive.yn.lt/live/champions/01.m3u8 
+#EXTINF:-1,Oman vs Germany
+http://golive.yn.lt/live/champions/01.m3u8 
+#EXTINF:-1,Poland vs Chile
+http://golive.yn.lt/live/champions/01.m3u8 
+#EXTINF:-1,Turkey vs Scotland
+http://golive.yn.lt/live/champions/01.m3u8 
+#EXTINF:-1,Cyprus vs Bulgaria
+http://golive.yn.lt/live/champions/01.m3u8 
+#EXTINF:-1,Mexico vs Sweden
+http://golive.yn.lt/live/champions/01.m3u8 
+#EXTINF:-1,Albania vs Italy
+http://golive.yn.lt/live/champions/01.m3u8 
 #EXTINF:-1,PTV SPORTS
 http://golive.yn.lt/live/champions/01.m3u8 
