@@ -1,22 +1,20 @@
-#EXTINF:-1,Saudi Arabia vs Croatia
-https://yypull.gdsth.com/live/stream-308116.m3u8?auth_key=1668614001-0-0-219d76b49e370286d196ff2e14c02878 
-#EXTINF:-1,United Arab Emirates vs Argentina SD
-https://yypull.gdsth.com/live/stream-411882.m3u8?auth_key=1668634581-0-0-11656ad1525881db085bd76414c78ca5 
-#EXTINF:-1,United Arab Emirates vs Argentina HD
-https://moon.meta-scores.com/3e6390de9e/3e6390de9e@720p.m3u8 
-#EXTINF:-1,Czech Republic vs Faroe Islands
-http://golive.yn.lt/live/champions/01.m3u8 
-#EXTINF:-1,Oman vs Germany
-http://golive.yn.lt/live/champions/01.m3u8 
-#EXTINF:-1,Poland vs Chile
-http://golive.yn.lt/live/champions/01.m3u8 
-#EXTINF:-1,Turkey vs Scotland
-http://golive.yn.lt/live/champions/01.m3u8 
-#EXTINF:-1,Cyprus vs Bulgaria
-http://golive.yn.lt/live/champions/01.m3u8 
-#EXTINF:-1,Mexico vs Sweden
-http://golive.yn.lt/live/champions/01.m3u8 
-#EXTINF:-1,Albania vs Italy
-http://golive.yn.lt/live/champions/01.m3u8 
+#EXTINF:-1,Jordan vs Spain HD1
+https://yypull.gdsth.com/live/stream-469322.m3u8?auth_key=1668721821-0-0-03c5f2c84aed2f921165633055a9e4f7
+#EXTINF:-1,Jordan vs Spain HD2
+https://moon.meta-scores.com/198b9edf1a/198b9edf1a@720p.m3u8
+#EXTINF:-1,Morocco vs Georgia HD
+https://yypull.gdsth.com/live/stream-489740.m3u8?auth_key=1668721881-0-0-90ea6e41b9b402b2fb550425809fa1b2
+#EXTINF:-1,Romania vs Slovenia HD
+https://yypull.gdsth.com/live/stream-286721.m3u8?auth_key=1668648861-0-0-981c512230bb79f28035cd235a71b5ce
+#EXTINF:-1,Montenegro vs Slovakia HD
+https://yypull.gdsth.com/live/stream-559725.m3u8?auth_key=1668721881-0-0-ef03530172a856e28973ad4b8866e719
+#EXTINF:-1,North Macedonia vs Finland HD
+https://yypull.gdsth.com/live/stream-286721.m3u8?auth_key=1668648861-0-0-981c512230bb79f28035cd235a71b5ce
+#EXTINF:-1,South Africa vs Mozambique HD
+https://yypull.gdsth.com/live/stream-286721.m3u8?auth_key=1668648861-0-0-981c512230bb79f28035cd235a71b5ce
+#EXTINF:-1,Portugal vs Nigeria SD
+https://yypull.gdsth.com/live/stream-286721.m3u8?auth_key=1668648861-0-0-981c512230bb79f28035cd235a71b5ce
+#EXTINF:-1,Portugal vs Nigeria HD
+https://yypull.gdsth.com/live/stream-286721.m3u8?auth_key=1668648861-0-0-981c512230bb79f28035cd235a71b5ce
 #EXTINF:-1,PTV SPORTS
 http://golive.yn.lt/live/champions/01.m3u8 
