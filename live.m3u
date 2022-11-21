@@ -1,22 +1,18 @@
-#EXTINF:-1,Qatar vs Ecuador SD          🔴
-https://yypull.gdsth.com/live/stream-411882.m3u8?auth_key=1668976761-0-0-9e4045df35771568757a37039e5198f4
-#EXTINF:-1,Qatar vs Ecuador SD1(ENG)      🔴 
-https://asdfghtiscali.s3-accelerate.amazonaws.com/fifa_480p30.m3u8
-#EXTINF:-1,Qatar vs Ecuador SD2(ENG)      🔴 
-https://asdfghtiscali.s3-accelerate.amazonaws.com/fifa_240p30.m3u8
-#EXTINF:-1,Qatar vs Ecuador HD1(ENG)      🔴 
-http://5.182.229.90:8080/6521/index.m3u8
-#EXTINF:-1,Qatar vs Ecuador HD2(ENG)      🔴 
-https://asdfghtiscali.s3-accelerate.amazonaws.com/fifa_720p30.m3u8
-#EXTINF:-1,Qatar vs Ecuador HD3      🔴  
-https://yypull.gdsth.com/live/stream-492306.m3u8?auth_key=1668976882-0-0-cb8f0fc21080b1f8c23fe88e92565983
-#EXTINF:-1,Malta vs Ireland Republic
-ht11decd280c96f00fd62c13a16119ac933544b2bd5762f2cd72b078ada8f950a1f2b2799684ea637f9f4e51beb38264e509342a2017dd
-#EXTINF:-1,Hungary vs Greece
-ht11decd280c96f00fd62c13a16119ac933544b2bd5762f2cd72b078ada8f950a1f2b2799684ea637f9f4e51beb38264e509342a2017dd
-#EXTINF:-1,Austria vs Italy SD
-ht11decd280c96f00fd62c13a16119ac933544b2bd5762f2cd72b078ada8f950a1f2b2799684ea637f9f4e51beb38264e509342a2017dd
-#EXTINF:-1,Austria vs Italy HD
-ht11decd280c96f00fd62c13a16119ac933544b2bd5762f2cd72b078ada8f950a1f2b2799684ea637f9f4e51beb38264e509342a2017dd
+#EXTINF:-1,Senegal vs Netherlands SD         🔴
+https://yypull.gdsth.com/live/stream-558696.m3u8?auth_key=1669066342-0-0-90aacf43e8702c72b8549b7e384d49d2
+#EXTINF:-1,Senegal vs Netherlands HD   🔴
+https://yd6q252y3dhhjy.data.mediastore.eu-central-1.amazonaws.com/livea/main_480p30.m3u8
+#EXTINF:-1,Senegal vs Netherlands HD2 (ENG)   🔴
+http://89.187.175.143:80/3038/index.m3u8
+#EXTINF:-1,USA vs Wales SD
+https://yd6q252y3dhhjy.data.mediastore.eu-central-1.amazonaws.com/livea/main_480p30.m3u8
+#EXTINF:-1,USA vs Wales SD2 (ENG)
+https://yd6q252y3dhhjy.data.mediastore.eu-central-1.amazonaws.com/livea/main_480p30.m3u8
+#EXTINF:-1,USA vs Wales HD1 (ENG)
+https://yd6q252y3dhhjy.data.mediastore.eu-central-1.amazonaws.com/livea/main_480p30.m3u8
+#EXTINF:-1,USA vs Wales HD2 (ENG)
+https://yd6q252y3dhhjy.data.mediastore.eu-central-1.amazonaws.com/livea/main_480p30.m3u8
+#EXTINF:-1,USA vs Wales HD3
+https://yd6q252y3dhhjy.data.mediastore.eu-central-1.amazonaws.com/livea/main_480p30.m3u8
 #EXTINF:-1,PTV SPORTS
 http://golive.yn.lt/live/champions/01.m3u8 
