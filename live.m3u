@@ -1,15 +1,15 @@
 #EXTINF:-1,Argentina vs Saudi Arabia SD           🔴
 https://yypull.gdsth.com/live/stream-558696.m3u8?auth_key=1669131262-0-0-f4fa1f838ccdf191a705c36d3cf31358
 #EXTINF:-1,Argentina vs Saudi Arabia SD (ENG)     🔴
-https://40a6smm5mh4fkw.data.mediastore.eu-west-2.amazonaws.com/livea/main_480p30.m3u8
+https://d2m5n28htvbpd2.cloudfront.net/out/v1/02017866ae1b4a1b8dd5d9a5e0572262/index_3.m3u8
 #EXTINF:-1,Argentina vs Saudi Arabia SD2 (ENG)      🔴
-https://endlovasd.s3-accelerate.amazonaws.com/fifa_480p30.m3u8
+https://40a6smm5mh4fkw.data.mediastore.eu-west-2.amazonaws.com/livea/main_480p30.m3u8
 #EXTINF:-1,Argentina vs Saudi Arabia HD1 (ENG)      🔴
 http://89.187.175.143:80/3038/index.m3u8
 #EXTINF:-1,Argentina vs Saudi Arabia HD2 (ENG)     🔴
-https://40a6smm5mh4fkw.data.mediastore.eu-west-2.amazonaws.com/livea/main_720p30.m3u8
+https://d2m5n28htvbpd2.cloudfront.net/out/v1/02017866ae1b4a1b8dd5d9a5e0572262/index_2.m3u8
 #EXTINF:-1,Argentina vs Saudi Arabia HD3           🔴
-https://endlovasd.s3-accelerate.amazonaws.com/fifa_720p60.m3u8
+https://40a6smm5mh4fkw.data.mediastore.eu-west-2.amazonaws.com/livea/main_720p30.m3u8
 #EXTINF:-1,Denmark vs Tunisia SD 
 https://yypull.gdsth.com/live/stream-411882.m3u8?auth_key=1669076602-0-0-59a40822b0d1c21e65fbd162e175ce57
 #EXTINF:-1,Denmark vs Tunisia SD (ENG) 
