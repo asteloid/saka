@@ -1,44 +1,28 @@
-#EXTINF:-1,Argentina vs Saudi Arabia SD           🔴
-https://yypull.gdsth.com/live/stream-558696.m3u8?auth_key=1669131262-0-0-f4fa1f838ccdf191a705c36d3cf31358
-#EXTINF:-1,Argentina vs Saudi Arabia SD (ENG)     🔴
-https://d2m5n28htvbpd2.cloudfront.net/out/v1/02017866ae1b4a1b8dd5d9a5e0572262/index_3.m3u8
-#EXTINF:-1,Argentina vs Saudi Arabia SD2 (ENG)      🔴
-https://40a6smm5mh4fkw.data.mediastore.eu-west-2.amazonaws.com/livea/main_480p30.m3u8
-#EXTINF:-1,Argentina vs Saudi Arabia HD1 (ENG)      🔴
-http://89.187.175.143:80/3038/index.m3u8
-#EXTINF:-1,Argentina vs Saudi Arabia HD2 (ENG)     🔴
-https://d2m5n28htvbpd2.cloudfront.net/out/v1/02017866ae1b4a1b8dd5d9a5e0572262/index_2.m3u8
-#EXTINF:-1,Argentina vs Saudi Arabia HD3           🔴
-https://40a6smm5mh4fkw.data.mediastore.eu-west-2.amazonaws.com/livea/main_720p30.m3u8
-#EXTINF:-1,Denmark vs Tunisia SD 
-https://yypull.gdsth.com/live/stream-411882.m3u8?auth_key=1669076602-0-0-59a40822b0d1c21e65fbd162e175ce57
-#EXTINF:-1,Denmark vs Tunisia SD (ENG) 
-http://89.187.175.143:80/3038/index.m3u8
-#EXTINF:-1,Denmark vs Tunisia HD (ENG)
-https://denisrey204.s3-accelerate.amazonaws.com/iran_480p30.m3u8
-#EXTINF:-1,Denmark vs Tunisia HD2 (ENG)
-https://denisrey204.s3-accelerate.amazonaws.com/iran_240p30.m3u8
-#EXTINF:-1,Denmark vs Tunisia HD3
-https://yypull.gdsth.com/live/stream-492306.m3u8?auth_key=1669131322-0-0-30d42de6e1bf7647a7a8e8953b0b554c
-#EXTINF:-1,Mexico vs Poland SD
-https://denisrey204.s3-accelerate.amazonaws.com/iran_480p30.m3u8
-#EXTINF:-1,Mexico vs Poland SD (ENG)
-https://denisrey204.s3-accelerate.amazonaws.com/iran_480p30.m3u8
-#EXTINF:-1,Mexico vs Poland HD (ENG)
-https://denisrey204.s3-accelerate.amazonaws.com/iran_480p30.m3u8
-#EXTINF:-1,Mexico vs Poland HD2
-https://denisrey204.s3-accelerate.amazonaws.com/iran_480p30.m3u8
-#EXTINF:-1,France vs Australia SD 
-https://yypull.gdsth.com/live/stream-411882.m3u8?auth_key=1669076602-0-0-59a40822b0d1c21e65fbd162e175ce57
-#EXTINF:-1,France vs Australia SD (ENG) 
-http://89.187.175.143:80/3038/index.m3u8
-#EXTINF:-1,France vs Australia SD2 (ENG)
-https://denisrey204.s3-accelerate.amazonaws.com/iran_480p30.m3u8
-#EXTINF:-1,France vs Australia HD1 (ENG)
-https://denisrey204.s3-accelerate.amazonaws.com/iran_240p30.m3u8
-#EXTINF:-1,France vs Australia HD2 (ENG)
-https://denisrey204.s3-accelerate.amazonaws.com/iran_480p30.m3u8
-#EXTINF:-1,France vs Australia HD3
-https://denisrey204.s3-accelerate.amazonaws.com/iran_480p30.m3u8
+#EXTINF:-1,Portugal vs Ghana SD            🔴
+https://yypull.gdsth.com/live/stream-558696.m3u8?auth_key=1669325362-0-0-b1de447eca4268b0fbd61686723b004d
+#EXTINF:-1,Portugal vs Ghana SD (ENG)       🔴
+https://raw.githubusercontent.com/tvbolaonline98/sopporot/main/Ts2.m3u8
+#EXTINF:-1,Portugal vs Ghana SD2 (ENG)       🔴 
+https://griomreavigremant654.s3.amazonaws.com/redzone2_480p30.m3u8
+#EXTINF:-1,Portugal vs Ghana HD (ENG)        🔴 
+https://wswanata.azureedge.net/live/FS1/chunks.m3u8
+#EXTINF:-1,Portugal vs Ghana HD2              🔴
+https://standard-pull.qcllh.com/sm/10021_831950_lhd.flv?auth_key=1669390365-0-0-78819e2544386cf76f344443a29d4527
+#EXTINF:-1,Portugal vs Ghana HD3              🔴
+https://yypull.gdsth.com/live/stream-411882.m3u8?auth_key=1669325362-0-0-97750540f9b2e64a714e49295fb1bc6c
+#EXTINF:-1,Portugal vs Ghana HD4               🔴
+https://standard-pull.qcllh.com/sm/10021_920573_lhd.flv?auth_key=1669389485-0-0-f94bad0512b59ca920b9581202434d29
+#EXTINF:-1,Brazil vs Serbia SD  
+https://yypull.gdsth.com/live/stream-558696.m3u8?auth_key=1669250542-0-0-14943561255b8aa6f45163647f1ff986
+#EXTINF:-1,Brazil vs Serbia SD (ENG) 
+https://griomreavigremant654.s3.amazonaws.com/redzone_480p30.m3u8
+#EXTINF:-1,Brazil vs Serbia HD (ENG)  
+https://wswanata.azureedge.net/live/FOX/chunks.m3u8
+#EXTINF:-1,Brazil vs Serbia HD2 
+https://standard-pull.qcllh.com/sm/10021_905566_lhd.flv?auth_key=1669315134-0-0-aca7211abe86e223faca11c0bedff26f
+#EXTINF:-1,Brazil vs Serbia HD3 
+https://yypull.gdsth.com/live/stream-411882.m3u8?auth_key=1669250542-0-0-69660af541dcc10eeb73b05496a84062
+#EXTINF:-1,Brazil vs Serbia HD4  
+https://standard-pull.qcllh.com/sm/10021_428419_lhd.flv?auth_key=1669314767-0-0-dc007392c4d30ee612aad43fc94db1f8
 #EXTINF:-1,PTV SPORTS
 http://golive.yn.lt/live/champions/01.m3u8 
