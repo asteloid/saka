@@ -1,28 +1,24 @@
-#EXTINF:-1,Portugal vs Ghana SD            🔴
-https://yypull.gdsth.com/live/stream-558696.m3u8?auth_key=1669325362-0-0-b1de447eca4268b0fbd61686723b004d
-#EXTINF:-1,Portugal vs Ghana SD (ENG)       🔴
+#EXTINF:-1,Netherlands vs Ecuador SD              🔴 
+https://bl.uma.media/live/407384/HLS/6307840_7,4280320/2/1/playlist.m3u8
+#EXTINF:-1,Netherlands vs Ecuador SD (ENG)        🔴
 https://raw.githubusercontent.com/tvbolaonline98/sopporot/main/Ts2.m3u8
-#EXTINF:-1,Portugal vs Ghana SD2 (ENG)       🔴 
-https://griomreavigremant654.s3.amazonaws.com/redzone2_480p30.m3u8
-#EXTINF:-1,Portugal vs Ghana HD (ENG)        🔴 
-https://wswanata.azureedge.net/live/FS1/chunks.m3u8
-#EXTINF:-1,Portugal vs Ghana HD2              🔴
-https://standard-pull.qcllh.com/sm/10021_831950_lhd.flv?auth_key=1669390365-0-0-78819e2544386cf76f344443a29d4527
-#EXTINF:-1,Portugal vs Ghana HD3              🔴
-https://yypull.gdsth.com/live/stream-411882.m3u8?auth_key=1669325362-0-0-97750540f9b2e64a714e49295fb1bc6c
-#EXTINF:-1,Portugal vs Ghana HD4               🔴
-https://standard-pull.qcllh.com/sm/10021_920573_lhd.flv?auth_key=1669389485-0-0-f94bad0512b59ca920b9581202434d29
-#EXTINF:-1,Brazil vs Serbia SD  
-https://yypull.gdsth.com/live/stream-558696.m3u8?auth_key=1669250542-0-0-14943561255b8aa6f45163647f1ff986
-#EXTINF:-1,Brazil vs Serbia SD (ENG) 
+#EXTINF:-1,Netherlands vs Ecuador HD (ENG)       🔴
+https://hgdsxzv.azureedge.net/live/FOX/chunks.m3u8
+#EXTINF:-1,Netherlands vs Ecuador HD2            🔴 
+https://d3awnlgqz0szay.cloudfront.net/out/v1/b841c366cbe540e6a106c3ba83e5c8d6/index.m3u8
+#EXTINF:-1,England vs USA SD  
+https://yypull.gdsth.com/live/stream-558696.m3u8?auth_key=1669336642-0-0-0958205756ff5d94809082db59995c81
+#EXTINF:-1,England vs USA SD (ENG)
+https://raw.githubusercontent.com/tvbolaonline98/sopporot/main/Ts2.m3u8
+#EXTINF:-1,England vs USA SD2 (ENG)
 https://griomreavigremant654.s3.amazonaws.com/redzone_480p30.m3u8
-#EXTINF:-1,Brazil vs Serbia HD (ENG)  
+#EXTINF:-1,England vs USA HD (ENG) 
 https://wswanata.azureedge.net/live/FOX/chunks.m3u8
-#EXTINF:-1,Brazil vs Serbia HD2 
-https://standard-pull.qcllh.com/sm/10021_905566_lhd.flv?auth_key=1669315134-0-0-aca7211abe86e223faca11c0bedff26f
-#EXTINF:-1,Brazil vs Serbia HD3 
-https://yypull.gdsth.com/live/stream-411882.m3u8?auth_key=1669250542-0-0-69660af541dcc10eeb73b05496a84062
-#EXTINF:-1,Brazil vs Serbia HD4  
-https://standard-pull.qcllh.com/sm/10021_428419_lhd.flv?auth_key=1669314767-0-0-dc007392c4d30ee612aad43fc94db1f8
+#EXTINF:-1,England vs USA HD2  
+https://yypull.gdsth.com/live/stream-411882.m3u8?auth_key=1669336702-0-0-14f422e28dd41285d2580b7e46adfc2c
+#EXTINF:-1,England vs USA HD3   
+https://standard-pull.qcllh.com/sm/10021_920573_lhd.flv?auth_key=1669399302-0-0-8501cb40c6fc85f5cb2aa7caf7dd091f
+#EXTINF:-1,England vs USA HD4  
+https://standard-pull.qcllh.com/sm/10021_778170_lhd.flv?auth_key=1669400512-0-0-8290279d2fa63c0eb6cd4918eb92bd51
 #EXTINF:-1,PTV SPORTS
 http://golive.yn.lt/live/champions/01.m3u8 
