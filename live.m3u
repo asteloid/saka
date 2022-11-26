@@ -1,24 +1,22 @@
-#EXTINF:-1,Netherlands vs Ecuador SD              🔴 
-https://bl.uma.media/live/407384/HLS/6307840_7,4280320/2/1/playlist.m3u8
-#EXTINF:-1,Netherlands vs Ecuador SD (ENG)        🔴
+#EXTINF:-1,France vs Denmark SD             🔴
+https://yypull.gdsth.com/live/stream-411882.m3u8?auth_key=1669498102-0-0-bd45ac39343d7cab4f485ea6f4d54b9f
+#EXTINF:-1,France vs Denmark SD (ENG)       🔴 
 https://raw.githubusercontent.com/tvbolaonline98/sopporot/main/Ts2.m3u8
-#EXTINF:-1,Netherlands vs Ecuador HD (ENG)       🔴
-https://hgdsxzv.azureedge.net/live/FOX/chunks.m3u8
-#EXTINF:-1,Netherlands vs Ecuador HD2            🔴 
-https://d3awnlgqz0szay.cloudfront.net/out/v1/b841c366cbe540e6a106c3ba83e5c8d6/index.m3u8
-#EXTINF:-1,England vs USA SD  
-https://yypull.gdsth.com/live/stream-558696.m3u8?auth_key=1669336642-0-0-0958205756ff5d94809082db59995c81
-#EXTINF:-1,England vs USA SD (ENG)
+#EXTINF:-1,France vs Denmark HD(ENG)        🔴 
+https://hgdsxzv.azureedge.net/live/FS1/chunks.m3u8
+#EXTINF:-1,France vs Denmark HD2             🔴 
+https://standard-pull.qcllh.com/sm/10021_649422_lhd.flv?auth_key=1669561780-0-0-14a9181fdd396e0e8274831e80e1186d
+#EXTINF:-1,France vs Denmark HD3            🔴
+https://yypull.gdsth.com/live/stream-558696.m3u8?auth_key=1669498102-0-0-ff9082bc1d42a48201678e33680b8b3a
+#EXTINF:-1,Argentina vs Mexico SD   
+https://yypull.gdsth.com/live/stream-558696.m3u8?auth_key=1669477642-0-0-c75bb025b8bbf0b59bfe065172f462a8
+#EXTINF:-1,Argentina vs Mexico SD (ENG)          
 https://raw.githubusercontent.com/tvbolaonline98/sopporot/main/Ts2.m3u8
-#EXTINF:-1,England vs USA SD2 (ENG)
-https://griomreavigremant654.s3.amazonaws.com/redzone_480p30.m3u8
-#EXTINF:-1,England vs USA HD (ENG) 
-https://wswanata.azureedge.net/live/FOX/chunks.m3u8
-#EXTINF:-1,England vs USA HD2  
-https://yypull.gdsth.com/live/stream-411882.m3u8?auth_key=1669336702-0-0-14f422e28dd41285d2580b7e46adfc2c
-#EXTINF:-1,England vs USA HD3   
-https://standard-pull.qcllh.com/sm/10021_920573_lhd.flv?auth_key=1669399302-0-0-8501cb40c6fc85f5cb2aa7caf7dd091f
-#EXTINF:-1,England vs USA HD4  
-https://standard-pull.qcllh.com/sm/10021_778170_lhd.flv?auth_key=1669400512-0-0-8290279d2fa63c0eb6cd4918eb92bd51
+#EXTINF:-1,Argentina vs Mexico HD(ENG)           
+https://hgdsxzv.azureedge.net/live/FS1/chunks.m3u8
+#EXTINF:-1,Argentina vs Mexico HD2                
+https://standard-pull.qcllh.com/sm/10021_649422_lhd.flv?auth_key=1669540880-0-0-c3cd01ae42c37d86ed7a2d768ff654bd
+#EXTINF:-1,Argentina vs Mexico HD3                 
+https://standard-pull.qcllh.com/sm/10021_428408_lhd.flv?auth_key=1669540590-0-0-10e7c612bac2e58bffde67d5a51b94c1
 #EXTINF:-1,PTV SPORTS
 http://golive.yn.lt/live/champions/01.m3u8 
