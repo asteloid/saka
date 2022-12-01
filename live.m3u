@@ -1,26 +1,26 @@
-#EXTINF:-1,Croatia vs Canada SD               🔴  
-https://bl.uma.media/live/407384/HLS/6307840_7/2/1/playlist.m3u8
-#EXTINF:-1,Croatia vs Canada SD (ENG)         🔴        
-https://raw.githubusercontent.com/tvbolaonline98/sopporot/main/Ts2.m3u8
-#EXTINF:-1,Croatia vs Canada HD(ENG)          🔴          
-https://hgdsxzv.azureedge.net/live/FS1/chunks.m3u8
-#EXTINF:-1,Croatia vs Canada HD2              🔴             
-https://videosenlared.fullstreaming.ar:3884/live/citysportslive.m3u8?PlaylistM3UCL
-#EXTINF:-1,Croatia vs Canada HD3             🔴              
-https://d3awnlgqz0szay.cloudfront.net/out/v1/b841c366cbe540e6a106c3ba83e5c8d6/index.m3u8
-#EXTINF:-1,Spain vs Germany SD   
-https://bl.uma.media/live/407384/HLS/6307840_7/2/1/playlist.m3u8
-#EXTINF:-1,Spain vs Germany SD (ENG)          
-https://raw.githubusercontent.com/tvbolaonline98/sopporot/main/Ts2.m3u8
-#EXTINF:-1,Spain vs Germany HD(ENG)           
-https://hgdsxzv.azureedge.net/live/FS1/chunks.m3u8
-#EXTINF:-1,Spain vs Germany HD2                
-https://videosenlared.fullstreaming.ar:3884/live/citysportslive.m3u8?PlaylistM3UCL
-#EXTINF:-1,Spain vs Germany HD3                 
-https://standard-pull.qcllh.com/sm/10021_428408_lhd.flv?auth_key=1669540590-0-0-10e7c612bac2e58bffde67d5a51b94c1
-#EXTINF:-1,Spain vs Germany HD4                 
-https://standard-pull.qcllh.com/sm/10021_428408_lhd.flv?auth_key=1669540590-0-0-10e7c612bac2e58bffde67d5a51b94c1
-#EXTINF:-1,Spain vs Germany HD5                
-https://standard-pull.qcllh.com/sm/10021_428408_lhd.flv?auth_key=1669540590-0-0-10e7c612bac2e58bffde67d5a51b94c1
+#EXTINF:-1,Poland vs Argentina SD                  🔴       
+https://yypull.gdsth.com/live/stream-558696.m3u8?auth_key=1669854563-0-0-37cc47efd95643bab3de6d9f0ecb879d
+#EXTINF:-1,Poland vs Argentina SD (ENG)             🔴    
+https://k41hedlund.s3.amazonaws.com/tsn_480p30.m3u8
+#EXTINF:-1,Poland vs Argentina HD (ENG)              🔴     
+https://playing.whydontyoustreamwme.com/live/bbconeuk_720p/index.m3u8
+#EXTINF:-1,Poland vs Argentina HD2 (ENG)              🔴       
+https://wswanata.azureedge.net/live/FOX/chunks.m3u8
+#EXTINF:-1,Poland vs Argentina HD3                     🔴      
+https://standard-pull.qcllh.com/sm/10021_778166_lhd.flv?auth_key=1669919549-0-0-88b7bde73c20f06d666a14d6dc25eb55
+#EXTINF:-1,Poland vs Argentina HD4                     🔴           
+https://standard-pull.qcllh.com/sm/10021_428408_lhd.flv?auth_key=1669918255-0-0-fa82dd41f19531a2bb081922e1168f9f
+#EXTINF:-1,Saudi Arabia vs Mexico SD                   🔴             
+https://standard-pull.qcllh.com/sm/10021_428419_lhd.flv?auth_key=1669913974-0-0-33d8dea9978bf5466cc10de586b1b243
+#EXTINF:-1,Saudi Arabia vs Mexico SD (ENG)             🔴           
+https://murthyneeraj231.s3.amazonaws.com/worldcup2_480.m3u8
+#EXTINF:-1,Saudi Arabia vs Mexico HD (ENG)             🔴        
+https://turnthe.gameon.tel/live/bbctwouk_720p/index.m3u8
+#EXTINF:-1,Saudi Arabia vs Mexico HD2 (ENG)             🔴     
+https://wswanata.azureedge.net/live/FS1/chunks.m3u8
+#EXTINF:-1,Saudi Arabia vs Mexico HD3                    🔴      
+https://yypull.gdsth.com/live/stream-411882.m3u8?auth_key=1669855043-0-0-b43d7c7856ea2444c4b0737918d7c00d
+#EXTINF:-1,Saudi Arabia vs Mexico HD4                    🔴       
+https://standard-pull.qcllh.com/sm/10021_905567_lhd.flv?auth_key=1669912077-0-0-4916c1e9803560d6c59b8f1b90c6584c
 #EXTINF:-1,PTV SPORTS
 http://golive.yn.lt/live/champions/01.m3u8 
