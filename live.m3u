@@ -1,8 +1,20 @@
-#EXTINF:-1,Arsenal vs Olympique Lyonnais SD                            🔴   
-https://standard-pull.qcllh.com/sm/10021_778167_lhd.flv?auth_key=1670598289-0-0-6391ab9c7a7df4658b202a9eec53c2c0
-#EXTINF:-1,Arsenal vs Olympique Lyonnais HD                      🔴   
-https://yypull.gdsth.com/live/stream-469322.m3u8?auth_key=1670533763-0-0-806c1b05c6c4f89ebd7490cff6515d54
-#EXTINF:-1,Arsenal vs Olympique Lyonnais HD2                      🔴   
-https://yypull.gdsth.com/live/stream-232996.m3u8?auth_key=1670533943-0-0-cc01d41e41340e9545fb71dcab5df92c
+#EXTINF:-1,Croatia vs Brazil SD                            🔴   
+https://standard-pull.qcllh.com/sm/10021_778166_lhd.flv?auth_key=1670681325-0-0-5eafd7e2233c3238180f707f74131213
+#EXTINF:-1,Croatia vs Brazil SD (ENG)                      🔴   
+https://playing.whydontyoustreamwme.com/live/bbconeuk_360p/index.m3u8
+#EXTINF:-1,Croatia vs Brazil HD1 (ENG)                        🔴   
+http://yhdo.azureedge.net/scripts/NjczNw==/1080p.m3u8
+#EXTINF:-1,Croatia vs Brazil HD2 (ENG)                      🔴   
+https://playing.tunnelcdnsw.net/live/bbconeuk_720p/index.m3u8
+#EXTINF:-1,Croatia vs Brazil HD3 (ENG)                      🔴   
+https://playing.presenccunderwell.cc/live/vb_bbconeuk/chunks.m3u8
+#EXTINF:-1,Croatia vs Brazil HD4                            🔴   
+https://yypull.gdsth.com/live/stream-558696.m3u8?auth_key=1670618127-0-0-8eed728de484726f97df6e6a1fa6297a
+#EXTINF:-1,Croatia vs Brazil HD5                           🔴   
+https://standard-pull.qcllh.com/sm/10021_920573_lhd.flv?auth_key=1670681941-0-0-e73ddb1ebb1e358ca30eff182657ea5a
+#EXTINF:-1,Croatia vs Brazil HD6                           🔴   
+https://standard-pull.qcllh.com/sm/10021_831947_lhd.flv?auth_key=1670682642-0-0-383e46f00144f36d8721a736636cbdcd
+#EXTINF:-1,Croatia vs Brazil HD7                           🔴   
+https://playing.goforfreedomwme.net/live/rai1it/index.m3u8
 #EXTINF:-1,PTV SPORTS
 http://golive.yn.lt/live/champions/01.m3u8 
