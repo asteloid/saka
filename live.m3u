@@ -1,20 +1,36 @@
-#EXTINF:-1,Netherlands vs Argentina SD                            🔴   
-https://standard-pull.qcllh.com/sm/10021_428415_lhd.flv?auth_key=1670695420-0-0-1d37d67dffde2d2a9f7221ef21be7295
-#EXTINF:-1,Netherlands vs Argentina SD (ENG)                      🔴   
-https://playing.whydontyoustreamwme.com/live/bbconeuk_360p/index.m3u8
-#EXTINF:-1,Netherlands vs Argentina HD1 (ENG)                        🔴   
-https://playing.tunnelcdnsw.net/live/bbconeuk_720p/index.m3u8
-#EXTINF:-1,Netherlands vs Argentina HD2 (ENG)                      🔴   
-https://playing.goforfreedomwme.net/live/bbconeuk/index.m3u8
-#EXTINF:-1,Netherlands vs Argentina HD3 (ENG)                      🔴   
-https://api.footballroma.com/playlist/ch1/index.m3u8
-#EXTINF:-1,Netherlands vs Argentina HD3                            🔴   
-https://yytcpull.gdsth.com/live/stream-411882.m3u8?txSecret=c73187c9235fbbab7dd85441a001b334&txTime=6394d031
-#EXTINF:-1,Netherlands vs Argentina HD4                           🔴   
+#EXTINF:-1,Morocco vs Portugal SD                            🔴   
+https://standard-pull.qcllh.com/sm/10021_831950_lhd.flv?auth_key=1670769226-0-0-0f5c68f9c6cb7fda395f0fe08d24c3a2
+#EXTINF:-1,Morocco vs Portugal SD (ENG)                      🔴   
+https://playing.smoothlikebutterstream.com/live/itv1uk_360p/index.m3u8
+#EXTINF:-1,Morocco vs Portugal HD1 (ENG)                     🔴   
+https://playing.smoothlikebutterstream.com/live/itv1uk_720p/index.m3u8
+#EXTINF:-1,Morocco vs Portugal HD2 (ENG)                     🔴   
+https://playing.smoothlikebutterstream.com/live/itv1uk/index.m3u8
+#EXTINF:-1,Morocco vs Portugal HD3                            🔴   
+https://yytcpull.gdsth.com/live/stream-558696.m3u8?txSecret=2d1ce53ef92b67caaf1f37ed63f20c65&txTime=6395f07a
+#EXTINF:-1,Morocco vs Portugal HD4                           🔴   
 https://standard-pull.qcllh.com/sm/10021_778167_lhd.flv?auth_key=1670696249-0-0-129f7bfd670d943f841e81b027777877
-#EXTINF:-1,Netherlands vs Argentina HD5                           🔴   
+#EXTINF:-1,Morocco vs Portugal HD5                           🔴   
+https://standard-pull.qcllh.com/sm/10021_428437_lhd.flv?auth_key=1670769450-0-0-8956adfa5afed0b4033afe257a6a23d7
+#EXTINF:-1,Morocco vs Portugal HD6                           🔴   
+https://standard-pull.qcllh.com/sm/10021_428437_lhd.flv?auth_key=1670769450-0-0-8956adfa5afed0b4033afe257a6a23d7
+#EXTINF:-1,England vs France SD                               
+https://standard-pull.qcllh.com/sm/10021_428415_lhd.flv?auth_key=1670695420-0-0-1d37d67dffde2d2a9f7221ef21be7295
+#EXTINF:-1,England vs France SD (ENG)                        
+https://playing.whydontyoustreamwme.com/live/bbconeuk_360p/index.m3u8
+#EXTINF:-1,England vs France HD1 (ENG)                        
+https://playing.tunnelcdnsw.net/live/bbconeuk_720p/index.m3u8
+#EXTINF:-1,England vs France HD2 (ENG)                       
+https://playing.goforfreedomwme.net/live/bbconeuk/index.m3u8
+#EXTINF:-1,England vs France HD3 (ENG)                         
+https://api.footballroma.com/playlist/ch1/index.m3u8
+#EXTINF:-1,England vs France HD3                              
+https://yytcpull.gdsth.com/live/stream-411882.m3u8?txSecret=c73187c9235fbbab7dd85441a001b334&txTime=6394d031
+#EXTINF:-1,England vs France HD4                             
+https://standard-pull.qcllh.com/sm/10021_778167_lhd.flv?auth_key=1670696249-0-0-129f7bfd670d943f841e81b027777877
+#EXTINF:-1,England vs France HD5                            
 https://standard-pull.qcllh.com/sm/10021_905567_lhd.flv?auth_key=1670691387-0-0-c5d7a80e85c965922d80e2412cbd7169
-#EXTINF:-1,Netherlands vs Argentina HD6                           🔴   
+#EXTINF:-1,England vs France HD6                             
 https://playing.goforfreedomwme.net/live/rai1it/index.m3u8
 #EXTINF:-1,PTV SPORTS
 http://golive.yn.lt/live/champions/01.m3u8 
