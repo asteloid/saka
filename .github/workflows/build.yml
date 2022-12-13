@@ -17,7 +17,7 @@ jobs:
       - name: Update saka playlist
         id: update_config
         run: |
-          UPDATE_SAKA_M3U=$(curl --compressed --user-agent "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:105.0) Gecko/20100101 Firefox/105.0" https://raw.githubusercontent.com/digital7tech/Fifafootball/main/football.json | sed -e 's/\t\t*//g' | jq '(.hits[]| "#EXTINF:-1," + .user, .pageUrl)' | sed -e 's/^"//g;s/","/,/g;s/"$//g')
+          UPDATE_SAKA_M3U=$(curl --compressed --user-agent "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:105.0) Gecko/20100101 Firefox/105.0" https://raw.githubusercontent.com/digital7tech/Premierfootball/main/football.json | sed -e 's/\t\t*//g' | jq '(.hits[]| "#EXTINF:-1," + .user, .pageUrl)' | sed -e 's/^"//g;s/","/,/g;s/"$//g')
           echo "$UPDATE_SAKA_M3U" >live.m3u
 
       - uses: stefanzweifel/git-auto-commit-action@v4
