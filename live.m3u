@@ -1,12 +1,12 @@
-#EXTINF:-1,Liverpool vs AC Milan SD
-https://standard-pull.qcllh.com/sm/10021_831938_lhd.flv?auth_key=1671289629-0-0-c699c83dbad94e921cde283b6e8f52ea 
-#EXTINF:-1,Liverpool vs AC Milan HD1
-https://standard-pull.qcllh.com/sm/10021_428408_lhd.flv?auth_key=1671289925-0-0-b26443ae7f373992ce0937b5103e2a48 
-#EXTINF:-1,Liverpool vs AC Milan HD2
-https://yytcpull.gdsth.com/live/stream-482682.m3u8?txSecret=839eeacc907c93fd518fab8189afbbd6&txTime=639ddc86 
-#EXTINF:-1,almeria vs Torino
-https://standard-pull.qcllh.com/sm/10021_920661_lhd.flv?auth_key=1671291290-0-0-d2d256a8c0dc207b7b9fc73b720774df
-#EXTINF:-1,Empoli vs Monaco
-https://standard-pull.qcllh.com/sm/10021_831944_lhd.flv?auth_key=1671291545-0-0-054bb631f542ab792c79655032a36f4c 
+#EXTINF:-1,Manchester City vs Girona SD
+https://sports01.livnvess.com/live/stream-190631.m3u8?txSecret=6e8b4504c48ed361bacbb2492fc0d90d&txTime=639e0e8d 
+#EXTINF:-1,Manchester City vs Girona HD
+https://yypull.gdsth.com/live/stream-265460.m3u8?auth_key=1671303071-0-0-369dfc9b631275513dc1cb6ba40f26db 
+#EXTINF:-1,Croatia vs Morocco SD
+http://lb.yacinetvkora.com:80/live/lb555/bm1-144.m3u8 
+#EXTINF:-1,Croatia vs Morocco HD
+https://bl.uma.media/live/407384/HLS/6307840_7/2/1/playlist.m3u8 
+#EXTINF:-1,Croatia vs Morocco HD2
+https://yytcpull.gdsth.com/live/stream-551866.m3u8?txSecret=48c4d039208adb7c96a36559dc31f566&txTime=639f1c37 
 #EXTINF:-1,PTV SPORTS
 http://golive.yn.lt/live/champions/01.m3u8 
