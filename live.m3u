@@ -1,10 +1,6 @@
-#EXTINF:-1,Argentina vs France SD          🔴
-https://standard-pull.qcllh.com/sm/10021_936819_lhd.flv?auth_key=1671460187-0-0-753052e0240c27403cff9c4653028829 
-#EXTINF:-1,Argentina vs France HD1          🔴
-https://sports01.livnvess.com/live/stream-114959.m3u8?txSecret=86644556941c01d644584fda9bd5c705&txTime=639f74ad 
-#EXTINF:-1,Argentina vs France HD2         🔴
-https://sports01.livnvess.com/live/stream-167414.m3u8?txSecret=53ceb4af700c438ab0186f06b0010c46&txTime=639f786d 
-#EXTINF:-1,Argentina vs France HD (ENG)     🔴
-https://ovocloud.site/live/abr_s-1/live/s-1_480p/chunks.m3u8 
+#EXTINF:-1,Manchester United vs Burnley SD          🔴
+http://45.63.79.56:80/bein_sports_premium_1_sd/video.m3u8?token=gY8eHYWGN1Bkp3
+#EXTINF:-1,Manchester United vs Burnley SD          🔴
+http://45.63.79.56:80/bein_sports_premium_1_hd/video.m3u8?token=gY8eHYWGN1Bkp3
 #EXTINF:-1,PTV SPORTS
 http://golive.yn.lt/live/champions/01.m3u8 
