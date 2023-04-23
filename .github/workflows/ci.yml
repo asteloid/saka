@@ -1,0 +1,38 @@
+name: CI
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "*/5 * * * *"
+
+jobs:
+  check:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v3
+        with:
+          fetch-depth: 0
+
+      - name: Should build?
+        id: should_build
+        shell: bash
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          TNOW=$(TZ='GMT-7' date +'%R' | sed -e 's/:.*//g')
+          if [ $TNOW -gt 18 ] ; then
+          echo "SHOULD_BUILD=1" >> $GITHUB_OUTPUT
+          fi
+          if [ $TNOW -lt 4 ] ; then
+          echo "SHOULD_BUILD=1" >> $GITHUB_OUTPUT
+          fi
+
+    outputs:
+      SHOULD_BUILD: ${{ steps.should_build.outputs.SHOULD_BUILD }}
+
+  build:
+    permissions: write-all
+    needs: check
+    uses: ./.github/workflows/build.yml
+    if: ${{ needs.check.outputs.SHOULD_BUILD == 1 }}
+    secrets: inherit

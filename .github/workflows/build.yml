@@ -1,0 +1,28 @@
+name: Build Playlist
+on: [workflow_call, workflow_dispatch]
+
+jobs:
+  run:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v3
+        with:
+          fetch-depth: 0
+          submodules: true
+
+      - name: Switch to update branch
+        run: git checkout -f update || git switch --discard-changes --orphan update
+
+      - name: Update saka playlist
+        id: update_config
+        shell: bash
+        run: |
+          bash live.sh
+
+      - uses: stefanzweifel/git-auto-commit-action@v4
+        with:
+          branch: update
+          skip_checkout: true
+          file_pattern: live.m3u
+          commit_message: Update saka playlist
