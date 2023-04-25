@@ -39,6 +39,9 @@ https://linear-490.frequency.stream/dist/vix/490/hls/master/playlist.m3u8
 #EXTINF:-1 group-title="Sports",DIRECTV SPORTS 🇦🇷
 http://gamsgo.cyou:8080/9a7c64ba/PJnnJEHm8BxxyKdg/67721
 
+#EXTINF:-1 group-title="Sports",DIRECTV SPORT 🇦🇷
+http://streamingprotv.com:8000/iptvkingpremiumultrax/Ig9L0fKOP2/234324
+
 #EXTINF:-1 group-title="Sports",BEIN SPORTS 1 🇶🇦
 http://109.202.99.203:8080/D2lWIJoM81/PaemWJL9gE/322
 
@@ -159,6 +162,21 @@ http://hostengine.live/live/wrecks82/habsiptv82/112415.m3u8
 #EXTINF:-1 group-title="Sports",NOVA Sport 3 🇨🇿 
 http://84.42.140.147:8890/hdmi
 
+#EXTINF:-1 group-title="Sports",DIRECTV SPORT 🇦🇷
+http://streamingprotv.com:8000/iptvkingpremiumultrax/Ig9L0fKOP2/234324
+
+#EXTINF:-1 group-title="Sports",DIRECTV SPORT 2 🇦🇷
+http://streamingprotv.com:8000/iptvkingpremiumultrax/Ig9L0fKOP2/234327
+
+#EXTINF:-1 group-title="Sports",DIRECTV SPORT + 🇦🇷
+http://streamingprotv.com:8000/iptvkingpremiumultrax/Ig9L0fKOP2/234329
+
+#EXTINF:-1 group-title="Sports",ESPN 🇦🇷
+http://45.190.13.50:8002/play/a01f/index.m3u8
+
+#EXTINF:-1 group-title="Sports",ESPN 2 🇦🇷
+http://45.190.13.50:8002/play/a01k/index.m3u8
+
 #EXTINF:-1 group-title="Sports",ESPN 🇦🇷
 http://170.83.242.8:5350/play/a00u
 
@@ -218,6 +236,9 @@ http://45.5.118.226:8000/play/a02v/index.m3u8
 
 #EXTINF:-1 group-title="Sports",CITY SPORTS 🇦🇷
 https://videosenlared.fullstreaming.ar:3697/live/contenidos34live.m3u8
+
+#EXTINF:-1 group-title="Sports",TNT 🇦🇷
+http://168.228.194.32:58001/play/a0bw/index.m3u8
 
 #EXTINF:-1 group-title="Sports",TV MAX 🇵🇦 
 https://bcovlive-a.akamaihd.net/474b6caf58f8407fb1d1cc1ef64f50ff/us-west-2/6058004209001/profile_0/chunklist_dvr.m3u8?
