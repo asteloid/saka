@@ -69,6 +69,12 @@ http://hostengine.live/live/wrecks82/habsiptv82/58551.m3u8
 #EXTINF:-1 group-title="Sports",Eleven 3 HD 🇵🇹
 http://hostengine.live/live/wrecks82/habsiptv82/58552.m3u8
 
+#EXTINF:-1 group-title="Sports",S SPORT 🇹🇷
+http://gamsgo.cyou:8080/9a7c64ba/PJnnJEHm8BxxyKdg/1753
+
+#EXTINF:-1 group-title="Sports",S SPORT 2 🇹🇷
+http://gamsgo.cyou:8080/9a7c64ba/PJnnJEHm8BxxyKdg/10167
+
 #EXTINF:-1 group-title="Sports",DAZN LALIGA 🇪🇸
 http://168.228.194.32:58001/play/z002/index.m3u8
 
