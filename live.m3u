@@ -36,6 +36,9 @@ https://linear-489.frequency.stream/dist/vix/489/hls/master/playlist.m3u8
 #EXTINF:-1 group-title="Sports",VIX 2 🇨🇷
 https://linear-490.frequency.stream/dist/vix/490/hls/master/playlist.m3u8
 
+#EXTINF:-1 group-title="Sports",DIRECTV SPORTS 🇦🇷
+http://gamsgo.cyou:8080/9a7c64ba/PJnnJEHm8BxxyKdg/67721
+
 #EXTINF:-1 group-title="Sports",BEIN SPORTS 1 🇶🇦
 http://109.202.99.203:8080/D2lWIJoM81/PaemWJL9gE/322
 
@@ -44,6 +47,9 @@ http://line.365tv.xyz:8060/live/HNf5n8njq9FK/betasee4j8Gq/90154.ts
 
 #EXTINF:-1 group-title="Sports",CBC SPORT 🇦🇿
 http://130.185.236.8:12560/play/a081
+
+#EXTINF:-1 group-title="Sports",CBC SPORT 🇦🇿
+http://gamsgo.cyou:8080/9a7c64ba/PJnnJEHm8BxxyKdg/290202
 
 #EXTINF:-1 group-title="Sports",MOVISTAR LALIGA 🇪🇸
 http://51.91.8.161:18000/M_LaLiga/hls/playlist.m3u8
@@ -80,6 +86,15 @@ http://gamsgo.cyou:8080/9a7c64ba/PJnnJEHm8BxxyKdg/1753
 
 #EXTINF:-1 group-title="Sports",S SPORT 2 🇹🇷
 http://gamsgo.cyou:8080/9a7c64ba/PJnnJEHm8BxxyKdg/10167
+
+#EXTINF:-1 group-title="Sports",K SPORT 1 🇦🇱
+http://gamsgo.cyou:8080/9a7c64ba/PJnnJEHm8BxxyKdg/1863
+
+#EXTINF:-1 group-title="Sports",NOVA SPORT 1 🇬🇷
+http://gamsgo.cyou:8080/9a7c64ba/PJnnJEHm8BxxyKdg/12844
+
+#EXTINF:-1 group-title="Sports",SPILER 2 🇭🇺
+http://gamsgo.cyou:8080/9a7c64ba/PJnnJEHm8BxxyKdg/77769
 
 #EXTINF:-1 group-title="Sports",DAZN LALIGA 🇪🇸
 http://168.228.194.32:58001/play/z002/index.m3u8
