@@ -1,19 +1,3 @@
-#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/jiz6iruaxep7up8/live2.png" group-title="Live Events",Cadiz vs Osasuna
-https://3e2c221d70ae22493725da7ff1bfba5c.livehwc3.cn/pull06.scstream.net/live/stream-360663_lhd.m3u8?sub_m3u8=true&edge_slice=true&user_session_id=6b3767b07f9ad0e25088983de44bdc4d&auth_key=1682464415-0-0-ae71c386ce816ef8a3583fb700cb3e35
-#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/jiz6iruaxep7up8/live2.png" group-title="Live Events",Cadiz vs Osasuna
-https://0255aacae47ba4334f30564256a2a325.livehwc3.cn/pull.juqihuo.com/live/stream-482183_lhd.m3u8?edge_slice=true&auth_key=1682464906-0-0-cdc94ca3c4ffb1508b3eb5f874bbbbf5&user_session_id=f743fa464a97da89b1961e4660688908&sub_m3u8=true
-#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/jiz6iruaxep7up8/live2.png" group-title="Live Events",Cadiz vs Osasuna
-https://3e2c221d70ae22493725da7ff1bfba5c.livehwc3.cn/pull06.scstream.net/live/stream-360663_lhd.m3u8?sub_m3u8=true&edge_slice=true&user_session_id=6b3767b07f9ad0e25088983de44bdc4d&auth_key=1682464415-0-0-ae71c386ce816ef8a3583fb700cb3e35
-#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/jiz6iruaxep7up8/live2.png" group-title="Live Events",Cadiz vs Osasuna
-https://1123139281.cdn.khmer-hd.com/may11/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/jiz6iruaxep7up8/live2.png" group-title="Live Events",Girona vs Real Madrid
-https://sports01.livnvess.com/live/stream-190631_lhd.m3u8?txSecret=81e4446012c8775b0001044f549867aa&txTime=64485b1b
-#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/jiz6iruaxep7up8/live2.png" group-title="Live Events",Girona vs Real Madrid
-https://yypull.gdsth.com/live/stream-643519.m3u8?auth_key=1682465026-0-0-16796c9698e36865a1cfea94ce801f3f
-#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/jiz6iruaxep7up8/live2.png" group-title="Live Events",Girona vs Real Madrid
-https://sports01.livnvess.com/live/stream-190631_lhd.m3u8?txSecret=81e4446012c8775b0001044f549867aa&txTime=64485b1b
-#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/jiz6iruaxep7up8/live2.png" group-title="Live Events",Girona vs Real Madrid
-https://obevcimanyd179314182.thapcam.link/live/may1SD/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/jiz6iruaxep7up8/live2.png" group-title="Live Events",Wolves vs Crystal Palace
 https://0255aacae47ba4334f30564256a2a325.livehwc3.cn/pull06.scstream.net/live/stream-122774_lhd.m3u8?edge_slice=true&user_session_id=1caed60f0597e870676cce0148aeefc5&auth_key=1682467415-0-0-551192e9248ba6233dc96c7200f0656f&sub_m3u8=true
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/jiz6iruaxep7up8/live2.png" group-title="Live Events",Wolves vs Crystal Palace
@@ -39,13 +23,13 @@ https://sports01.livnvess.com/live/stream-121256_lhd.m3u8?txSecret=c2351e2b2edb2
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/jiz6iruaxep7up8/live2.png" group-title="Live Events",Leeds vs Leicester
 https://sports01.livnvess.com/live/stream-121256_lhd.m3u8?txSecret=c2351e2b2edb26c5ef2cae0b8bf127d1&txTime=64487033
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/jiz6iruaxep7up8/live2.png" group-title="Live Events",Real Betis vs Real Sociedad
-https
+https://0255aacae47ba4334f30564256a2a325.livehwc3.cn/pull06.scstream.net/live/stream-105131_lhd.m3u8?edge_slice=true&sub_m3u8=true&user_session_id=5c49b8c98eee8dd09b8859ad29264bd8&auth_key=1682472977-0-0-5b89a05d63c5b3af0bb0a4977bc3c978
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/jiz6iruaxep7up8/live2.png" group-title="Live Events",Real Betis vs Real Sociedad
-https
+https://0255aacae47ba4334f30564256a2a325.livehwc3.cn/pull06.scstream.net/live/stream-105131_lhd.m3u8?edge_slice=true&sub_m3u8=true&user_session_id=0a5ceb45abbc24a493a3106eb8c53176&auth_key=1682472977-0-0-5b89a05d63c5b3af0bb0a4977bc3c978
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/jiz6iruaxep7up8/live2.png" group-title="Live Events",Real Betis vs Real Sociedad
-https
+https://0255aacae47ba4334f30564256a2a325.livehwc3.cn/pull06.scstream.net/live/stream-105131_lhd.m3u8?user_session_id=7efb5ca965a8a406a8e2766e0a295caf&sub_m3u8=true&auth_key=1682472977-0-0-5b89a05d63c5b3af0bb0a4977bc3c978&edge_slice=true
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/jiz6iruaxep7up8/live2.png" group-title="Live Events",Real Betis vs Real Sociedad
-https
+https://0255aacae47ba4334f30564256a2a325.livehwc3.cn/pull06.scstream.net/live/stream-105131_lhd.m3u8?user_session_id=7efb5ca965a8a406a8e2766e0a295caf&sub_m3u8=true&auth_key=1682472977-0-0-5b89a05d63c5b3af0bb0a4977bc3c978&edge_slice=true
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/jiz6iruaxep7up8/live2.png" group-title="Live Events",Atletico Madrid vs Mallorca 
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/jiz6iruaxep7up8/live2.png" group-title="Live Events",Atletico Madrid vs Mallorca 
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/jiz6iruaxep7up8/live2.png" group-title="Live Events",Atletico Madrid vs Mallorca 
