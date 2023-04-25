@@ -1,9 +1,9 @@
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/jiz6iruaxep7up8/live2.png" group-title="Live Events",Cadiz vs Osasuna
-https://0255aacae47ba4334f30564256a2a325.livehwc3.cn/pull06.scstream.net/live/stream-360663_lhd.m3u8?sub_m3u8=true&auth_key=1682464055-0-0-b021747d36de81e8ef9437999ce9c35d&edge_slice=true&user_session_id=cffeff5a753c823a6101102a7fd79717
+https://3e2c221d70ae22493725da7ff1bfba5c.livehwc3.cn/pull06.scstream.net/live/stream-360663_lhd.m3u8?sub_m3u8=true&edge_slice=true&user_session_id=6b3767b07f9ad0e25088983de44bdc4d&auth_key=1682464415-0-0-ae71c386ce816ef8a3583fb700cb3e35
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/jiz6iruaxep7up8/live2.png" group-title="Live Events",Cadiz vs Osasuna
 https://0255aacae47ba4334f30564256a2a325.livehwc3.cn/pull.juqihuo.com/live/stream-482183_lhd.m3u8?edge_slice=true&auth_key=1682464906-0-0-cdc94ca3c4ffb1508b3eb5f874bbbbf5&user_session_id=f743fa464a97da89b1961e4660688908&sub_m3u8=true
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/jiz6iruaxep7up8/live2.png" group-title="Live Events",Cadiz vs Osasuna
-https://0255aacae47ba4334f30564256a2a325.livehwc3.cn/pull06.scstream.net/live/stream-360663_lhd.m3u8?sub_m3u8=true&auth_key=1682464055-0-0-b021747d36de81e8ef9437999ce9c35d&edge_slice=true&user_session_id=cb3c4bc307587243312fbd4da94b2870
+https://3e2c221d70ae22493725da7ff1bfba5c.livehwc3.cn/pull06.scstream.net/live/stream-360663_lhd.m3u8?sub_m3u8=true&edge_slice=true&user_session_id=6b3767b07f9ad0e25088983de44bdc4d&auth_key=1682464415-0-0-ae71c386ce816ef8a3583fb700cb3e35
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/jiz6iruaxep7up8/live2.png" group-title="Live Events",Cadiz vs Osasuna
 https://1123139281.cdn.khmer-hd.com/may11/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/jiz6iruaxep7up8/live2.png" group-title="Live Events",Girona vs Real Madrid
@@ -74,11 +74,20 @@ https://linear-489.frequency.stream/dist/vix/489/hls/master/playlist.m3u8
 #EXTINF:-1 group-title="Sports",VIX 2 🇨🇷
 https://linear-490.frequency.stream/dist/vix/490/hls/master/playlist.m3u8
 
+#EXTINF:-1 group-title="Sports",VIX 1 🇨🇷
+https://linear-489.frequency.stream:443/dist/vix/489/hls/master/playlist_1024x576.m3u8
+
 #EXTINF:-1 group-title="Sports",DIRECTV SPORTS 🇦🇷
 http://gamsgo.cyou:8080/9a7c64ba/PJnnJEHm8BxxyKdg/67721
 
-#EXTINF:-1 group-title="Sports",DIRECTV SPORT 🇦🇷
+#EXTINF:-1 group-title="Sports",DIRECTV SPORTS 🇦🇷
 http://streamingprotv.com:8000/iptvkingpremiumultrax/Ig9L0fKOP2/234324
+
+#EXTINF:-1 group-title="Sports",ESPN DEPORTES 🇺🇸
+http://gamsgo.cyou:8080/9a7c64ba/PJnnJEHm8BxxyKdg/281417
+
+#EXTINF:-1 group-title="Sports",ESPN DEPORTES 🇺🇸
+http://gamsgo.cyou:8080/9a7c64ba/PJnnJEHm8BxxyKdg/6446
 
 #EXTINF:-1 group-title="Sports",BEIN SPORTS 1 🇶🇦
 http://109.202.99.203:8080/D2lWIJoM81/PaemWJL9gE/322
