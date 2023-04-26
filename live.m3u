@@ -78,10 +78,7 @@ https://linear-490.frequency.stream/dist/vix/490/hls/master/playlist.m3u8
 https://linear-489.frequency.stream:443/dist/vix/489/hls/master/playlist_1024x576.m3u8
 
 #EXTINF:-1 group-title="Sports",VIX 2 HD 🇨🇷
-https://linear-489.frequency.stream:443/dist/vix/490/hls/master/playlist_1024x576.m3u8
-
-#EXTINF:-1 group-title="Sports",ESPN 2 🇦🇷
-http://45.190.13.50:8002/play/a01k/index.m3u8
+https://linear-489.frequency.stream:443/dist/vix/489/hls/master/playlist_1024x576.m3u8
 
 #EXTINF:-1 group-title="Sports",DIRECTV SPORTS 🇦🇷
 http://gamsgo.cyou:8080/9a7c64ba/PJnnJEHm8BxxyKdg/67721
@@ -97,9 +94,6 @@ http://gamsgo.cyou:8080/9a7c64ba/PJnnJEHm8BxxyKdg/6446
 
 #EXTINF:-1 group-title="Sports",ESPN DEPORTES 🇺🇸
 http://tbs-tv.com:8080/dark/kittylinetv/4102
-
-#EXTINF:-1 group-title="Sports",BEIN SPORTS 1 🇶🇦
-http://109.202.99.203:8080/D2lWIJoM81/PaemWJL9gE/322
 
 #EXTINF:-1 group-title="Sports",BEIN SPORTS 1 🇶🇦
 http://line.365tv.xyz:8060/live/HNf5n8njq9FK/betasee4j8Gq/90154.ts
