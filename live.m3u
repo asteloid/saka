@@ -137,8 +137,17 @@ http://tbs-tv.com:8080/dark/kittylinetv/13572
 #EXTINF:-1 group-title="Sports",K SPORT 1 🇦🇱
 http://faucontv.live:8080/wAWmFm67/xCemnPk/115735
 
+#EXTINF:-1 group-title="Sports",DAZN LALIGA 🇪🇸
+http://s@gamsgo.cyou:8080/live/resplice/ZRjQaEa7z6uxRhd4/297787.m3u8
+
 #EXTINF:-1 group-title="Sports",BEIN SPORTS 1 🇶🇦
 http://line.365tv.xyz:8060/live/HNf5n8njq9FK/betasee4j8Gq/90154.ts
+
+#EXTINF:-1 group-title="Sports",BEIN SPORTS 1 🇶🇦
+http://s@restream.my-iptv.net:8080/live/Kyriama/j4Knt3wW/2615.m3u8
+
+#EXTINF:-1 group-title="Sports",SPORTS 18 🇮🇳
+https://prod-sports-north-gm.jiocinema.com/bpk-tv/Sports18_1_HD_voot_MOB/Fallback/index.m3u8
 
 #EXTINF:-1 group-title="Sports",CBC SPORT 🇦🇿
 http://130.185.236.8:12560/play/a081
@@ -517,6 +526,9 @@ http://edge02.odtv.az/o4/beinsport/playlist.m3u8
 
 #EXTINF:-1 group-title="Sports",VIAPLAY SPORT 1 🇬🇧
 https://d3j7ofexbkp7q4.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-bl5ti7t9yiazp-ssai-prd/master.m3u8
+
+#EXTINF:-1 group-title="Sports",VIAPLAY EXTRA 🇬🇧
+https://s@d3j7ofexbkp7q4.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-bl5ti7t9yiazp-ssai-prd/master.m3u8
 
 #EXTINF:-1 group-title="Sports",BT SPORT 1 🇬🇧
 http://50.7.89.130:8080/g78fqx/video.m3u8?token=ZKF89T31BF
