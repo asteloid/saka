@@ -1478,5 +1478,24 @@ http://star8iptv.com:2082/avanger-discord/UUYZM7aYjXCj/153575
 #EXTINF:-1 group-title="Sports",HRT 2 🇭🇷
 http://195.29.70.84/PLTV/88888888/224/3221226140/04.m3u8
 
+#EXTINF:-1 group-title="Sports",DIGI Sport 1
+http://5.15.2.36:4100/play/a017
+#EXTINF:-1 group-title="Sports",DIGI Sport 2
+http://5.15.2.36:4100/play/a005
+#EXTINF:-1 group-title="Sports",DIGI Sport 3
+http://5.15.2.36:4100/play/a018
+#EXTINF:-1 group-title="Sports",DIGI Sport 4
+http://5.15.2.36:4100/play/a00o
+#EXTINF:-1 group-title="Sports",TV2 Sport 2 HD (NO)
+http://195.222.7.26:7011/play/a02j
+#EXTINF:-1 group-title="Sports",Vivaro Arena
+http://178.160.249.200:8000/play/a006/index.m3u8
+#EXTINF:-1 group-title="Sports",Vivaro sport
+http://178.160.249.200:8000/play/a004/index.m3u8
+#EXTINF:-1 group-title="Sports",Vivaro sport +
+http://178.160.249.200:8000/play/a005/index.m3u8
+#EXTINF:-1 group-title="Sports",sport1tn
+http://14.225.44.14:5544/play/sport1tn/index.m3u8
+
 #EXTINF:-1 group-title="Sports",REAL MADRID TV
 https://rmtv.akamaized.net/hls/live/2043154/rmtv-en-web/bitrate_3.m3u8
