@@ -139,6 +139,9 @@ https://obevcimanyd179314182.thapcam.link/live/batSD/chunklist.m3u8
 #EXTINF:-1 group-title="Sports",TELECOSTA
 https://tv91.hostingnuclear.com:19360/telecosta/telecosta.m3u8
 
+#EXTINF:-1 group-title="Sports",ESPN ARG 🇦🇷
+http://45.190.13.50:8002/play/a01f/index.m3u8
+
 #EXTINF:-1 group-title="Sports",BEIN SPORTS 1 🇶🇦
 http://50740659334333782.opword.xyz:80/play/Sergio402/Sergio402M12/333782.ts
 
@@ -435,21 +438,6 @@ http://hyqzethr.megatv.fun/iptv/Q6F448PSWCKGPC/19161/index.m3u8
 
 #EXTINF:-1 group-title="Sports",SPORT TV 2 HD 🇵🇹
 http://50.7.89.130:8080/5k21z3/video.m3u8?token=ZKF89T31BF
-
-#EXTINF:-1 group-title="Sports",BEIN 1 🇫🇷 
-http://mk3gi6qo.russtv.net/iptv/3PAWQ6X49YQUC8/2499/index.m3u8
-
-#EXTINF:-1 group-title="Sports",BEIN 2 🇫🇷 
-http://mk3gi6qo.russtv.net/iptv/3PAWQ6X49YQUC8/2500/index.m3u8
-
-#EXTINF:-1 group-title="Sports",BEIN 3 🇫🇷 
-http://mk3gi6qo.russtv.net/iptv/3PAWQ6X49YQUC8/2501/index.m3u8
-
-#EXTINF:-1 group-title="Sports",BEIN 1 🇫🇷 
-http://cloudcdn.city:80/BlIm21564/agf7Fp264/14977
-
-#EXTINF:-1 group-title="Sports",RMC 1 🇫🇷 
-http://cloudcdn.city:80/BlIm21564/agf7Fp264/13182
 
 #EXTINF:-1 group-title="Sports",BEIN 1 🇬🇧
 http://edge02.odtv.az/o4/beinsport/playlist.m3u8
