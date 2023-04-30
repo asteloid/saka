@@ -22,10 +22,14 @@ https://ab8b015f73be7afff38f332fb2361575.livehwc3.cn/pull.juqihuo.com/live/strea
 https://1123139281.cdn.khmer-hd.com/may10/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/jiz6iruaxep7up8/live2.png" group-title="Live Events",Cadiz vs Valencia
 https://sports01.livnvess.com/live/stream-107307_lhd.m3u8?txSecret=64610ced490c26469cd1d5c790a40bdf&txTime=644ea7d7
-#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/jiz6iruaxep7up8/live2.png" group-title="Live Events",Clermont Foot vs Reims 
-#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/jiz6iruaxep7up8/live2.png" group-title="Live Events",Clermont Foot vs Reims 
-#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/jiz6iruaxep7up8/live2.png" group-title="Live Events",Clermont Foot vs Reims 
-#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/jiz6iruaxep7up8/live2.png" group-title="Live Events",Clermont Foot vs Reims 
+#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/jiz6iruaxep7up8/live2.png" group-title="Live Events",Clermont Foot vs Reims
+https://0255aacae47ba4334f30564256a2a325.livehwc3.cn/pull06.scstream.net/live/stream-105723_lhd.m3u8?edge_slice=true&auth_key=1682880815-0-0-aa91de4ec896ff38ccf112940dd60559&user_session_id=f8c1ba0f4d58bcab5e5f01890ea58de4&sub_m3u8=true
+#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/jiz6iruaxep7up8/live2.png" group-title="Live Events",Clermont Foot vs Reims
+https://0255aacae47ba4334f30564256a2a325.livehwc3.cn/pull06.scstream.net/live/stream-105723_lhd.m3u8?edge_slice=true&auth_key=1682880815-0-0-aa91de4ec896ff38ccf112940dd60559&user_session_id=f8c1ba0f4d58bcab5e5f01890ea58de4&sub_m3u8=true
+#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/jiz6iruaxep7up8/live2.png" group-title="Live Events",Clermont Foot vs Reims
+https://0255aacae47ba4334f30564256a2a325.livehwc3.cn/pull06.scstream.net/live/stream-105723_lhd.m3u8?edge_slice=true&auth_key=1682880815-0-0-aa91de4ec896ff38ccf112940dd60559&user_session_id=f8c1ba0f4d58bcab5e5f01890ea58de4&sub_m3u8=true
+#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/jiz6iruaxep7up8/live2.png" group-title="Live Events",Clermont Foot vs Reims
+https://0255aacae47ba4334f30564256a2a325.livehwc3.cn/pull06.scstream.net/live/stream-105723_lhd.m3u8?edge_slice=true&auth_key=1682880815-0-0-aa91de4ec896ff38ccf112940dd60559&user_session_id=f8c1ba0f4d58bcab5e5f01890ea58de4&sub_m3u8=true
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/jiz6iruaxep7up8/live2.png" group-title="Live Events",Rennes vs Angers 
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/jiz6iruaxep7up8/live2.png" group-title="Live Events",Rennes vs Angers 
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/jiz6iruaxep7up8/live2.png" group-title="Live Events",Rennes vs Angers 
@@ -118,6 +122,9 @@ https://sports01.livnvess.com/live/stream-107307_lhd.m3u8?txSecret=64610ced490c2
 
 #EXTINF:-1 group-title="Sports",TELECOSTA
 https://tv91.hostingnuclear.com:19360/telecosta/telecosta.m3u8
+
+#EXTINF:-1 group-title="Sports",CANAL CHINO 🇨🇳
+https://49c1f938208318cdf8288bc36b62472a.livehwc3.cn/pull.juqihuo.com/live/stream-8456863_lhd.m3u8?edge_slice=true&sub_m3u8=true&user_session_id=97260c2df0c4a7a2a94a756e4cc855ed&auth_key=1682877407-0-0-fa77719f739f5b916d17ba106ca47bdb
 
 #EXTINF:-1 group-title="Sports",S LALIGA 🇿🇦
 https://s1.thegentleclass.xyz/class6_hd/index.m3u8
