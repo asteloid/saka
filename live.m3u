@@ -6,9 +6,6 @@ https://tv91.hostingnuclear.com:19360/telecosta/telecosta.m3u8
 #EXTINF:-1 group-title="Sports",ESPN ARG 🇦🇷
 http://45.190.13.50:8002/play/a01f/index.m3u8
 
-#EXTINF:-1 group-title="Sports",ESPN DEPORTES 🇺🇸
-https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/15970
-
 #EXTINF:-1 group-title="Sports",BEIN SPORTS 1 🇶🇦
 http://50740659334333782.opword.xyz:80/play/Sergio402/Sergio402M12/333782.ts
 
@@ -1393,6 +1390,9 @@ http://14.225.44.14:5544/play/sport1tn/index.m3u8
 http://103.82.24.168:5544/play/sdsport1/index.m3u8
 #EXTINF:-1 group-title="Sports",sdsport2
 http://103.82.24.168:5544/play/sdsport2/index.m3u8
+
+#EXTINF:-1 group-title="Sports",ALCARAZ
+https://loja.rarp.com.br:443/wp-content/plugins/super-links/application/helpers/super-links-proxy.php/https:/playoutengine.sinclairstoryline.com/playout/f2f8b269-dd85-4434-bdd3-b3a64ca9cd60/g.m3u8
 
 #EXTINF:-1 group-title="Sports",REAL MADRID TV
 https://rmtv.akamaized.net/hls/live/2043154/rmtv-en-web/bitrate_3.m3u8
