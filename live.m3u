@@ -38,10 +38,14 @@ https://sports01.livnvess.com/live/stream-113906_lhd.m3u8?txSecret=ea36047eefa08
 https://sports01.livnvess.com/live/stream-113906_lhd.m3u8?txSecret=ea36047eefa08911e171c107cd4e0b5c&txTime=644edeeb
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/jiz6iruaxep7up8/live2.png" group-title="Live Events",Fiorentina vs Sampdoria
 https://sports01.livnvess.com/live/stream-113906_lhd.m3u8?txSecret=ea36047eefa08911e171c107cd4e0b5c&txTime=644edeeb
-#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/jiz6iruaxep7up8/live2.png" group-title="Live Events",Espanyol vs Getafe 
-#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/jiz6iruaxep7up8/live2.png" group-title="Live Events",Espanyol vs Getafe 
-#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/jiz6iruaxep7up8/live2.png" group-title="Live Events",Espanyol vs Getafe 
-#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/jiz6iruaxep7up8/live2.png" group-title="Live Events",Espanyol vs Getafe 
+#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/jiz6iruaxep7up8/live2.png" group-title="Live Events",Espanyol vs Getafe
+https://0255aacae47ba4334f30564256a2a325.livehwc3.cn/pull06.scstream.net/live/stream-208390_lhd.m3u8?auth_key=1682893235-0-0-2dfb42bc5a5bd55f914c769c620affb2&sub_m3u8=true&edge_slice=true&user_session_id=0ecb98770da11888e04145fb090eb691
+#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/jiz6iruaxep7up8/live2.png" group-title="Live Events",Espanyol vs Getafe
+https://0255aacae47ba4334f30564256a2a325.livehwc3.cn/pull06.scstream.net/live/stream-208390_lhd.m3u8?user_session_id=b09f1ca9a057b90385baf64dc2be6f14&edge_slice=true&sub_m3u8=true&auth_key=1682893235-0-0-2dfb42bc5a5bd55f914c769c620affb2
+#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/jiz6iruaxep7up8/live2.png" group-title="Live Events",Espanyol vs Getafe
+https://0255aacae47ba4334f30564256a2a325.livehwc3.cn/pull06.scstream.net/live/stream-208390_lhd.m3u8?auth_key=1682893235-0-0-2dfb42bc5a5bd55f914c769c620affb2&user_session_id=0a01f33bdaf95439a27c4b05dddcd811&edge_slice=true&sub_m3u8=true
+#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/jiz6iruaxep7up8/live2.png" group-title="Live Events",Espanyol vs Getafe
+https://0255aacae47ba4334f30564256a2a325.livehwc3.cn/pull06.scstream.net/live/stream-208390_lhd.m3u8?auth_key=1682893235-0-0-2dfb42bc5a5bd55f914c769c620affb2&user_session_id=0a01f33bdaf95439a27c4b05dddcd811&edge_slice=true&sub_m3u8=true
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/jiz6iruaxep7up8/live2.png" group-title="Live Events",Marseille vs Auxerre 
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/jiz6iruaxep7up8/live2.png" group-title="Live Events",Marseille vs Auxerre 
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/jiz6iruaxep7up8/live2.png" group-title="Live Events",Marseille vs Auxerre 
@@ -70,9 +74,6 @@ https://sports01.livnvess.com/live/stream-113906_lhd.m3u8?txSecret=ea36047eefa08
 
 #EXTINF:-1 group-title="Sports",TELECOSTA
 https://tv91.hostingnuclear.com:19360/telecosta/telecosta.m3u8
-
-#EXTINF:-1 group-title="Sports",CANAL CHINO 🇨🇳
-https://49c1f938208318cdf8288bc36b62472a.livehwc3.cn/pull.juqihuo.com/live/stream-8456863_lhd.m3u8?edge_slice=true&sub_m3u8=true&user_session_id=97260c2df0c4a7a2a94a756e4cc855ed&auth_key=1682877407-0-0-fa77719f739f5b916d17ba106ca47bdb
 
 #EXTINF:-1 group-title="Sports",ESPN ARG 🇦🇷
 http://45.190.13.50:8002/play/a01f/index.m3u8
