@@ -31,13 +31,13 @@ https://7992be6d488db9d33fd803b87f5537aa.livehwc3.cn/pull.juqihuo.com/live/strea
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/jiz6iruaxep7up8/live2.png" group-title="Live Events",Arsenal vs Chelsea
 https://sports01.livnvess.com/live/stream-941508_lhd.m3u8?txSecret=a93918492f6ca480bab0ad91073cd0a4&txTime=6451abdf
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/jiz6iruaxep7up8/live2.png" group-title="Live Events",Toulouse vs Lens
-https
+https://3e2c221d70ae22493725da7ff1bfba5c.livehwc3.cn/pull06.scstream.net/live/stream-385085_lhd.m3u8?sub_m3u8=true&user_session_id=58e9b008a48632a97f88ff423bee8c08&auth_key=1683074255-0-0-ede2cf445debd67fb3368581bcf17202&edge_slice=true
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/jiz6iruaxep7up8/live2.png" group-title="Live Events",Toulouse vs Lens
-https
+https://0255aacae47ba4334f30564256a2a325.livehwc3.cn/pull06.scstream.net/live/stream-435421_lhd.m3u8?auth_key=1683074555-0-0-19adf85703d3973c9d97851d9f0bff05&user_session_id=3bcabacffbe683c5371e86bcebbb78d3&edge_slice=true&sub_m3u8=true
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/jiz6iruaxep7up8/live2.png" group-title="Live Events",Toulouse vs Lens
-https
+https://3e2c221d70ae22493725da7ff1bfba5c.livehwc3.cn/pull06.scstream.net/live/stream-385085_lhd.m3u8?auth_key=1683074255-0-0-ede2cf445debd67fb3368581bcf17202&edge_slice=true&sub_m3u8=true&user_session_id=2489bd5fc33fc326ca02e221317e8916
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/jiz6iruaxep7up8/live2.png" group-title="Live Events",Toulouse vs Lens
-https
+https://0255aacae47ba4334f30564256a2a325.livehwc3.cn/pull06.scstream.net/live/stream-435421_lhd.m3u8?auth_key=1683074555-0-0-19adf85703d3973c9d97851d9f0bff05&user_session_id=9c3e034419e0ee254ffd022983fa8a45&edge_slice=true&sub_m3u8=true
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/jiz6iruaxep7up8/live2.png" group-title="Live Events",Real Sociedad vs Real Madrid 
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/jiz6iruaxep7up8/live2.png" group-title="Live Events",Real Sociedad vs Real Madrid 
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/jiz6iruaxep7up8/live2.png" group-title="Live Events",Real Sociedad vs Real Madrid 
@@ -109,6 +109,9 @@ http://130.185.236.8:12560/play/a081
 
 #EXTINF:-1 group-title="Sports",SPORTS 18 🇮🇳
 https://prod-sports-north-gm.jiocinema.com/bpk-tv/Sports18_1_HD_voot_MOB/Fallback/index.m3u8
+
+#EXTINF:-1 group-title="Sports",BEIN SPORTS 1 🇶🇦
+https://mo3ad@cdn2.livehd720.com/hlsbeinpp1/beinpp1/playlist.m3u8
 
 #EXTINF:-1 group-title="Sports",BELARUS 5 🇧🇾
 rtmp://5.182.231.251//2175
