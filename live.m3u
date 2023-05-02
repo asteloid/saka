@@ -84,9 +84,6 @@
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/jiz6iruaxep7up8/live2.png" group-title="Live Events",Getafe vs Celta Vigo 
 
 
-#EXTINF:-1 group-title="Sports",TELECOSTA
-https://tv91.hostingnuclear.com:19360/telecosta/telecosta.m3u8
-
 #EXTINF:-1 group-title="Sports",CBC SPORT 🇦🇿
 http://130.185.236.8:12560/play/a081
 
