@@ -164,9 +164,6 @@ http://tbs-tv.com:8080/dark/kittylinetv/10251
 #EXTINF:-1 group-title="Sports",Eleven 2 HD 🇵🇹
 http://star8iptv.com:2082/avanger-discord/UUYZM7aYjXCj/224095
 
-#EXTINF:-1 group-title="Sports",MACIAS
-https://live-1n1ugl24.rmbl.ws/slot-46/ixvn-t2u7_720p/chunklist.m3u8
-
 #EXTINF:-1 group-title="Sports",BEIN SPORTS 1 PREMIUM 🇶🇦
 http://hostengine.live/live/wrecks82/habsiptv82/56339.m3u8
 
@@ -175,6 +172,12 @@ http://178.160.249.200:8000/play/a005/index.m3u8
 
 #EXTINF:-1 group-title="Sports",WEBOTV
 https://1123139281.cdn.khmer-hd.com/may1HD/playlist.m3u8
+
+#EXTINF:-1 group-title="Sports",MACIAS
+https://live-gke17oc4.rmbl.ws/slot-100/9iso-gfjp_720p/chunklist.m3u8
+
+#EXTINF:-1 group-title="Sports",MACIAS
+https://live-gke17oc4.rmbl.ws/slot-63/lgn5-0fcv_720p/chunklist.m3u8
 
 #EXTINF:-1 group-title="Sports",MOVISTAR LALIGA 🇪🇸
 http://51.91.8.161:18000/M_LaLiga/hls/playlist.m3u8
