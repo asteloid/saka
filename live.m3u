@@ -16,6 +16,12 @@
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/jiz6iruaxep7up8/live2.png" group-title="Live Events",West Ham vs AZ Alkmaar 
 
 
+#EXTINF:-1 group-title="Sports",МАТЧ ПРЕМЬЕР HD 🇷🇺 
+https://bl.uma.media/live/126866/HLS/6866944_4,4614144_3,2883584_2,1153024_1/1613528396/a906596714d5111da51743ee194afc5f/playlist.m3u8
+
+#EXTINF:-1 group-title="Sports",МАТЧ ПРЕМЬЕР HD 🇷🇺 
+https://bl.uma.media/live/126866/HLS/6866944_4/2/1/playlist.m3u8
+
 #EXTINF:-1 group-title="Sports",EUROSPORT GIRO 
 http://medotv.nl:8000/megaott1000/gtSwbCLSSS/77164
 
@@ -79,8 +85,14 @@ http://hidra.live:80/zvwfwyhz/z7680ifYPc/303757
 #EXTINF:-1 group-title="Sports",Setanta Sports 1 HD 🇷🇺
 https://livetv.mylifeisgood.ml/channels/setantahd
 
+#EXTINF:-1 group-title="Sports",Setanta Sports 1 HD 🇷🇺
+http://176.222.190.76/btv/SWM/SetantaSport_HD/SetantaSport_HD_1080p_5000kbps.m3u8
+
 #EXTINF:-1 group-title="Sports",Setanta Sports 2 HD 🇷🇺
 https://livetv.mylifeisgood.ml/channels/setantaplus
+
+#EXTINF:-1 group-title="Sports",Setanta Sports 2 HD 🇷🇺
+http://176.222.190.76/btv/SWM/SetantaSportPlus_HD/SetantaSportPlus_HD_1080p_5000kbps.m3u8
 
 #EXTINF:-1 group-title="Sports",Setanta Ukraine + 🇺🇦
 http://95.67.12.89:9013
@@ -477,6 +489,9 @@ http://37403135.cbilant.com/iptv/UQMAC8KDXRUSKG/522/index.m3u8
 
 #EXTINF:-1 group-title="Sports",МАТЧ ПРЕМЬЕР HD 🇷🇺 
 https://bl.uma.media/live/126866/HLS/6866944_4,4614144_3,2883584_2,1153024_1/1613528396/a906596714d5111da51743ee194afc5f/playlist.m3u8
+
+#EXTINF:-1 group-title="Sports",МАТЧ ПРЕМЬЕР HD 🇷🇺 
+https://bl.uma.media/live/126866/HLS/6866944_4/2/1/playlist.m3u8
 
 #EXTINF:-1 group-title="Sports",МАТЧ Футбол 1 HD 🇷🇺
 http://bl.uma.media/live/126863/HLS/6866944_4/2/1/playlist.m3u8
