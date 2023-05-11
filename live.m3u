@@ -14,6 +14,22 @@
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/jiz6iruaxep7up8/live2.png" group-title="Live Events",West Ham vs AZ Alkmaar 
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/jiz6iruaxep7up8/live2.png" group-title="Live Events",West Ham vs AZ Alkmaar 
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/jiz6iruaxep7up8/live2.png" group-title="Live Events",West Ham vs AZ Alkmaar 
+#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/jiz6iruaxep7up8/live2.png" group-title="Live Events",Koln vs Hertha BSC 
+#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/jiz6iruaxep7up8/live2.png" group-title="Live Events",Koln vs Hertha BSC 
+#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/jiz6iruaxep7up8/live2.png" group-title="Live Events",Koln vs Hertha BSC 
+#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/jiz6iruaxep7up8/live2.png" group-title="Live Events",Koln vs Hertha BSC 
+#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/jiz6iruaxep7up8/live2.png" group-title="Live Events",Lazio vs Lecce 
+#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/jiz6iruaxep7up8/live2.png" group-title="Live Events",Lazio vs Lecce 
+#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/jiz6iruaxep7up8/live2.png" group-title="Live Events",Lazio vs Lecce 
+#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/jiz6iruaxep7up8/live2.png" group-title="Live Events",Lazio vs Lecce 
+#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/jiz6iruaxep7up8/live2.png" group-title="Live Events",Mallorca vs Cadiz 
+#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/jiz6iruaxep7up8/live2.png" group-title="Live Events",Mallorca vs Cadiz 
+#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/jiz6iruaxep7up8/live2.png" group-title="Live Events",Mallorca vs Cadiz 
+#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/jiz6iruaxep7up8/live2.png" group-title="Live Events",Mallorca vs Cadiz 
+#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/jiz6iruaxep7up8/live2.png" group-title="Live Events",Lens vs Reims 
+#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/jiz6iruaxep7up8/live2.png" group-title="Live Events",Lens vs Reims 
+#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/jiz6iruaxep7up8/live2.png" group-title="Live Events",Lens vs Reims 
+#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/jiz6iruaxep7up8/live2.png" group-title="Live Events",Lens vs Reims 
 
 
 #EXTINF:-1 group-title="Sports",МАТЧ ПРЕМЬЕР HD 🇷🇺 
@@ -634,8 +650,20 @@ http://e14921eb.amazzin.pw/iptv/3WHBXNFDU9YG7Q/7296/index.m3u8
 #EXTINF:-1 group-title="Sports",POLSAT SPORT PREMIUM 1 PL 🇵🇱
 http://e14921eb.amazzin.pw/iptv/3WHBXNFDU9YG7Q/7304/index.m3u8
 
+#EXTINF:-1 group-title="Sports",POLSAT SPORT PREMIUM 1 PL 🇵🇱
+http://5.255.90.238:5004/play/a02r
+
+#EXTINF:-1 group-title="Sports",POLSAT SPORT PREMIUM 1 PL 🇵🇱
+http://5.255.90.238:5004/play/a02a
+
 #EXTINF:-1 group-title="Sports",POLSAT SPORT PREMIUM 2 PL 🇵🇱
 http://e14921eb.amazzin.pw/iptv/3WHBXNFDU9YG7Q/7305/index.m3u8
+
+#EXTINF:-1 group-title="Sports",POLSAT SPORT PREMIUM 2 PL 🇵🇱
+http://5.255.90.238:5004/play/a02s
+
+#EXTINF:-1 group-title="Sports",POLSAT SPORT PREMIUM 2 PL 🇵🇱
+http://5.255.90.238:5004/play/a02b
 
 #EXTINF:-1 group-title="Sports",POLSAT SPORT 🇵🇱
 http://37.48.101.149:5011/play/a00n/index.m3u8
