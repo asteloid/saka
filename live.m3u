@@ -94,10 +94,14 @@ https://ab8b015f73be7afff38f332fb2361575.livehwc3.cn/pull.juqihuo.com/live/strea
 https://ab8b015f73be7afff38f332fb2361575.livehwc3.cn/pull.juqihuo.com/live/stream-8456863_lhd.m3u8?auth_key=1684008620-0-0-2e6f94160893f519357354edcdca4dc8&user_session_id=18c7120db0ed47a0bdbe89db73da46c7&edge_slice=true&sub_m3u8=true
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/jiz6iruaxep7up8/live2.png" group-title="Live Events",Osasuna vs Almeria
 https://ab8b015f73be7afff38f332fb2361575.livehwc3.cn/pull.juqihuo.com/live/stream-8456863_lhd.m3u8?auth_key=1684008620-0-0-2e6f94160893f519357354edcdca4dc8&user_session_id=18c7120db0ed47a0bdbe89db73da46c7&edge_slice=true&sub_m3u8=true
-#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/jiz6iruaxep7up8/live2.png" group-title="Live Events",Strasbourg vs Nice 
-#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/jiz6iruaxep7up8/live2.png" group-title="Live Events",Strasbourg vs Nice 
-#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/jiz6iruaxep7up8/live2.png" group-title="Live Events",Strasbourg vs Nice 
-#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/jiz6iruaxep7up8/live2.png" group-title="Live Events",Strasbourg vs Nice 
+#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/jiz6iruaxep7up8/live2.png" group-title="Live Events",Strasbourg vs Nice
+https://0255aacae47ba4334f30564256a2a325.livehwc3.cn/pull.juqihuo.com/live/stream-758261_lhd.m3u8?user_session_id=14099e9054b597b518db95fee40cadc6&auth_key=1684009940-0-0-706f5041ca5a8635957e820f9ba003d8&edge_slice=true&sub_m3u8=true
+#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/jiz6iruaxep7up8/live2.png" group-title="Live Events",Strasbourg vs Nice
+https://0255aacae47ba4334f30564256a2a325.livehwc3.cn/pull.juqihuo.com/live/stream-758261_lhd.m3u8?user_session_id=14099e9054b597b518db95fee40cadc6&auth_key=1684009940-0-0-706f5041ca5a8635957e820f9ba003d8&edge_slice=true&sub_m3u8=true
+#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/jiz6iruaxep7up8/live2.png" group-title="Live Events",Strasbourg vs Nice
+https://0255aacae47ba4334f30564256a2a325.livehwc3.cn/pull.juqihuo.com/live/stream-758261_lhd.m3u8?user_session_id=14099e9054b597b518db95fee40cadc6&auth_key=1684009940-0-0-706f5041ca5a8635957e820f9ba003d8&edge_slice=true&sub_m3u8=true
+#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/jiz6iruaxep7up8/live2.png" group-title="Live Events",Strasbourg vs Nice
+https://0255aacae47ba4334f30564256a2a325.livehwc3.cn/pull.juqihuo.com/live/stream-758261_lhd.m3u8?user_session_id=14099e9054b597b518db95fee40cadc6&auth_key=1684009940-0-0-706f5041ca5a8635957e820f9ba003d8&edge_slice=true&sub_m3u8=true
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/jiz6iruaxep7up8/live2.png" group-title="Live Events",Spezia vs AC Milan 
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/jiz6iruaxep7up8/live2.png" group-title="Live Events",Spezia vs AC Milan 
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/jiz6iruaxep7up8/live2.png" group-title="Live Events",Spezia vs AC Milan 
@@ -233,10 +237,19 @@ http://hostengine.live/live/wrecks82/habsiptv82/225662.m3u8
 http://45.143.222.41:8080/dooby1312/b244f7ab/1753
 
 #EXTINF:-1 group-title="Sports",S SPORT 🇹🇷
+http://panel.atlaspremium5.com:8080/macokendisi/5OmaoGWWp42/104
+
+#EXTINF:-1 group-title="Sports",S SPORT 🇹🇷
+http://45.148.146.161:8080/Sedateski-55/PMwhrTa7yeG8/160586
+
+#EXTINF:-1 group-title="Sports",S SPORT 🇹🇷
 http://49.12.123.148:8989/22/hls/playlist.m3u8
 
 #EXTINF:-1 group-title="Sports",S SPORT 2 🇹🇷
 http://45.143.222.41:8080/dooby1312/b244f7ab/10167
+
+#EXTINF:-1 group-title="Sports",S SPORT 2 🇹🇷
+http://panel.atlaspremium5.com:8080/macokendisi/5OmaoGWWp42/704
 
 #EXTINF:-1 group-title="Sports",S SPORT 2 🇹🇷
 http://49.12.123.148:8989/25/hls/playlist.m3u8
