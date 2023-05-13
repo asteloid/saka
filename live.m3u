@@ -108,9 +108,6 @@ https://7992be6d488db9d33fd803b87f5537aa.livehwc3.cn/pull06.scstream.net/live/st
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/jiz6iruaxep7up8/live2.png" group-title="Live Events",Espanyol vs Barcelona 
 
 
-#EXTINF:-1 group-title="Sports",CBC SPORT 🇦🇿
-http://130.185.236.8:12560/play/a081
-
 #EXTINF:-1 group-title="Sports",SPORTS 18 🇮🇳
 https://prod-sports-north-gm.jiocinema.com/bpk-tv/Sports18_1_HD_voot_MOB/Fallback/index.m3u8
 
@@ -182,6 +179,9 @@ http://humiptv.live:8080/live/242425/242425/130714.ts
 
 #EXTINF:-1 group-title="Sports",MTV INDIA 🇮🇳
 https://yupplivefragcp6.yuppcdn.net/050523/smil:mtvau.smil/playlist.m3u8
+
+#EXTINF:-1 group-title="Sports",CBC SPORT 🇦🇿
+http://130.185.236.8:12560/play/a081
 
 #EXTINF:-1 group-title="Sports",DIRECTV SPORT 🇦🇷
 http://190.119.178.46:8000/play/a032/index.m3u
