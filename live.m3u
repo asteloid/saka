@@ -78,10 +78,14 @@ https://sports01.livnvess.com/live/stream-107307_lhd.m3u8?txSecret=8ab97a0f13d04
 https://sports01.livnvess.com/live/stream-107307_lhd.m3u8?txSecret=8ab97a0f13d04b64672040c02030a805&txTime=64613100
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/jiz6iruaxep7up8/live2.png" group-title="Live Events",VfB Stuttgart vs Leverkusen
 https://sports01.livnvess.com/live/stream-107307_lhd.m3u8?txSecret=8ab97a0f13d04b64672040c02030a805&txTime=64613100
-#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/jiz6iruaxep7up8/live2.png" group-title="Live Events",Elche vs Atletico Madrid 
-#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/jiz6iruaxep7up8/live2.png" group-title="Live Events",Elche vs Atletico Madrid 
-#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/jiz6iruaxep7up8/live2.png" group-title="Live Events",Elche vs Atletico Madrid 
-#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/jiz6iruaxep7up8/live2.png" group-title="Live Events",Elche vs Atletico Madrid 
+#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/jiz6iruaxep7up8/live2.png" group-title="Live Events",Elche vs Atletico Madrid
+https://sports01.livnvess.com/live/stream-197901_lhd.m3u8?txSecret=28c8f595adb1b164a4c540f82aeff770&txTime=64613a24
+#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/jiz6iruaxep7up8/live2.png" group-title="Live Events",Elche vs Atletico Madrid
+https://ab8b015f73be7afff38f332fb2361575.livehwc3.cn/pull.juqihuo.com/live/stream-459976_lhd.m3u8?edge_slice=true&user_session_id=73eb302ba8fd46175f142054ef29622a&sub_m3u8=true&auth_key=1684093640-0-0-d02c74dc28ed1d0e65837cd90b70d18a
+#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/jiz6iruaxep7up8/live2.png" group-title="Live Events",Elche vs Atletico Madrid
+https://sports01.livnvess.com/live/stream-197901_lhd.m3u8?txSecret=28c8f595adb1b164a4c540f82aeff770&txTime=64613a24
+#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/jiz6iruaxep7up8/live2.png" group-title="Live Events",Elche vs Atletico Madrid
+https://ab8b015f73be7afff38f332fb2361575.livehwc3.cn/pull.juqihuo.com/live/stream-459976_lhd.m3u8?edge_slice=true&user_session_id=97e3c89e35224ad7859b732c6548edbc&sub_m3u8=true&auth_key=1684093640-0-0-d02c74dc28ed1d0e65837cd90b70d18a
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/jiz6iruaxep7up8/live2.png" group-title="Live Events",Monaco vs Lille 
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/jiz6iruaxep7up8/live2.png" group-title="Live Events",Monaco vs Lille 
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/jiz6iruaxep7up8/live2.png" group-title="Live Events",Monaco vs Lille 
@@ -130,6 +134,9 @@ http://234f.pls45tv.site:80/tvsstv/tv.ss/134232
 
 #EXTINF:-1 group-title="Sports",ESPN + 🇺🇸 
 http://45.190.13.50:8000/play/a040/index.m3u8
+
+#EXTINF:-1 group-title="Sports",ESPN DEPORTES 🇺🇸
+https://cdn.live.vidgo.com/Content/HLS/Live/channel(71914-ESPNDHD)/02.m3u8?fbclid=PAAaYO7ZAo_fCAZYiQ9p2pEj6ZY-vgMfQrFNybW_TiJxe8o9O_NWo3CT4fUvY
 
 #EXTINF:-1 group-title="Sports",DIGI Sport 4 HD 🇷🇴
 http://84.17.61.203:8086/udp/229.35.15.151:1234
