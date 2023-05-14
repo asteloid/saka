@@ -35,11 +35,8 @@ https://7992be6d488db9d33fd803b87f5537aa.livehwc3.cn/pull06.scstream.net/live/st
 #EXTINF:-1 group-title="Sports",Eleven 1 HD 🇵🇹
 http://84.91.204.231:9981/stream/channelid/1436751485?profile=pass
 
-#EXTINF:-1 group-title="Sports",CANAL + POLONIA 🇵🇱
-http://51.89.67.79:25461/stalker348574985793/stalker348574985793/83
-
-#EXTINF:-1 group-title="Sports",ESPN + 🇺🇸 
-http://45.190.13.50:8000/play/a040/index.m3u8
+#EXTINF:-1 group-title="Sports",ELEVEN SPORTS 1 HD 🇵🇱
+http://51.89.67.79:25461/stalker348574985793/stalker348574985793/79
 
 #EXTINF:-1 group-title="Sports",ESPN DEPORTES 🇺🇸
 https://cdn.live.vidgo.com/Content/HLS/Live/channel(71914-ESPNDHD)/02.m3u8?fbclid=PAAaYO7ZAo_fCAZYiQ9p2pEj6ZY-vgMfQrFNybW_TiJxe8o9O_NWo3CT4fUvY
@@ -47,14 +44,11 @@ https://cdn.live.vidgo.com/Content/HLS/Live/channel(71914-ESPNDHD)/02.m3u8?fbcli
 #EXTINF:-1 group-title="Sports",MAX SPORT 4 🇧🇬
 http://234f.pls45tv.site:80/tvsstv/tv.ss/133500
 
-#EXTINF:-1 group-title="Sports",K SPORT 1 HD 🇦🇱
-http://homeuser22.hopto.me:22333/live?cId=1604&uid=1691&deviceUser=PremiumIPTV123&devicePass=dYnZmT3mcIK7rBD0
+#EXTINF:-1 group-title="Sports",SUPERSPORT 2 🇦🇱
+http://homeuser22.hopto.me:22333/live?cId=1587&uid=1690&deviceUser=PremiumIPTV123&devicePass=dYnZmT3mcIK7rBD0
 
-#EXTINF:-1 group-title="Sports",TSN 5 🇨🇦
-http://tv19s.xyz:8080/Neil/Neil/16131
-
-#EXTINF:-1 group-title="Sports",DAZN 2 🇩🇪
-http://iptvbudur.xyz:8080/husic/M9ah6Msg2wmn/238120
+#EXTINF:-1 group-title="Sports",DAZN 1 🇩🇪
+http://iptvbudur.xyz:8080/husic/M9ah6Msg2wmn/238118
 
 #EXTINF:-1 group-title="Sports",S SPORT 🇹🇷
 http://234f.pls45tv.site:80/tvsstv/tv.ss/135488
@@ -88,6 +82,9 @@ http://tvla.xyz/get.php?username=vrhqyawo&password=87e0n2pQcM&type=m3u_plus
 
 #EXTINF:-1 group-title="Sports",ESPN DEPORTES 🇺🇸 
 http://45.190.13.50:8002/play/a01f/index.m3u8
+
+#EXTINF:-1 group-title="Sports",ESPN + 🇺🇸 
+http://45.190.13.50:8000/play/a040/index.m3u8
 
 #EXTINF:-1 group-title="Sports",ARENA SPORT 6 🇭🇷
 http://hostengine.live/live/wrecks82/habsiptv82/225662.m3u8
