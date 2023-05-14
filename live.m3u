@@ -1,27 +1,3 @@
-#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/jiz6iruaxep7up8/live2.png" group-title="Live Events",Brest vs Auxerre
-https://0255aacae47ba4334f30564256a2a325.livehwc3.cn/pull06.scstream.net/live/stream-113906_lhd.m3u8?auth_key=1684089636-0-0-610f1b13889dc0bed609b09c93c7f85b&user_session_id=87a0d2a1c207b7067675c3f704f4867b&edge_slice=true&sub_m3u8=true
-#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/jiz6iruaxep7up8/live2.png" group-title="Live Events",Brest vs Auxerre
-https://179720687.global.cdnfastest.com/live/sd-jw2r09h6pwyxrz8/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/jiz6iruaxep7up8/live2.png" group-title="Live Events",Brest vs Auxerre
-https://0255aacae47ba4334f30564256a2a325.livehwc3.cn/pull06.scstream.net/live/stream-113906_lhd.m3u8?auth_key=1684089636-0-0-610f1b13889dc0bed609b09c93c7f85b&user_session_id=87a0d2a1c207b7067675c3f704f4867b&edge_slice=true&sub_m3u8=true
-#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/jiz6iruaxep7up8/live2.png" group-title="Live Events",Brest vs Auxerre
-https://179720687.global.cdnfastest.com/live/sd-jw2r09h6pwyxrz8/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/jiz6iruaxep7up8/live2.png" group-title="Live Events",Montpellier vs Lorient
-https://sports01.livnvess.com/live/stream-206851_lhd.m3u8?txSecret=30f8977a3ac70502b5ae3f65cf923f9e&txTime=64612aac
-#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/jiz6iruaxep7up8/live2.png" group-title="Live Events",Montpellier vs Lorient
-https://d83e8dc9b3450f5a2962a7b324817603.livehwc3.cn/pull.juqihuo.com/live/stream-626983_lhd.m3u8?sub_m3u8=true&auth_key=1684089920-0-0-274ff15652c7ccc0d0c104c21b8e0f53&edge_slice=true&user_session_id=ea723291c04536bf5246c65d2f6480a8
-#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/jiz6iruaxep7up8/live2.png" group-title="Live Events",Montpellier vs Lorient
-https://sports01.livnvess.com/live/stream-206851_lhd.m3u8?txSecret=30f8977a3ac70502b5ae3f65cf923f9e&txTime=64612aac
-#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/jiz6iruaxep7up8/live2.png" group-title="Live Events",Montpellier vs Lorient
-https://d83e8dc9b3450f5a2962a7b324817603.livehwc3.cn/pull.juqihuo.com/live/stream-626983_lhd.m3u8?sub_m3u8=true&auth_key=1684089920-0-0-274ff15652c7ccc0d0c104c21b8e0f53&edge_slice=true&user_session_id=ea723291c04536bf5246c65d2f6480a8
-#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/jiz6iruaxep7up8/live2.png" group-title="Live Events",Rennes vs Troyes
-https://0255aacae47ba4334f30564256a2a325.livehwc3.cn/pull06.scstream.net/live/stream-435421_lhd.m3u8?sub_m3u8=true&user_session_id=ab19249dddd6e44fbbd1d8dfe662392e&auth_key=1684089576-0-0-cfac667086e94ea4e4f59361fafc3abf&edge_slice=true
-#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/jiz6iruaxep7up8/live2.png" group-title="Live Events",Rennes vs Troyes
-https://d83e8dc9b3450f5a2962a7b324817603.livehwc3.cn/pull.juqihuo.com/live/stream-459156_lhd.m3u8?sub_m3u8=true&auth_key=1684090760-0-0-ce340f7a68a0a9b0517c2fa41a47f187&edge_slice=true&user_session_id=2a99cfd2f6087977ecc940f846af1d79
-#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/jiz6iruaxep7up8/live2.png" group-title="Live Events",Rennes vs Troyes
-https://0255aacae47ba4334f30564256a2a325.livehwc3.cn/pull06.scstream.net/live/stream-435421_lhd.m3u8?sub_m3u8=true&user_session_id=ab19249dddd6e44fbbd1d8dfe662392e&auth_key=1684089576-0-0-cfac667086e94ea4e4f59361fafc3abf&edge_slice=true
-#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/jiz6iruaxep7up8/live2.png" group-title="Live Events",Rennes vs Troyes
-https://d83e8dc9b3450f5a2962a7b324817603.livehwc3.cn/pull.juqihuo.com/live/stream-459156_lhd.m3u8?sub_m3u8=true&auth_key=1684090760-0-0-ce340f7a68a0a9b0517c2fa41a47f187&edge_slice=true&user_session_id=2a99cfd2f6087977ecc940f846af1d79
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/jiz6iruaxep7up8/live2.png" group-title="Live Events",Toulouse vs Nantes
 https://sports01.livnvess.com/live/stream-106737_lhd.m3u8?txSecret=a1589f871c7ff222fc16a5063d740d57&txTime=646128cc
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/jiz6iruaxep7up8/live2.png" group-title="Live Events",Toulouse vs Nantes
@@ -30,38 +6,6 @@ https://d83e8dc9b3450f5a2962a7b324817603.livehwc3.cn/pull.juqihuo.com/live/strea
 https://sports01.livnvess.com/live/stream-106737_lhd.m3u8?txSecret=a1589f871c7ff222fc16a5063d740d57&txTime=646128cc
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/jiz6iruaxep7up8/live2.png" group-title="Live Events",Toulouse vs Nantes
 https://d83e8dc9b3450f5a2962a7b324817603.livehwc3.cn/pull.juqihuo.com/live/stream-486118_lhd.m3u8?user_session_id=214c0f269b1d3c109c62222d83d922eb&sub_m3u8=true&auth_key=1684090400-0-0-e61690973c17b253850eebed1c2aa4cd&edge_slice=true
-#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/jiz6iruaxep7up8/live2.png" group-title="Live Events",Brentford vs West Ham
-https://sports01.livnvess.com/live/stream-991117_lhd.m3u8?txSecret=c77a535268892dd7b0e66d9e7ddc7a14&txTime=646127dc
-#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/jiz6iruaxep7up8/live2.png" group-title="Live Events",Brentford vs West Ham
-https://d83e8dc9b3450f5a2962a7b324817603.livehwc3.cn/pull.juqihuo.com/live/stream-658659_lhd.m3u8?sub_m3u8=true&user_session_id=0dd8b5f9383eb232b9ce96ef80429cf1&auth_key=1684088420-0-0-2410f4de8990766d9b01c7aab5ccf58d&edge_slice=true
-#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/jiz6iruaxep7up8/live2.png" group-title="Live Events",Brentford vs West Ham
-https://d83e8dc9b3450f5a2962a7b324817603.livehwc3.cn/pull.juqihuo.com/live/stream-658659_lhd.m3u8?auth_key=1684090640-0-0-f1c518e597f2cdb58c2eae8a9400ca42&edge_slice=true&user_session_id=5932015da3b5e441a6efad84b15ac4b1&sub_m3u8=true
-#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/jiz6iruaxep7up8/live2.png" group-title="Live Events",Brentford vs West Ham
-https://sports01.livnvess.com/live/stream-991117_lhd.m3u8?txSecret=c77a535268892dd7b0e66d9e7ddc7a14&txTime=646127dc
-#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/jiz6iruaxep7up8/live2.png" group-title="Live Events",Everton vs Man City
-https://sports01.livnvess.com/live/stream-991120_lhd.m3u8?txSecret=fe40642429b9ff7cf99b703b1cda4329&txTime=646127a0
-#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/jiz6iruaxep7up8/live2.png" group-title="Live Events",Everton vs Man City
-https://d83e8dc9b3450f5a2962a7b324817603.livehwc3.cn/pull.juqihuo.com/live/stream-558696_lhd.m3u8?user_session_id=2d93f90b8f756aee925952f3ecd893f8&sub_m3u8=true&edge_slice=true&auth_key=1684088900-0-0-06f37cb15b61ffa63e2e7b825277a847
-#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/jiz6iruaxep7up8/live2.png" group-title="Live Events",Everton vs Man City
-https://obevcimanyd179314182.thapcam.link/live/cuonSD/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/jiz6iruaxep7up8/live2.png" group-title="Live Events",Everton vs Man City
-https://sports01.livnvess.com/live/stream-991120_lhd.m3u8?txSecret=fe40642429b9ff7cf99b703b1cda4329&txTime=646127a0
-#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/jiz6iruaxep7up8/live2.png" group-title="Live Events",Fiorentina vs Udinese
-https://sports01.livnvess.com/live/stream-19949_lhd.m3u8?txSecret=f365e8b10db128bd0a64fc279c6e851a&txTime=64612b60
-#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/jiz6iruaxep7up8/live2.png" group-title="Live Events",Fiorentina vs Udinese
-https://d83e8dc9b3450f5a2962a7b324817603.livehwc3.cn/pull.juqihuo.com/live/stream-112366_lhd.m3u8?edge_slice=true&sub_m3u8=true&user_session_id=0bf38d64d7b340d7bae64e4cbba7723d&auth_key=1684090580-0-0-9d50157fed86b3994f93119ef18145dc
-#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/jiz6iruaxep7up8/live2.png" group-title="Live Events",Fiorentina vs Udinese
-https://sports01.livnvess.com/live/stream-19949_lhd.m3u8?txSecret=f365e8b10db128bd0a64fc279c6e851a&txTime=64612b60
-#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/jiz6iruaxep7up8/live2.png" group-title="Live Events",Fiorentina vs Udinese
-https://d83e8dc9b3450f5a2962a7b324817603.livehwc3.cn/pull.juqihuo.com/live/stream-112366_lhd.m3u8?edge_slice=true&sub_m3u8=true&user_session_id=0bf38d64d7b340d7bae64e4cbba7723d&auth_key=1684090580-0-0-9d50157fed86b3994f93119ef18145dc
-#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/jiz6iruaxep7up8/live2.png" group-title="Live Events",Monza vs Napoli
-https://0255aacae47ba4334f30564256a2a325.livehwc3.cn/pull06.scstream.net/live/stream-104707_lhd.m3u8?auth_key=1684089096-0-0-d349a01ede576bbbd9aa1063e48128c8&edge_slice=true&user_session_id=37d88ed9c64ae4ec7cd813375c4728ee&sub_m3u8=true
-#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/jiz6iruaxep7up8/live2.png" group-title="Live Events",Monza vs Napoli
-https://ab8b015f73be7afff38f332fb2361575.livehwc3.cn/pull.juqihuo.com/live/stream-516701_lhd.m3u8?sub_m3u8=true&user_session_id=a8c45675f8f39991e445375616ce90c1&edge_slice=true&auth_key=1684090520-0-0-cad5bedda5fa7c3481283b8fc2e60c9a
-#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/jiz6iruaxep7up8/live2.png" group-title="Live Events",Monza vs Napoli
-https://obevcimanyd179314182.thapcam.link/live/may1SD/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/jiz6iruaxep7up8/live2.png" group-title="Live Events",Monza vs Napoli
-https://0255aacae47ba4334f30564256a2a325.livehwc3.cn/pull06.scstream.net/live/stream-104707_lhd.m3u8?auth_key=1684089096-0-0-d349a01ede576bbbd9aa1063e48128c8&edge_slice=true&user_session_id=37d88ed9c64ae4ec7cd813375c4728ee&sub_m3u8=true
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/jiz6iruaxep7up8/live2.png" group-title="Live Events",VfB Stuttgart vs Leverkusen
 https://sports01.livnvess.com/live/stream-107307_lhd.m3u8?txSecret=8ab97a0f13d04b64672040c02030a805&txTime=64613100
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/jiz6iruaxep7up8/live2.png" group-title="Live Events",VfB Stuttgart vs Leverkusen
@@ -81,19 +25,27 @@ https://ab8b015f73be7afff38f332fb2361575.livehwc3.cn/pull.juqihuo.com/live/strea
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/jiz6iruaxep7up8/live2.png" group-title="Live Events",Monaco vs Lille
 https://sports01.livnvess.com/live/stream-421651_lhd.m3u8?txSecret=ec9bd86f2e0d8d558cbeb635136d5d0f&txTime=646148e9
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/jiz6iruaxep7up8/live2.png" group-title="Live Events",Monaco vs Lille
-https
+https://ab8b015f73be7afff38f332fb2361575.livehwc3.cn/pull.juqihuo.com/live/stream-130736_lhd.m3u8?sub_m3u8=true&auth_key=1684098680-0-0-76d865822a1533645ab1c7f092f70603&edge_slice=true&user_session_id=1ecd1e6f5958124d12ee36824e85e773
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/jiz6iruaxep7up8/live2.png" group-title="Live Events",Monaco vs Lille
 https://sports01.livnvess.com/live/stream-421651_lhd.m3u8?txSecret=ec9bd86f2e0d8d558cbeb635136d5d0f&txTime=646148e9
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/jiz6iruaxep7up8/live2.png" group-title="Live Events",Monaco vs Lille
-https
-#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/jiz6iruaxep7up8/live2.png" group-title="Live Events",RB Leipzig vs Werder Bremen 
-#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/jiz6iruaxep7up8/live2.png" group-title="Live Events",RB Leipzig vs Werder Bremen 
-#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/jiz6iruaxep7up8/live2.png" group-title="Live Events",RB Leipzig vs Werder Bremen 
-#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/jiz6iruaxep7up8/live2.png" group-title="Live Events",RB Leipzig vs Werder Bremen 
-#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/jiz6iruaxep7up8/live2.png" group-title="Live Events",Arsenal vs Brighton 
-#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/jiz6iruaxep7up8/live2.png" group-title="Live Events",Arsenal vs Brighton 
-#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/jiz6iruaxep7up8/live2.png" group-title="Live Events",Arsenal vs Brighton 
-#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/jiz6iruaxep7up8/live2.png" group-title="Live Events",Arsenal vs Brighton 
+https://ab8b015f73be7afff38f332fb2361575.livehwc3.cn/pull.juqihuo.com/live/stream-130736_lhd.m3u8?sub_m3u8=true&auth_key=1684098680-0-0-76d865822a1533645ab1c7f092f70603&edge_slice=true&user_session_id=e8fb935a1137953195d6553d8f6a26ba
+#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/jiz6iruaxep7up8/live2.png" group-title="Live Events",RB Leipzig vs Werder Bremen
+https://d83e8dc9b3450f5a2962a7b324817603.livehwc3.cn/pull.juqihuo.com/live/stream-698583_lhd.m3u8?user_session_id=bd9e467e687db86b4dc4cd9e2ab3fa5b&edge_slice=true&auth_key=1684098080-0-0-25489624c2208f889a5873603c914556&sub_m3u8=true
+#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/jiz6iruaxep7up8/live2.png" group-title="Live Events",RB Leipzig vs Werder Bremen
+https://7992be6d488db9d33fd803b87f5537aa.livehwc3.cn/pull06.scstream.net/live/stream-991111_lhd.m3u8?auth_key=1684098336-0-0-5173b0f9acf3b5804c619726162394ff&edge_slice=true&sub_m3u8=true&user_session_id=8199d009224124cf4ab0afa1213b94e8
+#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/jiz6iruaxep7up8/live2.png" group-title="Live Events",RB Leipzig vs Werder Bremen
+https://d83e8dc9b3450f5a2962a7b324817603.livehwc3.cn/pull.juqihuo.com/live/stream-698583_lhd.m3u8?user_session_id=bd9e467e687db86b4dc4cd9e2ab3fa5b&edge_slice=true&auth_key=1684098080-0-0-25489624c2208f889a5873603c914556&sub_m3u8=true
+#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/jiz6iruaxep7up8/live2.png" group-title="Live Events",RB Leipzig vs Werder Bremen
+https://3e2c221d70ae22493725da7ff1bfba5c.livehwc3.cn/pull06.scstream.net/live/stream-991111_lhd.m3u8?sub_m3u8=true&auth_key=1684098336-0-0-5173b0f9acf3b5804c619726162394ff&user_session_id=ffa107a2a9c60a86c0eb5ffe8372cd86&edge_slice=true
+#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/jiz6iruaxep7up8/live2.png" group-title="Live Events",Arsenal vs Brighton
+https://ab8b015f73be7afff38f332fb2361575.livehwc3.cn/pull.juqihuo.com/live/stream-492306_lhd.m3u8?sub_m3u8=true&user_session_id=6ee9bde9a502ea82de233c4c08acbc0a&auth_key=1684097960-0-0-919d018adec7fb7d1573715c4d7efa83&edge_slice=true
+#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/jiz6iruaxep7up8/live2.png" group-title="Live Events",Arsenal vs Brighton
+https://3e2c221d70ae22493725da7ff1bfba5c.livehwc3.cn/pull06.scstream.net/live/stream-991108_lhd.m3u8?user_session_id=db483558f92decb82affa8d433410d70&auth_key=1684098276-0-0-209b8bd6035ac658a26599544a126f62&sub_m3u8=true&edge_slice=true
+#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/jiz6iruaxep7up8/live2.png" group-title="Live Events",Arsenal vs Brighton
+https://ab8b015f73be7afff38f332fb2361575.livehwc3.cn/pull.juqihuo.com/live/stream-492306_lhd.m3u8?sub_m3u8=true&user_session_id=6ee9bde9a502ea82de233c4c08acbc0a&auth_key=1684097960-0-0-919d018adec7fb7d1573715c4d7efa83&edge_slice=true
+#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/jiz6iruaxep7up8/live2.png" group-title="Live Events",Arsenal vs Brighton
+https://3e2c221d70ae22493725da7ff1bfba5c.livehwc3.cn/pull06.scstream.net/live/stream-991108_lhd.m3u8?user_session_id=df6b856fcbbb60045fb66c76d45ccda4&auth_key=1684098276-0-0-209b8bd6035ac658a26599544a126f62&sub_m3u8=true&edge_slice=true
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/jiz6iruaxep7up8/live2.png" group-title="Live Events",Bologna vs Roma 
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/jiz6iruaxep7up8/live2.png" group-title="Live Events",Bologna vs Roma 
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/jiz6iruaxep7up8/live2.png" group-title="Live Events",Bologna vs Roma 
