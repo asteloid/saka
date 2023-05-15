@@ -48,18 +48,6 @@ https://0255aacae47ba4334f30564256a2a325.livehwc3.cn/pull.juqihuo.com/live/strea
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/jiz6iruaxep7up8/live2.png" group-title="Live Events",Basel vs Fiorentina 
 
 
-#EXTINF:-1 group-title="Sports",TENNIS 
-https://loja.rarp.com.br/wp-content/plugins/super-links/application/helpers/super-links-proxy.php/https://playoutengine.sinclairstoryline.com/playout/f2f8b269-dd85-4434-bdd3-b3a64ca9cd60/f.m3u8
-
-#EXTINF:-1 group-title="Sports",TENNIS CHANNEL 🇬🇧
-https://dai.google.com/linear/hls/event/Dlqr46ybTSGWGTfRWcxS0g/master.m3u8
-
-#EXTINF:-1 group-title="Sports",SKY SPORT TENNIS 🇩🇪
-http://45.143.222.41:8080/dooby1312/b244f7ab/297552
-
-#EXTINF:-1 group-title="Sports",TENIs
-https://Link_De_Fuck_La_Liga_Canal_Telegram_Que_No_Te_Mientan@mvcdn.soft4game.com/o51/stream169/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS8xNS8yMDIzIDEyOjAwOjAwIFBNJmhhc2hfdmFsdWU9QTU5VnV0b1dnbStxWFR4VUJCbmwxZz09JnZhbGlkbWludXRlcz0xMjAmaWQ9NQ==
-
 #EXTINF:-1 group-title="Sports",TV MAX 🇵🇦 
 https://bcovlive-a.akamaihd.net/474b6caf58f8407fb1d1cc1ef64f50ff/us-west-2/6058004209001/profile_0/chunklist_dvr.m3u8?
 
@@ -78,32 +66,14 @@ https://videosenlared.fullstreaming.ar:3697/live/contenidos34live.m3u8
 #EXTINF:-1 group-title="Sports",POLSAR SPORT PREMIUM 1 🇵🇱
 http://51.89.67.79:25461/stalker348574985793/stalker348574985793/66
 
-#EXTINF:-1 group-title="Sports",CBC SPORT 🇦🇿
-http://130.185.236.8:12560/play/a081
-
-#EXTINF:-1 group-title="Sports",LIGA CAMPEONES 🇪🇸
-http://iptvch.com:2082/Un8sff3GFu9/7jsdKf8Jc6fNry/135970
-
-#EXTINF:-1 group-title="Sports",LIGA CAMPEONES 🇪🇸
-http://51.91.8.161:18000/M_Liga_de_Campeones/hls/playlist.m3u8
-
-#EXTINF:-1 group-title="Sports",LIGA CAMP 🇪🇸
-http://mokino.top:8080/live/361679779421334077/5281679779421334/5671.ts
-
 #EXTINF:-1 group-title="Sports",CCTV5 🇨🇳
 https://node1.olelive.com:6443/live/CCTV5HD/hls.m3u8
 
 #EXTINF:-1 group-title="Sports",PRIMA SPORT 1 🇷🇴
 http://94.53.216.13:9981/stream/channelid/2119101735?profile=pass
 
-#EXTINF:-1 group-title="Sports",DIGI Sport 1 🇷🇴
-http://84.17.61.203:8086/udp/229.35.15.121:1234
-
 #EXTINF:-1 group-title="Sports",MAX SPORT 3 🇧🇬
 http://212.5.59.2:9882/play/a019/index.m3u8?
-
-#EXTINF:-1 group-title="Sports",TRING SPORT 1 🇦🇱
-http://79.174.24.254:8002/play/a00m/index.m3u8
 
 #EXTINF:-1 group-title="Sports",M4 sport 🇭🇺
 http://star8iptv.com:2082/avanger-discord/UUYZM7aYjXCj/157635
@@ -1104,6 +1074,17 @@ https://loja.rarp.com.br/wp-content/plugins/super-links/application/helpers/supe
 
 
 
+#EXTINF:-1 group-title="Sports",TENNIS 
+https://loja.rarp.com.br/wp-content/plugins/super-links/application/helpers/super-links-proxy.php/https://playoutengine.sinclairstoryline.com/playout/f2f8b269-dd85-4434-bdd3-b3a64ca9cd60/f.m3u8
+
+#EXTINF:-1 group-title="Sports",TENNIS CHANNEL 🇬🇧
+https://dai.google.com/linear/hls/event/Dlqr46ybTSGWGTfRWcxS0g/master.m3u8
+
+#EXTINF:-1 group-title="Sports",SKY SPORT TENNIS 🇩🇪
+http://45.143.222.41:8080/dooby1312/b244f7ab/297552
+
+#EXTINF:-1 group-title="Sports",TENIs
+https://Link_De_Fuck_La_Liga_Canal_Telegram_Que_No_Te_Mientan@mvcdn.soft4game.com/o51/stream169/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS8xNS8yMDIzIDEyOjAwOjAwIFBNJmhhc2hfdmFsdWU9QTU5VnV0b1dnbStxWFR4VUJCbmwxZz09JnZhbGlkbWludXRlcz0xMjAmaWQ9NQ==
 
 #EXTINF:-1 group-title="Sports",ALCARAZ pista 1
 https://loja.rarp.com.br:443/wp-content/plugins/super-links/application/helpers/super-links-proxy.php/https:/playoutengine.sinclairstoryline.com/playout/f2f8b269-dd85-4434-bdd3-b3a64ca9cd60/g.m3u8
