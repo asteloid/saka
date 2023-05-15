@@ -58,14 +58,17 @@ https://bl.uma.media/live/312119/HLS/4614144_3/2/1/playlist.m3u8
 #EXTINF:-1 group-title="Sports",МАТЧ Футбол 1 HD 🇷🇺
 http://bl.uma.media/live/126863/HLS/6866944_4/2/1/playlist.m3u8
 
+#EXTINF:-1 group-title="Sports",POLSAR SPORT PREMIUM 1 🇵🇱
+http://51.89.67.79:25461/stalker348574985793/stalker348574985793/66
+
+#EXTINF:-1 group-title="Sports",TRING SPORTS 1 🇦🇱
+http://homeuser22.hopto.me:22333/live?cId=1595&uid=1690&deviceUser=PremiumIPTV123&devicePass=dYnZmT3mcIK7rBD0
+
 #EXTINF:-1 group-title="Sports",ESPN ARG 🇦🇷
 http://170.83.242.8:5350/play/a00u
 
 #EXTINF:-1 group-title="Sports",CITY SPORTS 🇦🇷
 https://videosenlared.fullstreaming.ar:3697/live/contenidos34live.m3u8
-
-#EXTINF:-1 group-title="Sports",POLSAR SPORT PREMIUM 1 🇵🇱
-http://51.89.67.79:25461/stalker348574985793/stalker348574985793/66
 
 #EXTINF:-1 group-title="Sports",CCTV5 🇨🇳
 https://node1.olelive.com:6443/live/CCTV5HD/hls.m3u8
@@ -76,26 +79,8 @@ http://94.53.216.13:9981/stream/channelid/2119101735?profile=pass
 #EXTINF:-1 group-title="Sports",MAX SPORT 3 🇧🇬
 http://212.5.59.2:9882/play/a019/index.m3u8?
 
-#EXTINF:-1 group-title="Sports",M4 sport 🇭🇺
-http://star8iptv.com:2082/avanger-discord/UUYZM7aYjXCj/157635
-
-#EXTINF:-1 group-title="Sports",SPORT 1 🇭🇺
-http://star8iptv.com:2082/avanger-discord/UUYZM7aYjXCj/157662
-
-#EXTINF:-1 group-title="Sports",TV3 SPORT 🇩🇰
-http://star8iptv.com:2082/avanger-discord/UUYZM7aYjXCj/16024
-
-#EXTINF:-1 group-title="Sports",TRING SPORT 2 🇦🇱
-http://79.174.24.254:8002/play/a00n/index.m3u8
-
 #EXTINF:-1 group-title="Sports",ARENA SPORT 1 🇭🇷
 http://hostengine.live/live/wrecks82/habsiptv82/225657.m3u8
-
-#EXTINF:-1 group-title="Sports",ARENA SPORT 1 🇭🇷
-http://tbs-tv.com:8080/dark/kittylinetv/10246
-
-#EXTINF:-1 group-title="Sports",ZIGGO SPORT SELECT 🇳🇱
-http://tbs-tv.com:8080/dark/kittylinetv/1400
 
 #EXTINF:-1 group-title="Sports",ART SPORT 1 🇽🇰
 http://212.224.84.202:2200/ALB-EX/ART_Sport_1_HD_AL-alb/tracks-v1a1/mono.m3u8?token=null%7CUser-Agent=Rediptv%20Plus%202.0.17
@@ -432,21 +417,6 @@ http://46.19.226.152:4000/play/a0bq
 
 #EXTINF:-1 group-title="Sports",OVERSPORT 4 🇦🇱
 http://46.19.226.152:4000/play/a0bj
-
-#EXTINF:-1 group-title="Sports",TRING SPORTS 1 🇦🇱
-http://185.85.152.220:8999/play/a02m/index.m3u8
-
-#EXTINF:-1 group-title="Sports",TRING SPORTS 2 🇦🇱
-http://185.85.152.220:8999/play/a02k/index.m3u8
-
-#EXTINF:-1 group-title="Sports",TRING SPORTS 3 🇦🇱
-http://185.85.152.220:8999/play/a02l/index.m3u8
-
-#EXTINF:-1 group-title="Sports",TRING SPORTS 4 🇦🇱
-http://185.85.152.220:8999/play/a02j/index.m3u8
-
-#EXTINF:-1 group-title="Sports",TRING SPORTS 5 🇦🇱
-http://185.85.152.220:8999/play/a04b/index.m3u8
 
 #EXTINF:-1 group-title="Sports",TRING SPORTS 1 🇦🇱
 http://homeuser22.hopto.me:22333/live?cId=1595&uid=1690&deviceUser=PremiumIPTV123&devicePass=dYnZmT3mcIK7rBD0
