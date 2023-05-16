@@ -47,6 +47,9 @@ http://bl.uma.media/live/126863/HLS/6866944_4/2/1/playlist.m3u8
 #EXTINF:-1 group-title="Sports",Eleven 1 HD 🇵🇹
 http://84.91.204.231:9981/stream/channelid/809610317?profile=pass
 
+#EXTINF:-1 group-title="Sports",Eleven 1 HD 🇵🇹
+http://tvdiptv.live:2082/abdu1234/abdu1234/1255134
+
 #EXTINF:-1 group-title="Sports",POLSAR SPORT PREMIUM 1 🇵🇱
 http://51.89.67.79:25461/stalker348574985793/stalker348574985793/66
 
@@ -74,8 +77,14 @@ http://94.53.216.13:9981/stream/channelid/2119101735?profile=pass
 #EXTINF:-1 group-title="Sports",MAX SPORT 3 🇧🇬
 http://212.5.59.2:9882/play/a019/index.m3u8?
 
+#EXTINF:-1 group-title="Sports",MAX SPORT 3 🇧🇬
+http://tvdiptv.live:2082/abdu1234/abdu1234/1256034
+
 #EXTINF:-1 group-title="Sports",ARENA SPORT 1 🇭🇷
 http://hostengine.live/live/wrecks82/habsiptv82/225657.m3u8
+
+#EXTINF:-1 group-title="Sports",ZIGGO SELECT 🇳🇱
+http://tvdiptv.live:2082/abdu1234/abdu1234/1256129
 
 #EXTINF:-1 group-title="Sports",ART SPORT 1 🇽🇰
 http://212.224.84.202:2200/ALB-EX/ART_Sport_1_HD_AL-alb/tracks-v1a1/mono.m3u8?token=null%7CUser-Agent=Rediptv%20Plus%202.0.17
