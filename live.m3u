@@ -1,7 +1,11 @@
-#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/jiz6iruaxep7up8/live2.png" group-title="Live Events",Inter vs Milan 
-#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/jiz6iruaxep7up8/live2.png" group-title="Live Events",Inter vs Milan 
-#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/jiz6iruaxep7up8/live2.png" group-title="Live Events",Inter vs Milan 
-#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/jiz6iruaxep7up8/live2.png" group-title="Live Events",Inter vs Milan 
+#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/jiz6iruaxep7up8/live2.png" group-title="Live Events",Inter vs Milan
+https://3e2c221d70ae22493725da7ff1bfba5c.livehwc3.cn/pull06.scstream.net/live/stream-181398_lhd.m3u8?sub_m3u8=true&auth_key=1684283377-0-0-ded2a6ffa7286853060761097bbfc65f&user_session_id=53b32625adfa7c1a795d9279f0eac03b&edge_slice=true
+#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/jiz6iruaxep7up8/live2.png" group-title="Live Events",Inter vs Milan
+https://ab8b015f73be7afff38f332fb2361575.livehwc3.cn/pull.juqihuo.com/live/stream-698583_lhd.m3u8?auth_key=1684283540-0-0-d6ba915ff05e79eee5055aef0cd78c11&edge_slice=true&sub_m3u8=true&user_session_id=de1bebe50684efbbfc294be8ec631292
+#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/jiz6iruaxep7up8/live2.png" group-title="Live Events",Inter vs Milan
+https://3e2c221d70ae22493725da7ff1bfba5c.livehwc3.cn/pull06.scstream.net/live/stream-181398_lhd.m3u8?sub_m3u8=true&auth_key=1684283377-0-0-ded2a6ffa7286853060761097bbfc65f&user_session_id=9e745b5bc9fdd64790a5caf8ca9b5eab&edge_slice=true
+#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/jiz6iruaxep7up8/live2.png" group-title="Live Events",Inter vs Milan
+https://ab8b015f73be7afff38f332fb2361575.livehwc3.cn/pull.juqihuo.com/live/stream-698583_lhd.m3u8?auth_key=1684283540-0-0-d6ba915ff05e79eee5055aef0cd78c11&user_session_id=bacf2a43a36bad098c4f16e2bb2f3e6d&edge_slice=true&sub_m3u8=true
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/jiz6iruaxep7up8/live2.png" group-title="Live Events",Man City vs Real Madrid 
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/jiz6iruaxep7up8/live2.png" group-title="Live Events",Man City vs Real Madrid 
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/jiz6iruaxep7up8/live2.png" group-title="Live Events",Man City vs Real Madrid 
@@ -48,6 +52,9 @@ http://51.89.67.79:25461/stalker348574985793/stalker348574985793/66
 
 #EXTINF:-1 group-title="Sports",bein SPORTS 1 premium 🇶🇦
 http://tvdiptv.live:2082/abdu1234/abdu1234/102245
+
+#EXTINF:-1 group-title="Sports",SUPERSPORT MAXIMO 1 🇿🇦
+http://tvdiptv.live:2082/abdu1234/abdu1234/299570
 
 #EXTINF:-1 group-title="Sports",TRING SPORTS 1 🇦🇱
 http://homeuser22.hopto.me:22333/live?cId=1595&uid=1690&deviceUser=PremiumIPTV123&devicePass=dYnZmT3mcIK7rBD0
