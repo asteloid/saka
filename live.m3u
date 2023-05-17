@@ -99,6 +99,9 @@ https://live.kinescopecdn.net/on-air/55e73540-201b-42a2-b91e-96802a0ddc31/8950a3
 #EXTINF:-1 group-title="Sports",МАТЧ Футбол 1 HD 🇷🇺
 http://bl.uma.media/live/126863/HLS/6866944_4/2/1/playlist.m3u8
 
+#EXTINF:-1 group-title="Sports",МАТЧ Футбол 1 HD 🇷🇺
+https://live-2-333.uma.media/LIVE/LIVE:126863/HLS/1684360135/qVJDvsmzF49czai8yZR9gw/live/126863_4/chunklist.m3u8
+
 #EXTINF:-1 group-title="Sports",HRT 2 🇭🇷
 http://195.29.70.84/PLTV/88888888/224/3221226140/04.m3u8
 
@@ -174,32 +177,6 @@ https://dai.google.com/linear/hls/event/LK-ik89MQIi_pWBbg74KNQ/master.m3u8
 #EXTINF:-1 group-title="Sports",HRT 2 🇭🇷
 http://195.29.70.84/PLTV/88888888/224/3221226140/04.m3u8
 
-#EXTINF:-1 group-title="Sports",TRING SPORTS 1 🇦🇱
-http://mitvpro.online:25461/petritzariqi/K9Y1AOG3M0LJ6KQ/96142
-
-#EXTINF:-1 group-title="Sports",MAX SPORT 3 🇧🇬
-http://mitvpro.online:25461/petritzariqi/K9Y1AOG3M0LJ6KQ/100368
-
-#EXTINF:-1 group-title="Sports",ART SPORT 1 🇽🇰
-http://mitvpro.online:25461/petritzariqi/K9Y1AOG3M0LJ6KQ/96153
-
-#EXTINF:-1 group-title="Sports",bein SPORTS 1 premium 🇶🇦
-http://mitvpro.online:25461/petritzariqi/K9Y1AOG3M0LJ6KQ/60954
-
-#EXTINF:-1 group-title="Sports",Eleven 1 HD 🇵🇹
-http://mitvpro.online:25461/petritzariqi/K9Y1AOG3M0LJ6KQ/95418
-
-#EXTINF:-1 group-title="Sports",BT SPORT 1 🇬🇧
-http://mitvpro.online:25461/petritzariqi/K9Y1AOG3M0LJ6KQ/102234
-
-#EXTINF:-1 group-title="Sports",POLSAT SPORT PREMIUM 1 🇵🇱
-http://mitvpro.online:25461/petritzariqi/K9Y1AOG3M0LJ6KQ/94953
-
-#EXTINF:-1 group-title="Sports",ARENA SPORT 1 🇭🇷
-http://mitvpro.online:25461/petritzariqi/K9Y1AOG3M0LJ6KQ/79789
-
-#EXTINF:-1 group-title="Sports",RMC SPORT 1 🇫🇷
-http://mitvpro.online:25461/petritzariqi/K9Y1AOG3M0LJ6KQ/126919
 
 
 
@@ -266,9 +243,6 @@ http://84.91.204.231:9981/stream/channelid/687150791?profile=pass
 
 #EXTINF:-1 group-title="Sports",BEIN SPORTS 1 🇶🇦
 http://ssl.aabbyyzz.eu:80/GDeUVN49/2Fu1hP54/14980
-
-#EXTINF:-1 group-title="Sports",BEIN SPORTS 1 🇶🇦
-http://mitvpro.online:25461/petritzariqi/K9Y1AOG3M0LJ6KQ/5231
 
 #EXTINF:-1 group-title="Sports",BEIN SPORTS 1 🇶🇦
 http://hostengine.live/live/wrecks82/habsiptv82/57391.m3u8
