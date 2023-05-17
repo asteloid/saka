@@ -88,11 +88,11 @@ https://0255aacae47ba4334f30564256a2a325.livehwc3.cn/pull.juqihuo.com/live/strea
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/jiz6iruaxep7up8/live2.png" group-title="Live Events",Wolves vs Everton 
 
 
-#EXTINF:-1 group-title="Sports",TV MAX 🇵🇦 
-https://bcovlive-a.akamaihd.net/474b6caf58f8407fb1d1cc1ef64f50ff/us-west-2/6058004209001/profile_0/chunklist_dvr.m3u8?
-
 #EXTINF:-1 group-title="Sports",ESPN ARG 🇦🇷
 http://190.119.178.46:8000/play/a02p/index.m3u8
+
+#EXTINF:-1 group-title="Sports",ESPN ARG 🇦🇷
+http://45.5.119.155:8000/play/a0kg/index.m3u8
 
 #EXTINF:-1 group-title="Sports",MATH 🇷🇺
 https://bl.uma.media/live/312119/HLS/4614144_3/2/1/playlist.m3u8
@@ -105,6 +105,9 @@ http://bl.uma.media/live/126863/HLS/6866944_4/2/1/playlist.m3u8
 
 #EXTINF:-1 group-title="Sports",МАТЧ Футбол 1 HD 🇷🇺
 https://live-2-333.uma.media/LIVE/LIVE:126863/HLS/1684360135/qVJDvsmzF49czai8yZR9gw/live/126863_4/chunklist.m3u8
+
+#EXTINF:-1 group-title="Sports",ESPN ARG 🇦🇷
+http://181.78.4.186:8000/play/a0ex/index.m3u8
 
 #EXTINF:-1 group-title="Sports",HRT 2 🇭🇷
 http://195.29.70.84/PLTV/88888888/224/3221226140/04.m3u8
@@ -154,9 +157,6 @@ http://ssl.aabbyyzz.eu:80/GDeUVN49/2Fu1hP54/27566
 #EXTINF:-1 group-title="Sports",RMC SPORT 1 🇫🇷
 http://ssl.aabbyyzz.eu:80/GDeUVN49/2Fu1hP54/13182
 
-#EXTINF:-1 group-title="Sports",ESPN ARG 🇦🇷
-http://170.83.242.8:5350/play/a00u
-
 #EXTINF:-1 group-title="Sports",BLUE SPORT 2 🇨🇭
 http://ssl.aabbyyzz.eu:80/GDeUVN49/2Fu1hP54/16306
 
@@ -180,6 +180,9 @@ https://dai.google.com/linear/hls/event/LK-ik89MQIi_pWBbg74KNQ/master.m3u8
 
 #EXTINF:-1 group-title="Sports",HRT 2 🇭🇷
 http://195.29.70.84/PLTV/88888888/224/3221226140/04.m3u8
+
+#EXTINF:-1 group-title="Sports",TV MAX 🇵🇦 
+https://bcovlive-a.akamaihd.net/474b6caf58f8407fb1d1cc1ef64f50ff/us-west-2/6058004209001/profile_0/chunklist_dvr.m3u8?
 
 
 
