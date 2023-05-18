@@ -33,11 +33,11 @@ https://7e84d27d097b09715b3b9e363c0047c3.livehwc3.cn/pull.juqihuo.com/live/strea
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/jiz6iruaxep7up8/live2.png" group-title="Live Events",Basel vs Fiorentina
 https://sports01.livnvess.com/live/stream-171964_lhd.m3u8?txSecret=c50f0469453bd0fcec8041bcc666434d&txTime=6466c5c1
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/jiz6iruaxep7up8/live2.png" group-title="Live Events",Basel vs Fiorentina
-https
+https://ab8b015f73be7afff38f332fb2361575.livehwc3.cn/pull.juqihuo.com/live/stream-778499_lhd.m3u8?user_session_id=1348dd673ea75c9560c73e61873c1cb8&auth_key=1684457960-0-0-998f7d95221c04397017fbfeaeafe45c&sub_m3u8=true&edge_slice=true
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/jiz6iruaxep7up8/live2.png" group-title="Live Events",Basel vs Fiorentina
 https://sports01.livnvess.com/live/stream-171964_lhd.m3u8?txSecret=c50f0469453bd0fcec8041bcc666434d&txTime=6466c5c1
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/jiz6iruaxep7up8/live2.png" group-title="Live Events",Basel vs Fiorentina
-https
+https://ab8b015f73be7afff38f332fb2361575.livehwc3.cn/pull.juqihuo.com/live/stream-778499_lhd.m3u8?user_session_id=2417988ff78033f315ebc332e156b9d9&auth_key=1684457960-0-0-998f7d95221c04397017fbfeaeafe45c&sub_m3u8=true&edge_slice=true
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/jiz6iruaxep7up8/live2.png" group-title="Live Events",Freiburg vs Wolfsburg 
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/jiz6iruaxep7up8/live2.png" group-title="Live Events",Freiburg vs Wolfsburg 
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/jiz6iruaxep7up8/live2.png" group-title="Live Events",Freiburg vs Wolfsburg 
@@ -139,12 +139,6 @@ https
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/jiz6iruaxep7up8/live2.png" group-title="Live Events",Lille vs Marseille 
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/jiz6iruaxep7up8/live2.png" group-title="Live Events",Lille vs Marseille 
 
-
-#EXTINF:-1 group-title="Sports",ESPN ARG 🇦🇷
-http://190.119.178.46:8000/play/a02p/index.m3u8
-
-#EXTINF:-1 group-title="Sports",ESPN ARG 🇦🇷
-http://45.5.119.155:8000/play/a0kg/index.m3u8
 
 #EXTINF:-1 group-title="Sports",MATH 🇷🇺
 https://bl.uma.media/live/312119/HLS/4614144_3/2/1/playlist.m3u8
