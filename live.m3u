@@ -193,6 +193,9 @@ http://91.126.182.211:9981/stream/channelid/1825843097?profile=pass
 #EXTINF:-1 group-title="Sports",ESPN DEPORTES 🇺🇸
 https://cdn.live.vidgo.com/Content/HLS/Live/channel(71914-ESPNDHD)/02.m3u8?fbclid=PAAaYO7ZAo_fCAZYiQ9p2pEj6ZY-vgMfQrFNybW_TiJxe8o9O_NWo3CT4fUvY
 
+#EXTINF:-1 group-title="Sports",MAX SPORT 4 🇧🇬
+http://aflaxtv.xyz:8080/Millenium/7Se7MBqtCsEEt3VC/16433
+
 #EXTINF:-1 group-title="Sports",SPORTS 18 🇮🇳
 https://prod-sports-north-gm.jiocinema.com/bpk-tv/Sports18_1_HD_voot_MOB/Fallback/index.m3u8
 
@@ -223,6 +226,9 @@ http://84.91.204.231:9981/stream/channelid/123297042?profile=pass
 #EXTINF:-1 group-title="Sports",Eleven 3 HD 🇵🇹
 http://84.91.204.231:9981/stream/channelid/687150791?profile=pass
 
+#EXTINF:-1 group-title="Sports",SPILER 2 🇭🇺
+http://aflaxtv.xyz:8080/Millenium/7Se7MBqtCsEEt3VC/77769
+
 #EXTINF:-1 group-title="Sports",BEIN SPORTS 1 🇶🇦
 http://hostengine.live/live/wrecks82/habsiptv82/57391.m3u8
 
@@ -243,6 +249,15 @@ http://iptvbudur.xyz:8080/husic/M9ah6Msg2wmn/96688
 
 #EXTINF:-1 group-title="Sports",DAZN 2 🇩🇪
 http://iptvbudur.xyz:8080/husic/M9ah6Msg2wmn/238120
+
+#EXTINF:-1 group-title="Sports",CBC SPORTS 🇦🇿
+http://aflaxtv.xyz:8080/Millenium/7Se7MBqtCsEEt3VC/290202
+
+#EXTINF:-1 group-title="Sports",K1 SPORT 🇦🇱
+http://aflaxtv.xyz:8080/Millenium/7Se7MBqtCsEEt3VC/1863
+
+#EXTINF:-1 group-title="Sports",SUPERSSPORT 2 🇦🇱
+http://aflaxtv.xyz:8080/Millenium/7Se7MBqtCsEEt3VC/1312
 
 #EXTINF:-1 group-title="Sports",ESPN ARG 🇦🇷
 http://170.83.242.8:5350/play/a00u
