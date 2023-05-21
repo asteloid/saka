@@ -1,19 +1,3 @@
-#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/jiz6iruaxep7up8/live2.png" group-title="Live Events",AC Ajaico vs Rennes
-https://651e411010b7d90167dfb5b08bc317d5.livehwc3.cn/pull06.scstream.net/live/stream-421651_lhd.m3u8?auth_key=1684686817-0-0-97e0db402821d382f35223211a598dc2&sub_m3u8=true&user_session_id=4a61933d5acdd0823b6fa53e58f62df1&edge_slice=true
-#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/jiz6iruaxep7up8/live2.png" group-title="Live Events",AC Ajaico vs Rennes
-https://ab8b015f73be7afff38f332fb2361575.livehwc3.cn/pull.juqihuo.com/live/stream-900003_lhd.m3u8?user_session_id=672c4a7daa5a950b7798b3f87259748d&sub_m3u8=true&edge_slice=true&auth_key=1684686980-0-0-416ab995f5bca47de3886d08fde82a40
-#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/jiz6iruaxep7up8/live2.png" group-title="Live Events",AC Ajaico vs Rennes
-https://651e411010b7d90167dfb5b08bc317d5.livehwc3.cn/pull06.scstream.net/live/stream-421651_lhd.m3u8?auth_key=1684686817-0-0-97e0db402821d382f35223211a598dc2&sub_m3u8=true&user_session_id=700a44030637e63ab69cdd262966173e&edge_slice=true
-#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/jiz6iruaxep7up8/live2.png" group-title="Live Events",AC Ajaico vs Rennes
-https://ab8b015f73be7afff38f332fb2361575.livehwc3.cn/pull.juqihuo.com/live/stream-900003_lhd.m3u8?user_session_id=593fdf28588b5a15ea397be3d76e1f04&sub_m3u8=true&edge_slice=true&auth_key=1684686980-0-0-416ab995f5bca47de3886d08fde82a40
-#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/jiz6iruaxep7up8/live2.png" group-title="Live Events",Rayo Vallecano vs Espanyol
-https://3e2c221d70ae22493725da7ff1bfba5c.livehwc3.cn/pull06.scstream.net/live/stream-991113_lhd.m3u8?sub_m3u8=true&auth_key=1684690717-0-0-863374c920371881fd2b1a848cf6c3b9&user_session_id=b8d611b1cae46ba77780606d1f468ff1&edge_slice=true
-#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/jiz6iruaxep7up8/live2.png" group-title="Live Events",Rayo Vallecano vs Espanyol
-https://0255aacae47ba4334f30564256a2a325.livehwc3.cn/pull.juqihuo.com/live/stream-318894_lhd.m3u8?auth_key=1684691181-0-0-d2d7051066568c15a91984aba145c64a&edge_slice=true&sub_m3u8=true&user_session_id=b7ef677cdd6f20be8ca87e860d25ee36
-#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/jiz6iruaxep7up8/live2.png" group-title="Live Events",Rayo Vallecano vs Espanyol
-https://3e2c221d70ae22493725da7ff1bfba5c.livehwc3.cn/pull06.scstream.net/live/stream-991113_lhd.m3u8?sub_m3u8=true&user_session_id=bd1f474eaacdd75f2d2175dfad353fdf&edge_slice=true&auth_key=1684690717-0-0-863374c920371881fd2b1a848cf6c3b9
-#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/jiz6iruaxep7up8/live2.png" group-title="Live Events",Rayo Vallecano vs Espanyol
-https://0255aacae47ba4334f30564256a2a325.livehwc3.cn/pull.juqihuo.com/live/stream-318894_lhd.m3u8?sub_m3u8=true&user_session_id=e199ef223f7e41de14c08b8400078e71&auth_key=1684691181-0-0-d2d7051066568c15a91984aba145c64a&edge_slice=true
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/jiz6iruaxep7up8/live2.png" group-title="Live Events",West Ham vs Leeds
 https://sports01.livnvess.com/live/stream-102933_lhd.m3u8?txSecret=7fb9b0b07e4a9b34db53670a526c7fd6&txTime=646a5bcd
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/jiz6iruaxep7up8/live2.png" group-title="Live Events",West Ham vs Leeds
@@ -78,10 +62,13 @@ https://d83e8dc9b3450f5a2962a7b324817603.livehwc3.cn/pull.juqihuo.com/live/strea
 https://sports01.livnvess.com/live/stream-208390_lhd.m3u8?txSecret=7a00ddb942a7060ca18bc0376dfd7cb7&txTime=646a6dd9
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/jiz6iruaxep7up8/live2.png" group-title="Live Events",Mainz vs VfB Stuttgart
 https://d83e8dc9b3450f5a2962a7b324817603.livehwc3.cn/pull.juqihuo.com/live/stream-294127_lhd.m3u8?sub_m3u8=true&auth_key=1684696701-0-0-924bb7f42725724fe6dc3976d5742c7a&edge_slice=true&user_session_id=ee0a7d1fdf7683399b923a1184111df5
+#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/jiz6iruaxep7up8/live2.png" group-title="Live Events",Atletico Madrid vs Osasuna
+https://sports01.livnvess.com/live/stream-348199_lhd.m3u8?txSecret=9fcd6fe6947e2beb40d848b90332364b&txTime=646a7919
+#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/jiz6iruaxep7up8/live2.png" group-title="Live Events",Atletico Madrid vs Osasuna
+https://0255aacae47ba4334f30564256a2a325.livehwc3.cn/pull.juqihuo.com/live/stream-411882_lhd.m3u8?sub_m3u8=true&edge_slice=true&auth_key=1684699281-0-0-0cbfeabb1d833802cccb1a50d77299b2&user_session_id=3e1d944472733af66a11de7b166b4651
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/jiz6iruaxep7up8/live2.png" group-title="Live Events",Atletico Madrid vs Osasuna 
-#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/jiz6iruaxep7up8/live2.png" group-title="Live Events",Atletico Madrid vs Osasuna 
-#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/jiz6iruaxep7up8/live2.png" group-title="Live Events",Atletico Madrid vs Osasuna 
-#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/jiz6iruaxep7up8/live2.png" group-title="Live Events",Atletico Madrid vs Osasuna 
+#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/jiz6iruaxep7up8/live2.png" group-title="Live Events",Atletico Madrid vs Osasuna
+https://sports01.livnvess.com/live/stream-348199_lhd.m3u8?txSecret=9fcd6fe6947e2beb40d848b90332364b&txTime=646a7919
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/jiz6iruaxep7up8/live2.png" group-title="Live Events",Man City vs Chelsea 
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/jiz6iruaxep7up8/live2.png" group-title="Live Events",Man City vs Chelsea 
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/jiz6iruaxep7up8/live2.png" group-title="Live Events",Man City vs Chelsea 
