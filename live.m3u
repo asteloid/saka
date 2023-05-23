@@ -103,6 +103,9 @@ http://188.27.255.177:8000/play/a009/index.m3u8
 #EXTINF:-1 group-title="Sports",BELARUS 5 🇧🇾
 https://kinescope.io/203407780/master.m3u8
 
+#EXTINF:-1 group-title="Sports",Setanta Sports + 🇺🇦
+http://hez1-flu.iptvstream.site/160/tracks-v1a1/mono.m3u8?token=671659%2C%2C%2C2044031989
+
 #EXTINF:-1 group-title="Sports",LALIGA TV 🇬🇧
 http://aflaxtv.xyz:8080/Millenium/7Se7MBqtCsEEt3VC/197711
 
@@ -583,6 +586,9 @@ http://37.18.239.37:8000/play/102/index.m3u8
 #EXTINF:-1 group-title="Sports",EUROSPORT 1 🇸🇮
 http://37.18.239.37:8000/play/a00y/index.m3u8
 
+#EXTINF:-1 group-title="Sports",SPORT 1 🇱🇻
+http://88.216.83.245/sport1/index.m3u8
+
 #EXTINF:-1 group-title="Sports",RAI SPORT + 🇮🇹
 http://37.18.239.37:8000/play/a02e/index.m3u8
 
@@ -691,8 +697,17 @@ https://livetv.mylifeisgood.ml/channels/setantaplus
 #EXTINF:-1 group-title="Sports",Setanta_Sports_1_HD 🇷🇺
 http://49.12.133.216:8000/play/a001/index.m3u8
 
+#EXTINF:-1 group-title="Sports",Setanta_Sports_1_HD 🇷🇺
+http://edge05.beetv.kz/btv/SWM/SetantaSport_HD/SetantaSport_HD_720p_3500kbps.m3u8
+
+#EXTINF:-1 group-title="Sports",Setanta_Sports_1_HD 🇷🇺
+http://hez1-flu.iptvstream.site/158/tracks-v1a1/mono.m3u8?token=671659%2C%2C%2C2044031989
+
 #EXTINF:-1 group-title="Sports",Setanta_Sports_2_HD 🇷🇺
 http://49.12.133.216:8000/play/a003/index.m3u8
+
+#EXTINF:-1 group-title="Sports",Setanta_Sports_2_HD 🇷🇺
+http://edge05.beetv.kz:80/btv/SWM/SetantaSportPlus_HD/SetantaSportPlus_HD.m3u8
 
 #EXTINF:-1 group-title="Sports",Setanta_Sports_Eurazia 🇺🇦
 http://49.12.133.216:8000/play/a002/index.m3u8
@@ -702,6 +717,15 @@ http://49.12.133.216:8000/play/a005/index.m3u8
 
 #EXTINF:-1 group-title="Sports",Setanta Sports uk 🇺🇦
 http://49.12.133.216:8000/play/a005/index.m3u8
+
+#EXTINF:-1 group-title="Sports",Setanta Sports + 🇺🇦
+http://hez1-flu.iptvstream.site/160/tracks-v1a1/mono.m3u8?token=671659%2C%2C%2C2044031989
+
+#EXTINF:-1 group-title="Sports",Setanta Sports 1 🇰🇿
+http://edge05.beetv.kz:80/btv/SWM/setantasports1hdkz/setantasports1hdkz.m3u8
+
+#EXTINF:-1 group-title="Sports",Setanta Sports 2 🇰🇿
+http://edge05.beetv.kz/btv/SWM/SetantaSportPlus_HD/SetantaSportPlus_HD_720p_3500kbps.m3u8
 
 #EXTINF:-1 group-title="Sports",MATH 🇷🇺
 https://bl.uma.media/live/312119/HLS/4614144_3/2/1/playlist.m3u8
@@ -825,6 +849,9 @@ http://217.174.225.146/hls/ch004_720/index.m3u8
 
 #EXTINF:-1 group-title="Sports",Qirguistán sport 🇰🇬
 http://89.254.128.5:22280/qsport/index.m3u8
+
+#EXTINF:-1 group-title="Sports",QAZSPORT 🇰🇿
+http://edge05.beetv.kz:80/btv/SWM/Qazsport_HD/Qazsport_HD.m3u8
 
 #EXTINF:-1 group-title="Sports",QAZSPORT 🇰🇿
 http://176.222.190.76/btv/SWM/Qazsport_HD/Qazsport_HD.m3u8
