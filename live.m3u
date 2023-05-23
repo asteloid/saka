@@ -111,6 +111,9 @@ http://188.27.255.177:8000/play/a009/index.m3u8
 #EXTINF:-1 group-title="Sports",BELARUS 5 🇧🇾
 https://kinescope.io/203407780/master.m3u8
 
+#EXTINF:-1 group-title="Sports",BEIN SPORTS 1 🇶🇦
+https://mo3ad@cdn2.livehd720.com/hlsbeinpp1/beinpp1/playlist.m3u8
+
 #EXTINF:-1 group-title="Sports",Setanta Sports + 🇺🇦
 http://hez1-flu.iptvstream.site/160/tracks-v1a1/mono.m3u8?token=671659%2C%2C%2C2044031989
 
