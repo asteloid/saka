@@ -129,6 +129,9 @@ https://cdn.live.vidgo.com/Content/HLS/Live/channel(71914-ESPNDHD)/02.m3u8?fbcli
 #EXTINF:-1 group-title="Sports",ESPN 2 LIVE 🇺🇸
 https://oni.realbitsport.com/live/n-2/chunks.m3u8
 
+#EXTINF:-1 group-title="Sports",DIRECTV SPORT 2 🇦🇷
+http://190.83.60.34:1414/play/a06c
+
 #EXTINF:-1 group-title="Sports",MAX SPORT 4 🇧🇬
 http://aflaxtv.xyz:8080/Millenium/7Se7MBqtCsEEt3VC/16433
 
@@ -152,6 +155,9 @@ http://84.91.204.231:9981/stream/channelid/809610317?profile=pass
 
 #EXTINF:-1 group-title="Sports",Eleven 1 HD 🇵🇹
 http://tv.allkaicerteam.com:8080/Extele@mouilha20/dWJwFNVqAl/3279
+
+#EXTINF:-1 group-title="Sports",Eleven 1 HD 🇵🇹
+http://wweraw.club:8080/elattarall/elattar/56993
 
 #EXTINF:-1 group-title="Sports",PRIMA SPORT 1 🇷🇴
 http://94.53.216.13:9981/stream/channelid/2119101735?profile=pass
@@ -194,6 +200,9 @@ http://84.91.204.231:9981/stream/channelid/809610317?profile=pass
 
 #EXTINF:-1 group-title="Sports",Eleven 2 HD 🇵🇹
 http://84.91.204.231:9981/stream/channelid/123297042?profile=pass
+
+#EXTINF:-1 group-title="Sports",Eleven 2 HD 🇵🇹
+http://wweraw.club:8080/elattarall/elattar/56994
 
 #EXTINF:-1 group-title="Sports",Eleven 3 HD 🇵🇹
 http://84.91.204.231:9981/stream/channelid/687150791?profile=pass
@@ -239,6 +248,9 @@ https://kinescope.io/203407780/master.m3u8
 
 #EXTINF:-1 group-title="Sports",K1 SPORT 🇦🇱
 http://aflaxtv.xyz:8080/Millenium/7Se7MBqtCsEEt3VC/1863
+
+#EXTINF:-1 group-title="Sports",K1 SPORT 🇦🇱
+http://wweraw.club:8080/elattarall/elattar/57627
 
 #EXTINF:-1 group-title="Sports",SUPERSSPORT 2 🇦🇱
 http://aflaxtv.xyz:8080/Millenium/7Se7MBqtCsEEt3VC/1312
