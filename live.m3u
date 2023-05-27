@@ -250,12 +250,6 @@ http://45.190.13.50:8000/play/a040/index.m3u8
 #EXTINF:-1 group-title="Sports",Eleven 1 HD 🇵🇹
 http://84.91.204.231:9981/stream/channelid/809610317?profile=pass
 
-#EXTINF:-1 group-title="Sports",Eleven 1 HD 🇵🇹
-http://tv.allkaicerteam.com:8080/Extele@mouilha20/dWJwFNVqAl/3279
-
-#EXTINF:-1 group-title="Sports",Eleven 1 HD 🇵🇹
-http://wweraw.club:8080/elattarall/elattar/56993
-
 #EXTINF:-1 group-title="Sports",PRIMA SPORT 1 🇷🇴
 http://94.53.216.13:9981/stream/channelid/2119101735?profile=pass
 
@@ -267,12 +261,6 @@ https://mo3ad@cdn2.livehd720.com/hlsbeinpp1/beinpp1/playlist.m3u8
 
 #EXTINF:-1 group-title="Sports",BEIN SPORTS 1 🇶🇦
 http://mo3ad@rtmp-ws-pull-stech.qtlglb.com/live/b806e369b1/playlist.m3u8
-
-#EXTINF:-1 group-title="Sports",BEIN SPORTS 1 🇶🇦
-http://tv.allkaicerteam.com:8080/Extele@mouilha20/dWJwFNVqAl/4172
-
-#EXTINF:-1 group-title="Sports",Setanta Sports + 🇺🇦
-http://hez1-flu.iptvstream.site/160/tracks-v1a1/mono.m3u8?token=671659%2C%2C%2C2044031989
 
 #EXTINF:-1 group-title="Sports",LALIGA TV 🇬🇧
 http://aflaxtv.xyz:8080/Millenium/7Se7MBqtCsEEt3VC/197711
@@ -301,9 +289,6 @@ http://84.91.204.231:9981/stream/channelid/809610317?profile=pass
 #EXTINF:-1 group-title="Sports",Eleven 2 HD 🇵🇹
 http://84.91.204.231:9981/stream/channelid/123297042?profile=pass
 
-#EXTINF:-1 group-title="Sports",Eleven 2 HD 🇵🇹
-http://wweraw.club:8080/elattarall/elattar/56994
-
 #EXTINF:-1 group-title="Sports",Eleven 3 HD 🇵🇹
 http://84.91.204.231:9981/stream/channelid/687150791?profile=pass
 
@@ -328,12 +313,6 @@ http://iptvbudur.xyz:8080/husic/M9ah6Msg2wmn/96685
 #EXTINF:-1 group-title="Sports",DAZN 1 🇩🇪
 http://iptvbudur.xyz:8080/husic/M9ah6Msg2wmn/238118
 
-#EXTINF:-1 group-title="Sports",DAZN 1 🇩🇪
-http://tv.allkaicerteam.com:8080/Extele@mouilha20/dWJwFNVqAl/1242
-
-#EXTINF:-1 group-title="Sports",DAZN 2 🇩🇪
-http://tv.allkaicerteam.com:8080/Extele@mouilha20/dWJwFNVqAl/1245
-
 #EXTINF:-1 group-title="Sports",DAZN 2 BAR 🇩🇪
 http://iptvbudur.xyz:8080/husic/M9ah6Msg2wmn/96688
 
@@ -349,9 +328,6 @@ https://kinescope.io/203407780/master.m3u8
 #EXTINF:-1 group-title="Sports",K1 SPORT 🇦🇱
 http://aflaxtv.xyz:8080/Millenium/7Se7MBqtCsEEt3VC/1863
 
-#EXTINF:-1 group-title="Sports",K1 SPORT 🇦🇱
-http://wweraw.club:8080/elattarall/elattar/57627
-
 #EXTINF:-1 group-title="Sports",SUPERSSPORT 2 🇦🇱
 http://aflaxtv.xyz:8080/Millenium/7Se7MBqtCsEEt3VC/1312
 
@@ -363,9 +339,6 @@ http://hidra.live:80/zvwfwyhz/z7680ifYPc/303757
 
 #EXTINF:-1 group-title="Sports",SKY SPORTS 🇲🇽
 http://31.42.185.216:8000/robertomartinez/MRCUsKskoh/140952
-
-#EXTINF:-1 group-title="Sports",SKY SPORTS 🇲🇽
-http://tv.allkaicerteam.com:8080/Extele@mouilha20/dWJwFNVqAl/3848
 
 #EXTINF:-1 group-title="Sports",Setanta Sports 1 HD 🇷🇺
 https://livetv.mylifeisgood.ml/channels/setantahd
