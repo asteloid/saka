@@ -223,6 +223,9 @@ https://d83e8dc9b3450f5a2962a7b324817603.livehwc3.cn/pull.juqihuo.com/live/strea
 #EXTINF:-1 group-title="Sports",M+ LaLigaTV 🇪🇸
 http://91.126.182.211:9981/stream/channelid/403421735?profile=pass
 
+#EXTINF:-1 group-title="Sports",ESPN + 🇺🇸 
+http://45.170.225.212:58001/play/a043/index.m3u8
+
 #EXTINF:-1 group-title="Sports",Eleven 1 HD 🇵🇹
 http://84.91.204.231:9981/stream/channelid/809610317?profile=pass
 
