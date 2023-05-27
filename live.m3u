@@ -1,11 +1,19 @@
-#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/jiz6iruaxep7up8/live2.png" group-title="Live Events",Salernitana vs Udinese 
-#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/jiz6iruaxep7up8/live2.png" group-title="Live Events",Salernitana vs Udinese 
-#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/jiz6iruaxep7up8/live2.png" group-title="Live Events",Salernitana vs Udinese 
-#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/jiz6iruaxep7up8/live2.png" group-title="Live Events",Salernitana vs Udinese 
-#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/jiz6iruaxep7up8/live2.png" group-title="Live Events",Spezia vs Torino 
-#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/jiz6iruaxep7up8/live2.png" group-title="Live Events",Spezia vs Torino 
-#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/jiz6iruaxep7up8/live2.png" group-title="Live Events",Spezia vs Torino 
-#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/jiz6iruaxep7up8/live2.png" group-title="Live Events",Spezia vs Torino 
+#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/jiz6iruaxep7up8/live2.png" group-title="Live Events",Salernitana vs Udinese
+https://sports01.livnvess.com/live/stream-206851_lhd.m3u8?txSecret=6dab379c747899d488104315d33de603&txTime=64724ea6
+#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/jiz6iruaxep7up8/live2.png" group-title="Live Events",Salernitana vs Udinese
+https://ab8b015f73be7afff38f332fb2361575.livehwc3.cn/pull.juqihuo.com/live/stream-288414_lhd.m3u8?user_session_id=8f4c3bd3156711ecae531baa9a2177b5&auth_key=1685213541-0-0-cb0a2ad3cb66a5a8d60c5e836cfcc11f&edge_slice=true&sub_m3u8=true
+#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/jiz6iruaxep7up8/live2.png" group-title="Live Events",Salernitana vs Udinese
+https://sports01.livnvess.com/live/stream-206851_lhd.m3u8?txSecret=6dab379c747899d488104315d33de603&txTime=64724ea6
+#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/jiz6iruaxep7up8/live2.png" group-title="Live Events",Salernitana vs Udinese
+https://d83e8dc9b3450f5a2962a7b324817603.livehwc3.cn/pull.juqihuo.com/live/stream-288414_lhd.m3u8?auth_key=1685213541-0-0-cb0a2ad3cb66a5a8d60c5e836cfcc11f&edge_slice=true&user_session_id=9aa7feae48e39e2c9db1903520c06e41&sub_m3u8=true
+#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/jiz6iruaxep7up8/live2.png" group-title="Live Events",Spezia vs Torino
+https://0255aacae47ba4334f30564256a2a325.livehwc3.cn/pull06.scstream.net/live/stream-360663_lhd.m3u8?auth_key=1685212898-0-0-abe3d287c518bf82a895d5fe6a3251c0&user_session_id=1e1353c786ad52ba75802eee09dff22a&sub_m3u8=true&edge_slice=true
+#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/jiz6iruaxep7up8/live2.png" group-title="Live Events",Spezia vs Torino
+https://ab8b015f73be7afff38f332fb2361575.livehwc3.cn/pull.juqihuo.com/live/stream-772920_lhd.m3u8?edge_slice=true&sub_m3u8=true&auth_key=1685213061-0-0-3e0c1a43b1d8376106940d070611f850&user_session_id=757d5a837fe5231ffbadc59c5c4628c3
+#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/jiz6iruaxep7up8/live2.png" group-title="Live Events",Spezia vs Torino
+https://0255aacae47ba4334f30564256a2a325.livehwc3.cn/pull06.scstream.net/live/stream-360663_lhd.m3u8?auth_key=1685212898-0-0-abe3d287c518bf82a895d5fe6a3251c0&user_session_id=7537c0e2dbada22c964c7c637a8fa8f6&sub_m3u8=true&edge_slice=true
+#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/jiz6iruaxep7up8/live2.png" group-title="Live Events",Spezia vs Torino
+https://ab8b015f73be7afff38f332fb2361575.livehwc3.cn/pull.juqihuo.com/live/stream-772920_lhd.m3u8?edge_slice=true&sub_m3u8=true&auth_key=1685213061-0-0-3e0c1a43b1d8376106940d070611f850&user_session_id=ec9f5bb56560bd2b91d4ceced0efe55d
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/jiz6iruaxep7up8/live2.png" group-title="Live Events",VfL Bochum vs Leverkusen 
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/jiz6iruaxep7up8/live2.png" group-title="Live Events",VfL Bochum vs Leverkusen 
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/jiz6iruaxep7up8/live2.png" group-title="Live Events",VfL Bochum vs Leverkusen 
