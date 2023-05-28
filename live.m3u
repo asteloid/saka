@@ -87,13 +87,13 @@ https://7992be6d488db9d33fd803b87f5537aa.livehwc3.cn/pull06.scstream.net/live/st
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/jiz6iruaxep7up8/live2.png" group-title="Live Events",Lazio vs Cremonese
 https://ab8b015f73be7afff38f332fb2361575.livehwc3.cn/pull.juqihuo.com/live/stream-771031_lhd.m3u8?user_session_id=0920a3f8f52159fd633a03e65947e17e&auth_key=1685310442-0-0-ae7820df734ac651035f4125c04fe170&sub_m3u8=true&edge_slice=true
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/jiz6iruaxep7up8/live2.png" group-title="Live Events",Almeria vs Real Valladolid
-https
+https://0255aacae47ba4334f30564256a2a325.livehwc3.cn/pull.juqihuo.com/live/stream-317957_lhd.m3u8?sub_m3u8=true&user_session_id=7c53abcb91265df0fee2a3948586be0c&auth_key=1685315541-0-0-6aa217fd0eddb57a28058dfe180335fc&edge_slice=true
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/jiz6iruaxep7up8/live2.png" group-title="Live Events",Almeria vs Real Valladolid
-https
+https://0255aacae47ba4334f30564256a2a325.livehwc3.cn/pull.juqihuo.com/live/stream-317957_lhd.m3u8?sub_m3u8=true&user_session_id=7ff55c6ee46e6399d3ffa81c9f5aca97&auth_key=1685315541-0-0-6aa217fd0eddb57a28058dfe180335fc&edge_slice=true
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/jiz6iruaxep7up8/live2.png" group-title="Live Events",Almeria vs Real Valladolid
-https
+https://0255aacae47ba4334f30564256a2a325.livehwc3.cn/pull.juqihuo.com/live/stream-317957_lhd.m3u8?auth_key=1685315541-0-0-6aa217fd0eddb57a28058dfe180335fc&edge_slice=true&user_session_id=ea8d43cab5b6522b355a849b4a7dc37d&sub_m3u8=true
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/jiz6iruaxep7up8/live2.png" group-title="Live Events",Almeria vs Real Valladolid
-https
+https://0255aacae47ba4334f30564256a2a325.livehwc3.cn/pull.juqihuo.com/live/stream-317957_lhd.m3u8?auth_key=1685315541-0-0-6aa217fd0eddb57a28058dfe180335fc&edge_slice=true&user_session_id=ea8d43cab5b6522b355a849b4a7dc37d&sub_m3u8=true
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/jiz6iruaxep7up8/live2.png" group-title="Live Events",Athletic Club vs Elche
 https
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/jiz6iruaxep7up8/live2.png" group-title="Live Events",Athletic Club vs Elche
@@ -155,9 +155,9 @@ https://ab8b015f73be7afff38f332fb2361575.livehwc3.cn/pull.juqihuo.com/live/strea
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/jiz6iruaxep7up8/live2.png" group-title="Live Events",Valencina vs Espanyol
 https://ab8b015f73be7afff38f332fb2361575.livehwc3.cn/pull.juqihuo.com/live/stream-789220_lhd.m3u8?auth_key=1685315302-0-0-03988f6ad69be709707456a1f402382e&edge_slice=true&user_session_id=019eb4830bd20cb9d356bc74708ff1d1&sub_m3u8=true
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/jiz6iruaxep7up8/live2.png" group-title="Live Events",Valencina vs Espanyol
-https
+https://0255aacae47ba4334f30564256a2a325.livehwc3.cn/pull.juqihuo.com/live/stream-789220_lhd.m3u8?sub_m3u8=true&auth_key=1685315302-0-0-03988f6ad69be709707456a1f402382e&user_session_id=a6c1552dc054f14f3baacd918c61284a&edge_slice=true
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/jiz6iruaxep7up8/live2.png" group-title="Live Events",Valencina vs Espanyol
-https
+https://0255aacae47ba4334f30564256a2a325.livehwc3.cn/pull.juqihuo.com/live/stream-789220_lhd.m3u8?sub_m3u8=true&auth_key=1685315302-0-0-03988f6ad69be709707456a1f402382e&user_session_id=a6c1552dc054f14f3baacd918c61284a&edge_slice=true
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/jiz6iruaxep7up8/live2.png" group-title="Live Events",Juventus vs Milan
 https
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/jiz6iruaxep7up8/live2.png" group-title="Live Events",Juventus vs Milan
@@ -171,6 +171,9 @@ https
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/jiz6iruaxep7up8/live2.png" group-title="Live Events",Sevilla vs Roma 
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/jiz6iruaxep7up8/live2.png" group-title="Live Events",Sevilla vs Roma 
 
+
+#EXTINF:-1 group-title="Sports",PUCELA 🇪🇸
+http://playhispano.org:8080/eliaseggy787/JRZpSNT6Bv/236342
 
 #EXTINF:-1 group-title="Sports",M+ LaLiga 4 🇪🇸
 http://aflaxtv.xyz:8080/Millenium/7Se7MBqtCsEEt3VC/269466
