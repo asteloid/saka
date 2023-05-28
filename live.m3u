@@ -132,6 +132,9 @@ https://ab8b015f73be7afff38f332fb2361575.livehwc3.cn/pull.juqihuo.com/live/strea
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/jiz6iruaxep7up8/live2.png" group-title="Live Events",Sevilla vs Roma 
 
 
+#EXTINF:-1 group-title="Sports",M+ LaLiga 4 🇪🇸
+http://aflaxtv.xyz:8080/Millenium/7Se7MBqtCsEEt3VC/269466
+
 #EXTINF:-1 group-title="Sports",Setanta Sports 2 HD 🇷🇺
 http://94.158.54.107/95/tracks-v1a1/mono.m3u8
 
@@ -143,9 +146,6 @@ http://95.216.6.244:8000/play/a003/index.m3u8
 
 #EXTINF:-1 group-title="Sports",Setanta_Sports_2_HD 🇷🇺
 http://edge05.beetv.kz:80/btv/SWM/SetantaSportPlus_HD/SetantaSportPlus_HD.m3u8
-
-#EXTINF:-1 group-title="Sports",Setanta Sports 2 HD 🇷🇺
-https://livetv.mylifeisgood.ml/channels/setantaplus
 
 #EXTINF:-1 group-title="Sports",Setanta Sports 2 🇰🇿
 http://edge05.beetv.kz/btv/SWM/SetantaSportPlus_HD/SetantaSportPlus_HD_720p_3500kbps.m3u8
