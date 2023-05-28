@@ -143,11 +143,17 @@ http://edge05.beetv.kz:80/btv/SWM/SetantaSportPlus_HD/SetantaSportPlus_HD.m3u8
 #EXTINF:-1 group-title="Sports",Setanta Sports 2 HD 🇷🇺
 https://livetv.mylifeisgood.ml/channels/setantaplus
 
+#EXTINF:-1 group-title="Sports",Setanta Sports 2 🇰🇿
+http://edge05.beetv.kz/btv/SWM/SetantaSportPlus_HD/SetantaSportPlus_HD_720p_3500kbps.m3u8
+
 #EXTINF:-1 group-title="Sports",MAX SPORT 4 🇧🇬
 http://46.10.218.219:8000/play/a05n
 
 #EXTINF:-1 group-title="Sports",MAX sport 4 🇧🇬
 http://83.228.75.166:8000/play/a0e7
+
+#EXTINF:-1 group-title="Sports",Eleven 4 HD 🇵🇹
+http://84.91.204.231:9981/stream/channelid/2020832066?profile=pass
 
 #EXTINF:-1 group-title="Sports",Setanta Sports 2 🇬🇪
 http://hyqzethr.megatv.fun/iptv/QGP3QXDP95UFB4/7168/index.m3u8
