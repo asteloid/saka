@@ -4,6 +4,15 @@
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/jiz6iruaxep7up8/live2.png" group-title="Live Events",Sevilla vs Roma 
 
 
+#EXTINF:-1 group-title="Sports",MATH 🇷🇺
+https://bl.uma.media/live/312119/HLS/4614144_3/2/1/playlist.m3u8
+
+#EXTINF:-1 group-title="Sports",MATH 🇷🇺
+https://live.kinescopecdn.net/on-air/55e73540-201b-42a2-b91e-96802a0ddc31/8950a3b3-57ad-4537-a8fb-114254d6927c/master.m3u8
+
+#EXTINF:-1 group-title="Sports",МАТЧ Футбол 1 HD 🇷🇺
+http://bl.uma.media/live/126863/HLS/6866944_4/2/1/playlist.m3u8
+
 #EXTINF:-1 group-title="Sports",M+ LaLiga 🇪🇸
 http://aflaxtv.xyz:8080/Millenium/7Se7MBqtCsEEt3VC/269466
 
@@ -27,6 +36,9 @@ http://46.10.218.219:8000/play/a05n
 
 #EXTINF:-1 group-title="Sports",MAX sport 4 🇧🇬
 http://83.228.75.166:8000/play/a0e7
+
+#EXTINF:-1 group-title="Sports",MAX sport 4 🇧🇬
+http://2023.57tv.club:8000/ferhatcirrik/p98XdW6dHf/89074
 
 #EXTINF:-1 group-title="Sports",Eleven 4 HD 🇵🇹
 http://84.91.204.231:9981/stream/channelid/2020832066?profile=pass
@@ -82,11 +94,20 @@ https://s1.thegentleclass.xyz/class3_hd/index.m3u8
 #EXTINF:-1 group-title="Sports",ARENA SPORT 6 🇭🇷
 http://aflaxtv.xyz:8080/Millenium/7Se7MBqtCsEEt3VC/10961
 
+#EXTINF:-1 group-title="Sports",ARENA SPORT 6 🇭🇷
+http://2023.57tv.club:8000/ferhatcirrik/p98XdW6dHf/89041
+
+#EXTINF:-1 group-title="Sports",S SPORT 🇹🇷
+http://2023.57tv.club:8000/ferhatcirrik/p98XdW6dHf/1499
+
 #EXTINF:-1 group-title="Sports",S SPORT 🇹🇷
 http://aflaxtv.xyz:8080/Millenium/7Se7MBqtCsEEt3VC/1753
 
 #EXTINF:-1 group-title="Sports",S SPORT 2 🇹🇷
 http://aflaxtv.xyz:8080/Millenium/7Se7MBqtCsEEt3VC/10167
+
+#EXTINF:-1 group-title="Sports",S SPORT 2 🇹🇷
+http://2023.57tv.club:8000/ferhatcirrik/p98XdW6dHf/2559
 
 #EXTINF:-1 group-title="Sports",Eleven 1 HD 🇵🇹
 http://84.91.204.231:9981/stream/channelid/809610317?profile=pass
