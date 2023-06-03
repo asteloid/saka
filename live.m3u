@@ -1,11 +1,3 @@
-#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/jiz6iruaxep7up8/live2.png" group-title="Live Events",Sassuolo vs Fiorentina
-https://sports01.livnvess.com/live/stream-991121_lhd.m3u8?txSecret=4ca04cd46fdfff5d76bcf6d3d715c1d8&txTime=647a8a26
-#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/jiz6iruaxep7up8/live2.png" group-title="Live Events",Sassuolo vs Fiorentina
-https://3e2c221d70ae22493725da7ff1bfba5c.livehwc3.cn/pull.juqihuo.com/live/stream-282956_lhd.m3u8?edge_slice=true&auth_key=1685752461-0-0-191ea89ee6835af769c5220f8358233d&user_session_id=a19f92b25d7f86d408df596d83ba9c51&sub_m3u8=true
-#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/jiz6iruaxep7up8/live2.png" group-title="Live Events",Sassuolo vs Fiorentina
-https://sports01.livnvess.com/live/stream-991121_lhd.m3u8?txSecret=4ca04cd46fdfff5d76bcf6d3d715c1d8&txTime=647a8a26
-#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/jiz6iruaxep7up8/live2.png" group-title="Live Events",Sassuolo vs Fiorentina
-https://3e2c221d70ae22493725da7ff1bfba5c.livehwc3.cn/pull.juqihuo.com/live/stream-282956_lhd.m3u8?edge_slice=true&auth_key=1685752461-0-0-191ea89ee6835af769c5220f8358233d&user_session_id=52595b67c612f61d0ae9727b54146fff&sub_m3u8=true
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/jiz6iruaxep7up8/live2.png" group-title="Live Events",Man City vs Man United 
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/jiz6iruaxep7up8/live2.png" group-title="Live Events",Man City vs Man United 
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/jiz6iruaxep7up8/live2.png" group-title="Live Events",Man City vs Man United 
@@ -91,6 +83,15 @@ https://3e2c221d70ae22493725da7ff1bfba5c.livehwc3.cn/pull.juqihuo.com/live/strea
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/jiz6iruaxep7up8/live2.png" group-title="Live Events",Troyes vs Lille 
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/jiz6iruaxep7up8/live2.png" group-title="Live Events",Troyes vs Lille 
 
+
+#EXTINF:-1 group-title="Sports",CANAL + 2 POLONIA 🇵🇱
+http://51.89.67.79:25461/stalker348574985793/stalker348574985793/86
+
+#EXTINF:-1 group-title="Sports",Eleven 5 HD 🇵🇹
+http://conexaoonline.top:80/IVONE123/IVONE321/260998
+
+#EXTINF:-1 group-title="Sports",BEIN SPORTS 3 🇶🇦
+http://line.365tv.xyz:8060/live/HNf5n8njq9FK/betasee4j8Gq/90156.ts
 
 #EXTINF:-1 group-title="Sports",M+ LaLiga 🇪🇸
 http://aflaxtv.xyz:8080/Millenium/7Se7MBqtCsEEt3VC/269466
@@ -98,50 +99,20 @@ http://aflaxtv.xyz:8080/Millenium/7Se7MBqtCsEEt3VC/269466
 #EXTINF:-1 group-title="Sports",Setanta Sports 2 HD 🇷🇺
 http://94.158.54.107/95/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 group-title="Sports",Setanta_Sports_2_HD 🇷🇺
-http://49.12.133.216:8000/play/a003/index.m3u8
-
-#EXTINF:-1 group-title="Sports",Setanta_Sports_2_HD 🇷🇺
-http://95.216.6.244:8000/play/a003/index.m3u8
-
-#EXTINF:-1 group-title="Sports",Setanta_Sports_2_HD 🇷🇺
-http://edge05.beetv.kz:80/btv/SWM/SetantaSportPlus_HD/SetantaSportPlus_HD.m3u8
-
-#EXTINF:-1 group-title="Sports",Setanta Sports 2 🇰🇿
-http://edge05.beetv.kz/btv/SWM/SetantaSportPlus_HD/SetantaSportPlus_HD_720p_3500kbps.m3u8
-
 #EXTINF:-1 group-title="Sports",MAX SPORT 4 🇧🇬
 http://46.10.218.219:8000/play/a05n
 
 #EXTINF:-1 group-title="Sports",MAX sport 4 🇧🇬
 http://83.228.75.166:8000/play/a0e7
 
-#EXTINF:-1 group-title="Sports",MAX sport 4 🇧🇬
-http://2023.57tv.club:8000/ferhatcirrik/p98XdW6dHf/89074
-
-#EXTINF:-1 group-title="Sports",Eleven 4 HD 🇵🇹
-http://84.91.204.231:9981/stream/channelid/2020832066?profile=pass
-
 #EXTINF:-1 group-title="Sports",M+ LaLigaTV 🇪🇸
 http://91.126.182.211:9981/stream/channelid/403421735?profile=pass
-
-#EXTINF:-1 group-title="Sports",BEIN 1 🇫🇷
-https://tinyurl.com/2k9wbwtd
-
-#EXTINF:-1 group-title="Sports",BEIN 2 🇫🇷
-https://tinyurl.com/2gcm94e5
-
-#EXTINF:-1 group-title="Sports",BEIN 3 🇫🇷
-https://tinyurl.com/2lv9csb2
 
 #EXTINF:-1 group-title="Sports",DIRECTV SPORT 🇦🇷
 http://45.190.13.50:8000/play/a03v/index.m3u8
 
 #EXTINF:-1 group-title="Sports",Direct tv sport + 🇦🇷
 http://190.83.60.34:1414/play/a06b
-
-#EXTINF:-1 group-title="Sports",Eleven 1 HD 🇵🇹
-http://84.91.204.231:9981/stream/channelid/809610317?profile=pass
 
 #EXTINF:-1 group-title="Sports",MAX SPORT 4 🇧🇬
 http://aflaxtv.xyz:8080/Millenium/7Se7MBqtCsEEt3VC/16433
@@ -173,29 +144,11 @@ https://s1.thegentleclass.xyz/class3_hd/index.m3u8
 #EXTINF:-1 group-title="Sports",ARENA SPORT 6 🇭🇷
 http://aflaxtv.xyz:8080/Millenium/7Se7MBqtCsEEt3VC/10961
 
-#EXTINF:-1 group-title="Sports",ARENA SPORT 6 🇭🇷
-http://2023.57tv.club:8000/ferhatcirrik/p98XdW6dHf/89041
-
-#EXTINF:-1 group-title="Sports",S SPORT 🇹🇷
-http://2023.57tv.club:8000/ferhatcirrik/p98XdW6dHf/1499
-
 #EXTINF:-1 group-title="Sports",S SPORT 🇹🇷
 http://aflaxtv.xyz:8080/Millenium/7Se7MBqtCsEEt3VC/1753
 
 #EXTINF:-1 group-title="Sports",S SPORT 2 🇹🇷
 http://aflaxtv.xyz:8080/Millenium/7Se7MBqtCsEEt3VC/10167
-
-#EXTINF:-1 group-title="Sports",S SPORT 2 🇹🇷
-http://2023.57tv.club:8000/ferhatcirrik/p98XdW6dHf/2559
-
-#EXTINF:-1 group-title="Sports",Eleven 1 HD 🇵🇹
-http://84.91.204.231:9981/stream/channelid/809610317?profile=pass
-
-#EXTINF:-1 group-title="Sports",Eleven 2 HD 🇵🇹
-http://84.91.204.231:9981/stream/channelid/123297042?profile=pass
-
-#EXTINF:-1 group-title="Sports",Eleven 3 HD 🇵🇹
-http://84.91.204.231:9981/stream/channelid/687150791?profile=pass
 
 #EXTINF:-1 group-title="Sports",SPILER 2 🇭🇺
 http://aflaxtv.xyz:8080/Millenium/7Se7MBqtCsEEt3VC/77769
@@ -209,14 +162,8 @@ http://aflaxtv.xyz:8080/Millenium/7Se7MBqtCsEEt3VC/295025
 #EXTINF:-1 group-title="Sports",MTV INDIA 🇮🇳
 https://yupplivefragcp6.yuppcdn.net/050523/smil:mtvau.smil/playlist.m3u8
 
-#EXTINF:-1 group-title="Sports",DAZN 1 BAR 🇩🇪
-http://iptvbudur.xyz:8080/husic/M9ah6Msg2wmn/96685
-
 #EXTINF:-1 group-title="Sports",DAZN 1 🇩🇪
 http://iptvbudur.xyz:8080/husic/M9ah6Msg2wmn/238118
-
-#EXTINF:-1 group-title="Sports",DAZN 2 BAR 🇩🇪
-http://iptvbudur.xyz:8080/husic/M9ah6Msg2wmn/96688
 
 #EXTINF:-1 group-title="Sports",DAZN 2 🇩🇪
 http://iptvbudur.xyz:8080/husic/M9ah6Msg2wmn/238120
