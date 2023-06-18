@@ -84,7 +84,10 @@ https://sports01.livnvess.com/live/stream-158814_lhd.m3u8?txSecret=264d606e4ef6c
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/jiz6iruaxep7up8/live2.png" group-title="Live Events",France vs Greece 
 
 
-#EXTINF:-1 group-title="Sports",SKY F1
+#EXTINF:-1 group-title="Sports",TV1 🇪🇸
+https://rtvelivestream.akamaized.net/rtvesec/la1/la1_main_720.m3u8
+
+#EXTINF:-1 group-title="Sports",SKY F1 🇬🇧
 https://qyfb8377447rtirq.fordems.live/live/for-demsf1/chunks.m3u8
 
 #EXTINF:-1 group-title="Sports",CANAL + 2 POLONIA 🇵🇱
