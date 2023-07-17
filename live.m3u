@@ -1,3 +1,11 @@
+#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/jiz6iruaxep7up8/live2.png" group-title="Live Events",Hoffenheim vs Strasbourg
+https://ab8b015f73be7afff38f332fb2361575.livehwc3.cn/pull06.scstream.net/live/stream-313893_lsd.m3u8?auth_key=1689608349-0-0-2d000a9176f33c62d0fb4a56aaba9fb0&user_session_id=0f6ae581c65bca83d8ebe749ee32d63e&edge_slice=true&sub_m3u8=true
+#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/jiz6iruaxep7up8/live2.png" group-title="Live Events",Hoffenheim vs Strasbourg
+https://ab8b015f73be7afff38f332fb2361575.livehwc3.cn/pull06.scstream.net/live/stream-313893_lhd.m3u8?auth_key=1689608349-0-0-b7d734a52a0a4d0af97e991f2999a9d8&user_session_id=8bf94870296edc318bdddb6d37c6772c&edge_slice=true&sub_m3u8=true
+#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/jiz6iruaxep7up8/live2.png" group-title="Live Events",Hoffenheim vs Strasbourg
+https://ab8b015f73be7afff38f332fb2361575.livehwc3.cn/pull06.scstream.net/live/stream-991109_lsd.m3u8?user_session_id=4d8b910e5837772a9f753d261dae5dba&edge_slice=true&sub_m3u8=true&auth_key=1689608469-0-0-f1d3bd0c1b87e39fe45d0b28db93bfb8
+#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/jiz6iruaxep7up8/live2.png" group-title="Live Events",Hoffenheim vs Strasbourg
+https://ab8b015f73be7afff38f332fb2361575.livehwc3.cn/pull06.scstream.net/live/stream-991109_lhd.m3u8?user_session_id=a71d4bae61902de435c2b44380caef19&edge_slice=true&sub_m3u8=true&auth_key=1689608469-0-0-ad4d36ccc195348a61868c59c94fa59d
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/jiz6iruaxep7up8/live2.png" group-title="Live Events",Spurs vs West Ham
 https://pull01.rrwes.live/live/stream-214855_lhd.m3u8?txSecret=c24a42e5c76df16b7b7db4e2deaa3e76&txTime=64b489b1
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/jiz6iruaxep7up8/live2.png" group-title="Live Events",Spurs vs West Ham
