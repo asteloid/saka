@@ -1,25 +1,44 @@
-#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/jiz6iruaxep7up8/live2.png" group-title="Live Events",Man United vs Arsenal
-https://obevcimanyd179314182.thapcam.link/live/may1SD/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/jiz6iruaxep7up8/live2.png" group-title="Live Events",Man United vs Arsenal
-https://pull01.rrwes.live/live/stream-214855_lsd.m3u8?txSecret=98988bf3939d1bca1153db124713d761&txTime=64bc90c4
-#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/jiz6iruaxep7up8/live2.png" group-title="Live Events",Man United vs Arsenal
-https://1123139281.cdn.khmer-hd.com/may1HD/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/jiz6iruaxep7up8/live2.png" group-title="Live Events",Man United vs Arsenal
-https://pull01.rrwes.live/live/stream-214855_lhd.m3u8?txSecret=c2640055794eb2b0cebd8d31aa71cb2c&txTime=64bc90c4
-#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/jiz6iruaxep7up8/live2.png" group-title="Live Events",Man United vs Arsenal
-https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull06.scstream.net/live/stream-231997_lsd.m3u8?user_session_id=57ffcc705bb5a1fa54f7d8ee34089b67&auth_key=1690061488-0-0-fca795cb0cb7592f353c137884d17001&edge_slice=true&sub_m3u8=true
-#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/jiz6iruaxep7up8/live2.png" group-title="Live Events",Man United vs Arsenal
-https://obevcimanyd179314182.thapcam.link/live/may1FHD/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/jiz6iruaxep7up8/live2.png" group-title="Live Events",Man United vs Arsenal
-https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull06.scstream.net/live/stream-231997_lhd.m3u8?user_session_id=d75e669069efdf67b3a69ff548b9ef8c&auth_key=1690061488-0-0-f16e5682db503b52f86da1a895cf6170&edge_slice=true&sub_m3u8=true
-#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/jiz6iruaxep7up8/live2.png" group-title="Live Events",Chelsea vs Brighton
-https://ab8b015f73be7afff38f332fb2361575.livehwc3.cn/pull06.scstream.net/live/stream-991105_lsd.m3u8?auth_key=1690052968-0-0-36f6a1bc084217150cb5ee573077aa69&user_session_id=6a1b6e403e7b2203b1595a77c46dae99&edge_slice=true&sub_m3u8=true
-#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/jiz6iruaxep7up8/live2.png" group-title="Live Events",Chelsea vs Brighton
-https://ab8b015f73be7afff38f332fb2361575.livehwc3.cn/pull06.scstream.net/live/stream-991105_lhd.m3u8?sub_m3u8=true&auth_key=1690052968-0-0-c5d0fb329c94477c3b7c2b26a6e9b101&edge_slice=true&user_session_id=1f07f4c782b5470606e53d2f072f7141
-#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/jiz6iruaxep7up8/live2.png" group-title="Live Events",Chelsea vs Brighton
-https://pull01.rrwes.live/live/stream-214855_lsd.m3u8?txSecret=fa373ec675e4ae705247fe905a8e68e7&txTime=64bc6ff4
-#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/jiz6iruaxep7up8/live2.png" group-title="Live Events",Chelsea vs Brighton
-https://pull01.rrwes.live/live/stream-214855_lhd.m3u8?txSecret=b519cbb5091f6ae81c53ece0156bfd04&txTime=64bc6ff4
+#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/jiz6iruaxep7up8/live2.png" group-title="Live Events",France vs Jamaica
+https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull06.scstream.net/live/stream-118582_lsd.m3u8?auth_key=1690108168-0-0-10f23841c6b172fe48ad444f3f2e59f4&edge_slice=true&user_session_id=a57bd06d591a410a907919e01700f78a&sub_m3u8=true
+#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/jiz6iruaxep7up8/live2.png" group-title="Live Events",France vs Jamaica
+https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull06.scstream.net/live/stream-118582_lhd.m3u8?user_session_id=506e07f0578928628f2cef2bf4a36daf&auth_key=1690108168-0-0-945110f8e3c5e22725c9979867e87616&edge_slice=true&sub_m3u8=true
+#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/jiz6iruaxep7up8/live2.png" group-title="Live Events",France vs Jamaica
+https://obevcimanyd179314182.thapcam.link/live/trauFHD/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/jiz6iruaxep7up8/live2.png" group-title="Live Events",France vs Jamaica
+https://obevcimanyd179314182.thapcam.link/live/trauFHD/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/jiz6iruaxep7up8/live2.png" group-title="Live Events",Yokohoma FM vs Man City
+https://ab8b015f73be7afff38f332fb2361575.livehwc3.cn/pull06.scstream.net/live/stream-372601_lsd.m3u8?auth_key=1690108288-0-0-680e6b1868d7a820c4b98548dd56f3c3&edge_slice=true&user_session_id=cc101b51b9c993d187915e56eb203435&sub_m3u8=true
+#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/jiz6iruaxep7up8/live2.png" group-title="Live Events",Yokohoma FM vs Man City
+https://ab8b015f73be7afff38f332fb2361575.livehwc3.cn/pull06.scstream.net/live/stream-372601_lhd.m3u8?auth_key=1690108288-0-0-b78d01b17dce41af7f8c910824eb26f9&edge_slice=true&user_session_id=0f973a38d7b642b405f0ed8bda261213&sub_m3u8=true
+#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/jiz6iruaxep7up8/live2.png" group-title="Live Events",Yokohoma FM vs Man City
+https://obevcimanyd179314182.thapcam.link/live/oldFHD/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/jiz6iruaxep7up8/live2.png" group-title="Live Events",Yokohoma FM vs Man City
+https://obevcimanyd179314182.thapcam.link/live/oldFHD/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/jiz6iruaxep7up8/live2.png" group-title="Live Events",Leicester vs Tottenham
+https://obevcimanyd179314182.thapcam.link/live/may3SD/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/jiz6iruaxep7up8/live2.png" group-title="Live Events",Leicester vs Tottenham
+https://obevcimanyd179314182.thapcam.link/live/may3FHD/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/jiz6iruaxep7up8/live2.png" group-title="Live Events",Fulham vs Brentford 
+#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/jiz6iruaxep7up8/live2.png" group-title="Live Events",Fulham vs Brentford 
+#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/jiz6iruaxep7up8/live2.png" group-title="Live Events",Fulham vs Brentford 
+#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/jiz6iruaxep7up8/live2.png" group-title="Live Events",Newcastle vs Aston Villa 
+#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/jiz6iruaxep7up8/live2.png" group-title="Live Events",Newcastle vs Aston Villa 
+#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/jiz6iruaxep7up8/live2.png" group-title="Live Events",Newcastle vs Aston Villa 
+#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/jiz6iruaxep7up8/live2.png" group-title="Live Events",Real Madrid vs Milan 
+#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/jiz6iruaxep7up8/live2.png" group-title="Live Events",Real Madrid vs Milan 
+#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/jiz6iruaxep7up8/live2.png" group-title="Live Events",Real Madrid vs Milan 
+#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/jiz6iruaxep7up8/live2.png" group-title="Live Events",Italy vs Argentina 
+#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/jiz6iruaxep7up8/live2.png" group-title="Live Events",Italy vs Argentina 
+#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/jiz6iruaxep7up8/live2.png" group-title="Live Events",Italy vs Argentina 
+#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/jiz6iruaxep7up8/live2.png" group-title="Live Events",Germany vs Morocco 
+#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/jiz6iruaxep7up8/live2.png" group-title="Live Events",Germany vs Morocco 
+#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/jiz6iruaxep7up8/live2.png" group-title="Live Events",Germany vs Morocco 
+#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/jiz6iruaxep7up8/live2.png" group-title="Live Events",Greuther Fürth vs Liverpool 
+#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/jiz6iruaxep7up8/live2.png" group-title="Live Events",Greuther Fürth vs Liverpool 
+#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/jiz6iruaxep7up8/live2.png" group-title="Live Events",Greuther Fürth vs Liverpool 
+#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/jiz6iruaxep7up8/live2.png" group-title="Live Events",Brazil vs Panama 
+#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/jiz6iruaxep7up8/live2.png" group-title="Live Events",Brazil vs Panama 
+#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/jiz6iruaxep7up8/live2.png" group-title="Live Events",Brazil vs Panama 
 
 
 #EXTINF:-1 group-title="Sports",4 Sport 🇮🇶
