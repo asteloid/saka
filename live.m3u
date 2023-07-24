@@ -1,21 +1,17 @@
-#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/jiz6iruaxep7up8/live2.png" group-title="Live Events",Newcastle vs Aston Villa 
-#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/jiz6iruaxep7up8/live2.png" group-title="Live Events",Newcastle vs Aston Villa 
-#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/jiz6iruaxep7up8/live2.png" group-title="Live Events",Newcastle vs Aston Villa 
-#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/jiz6iruaxep7up8/live2.png" group-title="Live Events",Real Madrid vs Milan 
-#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/jiz6iruaxep7up8/live2.png" group-title="Live Events",Real Madrid vs Milan 
-#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/jiz6iruaxep7up8/live2.png" group-title="Live Events",Real Madrid vs Milan 
-#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/jiz6iruaxep7up8/live2.png" group-title="Live Events",Italy vs Argentina 
-#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/jiz6iruaxep7up8/live2.png" group-title="Live Events",Italy vs Argentina 
-#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/jiz6iruaxep7up8/live2.png" group-title="Live Events",Italy vs Argentina 
-#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/jiz6iruaxep7up8/live2.png" group-title="Live Events",Germany vs Morocco 
-#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/jiz6iruaxep7up8/live2.png" group-title="Live Events",Germany vs Morocco 
-#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/jiz6iruaxep7up8/live2.png" group-title="Live Events",Germany vs Morocco 
-#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/jiz6iruaxep7up8/live2.png" group-title="Live Events",Greuther Fürth vs Liverpool 
-#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/jiz6iruaxep7up8/live2.png" group-title="Live Events",Greuther Fürth vs Liverpool 
-#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/jiz6iruaxep7up8/live2.png" group-title="Live Events",Greuther Fürth vs Liverpool 
-#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/jiz6iruaxep7up8/live2.png" group-title="Live Events",Brazil vs Panama 
-#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/jiz6iruaxep7up8/live2.png" group-title="Live Events",Brazil vs Panama 
-#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/jiz6iruaxep7up8/live2.png" group-title="Live Events",Brazil vs Panama 
+#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/jiz6iruaxep7up8/live2.png" group-title="Live Events",Greuther Fürth vs Liverpool
+https://pull01.rrwes.live/live/stream-991121_lsd.m3u8?txSecret=74c575430e90e2b8cb175ecc2bdf2a54&txTime=64bea6e8
+#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/jiz6iruaxep7up8/live2.png" group-title="Live Events",Greuther Fürth vs Liverpool
+https://pull01.rrwes.live/live/stream-991121_lhd.m3u8?txSecret=bf54326a095fae9516d42a7402bc3958&txTime=64bea6e8
+#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/jiz6iruaxep7up8/live2.png" group-title="Live Events",Greuther Fürth vs Liverpool
+https://1123139281.cdn.khmer-hd.com/may1HD/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/jiz6iruaxep7up8/live2.png" group-title="Live Events",Greuther Fürth vs Liverpool
+https://obevcimanyd179314182.thapcam.link/live/may1FHD/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/jiz6iruaxep7up8/live2.png" group-title="Live Events",Brazil vs Panama
+https://ab8b015f73be7afff38f332fb2361575.livehwc3.cn/pull06.scstream.net/live/stream-991150_lsd.m3u8?sub_m3u8=true&user_session_id=8f11be8bfa159c30081481f934cce8ce&edge_slice=true&auth_key=1690198348-0-0-1c30da8d2c509af5014aee383c07e8e3
+#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/jiz6iruaxep7up8/live2.png" group-title="Live Events",Brazil vs Panama
+https://ab8b015f73be7afff38f332fb2361575.livehwc3.cn/pull06.scstream.net/live/stream-991150_lhd.m3u8?auth_key=1690198348-0-0-fa455af44f996e379000c8b27eb7163a&edge_slice=true&sub_m3u8=true&user_session_id=6af2f1dd7312bc3f8f3f89f2ce804411
+#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/jiz6iruaxep7up8/live2.png" group-title="Live Events",Brazil vs Panama
+https://1123139281.cdn.khmer-hd.com/may3HD/chunks.m3u8
 
 
 #EXTINF:-1 group-title="Sports",4 Sport 🇮🇶
