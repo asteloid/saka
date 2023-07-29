@@ -48,8 +48,17 @@ https://1123139281.cdn.khmer-hd.com/cuonHD/chunks.m3u8
 https://obevcimanyd179314182.thapcam.link/live/cuonFHD/chunklist.m3u8
 
 
-#EXTINF:-1 group-title="Sports",4 Sport 🇮🇶
-http://212.126.106.218:31000/play/a070
+#EXTINF:-1 group-title="Sports",CAT SPORT3
+https://directes-tv-cat.ccma.cat/live-origin/esport3-hls/master.m3u8
+
+#EXTINF:-1 group-title="Sports",TV3
+https://Pericopalotes135@directes-tv-cat.ccma.cat/live-origin/tv3-hls/master.m3u8
+
+#EXTINF:-1 group-title="Sports",macias
+https://Pericopalotes135@live-k5e12sb4.rmbl.ws/slot-33/nqui-1rnp/chunklist.m3u8
+
+#EXTINF:-1 group-title="Sports",SPORT ARAB
+https://mo3ad@admdn1.cdn.mgmlcdn.com:443/adsports1/smil:adsports1.stream.smil/chunklist_b4000000_t64MTA4MHA=.m3u8
 
 #EXTINF:-1 group-title="Sports",SPORT 1
 http://84.22.33.218/ArTsPoRt.1.Uc/index.m3u8
