@@ -1,33 +1,19 @@
-#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/jiz6iruaxep7up8/live2.png" group-title="Live Events",Portugal vs USA
-https://obevcimanyd179314182.thapcam.link/live/phoSD/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/jiz6iruaxep7up8/live2.png" group-title="Live Events",Portugal vs USA
-https://pull01.rrwes.live/live/stream-991114_lhd.flv?txSecret=c0b1f42c73d18fdbbe448964ebe6c80c&txTime=64c7d7cd
-#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/jiz6iruaxep7up8/live2.png" group-title="Live Events",Portugal vs USA
-https://obevcimanyd179314182.thapcam.link/live/phoFHD/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/jiz6iruaxep7up8/live2.png" group-title="Live Events",Vietnam vs Netherlands
-https://obevcimanyd179314182.thapcam.link/live/may1SD/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/jiz6iruaxep7up8/live2.png" group-title="Live Events",Vietnam vs Netherlands
-https://1123139281.cdn.khmer-hd.com/may1HD/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/jiz6iruaxep7up8/live2.png" group-title="Live Events",Vietnam vs Netherlands
-https://obevcimanyd179314182.thapcam.link/live/may1FHD/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/jiz6iruaxep7up8/live2.png" group-title="Live Events",PSG vs Inter Milan
 https://obevcimanyd179314182.thapcam.link/live/may1SD/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/jiz6iruaxep7up8/live2.png" group-title="Live Events",PSG vs Inter Milan
-https://1123139281.cdn.khmer-hd.com/may1HD/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/jiz6iruaxep7up8/live2.png" group-title="Live Events",PSG vs Inter Milan
 https://obevcimanyd179314182.thapcam.link/live/may1FHD/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/jiz6iruaxep7up8/live2.png" group-title="Live Events",China vs England
-https://obevcimanyd179314182.thapcam.link/live/may1SD/chunklist.m3u8
+https://obevcimanyd179314182.thapcam.link/live/chaSD/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/jiz6iruaxep7up8/live2.png" group-title="Live Events",China vs England
-https://1123139281.cdn.khmer-hd.com/may1HD/chunks.m3u8
+https://1123139281.cdn.khmer-hd.com/chaHD/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/jiz6iruaxep7up8/live2.png" group-title="Live Events",China vs England
-https://obevcimanyd179314182.thapcam.link/live/may1FHD/chunklist.m3u8
+https://obevcimanyd179314182.thapcam.link/live/chaFHD/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/jiz6iruaxep7up8/live2.png" group-title="Live Events",Haiti vs Denmark
-https://obevcimanyd179314182.thapcam.link/live/may1SD/chunklist.m3u8
+https://obevcimanyd179314182.thapcam.link/live/may2SD/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/jiz6iruaxep7up8/live2.png" group-title="Live Events",Haiti vs Denmark
-https://1123139281.cdn.khmer-hd.com/may1HD/chunks.m3u8
+https://1123139281.cdn.khmer-hd.com/may2HD/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/jiz6iruaxep7up8/live2.png" group-title="Live Events",Haiti vs Denmark
-https://obevcimanyd179314182.thapcam.link/live/may1FHD/chunklist.m3u8
+https://obevcimanyd179314182.thapcam.link/live/may2FHD/chunklist.m3u8
 
 
 #EXTINF:-1 group-title="Sports",TV3
