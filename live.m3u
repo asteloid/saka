@@ -1,23 +1,7 @@
-#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/jiz6iruaxep7up8/live2.png" group-title="Live Events",Leverkusen vs West Ham United
-https://1123139281.cdn.khmer-hd.com/nenHD/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/jiz6iruaxep7up8/live2.png" group-title="Live Events",Leverkusen vs West Ham United
-https://pull01.rrwes.live/live/stream-102933_lhd.flv?txSecret=1d0df6692eacdff9fbc82dcc1bfd64ff&txTime=64ce8429
-#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/jiz6iruaxep7up8/live2.png" group-title="Live Events",Leverkusen vs West Ham United
-https://obevcimanyd179314182.thapcam.link/live/nenFHD/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/jiz6iruaxep7up8/live2.png" group-title="Live Events",Man United vs Lens
-https://obevcimanyd179314182.thapcam.link/live/may1FHD/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/jiz6iruaxep7up8/live2.png" group-title="Live Events",Man United vs Lens
-https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/6058004203001/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/jiz6iruaxep7up8/live2.png" group-title="Live Events",Man United vs Lens
-https://bcovlive-a.akamaihd.net:443/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/6058004203001/../../eu-west-1/eu-west-1/6058004203001/profile_1/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/jiz6iruaxep7up8/live2.png" group-title="Live Events",Man United vs Lens
-https://bcovlive-a.akamaihd.net:443/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/6058004203001/../../eu-west-1/eu-west-1/6058004203001/profile_0/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/jiz6iruaxep7up8/live2.png" group-title="Live Events",Sporting CP vs Everton
-https://obevcimanyd179314182.thapcam.link/live/may2SD/chunklist.m3u8
+https://pull01.rrwes.live/live/stream-201313_lhd.flv?txSecret=7f28133628cbf2168c9bb048180ee521&txTime=64cea4f9
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/jiz6iruaxep7up8/live2.png" group-title="Live Events",Sporting CP vs Everton
-https://1123139281.cdn.khmer-hd.com/may2HD/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/jiz6iruaxep7up8/live2.png" group-title="Live Events",Sporting CP vs Everton
-https://obevcimanyd179314182.thapcam.link/live/may2FHD/chunklist.m3u8
+https://pull01.rrwes.live/live/stream-201313_lhd.flv?txSecret=7f28133628cbf2168c9bb048180ee521&txTime=64cea4f9
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/jiz6iruaxep7up8/live2.png" group-title="Live Events",Newcastle vs FIO
 https://obevcimanyd179314182.thapcam.link/live/may2SD/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/jiz6iruaxep7up8/live2.png" group-title="Live Events",Newcastle vs FIO
