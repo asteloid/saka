@@ -45,6 +45,9 @@ http://playhispano.org:8080/FRANKTV/tZRPR2js4F/245473
 #EXTINF:-1 group-title="Sports",LALIGA TV BAR 🇪🇸
 http://playhispano.org:8080/FRANKTV/tZRPR2js4F/70743
 
+#EXTINF:-1 group-title="Sports",NOVA SPORT 4 🇸🇰
+http://185.188.188.235/live/novasport4/playlist.m3u8
+
 #EXTINF:-1 group-title="Sports",BEIN SPORT 1 PREMIUM 🇶🇦
 https://mo3ad@do9s01qsdo3rj.cloudfront.net:443/1/c_720p30.m3u8
 
@@ -284,6 +287,12 @@ http://84.42.140.147:8890/hdmi
 
 #EXTINF:-1 group-title="Sports",O2 TV SPORT HD 🇨🇿 
 http://84.42.140.148:8880/hdmi
+
+#EXTINF:-1 group-title="Sports",SETANTA SPORT 2 🇺🇿
+http://146.120.240.254:8888/play/a00t/index.m3u8
+
+#EXTINF:-1 group-title="Sports",SPORT UZB 🇺🇿
+http://146.120.240.254:8888/play/a00k/index.m3u8
 
 #EXTINF:-1 group-title="Sports",MATH 🇷🇺
 https://bl.uma.media/live/312119/HLS/4614144_3/2/1/playlist.m3u8
