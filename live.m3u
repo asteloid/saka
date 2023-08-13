@@ -1,11 +1,3 @@
-#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/jiz6iruaxep7up8/live2.png" group-title="Live Events",Brentford vs Tottenham
-https://pull01.rrwes.live/live/stream-991114_lhd.flv?txSecret=bb57396023810b094154a066e40c2db7&txTime=64d92416
-#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/jiz6iruaxep7up8/live2.png" group-title="Live Events",Brentford vs Tottenham
-https://obevcimanyd179314182.thapcam.link/live/may1SD/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/jiz6iruaxep7up8/live2.png" group-title="Live Events",Brentford vs Tottenham
-https://1123139281.cdn.khmer-hd.com/may1HD/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/jiz6iruaxep7up8/live2.png" group-title="Live Events",Brentford vs Tottenham
-https://obevcimanyd179314182.thapcam.link/live/may1FHD/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/jiz6iruaxep7up8/live2.png" group-title="Live Events",Celta Vigo vs Osasuna
 https://pull01.rrwes.live/live/stream-9911957_lhd.flv?txSecret=c48091c208bf98f0afe0c1e6708d2de3&txTime=64d93f82
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/jiz6iruaxep7up8/live2.png" group-title="Live Events",Celta Vigo vs Osasuna
@@ -15,9 +7,13 @@ https://1123139281.cdn.khmer-hd.com/myHD/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/jiz6iruaxep7up8/live2.png" group-title="Live Events",Celta Vigo vs Osasuna
 https://obevcimanyd179314182.thapcam.link/live/myFHD/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/jiz6iruaxep7up8/live2.png" group-title="Live Events",Chelsea vs Liverpool
+https://pull01.rrwes.live/live/stream-991114_lhd.flv?txSecret=11584f29a2ecd786d2e048278be3509a&txTime=64d94162
+#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/jiz6iruaxep7up8/live2.png" group-title="Live Events",Chelsea vs Liverpool
 https://obevcimanyd179314182.thapcam.link/live/may3SD/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/jiz6iruaxep7up8/live2.png" group-title="Live Events",Chelsea vs Liverpool
-https://1123139281.cdn.khmer-hd.com/may3HD/chunks.m3u8
+https://obevcimanyd179314182.thapcam.link/live/may3SD/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/jiz6iruaxep7up8/live2.png" group-title="Live Events",Chelsea vs Liverpool
+https://obevcimanyd179314182.thapcam.link/live/may3FHD/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/jiz6iruaxep7up8/live2.png" group-title="Live Events",Villarreal vs Real Betis
 https://obevcimanyd179314182.thapcam.link/live/may3SD/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/jiz6iruaxep7up8/live2.png" group-title="Live Events",Villarreal vs Real Betis
@@ -63,6 +59,9 @@ https://tv.movielab.pro/942/video.m3u8
 
 #EXTINF:-1 group-title="Sports",Setanta Sports 2 HD 🇷🇺
 https://tv.movielab.pro/943/video.m3u8
+
+#EXTINF:-1 group-title="Sports",Беларусь 5 🇧🇾
+http://82.209.197.187:8080/udp/239.0.100.9:1234
 
 #EXTINF:-1 group-title="Sports",TV3 🇪🇸
 https://Pericopalotes135@directes-tv-cat.ccma.cat/live-origin/tv3-hls/master.m3u8
