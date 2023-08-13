@@ -43,7 +43,16 @@ http://185.188.188.235/live/novasport3/playlist.m3u8
 http://185.188.188.235/live/novasport4/playlist.m3u8
 
 #EXTINF:-1 group-title="Sports",ESPN + 🇺🇸
+http://23.134.94.129:8080/istream_telegram/9nL6RN6SyXwx/132852
+
+#EXTINF:-1 group-title="Sports",ESPN + 🇺🇸
 https://eee.catchystream.xyz/playlist/stream_e4.m3u8
+
+#EXTINF:-1 group-title="Sports",ESPN DEPORTES 🇺🇸
+http://23.134.94.129:8080/istream_telegram/9nL6RN6SyXwx/124889
+
+#EXTINF:-1 group-title="Sports",SuperSport LaLiga 🇿🇦
+http://23.134.94.129:8080/istream_telegram/9nL6RN6SyXwx/71492
 
 #EXTINF:-1 group-title="Sports",TV3 🇪🇸
 https://Pericopalotes135@directes-tv-cat.ccma.cat/live-origin/tv3-hls/master.m3u8
