@@ -60,6 +60,9 @@ http://195.222.7.26:7011/play/a02j
 #EXTINF:-1 group-title="Sports",ELEVEN SPORT 2 🇧🇪
 http://philgrim.online:2082/hamza/bdMBfBYCDcdQ/370270
 
+#EXTINF:-1 group-title="Sports",ELEVEN SPORT 2 🇧🇪
+http://ua3.iptv.monster/play/1903/350B326FB34F4B8/video.m3u8
+
 #EXTINF:-1 group-title="Sports",MACIAS 🇪🇸
 http://77.72.23.28/iptv/7PGD7DMWD2KXZ8/19042/index.m3u8
 
@@ -80,6 +83,12 @@ http://23.134.94.129:8080/Carmen77/Poppa65/124889
 
 #EXTINF:-1 group-title="Sports",SuperSport LaLiga 🇿🇦
 http://23.134.94.129:8080/istream_telegram/9nL6RN6SyXwx/71492
+
+#EXTINF:-1 group-title="Sports",S SPORT HD 🇹🇷
+http://smartsistem.xyz:8080/emreaydin/YxTAxcdvC2/20085
+
+#EXTINF:-1 group-title="Sports",S SPORT 2 HD 🇹🇷
+http://smartsistem.xyz:8080/emreaydin/YxTAxcdvC2/20086
 
 #EXTINF:-1 group-title="Sports",Setanta Sports 1 HD 🇷🇺
 https://tv.movielab.pro/942/video.m3u8
@@ -102,7 +111,7 @@ http://vzagut73.megogo.xyz/iptv/5WS4WSUFCCHGQF/6124/index.m3u8
 #EXTINF:-1 group-title="Sports",BEIN SPORT 3 PREMIUM 🇶🇦
 https://y.fwzr.xyz:25463/37oQekDBNTkVBj9kqZHh/128_.m3u8?token=1_UHDbn0L0mRf1was2ct8A&expires=1691640935
 
-#EXTINF:-1 group-title="Sports",beIN SPORTS 1 HD
+#EXTINF:-1 group-title="Sports",beIN SPORTS 1 HD 🇶🇦
 http://smartsistem.xyz:8080/emreaydin/YxTAxcdvC2/8
 
 #EXTINF:-1 group-title="Sports",BEIN SPORT 2 🇶🇦
@@ -185,6 +194,9 @@ http://195.201.61.48:8080/Ahmetozkan/25uVVD7PSz6/142423
 
 #EXTINF:-1 group-title="Sports",MAX SPORT 4 🇧🇬
 http://46.10.218.219:8000/play/a05n
+
+#EXTINF:-1 group-title="Sports",MAX SPORT 4 🇧🇬
+http://ua3.iptv.monster/play/6878/350B326FB34F4B8/video.m3u8
 
 #EXTINF:-1 group-title="Sports",ESPN DEPORTES 🇺🇸 
 http://likea8bitboss.xyz:80/tquad/6305812479/5935
