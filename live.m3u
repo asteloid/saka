@@ -102,6 +102,9 @@ http://vzagut73.megogo.xyz/iptv/5WS4WSUFCCHGQF/6124/index.m3u8
 #EXTINF:-1 group-title="Sports",BEIN SPORT 3 PREMIUM 🇶🇦
 https://y.fwzr.xyz:25463/37oQekDBNTkVBj9kqZHh/128_.m3u8?token=1_UHDbn0L0mRf1was2ct8A&expires=1691640935
 
+#EXTINF:-1 group-title="Sports",beIN SPORTS 1 HD
+http://smartsistem.xyz:8080/emreaydin/YxTAxcdvC2/8
+
 #EXTINF:-1 group-title="Sports",BEIN SPORT 2 🇶🇦
 https://y.fwzr.xyz:25463/37oQekDBNTkVBj9kqZHh/38_.m3u8?token=exZVOhKnZW8EXpdd4C8JAA&expires=1691641105
 
@@ -159,26 +162,26 @@ https://supertennix-l3-live1.secure.footprint.net/restreamer/supertennix_client/
 #EXTINF:-1 group-title="Sports",TV1 🇪🇸
 https://rtvelivestream.akamaized.net/rtvesec/la1/la1_main_720.m3u8
 
-#EXTINF:-1 group-title="Sports",Eleven 1 HD 🇵🇹
-http://pkweb.ca:80/chicaotv/CH238956/228734
+#EXTINF:-1 group-title="Sports",Eleven Sport 1 🇵🇹
+http://195.201.61.48:8080/Ahmetozkan/25uVVD7PSz6/142418
 
-#EXTINF:-1 group-title="Sports",Eleven 2 HD 🇵🇹
-http://pkweb.ca:80/chicaotv/CH238956/228742
+#EXTINF:-1 group-title="Sports",Eleven Sport 2 🇵🇹
+http://195.201.61.48:8080/Ahmetozkan/25uVVD7PSz6/142419
 
-#EXTINF:-1 group-title="Sports",Eleven 3 HD 🇵🇹
-http://pkweb.ca:80/chicaotv/CH238956/228743
+#EXTINF:-1 group-title="Sports",Eleven Sport 3 🇵🇹
+http://195.201.61.48:8080/Ahmetozkan/25uVVD7PSz6/142420
 
-#EXTINF:-1 group-title="Sports",Eleven 4 HD 🇵🇹
-http://pkweb.ca:80/chicaotv/CH238956/228815
+#EXTINF:-1 group-title="Sports",Eleven Sport 4 HD 🇵🇹
+http://195.201.61.48:8080/Ahmetozkan/25uVVD7PSz6/142421
 
-#EXTINF:-1 group-title="Sports",Eleven 5 HD 🇵🇹
-http://pkweb.ca:80/chicaotv/CH238956/82401
+#EXTINF:-1 group-title="Sports",Eleven Sport 5 HD 🇵🇹
+http://195.201.61.48:8080/Ahmetozkan/25uVVD7PSz6/142422
 
 #EXTINF:-1 group-title="Sports",Eleven 5 HD 🇵🇹
 http://splaytv.io:80/Marcelo984258235/hbgy45df/140394
 
-#EXTINF:-1 group-title="Sports",Eleven 6 HD 🇵🇹
-http://pkweb.ca:80/chicaotv/CH238956/230364
+#EXTINF:-1 group-title="Sports",Eleven Sport 6 🇵🇹
+http://195.201.61.48:8080/Ahmetozkan/25uVVD7PSz6/142423
 
 #EXTINF:-1 group-title="Sports",MAX SPORT 4 🇧🇬
 http://46.10.218.219:8000/play/a05n
