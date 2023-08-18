@@ -54,6 +54,9 @@ https://pull01.rrwes.live/live/stream-201313_lhd.m3u8?txSecret=d72d56e4124c00702
 https://pull01.rrwes.live/live/stream-201313_lhd.m3u8?txSecret=d72d56e4124c007027b7cfc8c26821ff&txTime=64dd4e7e
 
 
+#EXTINF:-1 group-title="Sports",TV2 Sport 2 HD 🇳🇴
+http://195.222.7.26:7011/play/a02j
+
 #EXTINF:-1 group-title="Sports",MACIAS 🇪🇸
 https://eee.catchystream.xyz/playlist/stream_e5.m3u8
 
