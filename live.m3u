@@ -1,52 +1,38 @@
-#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/jiz6iruaxep7up8/live2.png" group-title="Live Events",Nashville SC vs Club Internacional de Futbol Miami
-https://hls.nobareng.com/live/sd-1-3997142.m3u8
-#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/jiz6iruaxep7up8/live2.png" group-title="Live Events",Spurs vs Man United
-https://obevcimanyd179314182.thapcam.link/live/may1SD/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/jiz6iruaxep7up8/live2.png" group-title="Live Events",Spurs vs Man United
-https://1123139281.cdn.khmer-hd.com/may1HD/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/jiz6iruaxep7up8/live2.png" group-title="Live Events",Spurs vs Man United
-https://obevcimanyd179314182.thapcam.link/live/may1FHD/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/jiz6iruaxep7up8/live2.png" group-title="Live Events",Dortmund vs FC Köln
-https://pull01.rrwes.live/live/stream-201313_lhd.m3u8?txSecret=d72d56e4124c007027b7cfc8c26821ff&txTime=64dd4e7e
-#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/jiz6iruaxep7up8/live2.png" group-title="Live Events",Dortmund vs FC Köln
-https://pull01.rrwes.live/live/stream-201313_lhd.m3u8?txSecret=d72d56e4124c007027b7cfc8c26821ff&txTime=64dd4e7e
-#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/jiz6iruaxep7up8/live2.png" group-title="Live Events",Dortmund vs FC Köln
-https://pull01.rrwes.live/live/stream-201313_lhd.m3u8?txSecret=d72d56e4124c007027b7cfc8c26821ff&txTime=64dd4e7e
-#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/jiz6iruaxep7up8/live2.png" group-title="Live Events",Frosinone vs Napoli
-https://obevcimanyd179314182.thapcam.link/live/chaSD/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/jiz6iruaxep7up8/live2.png" group-title="Live Events",Frosinone vs Napoli
-https://1123139281.cdn.khmer-hd.com/chaHD/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/jiz6iruaxep7up8/live2.png" group-title="Live Events",Frosinone vs Napoli
-https://obevcimanyd179314182.thapcam.link/live/chaFHD/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/jiz6iruaxep7up8/live2.png" group-title="Live Events",Almeria vs Real Madrid
-https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull06.scstream.net/live/stream-9911965_lhd.m3u8?sub_m3u8=true&auth_key=1692465331-0-0-0a03273ada6ea81fd8e423a6eeceded5&user_session_id=d8e0adb355371089229acd8b24ec1cb6&edge_slice=true
-#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/jiz6iruaxep7up8/live2.png" group-title="Live Events",Almeria vs Real Madrid
-https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull06.scstream.net/live/stream-9911965_lhd.m3u8?sub_m3u8=true&auth_key=1692465331-0-0-0a03273ada6ea81fd8e423a6eeceded5&user_session_id=d8e0adb355371089229acd8b24ec1cb6&edge_slice=true
-#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/jiz6iruaxep7up8/live2.png" group-title="Live Events",Almeria vs Real Madrid
-https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull06.scstream.net/live/stream-9911965_lhd.m3u8?sub_m3u8=true&auth_key=1692465331-0-0-0a03273ada6ea81fd8e423a6eeceded5&user_session_id=d8e0adb355371089229acd8b24ec1cb6&edge_slice=true
-#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/jiz6iruaxep7up8/live2.png" group-title="Live Events",Inter vs Monza
-https://ab8b015f73be7afff38f332fb2361575.livehwc3.cn/pull06.scstream.net/live/stream-381973_lhd.m3u8?auth_key=1692464911-0-0-96e52717521e437f44769173368da449&user_session_id=9f9b04ab4d3c627ec7ad49cebd5bf358&sub_m3u8=true&edge_slice=true
-#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/jiz6iruaxep7up8/live2.png" group-title="Live Events",Inter vs Monza
-https://ab8b015f73be7afff38f332fb2361575.livehwc3.cn/pull06.scstream.net/live/stream-381973_lhd.m3u8?auth_key=1692464911-0-0-96e52717521e437f44769173368da449&user_session_id=9f9b04ab4d3c627ec7ad49cebd5bf358&sub_m3u8=true&edge_slice=true
-#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/jiz6iruaxep7up8/live2.png" group-title="Live Events",Inter vs Monza
-https://ab8b015f73be7afff38f332fb2361575.livehwc3.cn/pull06.scstream.net/live/stream-381973_lhd.m3u8?auth_key=1692464911-0-0-96e52717521e437f44769173368da449&user_session_id=9f9b04ab4d3c627ec7ad49cebd5bf358&sub_m3u8=true&edge_slice=true
-#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/jiz6iruaxep7up8/live2.png" group-title="Live Events",Man City vs Newcastle United
-https://pull01.rrwes.live/live/stream-201313_lhd.flv?txSecret=c228be94f0cf4e1aa88b611018f0b5bb&txTime=64e13f03
-#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/jiz6iruaxep7up8/live2.png" group-title="Live Events",Man City vs Newcastle United
-https://pull01.rrwes.live/live/stream-201313_lhd.flv?txSecret=c228be94f0cf4e1aa88b611018f0b5bb&txTime=64e13f03
-#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/jiz6iruaxep7up8/live2.png" group-title="Live Events",Man City vs Newcastle United
-https://pull01.rrwes.live/live/stream-201313_lhd.flv?txSecret=c228be94f0cf4e1aa88b611018f0b5bb&txTime=64e13f03
-#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/jiz6iruaxep7up8/live2.png" group-title="Live Events",Toulouse vs PSG
-https://pull01.rrwes.live/live/stream-201313_lhd.flv?txSecret=02016d59f880b1f23cc5cbf59a00d9ff&txTime=64e13d9b
-#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/jiz6iruaxep7up8/live2.png" group-title="Live Events",Toulouse vs PSG
-https://pull01.rrwes.live/live/stream-201313_lhd.flv?txSecret=02016d59f880b1f23cc5cbf59a00d9ff&txTime=64e13d9b
-#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/jiz6iruaxep7up8/live2.png" group-title="Live Events",Toulouse vs PSG
-https://pull01.rrwes.live/live/stream-201313_lhd.flv?txSecret=02016d59f880b1f23cc5cbf59a00d9ff&txTime=64e13d9b
-#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/jiz6iruaxep7up8/live2.png" group-title="Live Events",Osasuna vs Athletic Club
+#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/jiz6iruaxep7up8/live2.png" group-title="Live Events",Aston Villa vs Everton
 https://pull01.rrwes.live/live/stream-9911989_lhd.flv?txSecret=4abf9734ebf92651b2e5926cf3fa6e89&txTime=64e13e13
-#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/jiz6iruaxep7up8/live2.png" group-title="Live Events",Osasuna vs Athletic Club
+#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/jiz6iruaxep7up8/live2.png" group-title="Live Events",Aston Villa vs Everton
 https://pull01.rrwes.live/live/stream-9911989_lhd.flv?txSecret=4abf9734ebf92651b2e5926cf3fa6e89&txTime=64e13e13
-#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/jiz6iruaxep7up8/live2.png" group-title="Live Events",Osasuna vs Athletic Club
+#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/jiz6iruaxep7up8/live2.png" group-title="Live Events",Aston Villa vs Everton
+https://pull01.rrwes.live/live/stream-9911989_lhd.flv?txSecret=4abf9734ebf92651b2e5926cf3fa6e89&txTime=64e13e13
+#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/jiz6iruaxep7up8/live2.png" group-title="Live Events",West Ham vs Chelsea
+https://pull01.rrwes.live/live/stream-9911989_lhd.flv?txSecret=4abf9734ebf92651b2e5926cf3fa6e89&txTime=64e13e13
+#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/jiz6iruaxep7up8/live2.png" group-title="Live Events",West Ham vs Chelsea
+https://pull01.rrwes.live/live/stream-9911989_lhd.flv?txSecret=4abf9734ebf92651b2e5926cf3fa6e89&txTime=64e13e13
+#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/jiz6iruaxep7up8/live2.png" group-title="Live Events",West Ham vs Chelsea
+https://pull01.rrwes.live/live/stream-9911989_lhd.flv?txSecret=4abf9734ebf92651b2e5926cf3fa6e89&txTime=64e13e13
+#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/jiz6iruaxep7up8/live2.png" group-title="Live Events",Roma vs Salernitana
+https://pull01.rrwes.live/live/stream-9911989_lhd.flv?txSecret=4abf9734ebf92651b2e5926cf3fa6e89&txTime=64e13e13
+#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/jiz6iruaxep7up8/live2.png" group-title="Live Events",Roma vs Salernitana
+https://pull01.rrwes.live/live/stream-9911989_lhd.flv?txSecret=4abf9734ebf92651b2e5926cf3fa6e89&txTime=64e13e13
+#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/jiz6iruaxep7up8/live2.png" group-title="Live Events",Roma vs Salernitana
+https://pull01.rrwes.live/live/stream-9911989_lhd.flv?txSecret=4abf9734ebf92651b2e5926cf3fa6e89&txTime=64e13e13
+#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/jiz6iruaxep7up8/live2.png" group-title="Live Events",Barcelona vs Cadiz
+https://pull01.rrwes.live/live/stream-9911989_lhd.flv?txSecret=4abf9734ebf92651b2e5926cf3fa6e89&txTime=64e13e13
+#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/jiz6iruaxep7up8/live2.png" group-title="Live Events",Barcelona vs Cadiz
+https://pull01.rrwes.live/live/stream-9911989_lhd.flv?txSecret=4abf9734ebf92651b2e5926cf3fa6e89&txTime=64e13e13
+#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/jiz6iruaxep7up8/live2.png" group-title="Live Events",Barcelona vs Cadiz
+https://pull01.rrwes.live/live/stream-9911989_lhd.flv?txSecret=4abf9734ebf92651b2e5926cf3fa6e89&txTime=64e13e13
+#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/jiz6iruaxep7up8/live2.png" group-title="Live Events",Udinese vs Juventus
+https://pull01.rrwes.live/live/stream-9911989_lhd.flv?txSecret=4abf9734ebf92651b2e5926cf3fa6e89&txTime=64e13e13
+#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/jiz6iruaxep7up8/live2.png" group-title="Live Events",Udinese vs Juventus
+https://pull01.rrwes.live/live/stream-9911989_lhd.flv?txSecret=4abf9734ebf92651b2e5926cf3fa6e89&txTime=64e13e13
+#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/jiz6iruaxep7up8/live2.png" group-title="Live Events",Udinese vs Juventus
+https://pull01.rrwes.live/live/stream-9911989_lhd.flv?txSecret=4abf9734ebf92651b2e5926cf3fa6e89&txTime=64e13e13
+#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/jiz6iruaxep7up8/live2.png" group-title="Live Events",Real Betis vs Atletico Madrid
+https://pull01.rrwes.live/live/stream-9911989_lhd.flv?txSecret=4abf9734ebf92651b2e5926cf3fa6e89&txTime=64e13e13
+#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/jiz6iruaxep7up8/live2.png" group-title="Live Events",Real Betis vs Atletico Madrid
+https://pull01.rrwes.live/live/stream-9911989_lhd.flv?txSecret=4abf9734ebf92651b2e5926cf3fa6e89&txTime=64e13e13
+#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/jiz6iruaxep7up8/live2.png" group-title="Live Events",Real Betis vs Atletico Madrid
 https://pull01.rrwes.live/live/stream-9911989_lhd.flv?txSecret=4abf9734ebf92651b2e5926cf3fa6e89&txTime=64e13e13
 
 
