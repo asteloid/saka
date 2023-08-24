@@ -1,9 +1,3 @@
-#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/jiz6iruaxep7up8/live2.png" group-title="Live Events",Cincinnati vs Inter Miami CF
-https://ab8b015f73be7afff38f332fb2361575.livehwc3.cn/pull06.scstream.net/live/stream-9911989_lhd.m3u8?edge_slice=true&auth_key=1692834211-0-0-06232bf2ab19372265a0a740f7cfcbf8&user_session_id=4ef8c0d4f5481aa5f5984b0ae53c569a&sub_m3u8=true
-#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/jiz6iruaxep7up8/live2.png" group-title="Live Events",Cincinnati vs Inter Miami CF
-https://pull.lianggexinxi.xyz/live/stream-543595_lhd.flv?auth_key=1692834578-0-0-64409eb7ee9768c3a9e1e2a9ff1f332d
-#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/jiz6iruaxep7up8/live2.png" group-title="Live Events",Cincinnati vs Inter Miami CF
-https://1123139281.cdn.khmer-hd.com/may2HD/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/jiz6iruaxep7up8/live2.png" group-title="Live Events",Levski Sofia vs Frankfurt htt=1692834211-0-0-06232bf2ab19372265a0a
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/jiz6iruaxep7up8/live2.png" group-title="Live Events",Levski Sofia vs Frankfurt
 https://pull.lianggexinxi.xyz/liv
@@ -18,6 +12,16 @@ https://1123139281.cdn.khmer-hd.com/may2HD/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/jiz6iruaxep7up8/live2.png" group-title="Live Events",Ludogorets vs Ajax
 https://pull.lianggexinxi.xyz/liv
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/jiz6iruaxep7up8/live2.png" group-title="Live Events",Ludogorets vs Ajax
+https://1123139281.cdn.khmer-hd.com/may2HD/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/jiz6iruaxep7up8/live2.png" group-title="Live Events",Lille vs Rijeka htt=1692834211-0-0-06232bf2ab19372265a0a
+#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/jiz6iruaxep7up8/live2.png" group-title="Live Events",Lille vs Rijeka
+https://pull.lianggexinxi.xyz/liv
+#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/jiz6iruaxep7up8/live2.png" group-title="Live Events",Lille vs Rijeka
+https://1123139281.cdn.khmer-hd.com/may2HD/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/jiz6iruaxep7up8/live2.png" group-title="Live Events",Osasuna vs Club Brugge htt=1692834211-0-0-06232bf2ab19372265a0a
+#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/jiz6iruaxep7up8/live2.png" group-title="Live Events",Osasuna vs Club Brugge
+https://pull.lianggexinxi.xyz/liv
+#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/jiz6iruaxep7up8/live2.png" group-title="Live Events",Osasuna vs Club Brugge
 https://1123139281.cdn.khmer-hd.com/may2HD/chunks.m3u8
 
 
