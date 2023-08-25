@@ -84,20 +84,20 @@ https://pull.lianggexinxi.xyz/live/stream-551893_lhd.flv?auth_key=1692986978-0-0
 #EXTINF:-1 group-title="Sports",LaLiga TV Bar HD 🇪🇸
 http://darg.site:2082/Joseveinew/5HkYPNWbfdfSnew/155933
 
-#EXTINF:-1 group-title="Sports",LaLiga TV Bar HD 🇪🇸
-http://tvip.world:80/WORLDSPORT/fPZhNtFQQP/1423.ts
-
-#EXTINF:-1 group-title="Sports",LALIGA TV HYPERMOTION 🇪🇸
-http://darg.site:2082/Joseveinew/5HkYPNWbfdfSnew/158916
-
-#EXTINF:-1 group-title="Sports",LALIGA TV HYPERMOTION 🇪🇸
-http://darg.site:2082/benyi/benyi/390307
-
 #EXTINF:-1 group-title="Sports",NOVA SPORT 4 🇸🇰
 http://185.188.188.235/live/novasport4/playlist.m3u8
 
 #EXTINF:-1 group-title="Sports",Setanta Sports 2 HD 🇷🇺
 https://tv.movielab.pro/943/video.m3u8
+
+#EXTINF:-1 group-title="Sports",MACIAS
+https://Pericopalotes135@live.51jslink.com/live/7313235_3f1554788b952a365e7707886a0fafe6.m3u8?auth_key=1693000982-0-0-cbcf47b87c9b412cc5c37378f79292e4
+
+#EXTINF:-1 group-title="Sports",BUFA
+https://Pericopalotes135@pull01.rrwes.live/live/stream-420171_lhd.m3u8?txSecret=3a0f5d83c988048c86d1979ec405ab15&txTime=64e93c77
+
+#EXTINF:-1 group-title="Sports",MACIAS
+https://Pericopalotes135@a03ddb580441.us-east-1.playback.live-video.net/api/video/v1/us-east-1.311122646616.channel.PSqLxs6oTybL.m3u8
 
 #EXTINF:-1 group-title="Sports",Eleven 2 HD 🇵🇹
 http://conexaoonline.top:80/IVONE123/IVONE321/
@@ -685,6 +685,15 @@ https://node1.olelive.com:6443/live/CCTV5HD/hls.m3u8
 
 #EXTINF:-1 group-title="Sports",TV MAX 🇵🇦 
 https://bcovlive-a.akamaihd.net/474b6caf58f8407fb1d1cc1ef64f50ff/us-west-2/6058004209001/profile_0/chunklist_dvr.m3u8?
+
+#EXTINF:-1 group-title="Sports",LaLiga TV Bar HD 🇪🇸
+http://tvip.world:80/WORLDSPORT/fPZhNtFQQP/1423.ts
+
+#EXTINF:-1 group-title="Sports",LALIGA TV HYPERMOTION 🇪🇸
+http://darg.site:2082/Joseveinew/5HkYPNWbfdfSnew/158916
+
+#EXTINF:-1 group-title="Sports",LALIGA TV HYPERMOTION 🇪🇸
+http://darg.site:2082/benyi/benyi/390307
 
 #EXTINF:-1 group-title="Sports",MACIAS 🇪🇸
 https://eee.catchystream.xyz/playlist/stream_e5.m3u8
