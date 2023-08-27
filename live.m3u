@@ -56,6 +56,15 @@ http://185.188.188.235/live/novasport4/playlist.m3u8
 #EXTINF:-1 group-title="Sports",Setanta Sports 2 HD 🇷🇺
 https://tv.movielab.pro/943/video.m3u8
 
+#EXTINF:-1 group-title="Sports",JIO 18 SPORTS 🇮🇳
+https://prod-ent-live-gm.jiocinema.com/bpk-tv/JV_SportsHD5_DIG_MOB/Fallback/index.m3u8
+
+#EXTINF:-1 group-title="Sports",TV LIGA 🇬🇧
+https://Pericopalotes135@storage.googleapis.com:443/linuceovo2/mux_video_ts/index-1.m3u8
+
+#EXTINF:-1 group-title="Sports",11ZB 🇨🇳
+https://Pericopalotes135@live5.51jslink.com/live/7313283_43275fbe83eb7ff1780de7565e5d9a50.m3u8?auth_key=1693165733-0-0-7007f714449e8e638f5220b0ea6d8b82
+
 #EXTINF:-1 group-title="Sports",MAX SPORT 4 🇧🇬
 http://iptvaruba.com:8080/mitrovic/f261dbc5c4/16433
 
@@ -64,15 +73,6 @@ http://iptvaruba.com:8080/mitrovic/f261dbc5c4/77769
 
 #EXTINF:-1 group-title="Sports",S SPORT HD 🇹🇷
 http://login.lionboxxtv.xyz:80/emretilkicik1/XdBmCvJx4y5w/208
-
-#EXTINF:-1 group-title="Sports",S SPORT HD 🇹🇷
-http://8kstream.uk:8080/mt2929ydk/mt00/57846
-
-#EXTINF:-1 group-title="Sports",BEIN 1 🇶🇦
-http://bazoka.co:80/123456789/987654321/13620
-
-#EXTINF:-1 group-title="Sports",ELEVEN SPORT 1 🇵🇱
-http://bazoka.co:80/123456789/987654321/63169
 
 #EXTINF:-1 group-title="Sports",SuperSport LaLiga 🇿🇦
 http://iptvaruba.com:8080/mitrovic/f261dbc5c4/194358
