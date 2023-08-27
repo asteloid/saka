@@ -1,21 +1,3 @@
-#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/jiz6iruaxep7up8/live2.png" group-title="Live Events",Bayern Munchen vs Augsburg
-https://1123139281.cdn.khmer-hd.com/cuonHD/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/jiz6iruaxep7up8/live2.png" group-title="Live Events",Bayern Munchen vs Augsburg
-https://pull01.rrwes.live/live/stream-9911992_lhd.m3u8?txSecret=654647ed016050579080ade22b19b5be&txTime=64ebbcb7
-#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/jiz6iruaxep7up8/live2.png" group-title="Live Events",Bayern Munchen vs Augsburg
-https://pull.lianggexinxi.xyz/live/stream-363344_lhd.flv?auth_key=1693152699-0-0-3fedc1ccfe81165df5e1fc055a93850f
-#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/jiz6iruaxep7up8/live2.png" group-title="Live Events",Villarreal vs Barcelona
-https://1123139281.cdn.khmer-hd.com/may2HD/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/jiz6iruaxep7up8/live2.png" group-title="Live Events",Villarreal vs Barcelona
-https://pull01.rrwes.live/live/stream-9911991_lhd.m3u8?txSecret=ae4e961627cdc7995c9a7033e9ad99bc&txTime=64ebbcf3
-#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/jiz6iruaxep7up8/live2.png" group-title="Live Events",Villarreal vs Barcelona
-https://pull.lianggexinxi.xyz/live/stream-609240_lhd.flv?auth_key=1693152759-0-0-7e3a7b5f810b990e6f4bc4b372cd61b3
-#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/jiz6iruaxep7up8/live2.png" group-title="Live Events",Newcastle vs Liverpool
-https://1123139281.cdn.khmer-hd.com/may1HD/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/jiz6iruaxep7up8/live2.png" group-title="Live Events",Newcastle vs Liverpool
-https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull06.scstream.net/live/stream-9911999_lhd.m3u8?edge_slice=true&sub_m3u8=true&user_session_id=0bd9f416d18b7ce01b50778b7a3f0e09&auth_key=1693152811-0-0-05b1804ad93323fce44529c05fed2572
-#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/jiz6iruaxep7up8/live2.png" group-title="Live Events",Newcastle vs Liverpool
-https://pull.lianggexinxi.xyz/live/stream-500426_lhd.flv?auth_key=1693152639-0-0-2a62c5fdc35cd2bf10ea71107f491ed1
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/jiz6iruaxep7up8/live2.png" group-title="Live Events",Fiorentina vs Lecce 
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/jiz6iruaxep7up8/live2.png" group-title="Live Events",Fiorentina vs Lecce
 https://pull01.rrwes.live/live/stream-379975_lhd.m3u8?txSecret=a95f0725cfba30a1ef930ba94f71695f&txTime=64ebc923
@@ -45,6 +27,9 @@ https://pull.lianggexinxi.xyz/live/stream-466384_lhd.flv?auth_key=1693159959-0-0
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/jiz6iruaxep7up8/live2.png" group-title="Live Events",Athletic Club vs Real Betis 
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/jiz6iruaxep7up8/live2.png" group-title="Live Events",Athletic Club vs Real Betis 
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/jiz6iruaxep7up8/live2.png" group-title="Live Events",Athletic Club vs Real Betis 
+#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/jiz6iruaxep7up8/live2.png" group-title="Live Events",Salernitana vs Udinese 
+#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/jiz6iruaxep7up8/live2.png" group-title="Live Events",Salernitana vs Udinese 
+#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/jiz6iruaxep7up8/live2.png" group-title="Live Events",Salernitana vs Udinese 
 
 
 #EXTINF:-1 group-title="Sports",NOVA SPORT 4 🇸🇰
@@ -53,14 +38,17 @@ http://185.188.188.235/live/novasport4/playlist.m3u8
 #EXTINF:-1 group-title="Sports",Setanta Sports 2 HD 🇷🇺
 https://tv.movielab.pro/943/video.m3u8
 
+#EXTINF:-1 group-title="Sports",SuperSport LaLiga 🇿🇦
+https://work.realbitsport.com/live/n-2/chunks.m3u8
+
+#EXTINF:-1 group-title="Sports",Canal chino 🇨🇳
+https://Pericopalotes135@pull.lianggexinxi.xyz/live/stream-551893_lhd.m3u8
+
 #EXTINF:-1 group-title="Sports",JIO 18 SPORTS 🇮🇳
 https://prod-ent-live-gm.jiocinema.com/bpk-tv/JV_SportsHD5_DIG_MOB/Fallback/index.m3u8
 
 #EXTINF:-1 group-title="Sports",TV LIGA 🇬🇧
 https://Pericopalotes135@storage.googleapis.com:443/linuceovo2/mux_video_ts/index-1.m3u8
-
-#EXTINF:-1 group-title="Sports",11ZB 🇨🇳
-https://Pericopalotes135@live5.51jslink.com/live/7313283_43275fbe83eb7ff1780de7565e5d9a50.m3u8?auth_key=1693165733-0-0-7007f714449e8e638f5220b0ea6d8b82
 
 #EXTINF:-1 group-title="Sports",MAX SPORT 4 🇧🇬
 http://iptvaruba.com:8080/mitrovic/f261dbc5c4/16433
