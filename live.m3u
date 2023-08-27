@@ -38,6 +38,9 @@ http://185.188.188.235/live/novasport4/playlist.m3u8
 #EXTINF:-1 group-title="Sports",Setanta Sports 2 HD 🇷🇺
 https://tv.movielab.pro/943/video.m3u8
 
+#EXTINF:-1 group-title="Sports",BEIN 3 TRUE VISIONS 🇹🇭
+https://sport.livedoomovies.com:4432/02_epl2_720p/chunklist.m3u8
+
 #EXTINF:-1 group-title="Sports",SuperSport LaLiga 🇿🇦
 https://work.realbitsport.com/live/n-2/chunks.m3u8
 
@@ -49,9 +52,6 @@ https://Pericopalotes135@pull.lianggexinxi.xyz/live/stream-551893_lhd.m3u8
 
 #EXTINF:-1 group-title="Sports",JIO 18 SPORTS 🇮🇳
 https://prod-ent-live-gm.jiocinema.com/bpk-tv/JV_SportsHD5_DIG_MOB/Fallback/index.m3u8
-
-#EXTINF:-1 group-title="Sports",TV LIGA 🇬🇧
-https://Pericopalotes135@storage.googleapis.com:443/linuceovo2/mux_video_ts/index-1.m3u8
 
 #EXTINF:-1 group-title="Sports",MAX SPORT 4 🇧🇬
 http://iptvaruba.com:8080/mitrovic/f261dbc5c4/16433
@@ -373,6 +373,18 @@ http://185.188.188.235/live/sport1/playlist.m3u8
 
 #EXTINF:-1 group-title="Sports",SPORT 2 🇸🇰
 http://185.188.188.235/live/sport2/playlist.m3u8
+
+#EXTINF:-1 group-title="Sports",DIGI Sport 1 HD 🇷🇴
+http://149.62.183.194:9293/play/a0bo
+
+#EXTINF:-1 group-title="Sports",DIGI Sport 2 🇷🇴
+http://149.62.183.194:9293/play/a08m
+
+#EXTINF:-1 group-title="Sports",DIGI Sport 2 HD 🇷🇴
+http://149.62.183.194:9293/play/a0bp
+
+#EXTINF:-1 group-title="Sports",DIGI Sport 4 🇷🇴
+http://149.62.183.194:9293/play/a08l
 
 #EXTINF:-1 group-title="Sports",MAX Sport 1 🇧🇬
 http://83.228.75.166:8000/play/a0be
