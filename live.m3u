@@ -1,8 +1,3 @@
-#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/jiz6iruaxep7up8/live2.png" group-title="Live Events",Fiorentina vs Lecce 
-#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/jiz6iruaxep7up8/live2.png" group-title="Live Events",Fiorentina vs Lecce
-https://pull01.rrwes.live/live/stream-379975_lhd.m3u8?txSecret=a95f0725cfba30a1ef930ba94f71695f&txTime=64ebc923
-#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/jiz6iruaxep7up8/live2.png" group-title="Live Events",Fiorentina vs Lecce
-https://pull.lianggexinxi.xyz/live/stream-589863_lhd.flv?auth_key=1693156179-0-0-bab7f4e5ddc97ccdc61f24025e175a35
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/jiz6iruaxep7up8/live2.png" group-title="Live Events",Valencia vs Osasuna
 https://1123139281.cdn.khmer-hd.com/phoHD/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/jiz6iruaxep7up8/live2.png" group-title="Live Events",Valencia vs Osasuna
@@ -20,14 +15,15 @@ https://1123139281.cdn.khmer-hd.com/chaHD/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/jiz6iruaxep7up8/live2.png" group-title="Live Events",Lazio vs Genoa
 https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull06.scstream.net/live/stream-9911972_lhd.m3u8?auth_key=1693164391-0-0-738c54f06b3f1b3d21d7359f05dbe511&sub_m3u8=true&user_session_id=157e042bba67845f54b03b72cb21aa94&edge_slice=true
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/jiz6iruaxep7up8/live2.png" group-title="Live Events",Lazio vs Genoa
-https://1123139281.cdn.khmer-hd.com/chaHD/chunks.m3u8
+https://pull.lianggexinxi.xyz/live/stream-288414_lhd.flv?auth_key=1693165659-0-0-e3593eb21076987e05eee05ad7889475
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/jiz6iruaxep7up8/live2.png" group-title="Live Events",Napoli vs Sassuolo
 https://1123139281.cdn.khmer-hd.com/may1HD/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/jiz6iruaxep7up8/live2.png" group-title="Live Events",Napoli vs Sassuolo
 https://pull01.rrwes.live/live/stream-9911977_lhd.m3u8?txSecret=476d2eff19d60af6485b4e2f9c94958e&txTime=64ebe9f3
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/jiz6iruaxep7up8/live2.png" group-title="Live Events",Napoli vs Sassuolo
-https://1123139281.cdn.khmer-hd.com/may1HD/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/jiz6iruaxep7up8/live2.png" group-title="Live Events",Athletic Club vs Real Betis 
+https://pull.lianggexinxi.xyz/live/stream-570320_lhd.flv?auth_key=1693165779-0-0-75b9bd0ee673b7296ce56f8851aae99d
+#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/jiz6iruaxep7up8/live2.png" group-title="Live Events",Athletic Club vs Real Betis
+https://1123139281.cdn.khmer-hd.com/trauHD/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/jiz6iruaxep7up8/live2.png" group-title="Live Events",Athletic Club vs Real Betis 
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/jiz6iruaxep7up8/live2.png" group-title="Live Events",Athletic Club vs Real Betis 
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/jiz6iruaxep7up8/live2.png" group-title="Live Events",Salernitana vs Udinese 
