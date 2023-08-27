@@ -1,9 +1,3 @@
-#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/jiz6iruaxep7up8/live2.png" group-title="Live Events",Lorient vs Lille
-https://obevcimanyd179314182.thapcam.link/live/may9/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/jiz6iruaxep7up8/live2.png" group-title="Live Events",Lorient vs Lille
-https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull06.scstream.net/live/stream-9911954_lhd.m3u8?user_session_id=2aefe390e1991aebf715b6e57e109161&edge_slice=true&sub_m3u8=true&auth_key=1693151311-0-0-6e76d73cbabb6f3e9fc2b6b40f18d681
-#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/jiz6iruaxep7up8/live2.png" group-title="Live Events",Lorient vs Lille
-https://pull.lianggexinxi.xyz/live/stream-686922_lhd.flv?auth_key=1693151139-0-0-8071788be06da36d518a73950da360b1
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/jiz6iruaxep7up8/live2.png" group-title="Live Events",Bayern Munchen vs Augsburg
 https://1123139281.cdn.khmer-hd.com/cuonHD/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/jiz6iruaxep7up8/live2.png" group-title="Live Events",Bayern Munchen vs Augsburg
@@ -33,9 +27,12 @@ https://1123139281.cdn.khmer-hd.com/myHD/chunks.m3u8
 https://pull01.rrwes.live/live/stream-9911989_lhd.m3u8?txSecret=7e2e579238a72aa6269b4834cef324d7&txTime=64ebc95f
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/jiz6iruaxep7up8/live2.png" group-title="Live Events",Juventus vs Bologna
 https://pull.lianggexinxi.xyz/live/stream-294127_lhd.flv?auth_key=1693156179-0-0-23f990326ffe505c635061abd18f551e
-#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/jiz6iruaxep7up8/live2.png" group-title="Live Events",Valencia vs Osasuna 
-#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/jiz6iruaxep7up8/live2.png" group-title="Live Events",Valencia vs Osasuna 
-#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/jiz6iruaxep7up8/live2.png" group-title="Live Events",Valencia vs Osasuna 
+#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/jiz6iruaxep7up8/live2.png" group-title="Live Events",Valencia vs Osasuna
+https://1123139281.cdn.khmer-hd.com/phoHD/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/jiz6iruaxep7up8/live2.png" group-title="Live Events",Valencia vs Osasuna
+https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull06.scstream.net/live/stream-9911966_lhd.m3u8?auth_key=1693160072-0-0-60bf9c2eb81b1cf41bae6e18490da2d5&user_session_id=c71a721b0e7f82501bb922ad4e68cce1&edge_slice=true&sub_m3u8=true
+#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/jiz6iruaxep7up8/live2.png" group-title="Live Events",Valencia vs Osasuna
+https://pull.lianggexinxi.xyz/live/stream-466384_lhd.flv?auth_key=1693159959-0-0-7a75878a981e7d6c24bfaf839bb4642a
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/jiz6iruaxep7up8/live2.png" group-title="Live Events",Nice vs Lyon 
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/jiz6iruaxep7up8/live2.png" group-title="Live Events",Nice vs Lyon 
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/jiz6iruaxep7up8/live2.png" group-title="Live Events",Nice vs Lyon 
