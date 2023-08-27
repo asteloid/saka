@@ -1,9 +1,3 @@
-#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/jiz6iruaxep7up8/live2.png" group-title="Live Events",Mainz vs Frankfurt
-https://1123139281.cdn.khmer-hd.com/trauHD/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/jiz6iruaxep7up8/live2.png" group-title="Live Events",Mainz vs Frankfurt
-https://883f0cd13cae4b9414b1c6ed244aad5f.livehwc3.cn/pull06.scstream.net/live/stream-106737_lhd.m3u8?sub_m3u8=true&auth_key=1693145734-0-0-27db1f1ff10fdabca8274d64323c0bd5&user_session_id=b1fa0b62d092e26398945574919ce3eb&edge_slice=true
-#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/jiz6iruaxep7up8/live2.png" group-title="Live Events",Mainz vs Frankfurt
-https://pull.lianggexinxi.xyz/live/stream-705956_lhd.flv?auth_key=1693145859-0-0-4b0cd82eceb5f9ec2652658012688540
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/jiz6iruaxep7up8/live2.png" group-title="Live Events",Lorient vs Lille
 https://obevcimanyd179314182.thapcam.link/live/may9/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/jiz6iruaxep7up8/live2.png" group-title="Live Events",Lorient vs Lille
@@ -29,11 +23,16 @@ https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull06.scstream.net/live/st
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/jiz6iruaxep7up8/live2.png" group-title="Live Events",Newcastle vs Liverpool
 https://pull.lianggexinxi.xyz/live/stream-500426_lhd.flv?auth_key=1693152639-0-0-2a62c5fdc35cd2bf10ea71107f491ed1
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/jiz6iruaxep7up8/live2.png" group-title="Live Events",Fiorentina vs Lecce 
-#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/jiz6iruaxep7up8/live2.png" group-title="Live Events",Fiorentina vs Lecce 
-#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/jiz6iruaxep7up8/live2.png" group-title="Live Events",Fiorentina vs Lecce 
-#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/jiz6iruaxep7up8/live2.png" group-title="Live Events",Juventus vs Bologna 
-#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/jiz6iruaxep7up8/live2.png" group-title="Live Events",Juventus vs Bologna 
-#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/jiz6iruaxep7up8/live2.png" group-title="Live Events",Juventus vs Bologna 
+#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/jiz6iruaxep7up8/live2.png" group-title="Live Events",Fiorentina vs Lecce
+https://pull01.rrwes.live/live/stream-379975_lhd.m3u8?txSecret=a95f0725cfba30a1ef930ba94f71695f&txTime=64ebc923
+#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/jiz6iruaxep7up8/live2.png" group-title="Live Events",Fiorentina vs Lecce
+https://pull.lianggexinxi.xyz/live/stream-589863_lhd.flv?auth_key=1693156179-0-0-bab7f4e5ddc97ccdc61f24025e175a35
+#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/jiz6iruaxep7up8/live2.png" group-title="Live Events",Juventus vs Bologna
+https://1123139281.cdn.khmer-hd.com/myHD/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/jiz6iruaxep7up8/live2.png" group-title="Live Events",Juventus vs Bologna
+https://pull01.rrwes.live/live/stream-9911989_lhd.m3u8?txSecret=7e2e579238a72aa6269b4834cef324d7&txTime=64ebc95f
+#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/jiz6iruaxep7up8/live2.png" group-title="Live Events",Juventus vs Bologna
+https://pull.lianggexinxi.xyz/live/stream-294127_lhd.flv?auth_key=1693156179-0-0-23f990326ffe505c635061abd18f551e
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/jiz6iruaxep7up8/live2.png" group-title="Live Events",Valencia vs Osasuna 
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/jiz6iruaxep7up8/live2.png" group-title="Live Events",Valencia vs Osasuna 
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/jiz6iruaxep7up8/live2.png" group-title="Live Events",Valencia vs Osasuna 
