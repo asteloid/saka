@@ -53,6 +53,9 @@ https://Pericopalotes135@pull.lianggexinxi.xyz/live/stream-551893_lhd.m3u8
 #EXTINF:-1 group-title="Sports",JIO 18 SPORTS 🇮🇳
 https://prod-ent-live-gm.jiocinema.com/bpk-tv/JV_SportsHD5_DIG_MOB/Fallback/index.m3u8
 
+#EXTINF:-1 group-title="Sports",Sports18 🇮🇳
+http://14.102.123.50:4000/play/a048
+
 #EXTINF:-1 group-title="Sports",MAX SPORT 4 🇧🇬
 http://iptvaruba.com:8080/mitrovic/f261dbc5c4/16433
 
@@ -385,6 +388,24 @@ http://149.62.183.194:9293/play/a0bp
 
 #EXTINF:-1 group-title="Sports",DIGI Sport 4 🇷🇴
 http://149.62.183.194:9293/play/a08l
+
+#EXTINF:-1 group-title="Sports",SPORT 1
+http://149.62.183.194:9293/play/a0cn
+
+#EXTINF:-1 group-title="Sports",SPORT 2
+http://149.62.183.194:9293/play/a0co
+
+#EXTINF:-1 group-title="Sports",Sport 1 HD
+http://149.62.183.194:9293/play/a0eh
+
+#EXTINF:-1 group-title="Sports",Sport2 HD
+http://149.62.183.194:9293/play/a0bn
+
+#EXTINF:-1 group-title="Sports",Spiler 1
+http://149.62.183.194:9293/play/a09b
+
+#EXTINF:-1 group-title="Sports",Spiler2
+http://149.62.183.194:9293/play/a0c4
 
 #EXTINF:-1 group-title="Sports",MAX Sport 1 🇧🇬
 http://83.228.75.166:8000/play/a0be
