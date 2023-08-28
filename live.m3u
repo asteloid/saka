@@ -39,18 +39,6 @@ https://tv.movielab.pro/943/video.m3u8
 #EXTINF:-1 group-title="Sports",BEIN 3 TRUE VISIONS 🇹🇭
 https://sport.livedoomovies.com:4432/02_epl2_720p/chunklist.m3u8
 
-#EXTINF:-1 group-title="Sports",SuperSport LaLiga 🇿🇦
-https://work.realbitsport.com/live/n-2/chunks.m3u8
-
-#EXTINF:-1 group-title="Sports",Eleven Sports 3 HD 🇵🇱
-http://85.198.235.98:8082/play/a0du/index.m3u8
-
-#EXTINF:-1 group-title="Sports",Canal chino 🇨🇳
-https://Pericopalotes135@pull.lianggexinxi.xyz/live/stream-551893_lhd.m3u8
-
-#EXTINF:-1 group-title="Sports",JIO 18 SPORTS 🇮🇳
-https://prod-ent-live-gm.jiocinema.com/bpk-tv/JV_SportsHD5_DIG_MOB/Fallback/index.m3u8
-
 #EXTINF:-1 group-title="Sports",Sports18 🇮🇳
 http://14.102.123.50:4000/play/a048
 
@@ -176,9 +164,6 @@ http://x3nwn68u.megogo.xyz/iptv/C3BRABULQN3RDL/2555/index.m3u8
 
 #EXTINF:-1 group-title="Sports",QAZ SPORT 🇰🇿
 https://gameslive.akamaized.net/hls/live-3cb66f5d-ad47-46db-8e56-73b7edcd758b_720p2800kbs/index.m3u8
-
-#EXTINF:-1 group-title="Sports",SUPERSPORT 3 🇦🇱
-https://bee.fun:2083/ssport2/index.m3u8
 
 #EXTINF:-1 group-title="Sports",TV3 🇪🇸
 https://Pericopalotes135@directes-tv-cat.ccma.cat/live-origin/tv3-hls/master.m3u8
@@ -527,27 +512,6 @@ http://e14921eb.amazzin.pw/iptv/3WHBXNFDU9YG7Q/7296/index.m3u8
 
 #EXTINF:-1 group-title="Sports",POLSAT SPORT PREMIUM 1 PL 🇵🇱
 http://e14921eb.amazzin.pw/iptv/3WHBXNFDU9YG7Q/7304/index.m3u8
-
-#EXTINF:-1 group-title="Sports",Eleven Sports 1 HD 🇵🇱
-http://85.198.235.98:8082/play/a0dp/index.m3u8
-
-#EXTINF:-1 group-title="Sports",Eleven Sports 2 HD 🇵🇱
-http://85.198.235.98:8082/play/a0dr/index.m3u8
-
-#EXTINF:-1 group-title="Sports",Eleven Sports 3 HD 🇵🇱
-http://85.198.235.98:8082/play/a0du/index.m3u8
-
-#EXTINF:-1 group-title="Sports",Eleven Sports 4 HD 🇵🇱
-http://85.198.235.98:8082/play/a0bz/index.m3u8
-
-#EXTINF:-1 group-title="Sports",CANAL+ SPORT HD 🇵🇱
-http://85.198.235.98:8082/play/a0ca/index.m3u8
-
-#EXTINF:-1 group-title="Sports",Polsat Sport Premium 1 🇵🇱
-http://85.198.235.98:8082/play/a0ie/index.m3u8
-
-#EXTINF:-1 group-title="Sports",Polsat Sport Premium 2 🇵🇱
-http://85.198.235.98:8082/play/a0if/index.m3u8
 
 #EXTINF:-1 group-title="Sports",TIVIBU SPORT 1 🇹🇷
 http://eypv0ag4.siauliairsavlt.pw/iptv/NW3M9M6N2H4NYM/19074/index.m3u8
