@@ -1,9 +1,3 @@
-#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/jiz6iruaxep7up8/live2.png" group-title="Live Events",Chelsea vs Wimbledon
-https://1123139281.cdn.khmer-hd.com/may1HD/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/jiz6iruaxep7up8/live2.png" group-title="Live Events",Chelsea vs Wimbledon
-https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull06.scstream.net/live/stream-479849_lhd.m3u8?sub_m3u8=true&user_session_id=32d96a200ef84e92fec7e454fe0b01b9&auth_key=1693424132-0-0-8541f9d1c7371263caf6bf4123ad4191&edge_slice=true
-#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/jiz6iruaxep7up8/live2.png" group-title="Live Events",Chelsea vs Wimbledon
-https://pull.lianggexinxi.xyz/live/stream-551893_lhd.flv?auth_key=1693423899-0-0-1c8641ed346792746c5e1ad53b796702
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/jiz6iruaxep7up8/live2.png" group-title="Live Events",PSV vs Rangers
 https://obevcimanyd179314182.thapcam.link/live/may2FHD/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/jiz6iruaxep7up8/live2.png" group-title="Live Events",PSV vs Rangers
@@ -13,7 +7,7 @@ https://pull.lianggexinxi.xyz/live/stream-719808_lhd.flv?auth_key=1693424079-0-0
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/jiz6iruaxep7up8/live2.png" group-title="Live Events",Doncaster vs Everton
 https://1123139281.cdn.khmer-hd.com/soiHD/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/jiz6iruaxep7up8/live2.png" group-title="Live Events",Doncaster vs Everton
-https://pull01.rrwes.live/live/stream-379816_lhd.m3u8?txSecret=bb2910c95438e80a85dfd8107a7c6a1d&txTime=64efe118
+https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull06.scstream.net/live/stream-991158_lhd.m3u8?sub_m3u8=true&edge_slice=true&user_session_id=56353833379a89dedc6512424ccad1f3&auth_key=1693425392-0-0-dca971cece323c80fb0a92a521bf0bb6
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/jiz6iruaxep7up8/live2.png" group-title="Live Events",Doncaster vs Everton 
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/jiz6iruaxep7up8/live2.png" group-title="Live Events",Inter Miami CF vs Nashville SC 
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/jiz6iruaxep7up8/live2.png" group-title="Live Events",Inter Miami CF vs Nashville SC 
