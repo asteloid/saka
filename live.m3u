@@ -28,8 +28,10 @@ https://1123139281.cdn.khmer-hd.com/phoHD/chunks.m3u8
 https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull06.scstream.net/live/stream-9912029_lhd.m3u8?auth_key=1693509992-0-0-bbd629ea70ad4b790e93ee3e58e5c674&edge_slice=true&sub_m3u8=true&user_session_id=b7abf0fd28f9a05401574929c645770e
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/jiz6iruaxep7up8/live2.png" group-title="Live Events",Frankfurt vs Levski Sofia
 https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull06.scstream.net/live/stream-9912029_lhd.m3u8?auth_key=1693509992-0-0-bbd629ea70ad4b790e93ee3e58e5c674&edge_slice=true&sub_m3u8=true&user_session_id=b7abf0fd28f9a05401574929c645770e
-#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/jiz6iruaxep7up8/live2.png" group-title="Live Events",Aston Villa vs Hibernian 
-#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/jiz6iruaxep7up8/live2.png" group-title="Live Events",Aston Villa vs Hibernian 
+#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/jiz6iruaxep7up8/live2.png" group-title="Live Events",Aston Villa vs Hibernian
+https://17afc863e4e771f160cb6f614a52fb1c.livehwc3.cn/pull06.scstream.net/live/stream-9912010_lhd.m3u8?auth_key=1693510472-0-0-a79a07d4f4359ace80fd796e0b689087&user_session_id=169c765355ea2f154b2fb3a07c63b4e6&edge_slice=true&sub_m3u8=true
+#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/jiz6iruaxep7up8/live2.png" group-title="Live Events",Aston Villa vs Hibernian
+https://17afc863e4e771f160cb6f614a52fb1c.livehwc3.cn/pull06.scstream.net/live/stream-9912010_lhd.m3u8?auth_key=1693510472-0-0-a79a07d4f4359ace80fd796e0b689087&user_session_id=169c765355ea2f154b2fb3a07c63b4e6&edge_slice=true&sub_m3u8=true
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/jiz6iruaxep7up8/live2.png" group-title="Live Events",Aston Villa vs Hibernian 
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/jiz6iruaxep7up8/live2.png" group-title="Live Events",Sassuolo vs Verona 
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/jiz6iruaxep7up8/live2.png" group-title="Live Events",Sassuolo vs Verona 
