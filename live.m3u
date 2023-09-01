@@ -1,9 +1,3 @@
-#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/jiz6iruaxep7up8/live2.png" group-title="Live Events",Cadiz vs Villarreal
-https://1123139281.cdn.khmer-hd.com/may2HD/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/jiz6iruaxep7up8/live2.png" group-title="Live Events",Cadiz vs Villarreal
-https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull06.scstream.net/live/stream-479684_lhd.m3u8?sub_m3u8=true&edge_slice=true&auth_key=1693592552-0-0-74c2208b474ec4a37abf519c4097e6a5&user_session_id=1eab4f95a2c4bf984cb8b8a36ab66f53
-#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/jiz6iruaxep7up8/live2.png" group-title="Live Events",Cadiz vs Villarreal
-https://pull.lianggexinxi.xyz/live/stream-553852_lhd.flv?auth_key=1693592420-0-0-3529cf5b863797a536a6b672f9a43380
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/jiz6iruaxep7up8/live2.png" group-title="Live Events",Dortmund vs FC Heidenheim
 https://1123139281.cdn.khmer-hd.com/chaHD/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/jiz6iruaxep7up8/live2.png" group-title="Live Events",Dortmund vs FC Heidenheim
@@ -28,9 +22,12 @@ https://1123139281.cdn.khmer-hd.com/may1HD/chunks.m3u8
 https://ab8b015f73be7afff38f332fb2361575.livehwc3.cn/pull06.scstream.net/live/stream-9912014_lhd.m3u8?sub_m3u8=true&auth_key=1693596692-0-0-013bbfddbfb2150175f8891630315b47&edge_slice=true&user_session_id=8e63792a53d5e4a1052a03110bb360b2
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/jiz6iruaxep7up8/live2.png" group-title="Live Events",Luton vs West Ham
 https://pull.lianggexinxi.xyz/live/stream-238362_lhd.flv?auth_key=1693597100-0-0-20fef367dc24c75a075b1692e54223d6
-#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/jiz6iruaxep7up8/live2.png" group-title="Live Events",Almeria vs Celta Vigo 
-#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/jiz6iruaxep7up8/live2.png" group-title="Live Events",Almeria vs Celta Vigo 
-#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/jiz6iruaxep7up8/live2.png" group-title="Live Events",Almeria vs Celta Vigo 
+#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/jiz6iruaxep7up8/live2.png" group-title="Live Events",Almeria vs Celta Vigo
+https://pull.lianggexinxi.xyz/live/stream-686922_lhd.flv?auth_key=1693601420-0-0-7cbab87c72df39b5b0d4665a5fff4d97
+#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/jiz6iruaxep7up8/live2.png" group-title="Live Events",Almeria vs Celta Vigo
+https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull06.scstream.net/live/stream-9912029_lhd.m3u8?edge_slice=true&auth_key=1693601132-0-0-d2dd818946e6dbf1ec317d9ba17c88b3&sub_m3u8=true&user_session_id=0f8984a250359df95301684b5221c18b
+#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/jiz6iruaxep7up8/live2.png" group-title="Live Events",Almeria vs Celta Vigo
+https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull06.scstream.net/live/stream-9912029_lhd.m3u8?edge_slice=true&auth_key=1693601132-0-0-d2dd818946e6dbf1ec317d9ba17c88b3&sub_m3u8=true&user_session_id=0f8984a250359df95301684b5221c18b
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/jiz6iruaxep7up8/live2.png" group-title="Live Events",Sheff Utd vs Everton 
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/jiz6iruaxep7up8/live2.png" group-title="Live Events",Sheff Utd vs Everton 
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/jiz6iruaxep7up8/live2.png" group-title="Live Events",Sheff Utd vs Everton 
