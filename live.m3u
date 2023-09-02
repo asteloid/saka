@@ -1,69 +1,3 @@
-#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/jiz6iruaxep7up8/live2.png" group-title="Live Events",Real Sociedad vs Granada
-https://1123139281.cdn.khmer-hd.com/may2HD/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/jiz6iruaxep7up8/live2.png" group-title="Live Events",Real Sociedad vs Granada
-https://pull01.rrwes.live/live/stream-420171_lhd.m3u8?txSecret=287ccf7d3837d7ce7f6c49531376c0b2&txTime=64f371b0
-#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/jiz6iruaxep7up8/live2.png" group-title="Live Events",Real Sociedad vs Granada
-https://pull.lianggexinxi.xyz/live/stream-561402_lhd.flv?auth_key=1693658840-0-0-9f3ab60ece7e03fc8f32603ce7b2bb50
-#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/jiz6iruaxep7up8/live2.png" group-title="Live Events",Augsbarg vs VfL Bochum
-https://179720687.global.cdnfastest.com/live/sd-6ypq3nh7jo05md7/chunklist_w1600561457.m3u8
-#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/jiz6iruaxep7up8/live2.png" group-title="Live Events",Augsbarg vs VfL Bochum
-https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull06.scstream.net/live/stream-9912017_lhd.m3u8?auth_key=1693664792-0-0-8b19e54eaefd58f2e3a009df31124e2f&sub_m3u8=true&edge_slice=true&user_session_id=c2c7b4b57c0f9114cedee9c27c056ab5
-#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/jiz6iruaxep7up8/live2.png" group-title="Live Events",Augsbarg vs VfL Bochum
-https://pull.lianggexinxi.xyz/live/stream-748300_lhd.flv?auth_key=1693663880-0-0-cb2635094a2cd378c1b2493976f9804e
-#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/jiz6iruaxep7up8/live2.png" group-title="Live Events",Leverkusen vs SV Darmstadt
-https://179720687.global.cdnfastest.com/live/sd-pxwrxlhxkog9ryk/chunklist_w805203922.m3u8
-#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/jiz6iruaxep7up8/live2.png" group-title="Live Events",Leverkusen vs SV Darmstadt
-https://pull01.rrwes.live/live/stream-379975_lhd.m3u8?txSecret=c847d3861d0e0f5e3b1f113e18334ff3&txTime=64f38614
-#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/jiz6iruaxep7up8/live2.png" group-title="Live Events",Leverkusen vs SV Darmstadt
-https://pull.lianggexinxi.xyz/live/stream-622859_lhd.flv?auth_key=1693663760-0-0-8552ebc7a141c5b447497cf7d60ed3f5
-#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/jiz6iruaxep7up8/live2.png" group-title="Live Events",Hoffenhein vs Wolfburg
-https://179720687.global.cdnfastest.com/live/sd-y0or5jhz2kl0qwz/chunklist_w1072476266.m3u8
-#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/jiz6iruaxep7up8/live2.png" group-title="Live Events",Hoffenhein vs Wolfburg
-https://pull01.rrwes.live/live/stream-427562_lhd.m3u8?txSecret=071bf555d8618998bc965ecc35acc1e0&txTime=64f38920
-#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/jiz6iruaxep7up8/live2.png" group-title="Live Events",Hoffenhein vs Wolfburg
-https://pull.lianggexinxi.xyz/live/stream-697579_lhd.flv?auth_key=1693663400-0-0-2aa3d14fe43701d9b2da510fc0a947c6
-#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/jiz6iruaxep7up8/live2.png" group-title="Live Events",VfB Stuttgart vs Freiburg
-https://179720687.global.cdnfastest.com/live/hd-en-n54qllhpo629qvy/chunklist_w570392167.m3u8
-#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/jiz6iruaxep7up8/live2.png" group-title="Live Events",VfB Stuttgart vs Freiburg
-https://pull01.rrwes.live/live/stream-427856_lhd.m3u8?txSecret=9486c8470351987ac72f4be61367e210&txTime=64f385d8
-#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/jiz6iruaxep7up8/live2.png" group-title="Live Events",VfB Stuttgart vs Freiburg
-https://pull.lianggexinxi.xyz/live/stream-716626_lhd.flv?auth_key=1693664000-0-0-ab621b063a0516c9449846e5082d8617
-#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/jiz6iruaxep7up8/live2.png" group-title="Live Events",Weder Bremen vs Mainz
-https://179720687.global.cdnfastest.com/live/sd-zp5rzgh6l9jwq82/chunklist_w1371049149.m3u8
-#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/jiz6iruaxep7up8/live2.png" group-title="Live Events",Weder Bremen vs Mainz
-https://pull01.rrwes.live/live/stream-379816_lhd.m3u8?txSecret=c7a52ed191748f3acdd12df376bb45e6&txTime=64f38650
-#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/jiz6iruaxep7up8/live2.png" group-title="Live Events",Weder Bremen vs Mainz
-https://pull.lianggexinxi.xyz/live/stream-566370_lhd.flv?auth_key=1693663820-0-0-940e43418efe14444a2c57b73920a91b
-#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/jiz6iruaxep7up8/live2.png" group-title="Live Events",Brentford vs Bournemouth
-https://1123139281.cdn.khmer-hd.com/trauHD/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/jiz6iruaxep7up8/live2.png" group-title="Live Events",Brentford vs Bournemouth
-https://17afc863e4e771f160cb6f614a52fb1c.livehwc3.cn/pull06.scstream.net/live/stream-9912015_lhd.m3u8?user_session_id=22cc1bf483464c12290573c69b60e339&auth_key=1693665992-0-0-8269481390dff9f83e3de7778a8c890c&edge_slice=true&sub_m3u8=true
-#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/jiz6iruaxep7up8/live2.png" group-title="Live Events",Brentford vs Bournemouth
-https://pull.lianggexinxi.xyz/live/stream-757153_lhd.flv?auth_key=1693665680-0-0-c955b7295865cfaf831578f0e1408664
-#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/jiz6iruaxep7up8/live2.png" group-title="Live Events",Burnley vs Tottenham
-https://1123139281.cdn.khmer-hd.com/may3HD/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/jiz6iruaxep7up8/live2.png" group-title="Live Events",Burnley vs Tottenham
-https://pull01.rrwes.live/live/stream-9911990_lhd.m3u8?txSecret=1b0738da0141c244b3f997ebbf4aeaec&txTime=64f390dc
-#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/jiz6iruaxep7up8/live2.png" group-title="Live Events",Burnley vs Tottenham
-https://pull.lianggexinxi.xyz/live/stream-309440_lhd.flv?auth_key=1693665560-0-0-0bf408f8b7a22ed6e09e3edd760b4ee9
-#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/jiz6iruaxep7up8/live2.png" group-title="Live Events",Chelsea vs Nottm Forest
-https://1123139281.cdn.khmer-hd.com/may1HD/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/jiz6iruaxep7up8/live2.png" group-title="Live Events",Chelsea vs Nottm Forest
-https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull06.scstream.net/live/stream-9912042_lhd.m3u8?auth_key=1693665812-0-0-f23ddc4443de8789411d57ee6a4a60a6&edge_slice=true&user_session_id=1ca3b387326fffd1b542e4d83326e358&sub_m3u8=true
-#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/jiz6iruaxep7up8/live2.png" group-title="Live Events",Chelsea vs Nottm Forest
-https://pull.lianggexinxi.xyz/live/stream-705956_lhd.flv?auth_key=1693665380-0-0-63500be299a8032df8b417b8f8ebbb45
-#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/jiz6iruaxep7up8/live2.png" group-title="Live Events",Man City vs Fulham
-https://1123139281.cdn.khmer-hd.com/oldHD/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/jiz6iruaxep7up8/live2.png" group-title="Live Events",Man City vs Fulham
-https://d83e8dc9b3450f5a2962a7b324817603.livehwc3.cn/pull06.scstream.net/live/stream-9912038_lhd.m3u8?user_session_id=848d35fdc25d38b27710e68751c76f14&auth_key=1693665872-0-0-3d6be83536da29c816316f1abe168cf5&sub_m3u8=true&edge_slice=true
-#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/jiz6iruaxep7up8/live2.png" group-title="Live Events",Man City vs Fulham
-https://pull.lianggexinxi.xyz/live/stream-589863_lhd.flv?auth_key=1693665620-0-0-268d74309514fffa26b8fb431eabcd42
-#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/jiz6iruaxep7up8/live2.png" group-title="Live Events",Real Madrid vs Getafe
-https://pull.lianggexinxi.xyz/live/stream-564408_lhd.flv?auth_key=1693666220-0-0-9ec2705901911c33e894402ec04adf71
-#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/jiz6iruaxep7up8/live2.png" group-title="Live Events",Real Madrid vs Getafe
-https://pull01.rrwes.live/live/stream-9912026_lhd.m3u8?txSecret=29ccf868135573274acaf3b427ee018b&txTime=64f391cc
-#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/jiz6iruaxep7up8/live2.png" group-title="Live Events",Real Madrid vs Getafe
-https://pull.lianggexinxi.xyz/live/stream-564408_lhd.flv?auth_key=1693666220-0-0-9ec2705901911c33e894402ec04adf71
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/jiz6iruaxep7up8/live2.png" group-title="Live Events",Brest vs Rennes
 https://17afc863e4e771f160cb6f614a52fb1c.livehwc3.cn/pull06.scstream.net/live/stream-372746_lhd.m3u8?auth_key=1693669712-0-0-91cb2cb449ac420d85608029a0c9964a&sub_m3u8=true&user_session_id=b0b7bd21d580133a2fea93338d6233cc&edge_slice=true
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/jiz6iruaxep7up8/live2.png" group-title="Live Events",Brest vs Rennes
@@ -79,23 +13,23 @@ https://1123139281.cdn.khmer-hd.com/may3HD/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/jiz6iruaxep7up8/live2.png" group-title="Live Events",Deportivo Alaves vs Valencia
 https://1123139281.cdn.khmer-hd.com/trauHD/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/jiz6iruaxep7up8/live2.png" group-title="Live Events",Deportivo Alaves vs Valencia
-https://1123139281.cdn.khmer-hd.com/trauHD/chunks.m3u8
+https://pull01.rrwes.live/live/stream-379975_lhd.m3u8?txSecret=34cb4698d0112ae6f92003dfc1844f33&txTime=64f3b83c
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/jiz6iruaxep7up8/live2.png" group-title="Live Events",Deportivo Alaves vs Valencia
 https://1123139281.cdn.khmer-hd.com/trauHD/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/jiz6iruaxep7up8/live2.png" group-title="Live Events",Brighton vs Newscatle
 https://1123139281.cdn.khmer-hd.com/cuonHD/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/jiz6iruaxep7up8/live2.png" group-title="Live Events",Brighton vs Newscatle
-https://1123139281.cdn.khmer-hd.com/cuonHD/chunks.m3u8
+https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull06.scstream.net/live/stream-9912009_lhd.m3u8?edge_slice=true&sub_m3u8=true&auth_key=1693676072-0-0-839c6cf1f8b0079324609accf4c596a0&user_session_id=039cbdec0e2a1f9a9e06d51aef9647ad
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/jiz6iruaxep7up8/live2.png" group-title="Live Events",Brighton vs Newscatle
 https://1123139281.cdn.khmer-hd.com/cuonHD/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/jiz6iruaxep7up8/live2.png" group-title="Live Events",Bologna vs Cagliari
-https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull06.scstream.net/live/stream-9912027_lhd.m3u8?user_session_id=fe3665dd0405431539b43c5167f69fec&sub_m3u8=true&auth_key=1693674392-0-0-2ebd6f26ba53ab00e455ac69c5131f00&edge_slice=true
+https://1123139281.cdn.khmer-hd.com/may81/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/jiz6iruaxep7up8/live2.png" group-title="Live Events",Bologna vs Cagliari
 https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull06.scstream.net/live/stream-9912027_lhd.m3u8?user_session_id=fe3665dd0405431539b43c5167f69fec&sub_m3u8=true&auth_key=1693674392-0-0-2ebd6f26ba53ab00e455ac69c5131f00&edge_slice=true
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/jiz6iruaxep7up8/live2.png" group-title="Live Events",Bologna vs Cagliari
 https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull06.scstream.net/live/stream-9912027_lhd.m3u8?user_session_id=fe3665dd0405431539b43c5167f69fec&sub_m3u8=true&auth_key=1693674392-0-0-2ebd6f26ba53ab00e455ac69c5131f00&edge_slice=true
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/jiz6iruaxep7up8/live2.png" group-title="Live Events",Udinese vs Frosinone
-https://pull01.rrwes.live/live/stream-9911977_lhd.m3u8?txSecret=bab5b010718f00bafb504ca14a6d5b92&txTime=64f3b2d8
+https://1123139281.cdn.khmer-hd.com/may8/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/jiz6iruaxep7up8/live2.png" group-title="Live Events",Udinese vs Frosinone
 https://pull01.rrwes.live/live/stream-9911977_lhd.m3u8?txSecret=bab5b010718f00bafb504ca14a6d5b92&txTime=64f3b2d8
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/jiz6iruaxep7up8/live2.png" group-title="Live Events",Udinese vs Frosinone 
