@@ -58,7 +58,8 @@ https://1123139281.cdn.khmer-hd.com/oldHD/chunks.m3u8
 https://d83e8dc9b3450f5a2962a7b324817603.livehwc3.cn/pull06.scstream.net/live/stream-9912038_lhd.m3u8?user_session_id=848d35fdc25d38b27710e68751c76f14&auth_key=1693665872-0-0-3d6be83536da29c816316f1abe168cf5&sub_m3u8=true&edge_slice=true
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/jiz6iruaxep7up8/live2.png" group-title="Live Events",Man City vs Fulham
 https://pull.lianggexinxi.xyz/live/stream-589863_lhd.flv?auth_key=1693665620-0-0-268d74309514fffa26b8fb431eabcd42
-#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/jiz6iruaxep7up8/live2.png" group-title="Live Events",Real Madrid vs Getafe 
+#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/jiz6iruaxep7up8/live2.png" group-title="Live Events",Real Madrid vs Getafe
+https://pull.lianggexinxi.xyz/live/stream-564408_lhd.flv?auth_key=1693666220-0-0-9ec2705901911c33e894402ec04adf71
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/jiz6iruaxep7up8/live2.png" group-title="Live Events",Real Madrid vs Getafe
 https://pull01.rrwes.live/live/stream-9912026_lhd.m3u8?txSecret=29ccf868135573274acaf3b427ee018b&txTime=64f391cc
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/jiz6iruaxep7up8/live2.png" group-title="Live Events",Real Madrid vs Getafe
@@ -729,6 +730,9 @@ https://bcovlive-a.akamaihd.net/474b6caf58f8407fb1d1cc1ef64f50ff/us-west-2/60580
 
 #EXTINF:-1 group-title="Sports",ARENA SPORT 1 🇭🇷
 http://185.82.108.21:4646/live/ab2/ba2/93.ts
+
+#EXTINF:-1 group-title="Sports",ARENA SPORT 2 🇭🇷
+http://185.82.108.21:4646/live/ab2/ba2/94.ts
 
 #EXTINF:-1 group-title="Sports",Arena Sport 4 🇧🇦
 http://94.250.2.6:7374/play/a012/index.m3u8
