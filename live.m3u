@@ -1,45 +1,15 @@
-#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/jiz6iruaxep7up8/live2.png" group-title="Live Events",Brest vs Rennes
-https://17afc863e4e771f160cb6f614a52fb1c.livehwc3.cn/pull06.scstream.net/live/stream-372746_lhd.m3u8?auth_key=1693669712-0-0-91cb2cb449ac420d85608029a0c9964a&sub_m3u8=true&user_session_id=b0b7bd21d580133a2fea93338d6233cc&edge_slice=true
-#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/jiz6iruaxep7up8/live2.png" group-title="Live Events",Brest vs Rennes
-https://179720687.global.cdnfastest.com/live/hd-en-965mkyh2688or1g/chunklist_w438366300.m3u8
-#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/jiz6iruaxep7up8/live2.png" group-title="Live Events",Brest vs Rennes
-https://179720687.global.cdnfastest.com/live/hd-en-965mkyh2688or1g/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/jiz6iruaxep7up8/live2.png" group-title="Live Events",M'gladbach vs Bayern Munchen
-https://1123139281.cdn.khmer-hd.com/may3HD/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/jiz6iruaxep7up8/live2.png" group-title="Live Events",M'gladbach vs Bayern Munchen
-https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull06.scstream.net/live/stream-380460_lhd.m3u8?user_session_id=4132f99f2cc5bcdbcd088a546289935b&sub_m3u8=true&edge_slice=true&auth_key=1693674872-0-0-6c15a3dee5969bc4a4ca0a84e82b6cda
-#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/jiz6iruaxep7up8/live2.png" group-title="Live Events",M'gladbach vs Bayern Munchen
-https://pull.lianggexinxi.xyz/live/stream-551893_lhd.flv?auth_key=1693676180-0-0-43f49f0cd58d16473d9619d61c2c3d8e
-#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/jiz6iruaxep7up8/live2.png" group-title="Live Events",Deportivo Alaves vs Valencia
-https://1123139281.cdn.khmer-hd.com/trauHD/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/jiz6iruaxep7up8/live2.png" group-title="Live Events",Deportivo Alaves vs Valencia
-https://pull01.rrwes.live/live/stream-379975_lhd.m3u8?txSecret=34cb4698d0112ae6f92003dfc1844f33&txTime=64f3b83c
-#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/jiz6iruaxep7up8/live2.png" group-title="Live Events",Deportivo Alaves vs Valencia
-https://pull.lianggexinxi.xyz/live/stream-238362_lhd.flv?auth_key=1693676240-0-0-5af4b10e14ee9e50d746c80e0ae14187
-#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/jiz6iruaxep7up8/live2.png" group-title="Live Events",Brighton vs Newscatle
-https://1123139281.cdn.khmer-hd.com/cuonHD/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/jiz6iruaxep7up8/live2.png" group-title="Live Events",Brighton vs Newscatle
-https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull06.scstream.net/live/stream-9912009_lhd.m3u8?edge_slice=true&sub_m3u8=true&auth_key=1693676072-0-0-839c6cf1f8b0079324609accf4c596a0&user_session_id=039cbdec0e2a1f9a9e06d51aef9647ad
-#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/jiz6iruaxep7up8/live2.png" group-title="Live Events",Brighton vs Newscatle
-https://pull.lianggexinxi.xyz/live/stream-589863_lhd.flv?auth_key=1693676360-0-0-4e02331c964039b4be78b332fdf00bdf
-#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/jiz6iruaxep7up8/live2.png" group-title="Live Events",Bologna vs Cagliari
-https://1123139281.cdn.khmer-hd.com/may81/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/jiz6iruaxep7up8/live2.png" group-title="Live Events",Bologna vs Cagliari
-https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull06.scstream.net/live/stream-9912027_lhd.m3u8?user_session_id=fe3665dd0405431539b43c5167f69fec&sub_m3u8=true&auth_key=1693674392-0-0-2ebd6f26ba53ab00e455ac69c5131f00&edge_slice=true
-#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/jiz6iruaxep7up8/live2.png" group-title="Live Events",Bologna vs Cagliari
-https://pull.lianggexinxi.xyz/live/stream-3045619_lhd.flv?auth_key=1693676420-0-0-c5a0e5442cb20edbd363b29cc8858dbf
-#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/jiz6iruaxep7up8/live2.png" group-title="Live Events",Udinese vs Frosinone
-https://1123139281.cdn.khmer-hd.com/may8/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/jiz6iruaxep7up8/live2.png" group-title="Live Events",Udinese vs Frosinone
-https://pull01.rrwes.live/live/stream-9911977_lhd.m3u8?txSecret=bab5b010718f00bafb504ca14a6d5b92&txTime=64f3b2d8
-#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/jiz6iruaxep7up8/live2.png" group-title="Live Events",Udinese vs Frosinone
-https://pull.lianggexinxi.xyz/live/stream-697579_lhd.flv?auth_key=1693676480-0-0-44c189ff89e2a4fee746a876c1b1c1f1
-#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/jiz6iruaxep7up8/live2.png" group-title="Live Events",Atalanta vs Monza 
-#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/jiz6iruaxep7up8/live2.png" group-title="Live Events",Atalanta vs Monza 
-#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/jiz6iruaxep7up8/live2.png" group-title="Live Events",Atalanta vs Monza 
-#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/jiz6iruaxep7up8/live2.png" group-title="Live Events",Napoli vs Lazio 
-#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/jiz6iruaxep7up8/live2.png" group-title="Live Events",Napoli vs Lazio 
-#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/jiz6iruaxep7up8/live2.png" group-title="Live Events",Napoli vs Lazio 
+#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/jiz6iruaxep7up8/live2.png" group-title="Live Events",Atalanta vs Monza
+https://1123139281.cdn.khmer-hd.com/oldHD/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/jiz6iruaxep7up8/live2.png" group-title="Live Events",Atalanta vs Monza
+https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull06.scstream.net/live/stream-9911989_lhd.m3u8?edge_slice=true&sub_m3u8=true&auth_key=1693682579-0-0-854f7bcf1724a3e6a0af693ac5f76ac8&user_session_id=fc1e8edd34620082b2db2ae54ff27e18
+#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/jiz6iruaxep7up8/live2.png" group-title="Live Events",Atalanta vs Monza
+https://1123139281.cdn.khmer-hd.com/oldHD/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/jiz6iruaxep7up8/live2.png" group-title="Live Events",Napoli vs Lazio
+https://1123139281.cdn.khmer-hd.com/may2HD/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/jiz6iruaxep7up8/live2.png" group-title="Live Events",Napoli vs Lazio
+https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull06.scstream.net/live/stream-9912005_lhd.m3u8?edge_slice=true&user_session_id=9736ead6064bd8682752ee884b57914a&sub_m3u8=true&auth_key=1693682972-0-0-3d1e65121c62ca5afcb2d627970bb6a9
+#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/jiz6iruaxep7up8/live2.png" group-title="Live Events",Napoli vs Lazio
+https://1123139281.cdn.khmer-hd.com/may2HD/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/jiz6iruaxep7up8/live2.png" group-title="Live Events",Real Betis vs Rayo Vallecano 
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/jiz6iruaxep7up8/live2.png" group-title="Live Events",Real Betis vs Rayo Vallecano 
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/jiz6iruaxep7up8/live2.png" group-title="Live Events",Real Betis vs Rayo Vallecano 
