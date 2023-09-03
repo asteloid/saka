@@ -1,33 +1,15 @@
-#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/jiz6iruaxep7up8/live2.png" group-title="Live Events",Atalanta vs Monza
-https://1123139281.cdn.khmer-hd.com/oldHD/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/jiz6iruaxep7up8/live2.png" group-title="Live Events",Atalanta vs Monza
-https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull06.scstream.net/live/stream-9911989_lhd.m3u8?edge_slice=true&sub_m3u8=true&auth_key=1693682579-0-0-854f7bcf1724a3e6a0af693ac5f76ac8&user_session_id=fc1e8edd34620082b2db2ae54ff27e18
-#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/jiz6iruaxep7up8/live2.png" group-title="Live Events",Atalanta vs Monza
-https://pull.lianggexinxi.xyz/live/stream-778499_lhd.flv?auth_key=1693683380-0-0-8210f6a162a7b7ce014ea4013f13ecea
-#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/jiz6iruaxep7up8/live2.png" group-title="Live Events",Napoli vs Lazio
-https://1123139281.cdn.khmer-hd.com/may2HD/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/jiz6iruaxep7up8/live2.png" group-title="Live Events",Napoli vs Lazio
-https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull06.scstream.net/live/stream-9912005_lhd.m3u8?edge_slice=true&user_session_id=9736ead6064bd8682752ee884b57914a&sub_m3u8=true&auth_key=1693682972-0-0-3d1e65121c62ca5afcb2d627970bb6a9
-#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/jiz6iruaxep7up8/live2.png" group-title="Live Events",Napoli vs Lazio
-https://pull.lianggexinxi.xyz/live/stream-736181_lhd.flv?auth_key=1693683440-0-0-b5dfcae1ee257ffcd5bbd2b1b423bdbb
-#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/jiz6iruaxep7up8/live2.png" group-title="Live Events",Real Betis vs Rayo Vallecano
-https://pull.lianggexinxi.xyz/live/stream-743404_lhd.flv?auth_key=1693683500-0-0-86728aeb411d6cb0f7ab8783b130e9e4
-#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/jiz6iruaxep7up8/live2.png" group-title="Live Events",Real Betis vs Rayo Vallecano
-https://pull01.rrwes.live/live/stream-9911990_lhd.m3u8?txSecret=e6c75f3347bb4237ba98178eed436e69&txTime=64f3d600
-#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/jiz6iruaxep7up8/live2.png" group-title="Live Events",Real Betis vs Rayo Vallecano
-https://pull.lianggexinxi.xyz/live/stream-743404_lhd.flv?auth_key=1693683500-0-0-86728aeb411d6cb0f7ab8783b130e9e4
-#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/jiz6iruaxep7up8/live2.png" group-title="Live Events",Monaco vs Lens
-https://pull.lianggexinxi.xyz/live/stream-683087_lhd.flv?auth_key=1693683500-0-0-db95590358734c8da1c475767b4bde5c
-#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/jiz6iruaxep7up8/live2.png" group-title="Live Events",Monaco vs Lens
-https://pull01.rrwes.live/live/stream-201313_lhd.m3u8?txSecret=2fcfe37176119989f8291146270d85bf&txTime=64f3d63c
-#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/jiz6iruaxep7up8/live2.png" group-title="Live Events",Monaco vs Lens
-https://pull.lianggexinxi.xyz/live/stream-683087_lhd.flv?auth_key=1693683500-0-0-db95590358734c8da1c475767b4bde5c
-#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/jiz6iruaxep7up8/live2.png" group-title="Live Events",Toulouse vs Clermont Foot 
-#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/jiz6iruaxep7up8/live2.png" group-title="Live Events",Toulouse vs Clermont Foot 
-#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/jiz6iruaxep7up8/live2.png" group-title="Live Events",Toulouse vs Clermont Foot 
-#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/jiz6iruaxep7up8/live2.png" group-title="Live Events",Girona vs Las Palmas 
-#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/jiz6iruaxep7up8/live2.png" group-title="Live Events",Girona vs Las Palmas 
-#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/jiz6iruaxep7up8/live2.png" group-title="Live Events",Girona vs Las Palmas 
+#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/jiz6iruaxep7up8/live2.png" group-title="Live Events",Toulouse vs Clermont Foot
+https://179720687.global.cdnfastest.com/live/hd-en-jw2r09h6o55drz8/chunklist_w1018834288.m3u8
+#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/jiz6iruaxep7up8/live2.png" group-title="Live Events",Toulouse vs Clermont Foot
+https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull06.scstream.net/live/stream-9912036_lhd.m3u8?user_session_id=83bb1068d7c07e866ce54c4c54d0c9ab&auth_key=1693740452-0-0-59079e13576c93416efbd6a68fe40029&sub_m3u8=true&edge_slice=true
+#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/jiz6iruaxep7up8/live2.png" group-title="Live Events",Toulouse vs Clermont Foot
+https://pull.lianggexinxi.xyz/live/stream-238362_lhd.flv?auth_key=1693740380-0-0-58d806d1801f77814157f520e4dff194
+#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/jiz6iruaxep7up8/live2.png" group-title="Live Events",Girona vs Las Palmas
+https://179720687.global.cdnfastest.com/live/sd-6ypq3nh792ywmd7/chunklist_w1464557723.m3u8
+#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/jiz6iruaxep7up8/live2.png" group-title="Live Events",Girona vs Las Palmas
+https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull06.scstream.net/live/stream-9912013_lhd.m3u8?auth_key=1693745192-0-0-91ca14ef667f5cfc9d235a019b88fe44&user_session_id=b19c9ed298d901fd7bd1b730b7921280&sub_m3u8=true&edge_slice=true
+#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/jiz6iruaxep7up8/live2.png" group-title="Live Events",Girona vs Las Palmas
+https://pull.lianggexinxi.xyz/live/stream-3045619_lhd.flv?auth_key=1693745060-0-0-af2be1808dc695093b9a640700c17f2e
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/jiz6iruaxep7up8/live2.png" group-title="Live Events",Le Havre vs Lorient 
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/jiz6iruaxep7up8/live2.png" group-title="Live Events",Le Havre vs Lorient 
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/jiz6iruaxep7up8/live2.png" group-title="Live Events",Le Havre vs Lorient 
@@ -37,6 +19,51 @@ https://pull.lianggexinxi.xyz/live/stream-683087_lhd.flv?auth_key=1693683500-0-0
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/jiz6iruaxep7up8/live2.png" group-title="Live Events",Metz vs Reims 
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/jiz6iruaxep7up8/live2.png" group-title="Live Events",Metz vs Reims 
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/jiz6iruaxep7up8/live2.png" group-title="Live Events",Metz vs Reims 
+#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/jiz6iruaxep7up8/live2.png" group-title="Live Events",Crystal Palace vs Wolves 
+#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/jiz6iruaxep7up8/live2.png" group-title="Live Events",Crystal Palace vs Wolves 
+#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/jiz6iruaxep7up8/live2.png" group-title="Live Events",Crystal Palace vs Wolves 
+#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/jiz6iruaxep7up8/live2.png" group-title="Live Events",Liverpool vs Aston Villa 
+#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/jiz6iruaxep7up8/live2.png" group-title="Live Events",Liverpool vs Aston Villa 
+#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/jiz6iruaxep7up8/live2.png" group-title="Live Events",Liverpool vs Aston Villa 
+#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/jiz6iruaxep7up8/live2.png" group-title="Live Events",Frankfurt vs Koln 
+#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/jiz6iruaxep7up8/live2.png" group-title="Live Events",Frankfurt vs Koln 
+#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/jiz6iruaxep7up8/live2.png" group-title="Live Events",Frankfurt vs Koln 
+#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/jiz6iruaxep7up8/live2.png" group-title="Live Events",Mallorca vs Athletic Club 
+#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/jiz6iruaxep7up8/live2.png" group-title="Live Events",Mallorca vs Athletic Club 
+#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/jiz6iruaxep7up8/live2.png" group-title="Live Events",Mallorca vs Athletic Club 
+#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/jiz6iruaxep7up8/live2.png" group-title="Live Events",Nice vs Strasbourg 
+#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/jiz6iruaxep7up8/live2.png" group-title="Live Events",Nice vs Strasbourg 
+#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/jiz6iruaxep7up8/live2.png" group-title="Live Events",Nice vs Strasbourg 
+#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/jiz6iruaxep7up8/live2.png" group-title="Live Events",Union Berlin vs RB Leipzig 
+#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/jiz6iruaxep7up8/live2.png" group-title="Live Events",Union Berlin vs RB Leipzig 
+#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/jiz6iruaxep7up8/live2.png" group-title="Live Events",Union Berlin vs RB Leipzig 
+#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/jiz6iruaxep7up8/live2.png" group-title="Live Events",Arsenal vs Man United 
+#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/jiz6iruaxep7up8/live2.png" group-title="Live Events",Arsenal vs Man United 
+#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/jiz6iruaxep7up8/live2.png" group-title="Live Events",Arsenal vs Man United 
+#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/jiz6iruaxep7up8/live2.png" group-title="Live Events",Atletico Madrid vs Sevilla 
+#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/jiz6iruaxep7up8/live2.png" group-title="Live Events",Atletico Madrid vs Sevilla 
+#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/jiz6iruaxep7up8/live2.png" group-title="Live Events",Atletico Madrid vs Sevilla 
+#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/jiz6iruaxep7up8/live2.png" group-title="Live Events",Inter vs Fiorentina 
+#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/jiz6iruaxep7up8/live2.png" group-title="Live Events",Inter vs Fiorentina 
+#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/jiz6iruaxep7up8/live2.png" group-title="Live Events",Inter vs Fiorentina 
+#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/jiz6iruaxep7up8/live2.png" group-title="Live Events",Torino vs Genoa 
+#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/jiz6iruaxep7up8/live2.png" group-title="Live Events",Torino vs Genoa 
+#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/jiz6iruaxep7up8/live2.png" group-title="Live Events",Torino vs Genoa 
+#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/jiz6iruaxep7up8/live2.png" group-title="Live Events",Lyon vs PSG 
+#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/jiz6iruaxep7up8/live2.png" group-title="Live Events",Lyon vs PSG 
+#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/jiz6iruaxep7up8/live2.png" group-title="Live Events",Lyon vs PSG 
+#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/jiz6iruaxep7up8/live2.png" group-title="Live Events",Empoli vs Juventus 
+#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/jiz6iruaxep7up8/live2.png" group-title="Live Events",Empoli vs Juventus 
+#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/jiz6iruaxep7up8/live2.png" group-title="Live Events",Empoli vs Juventus 
+#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/jiz6iruaxep7up8/live2.png" group-title="Live Events",Lecce vs Salernitana 
+#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/jiz6iruaxep7up8/live2.png" group-title="Live Events",Lecce vs Salernitana 
+#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/jiz6iruaxep7up8/live2.png" group-title="Live Events",Lecce vs Salernitana 
+#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/jiz6iruaxep7up8/live2.png" group-title="Live Events",Osasuna vs Barcelona 
+#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/jiz6iruaxep7up8/live2.png" group-title="Live Events",Osasuna vs Barcelona 
+#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/jiz6iruaxep7up8/live2.png" group-title="Live Events",Osasuna vs Barcelona 
+#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/jiz6iruaxep7up8/live2.png" group-title="Live Events",LAFC vs Inter Miami CF 
+#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/jiz6iruaxep7up8/live2.png" group-title="Live Events",LAFC vs Inter Miami CF 
+#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/jiz6iruaxep7up8/live2.png" group-title="Live Events",LAFC vs Inter Miami CF 
 
 
 #EXTINF:-1 group-title="Sports",MAX SPORTS 4 🇧🇬
@@ -63,9 +90,6 @@ http://116.202.231.21/hls/RedLine_beIN_Sports_2.m3u8
 #EXTINF:-1 group-title="Sports",ELEVEN SPORT 1 🇵🇱
 http://ua3.iptv.monster/play/1904/350B326FB34F4B8/video.m3u8
 
-#EXTINF:-1 group-title="Sports",ESPN + 🇺🇸
-http://cx2.supercloud9.xyz:2095/live/johnpower/bdl4921/59617.ts
-
 #EXTINF:-1 group-title="Sports",BEIN 3 TRUE VISIONS 🇹🇭
 https://sport.livedoomovies.com:4432/02_epl2_720p/chunklist.m3u8
 
@@ -78,6 +102,9 @@ http://hostengine.live/live/willbilly/willbilly/147617.ts
 #EXTINF:-1 group-title="Sports",Sports18 🇮🇳
 http://14.102.123.50:4000/play/a048
 
+#EXTINF:-1 group-title="Sports",ARY SPORTS 🇮🇳
+http://103.162.136.103:25461/FAH/fah/482
+
 #EXTINF:-1 group-title="Sports",DIGI Sport 2 HD 🇷🇴
 http://149.62.183.194:9293/play/a0bp
 
@@ -85,31 +112,16 @@ http://149.62.183.194:9293/play/a0bp
 http://smartsistem.xyz:8080/emreaydin/YxTAxcdvC2/24
 
 #EXTINF:-1 group-title="Sports",MACIAS
-https://mo3ad@gameslive.akamaized.net/hls/live-c00be71c-228e-4690-ac06-fd5490b18a5f_720p2800kbs/index.m3u8
+https://Pericopalotes135@stream.dlivecdn.com/makoh95464/1693721935/src/live.m3u8
+
+#EXTINF:-1 group-title="Sports",MACIAS
+https://Pericopalotes135@live.51jslink.com/live/7335353_dc202c9cbb42adae220f0263b7d7ca6c.m3u8?auth_key=1693756802-0-0-84c6f9274905a6fdf588f0debe9ae130
 
 #EXTINF:-1 group-title="Sports",MAX SPORT 4 🇧🇬
 http://46.10.218.219:8000/play/a05n
 
 #EXTINF:-1 group-title="Sports",MAX SPORT 4 🇧🇬
 http://iptvaruba.com:8080/mitrovic/f261dbc5c4/16433
-
-#EXTINF:-1 group-title="Sports",LA LIGA TV 🇬🇧
-http://cx2.supercloud9.xyz:2095/live/johnpower/bdl4921/50312.ts
-
-#EXTINF:-1 group-title="Sports",S LA LIGA 🇿🇦
-https://Pericopalotes135@work.realbitsport.com/live/n-5/chunks.m3u8
-
-#EXTINF:-1 group-title="Sports",Optus Sport La Liga 🇦🇺
-http://cx2.supercloud9.xyz:2095/live/johnpower/bdl4921/59042.ts
-
-#EXTINF:-1 group-title="Sports",Eleven Sport 2 🇵🇹
-http://cx2.supercloud9.xyz:2095/live/johnpower/bdl4921/21131.ts
-
-#EXTINF:-1 group-title="Sports",Eleven Sport 1 🇵🇹
-http://cx2.supercloud9.xyz:2095/live/johnpower/bdl4921/21130.ts
-
-#EXTINF:-1 group-title="Sports",ESPN Brasil 🇧🇷
-http://cx2.supercloud9.xyz:2095/live/johnpower/bdl4921/22423.ts
 
 #EXTINF:-1 group-title="Sports",ESPN Brasil 🇧🇷
 http://mn.appserv19.xyz:2095/Xplus-1-VSmETvtBbb/AJjywwOynA/131
@@ -140,9 +152,6 @@ http://149.62.183.194:9293/play/a0c4
 
 #EXTINF:-1 group-title="Sports",SPILER 2 🇭🇺
 http://iptvaruba.com:8080/mitrovic/f261dbc5c4/77769
-
-#EXTINF:-1 group-title="Sports",SuperSport LaLiga 🇿🇦
-http://cx2.supercloud9.xyz:2095/live/johnpower/bdl4921/5243.ts
 
 #EXTINF:-1 group-title="Sports",SuperSport LaLiga 🇿🇦
 http://iptvaruba.com:8080/mitrovic/f261dbc5c4/194358
@@ -245,9 +254,6 @@ https://mo3ad@admdn1.cdn.mgmlcdn.com:443/adsports1/smil:adsports1.stream.smil/ch
 
 #EXTINF:-1 group-title="Sports",SPORT 1
 http://84.22.33.218/ArTsPoRt.1.Uc/index.m3u8
-
-#EXTINF:-1 group-title="Sports",AIO SPORT 1 🇸🇦
-https://af.ayas.ir/hls2/aiosport.m3u8
 
 #EXTINF:-1 group-title="Sports",SPORTS 18 🇮🇳
 https://prod-ent-live-gm.jiocinema.com/bpk-tv/Sports18_Khel_voot_MOB/Fallback/index.m3u8
@@ -477,6 +483,12 @@ http://83.228.75.166:8000/play/a0bd
 #EXTINF:-1 group-title="Sports",Diema Sport 3 🇧🇬
 http://83.228.75.166:8000/play/a0e8
 
+#EXTINF:-1 group-title="Sports",Diema Sport 2 🇧🇬
+http://93.155.227.38:90/m3u8/diemasport2hd.m3u8
+
+#EXTINF:-1 group-title="Sports",Diema Sport 3 🇧🇬
+http://93.155.227.38:90/m3u8/diemasport3hd.m3u8
+
 #EXTINF:-1 group-title="Sports",NOVA Sport 3 🇨🇿 
 http://84.42.140.147:8890/hdmi
 
@@ -594,6 +606,12 @@ http://195.222.7.26:7011/play/a02j
 #EXTINF:-1 group-title="Sports",SPORT LIVE 🇩🇰
 http://195.222.7.26:7011/play/a00t
 
+#EXTINF:-1 group-title="Sports",TRUE PREMIER HD 1 🇹🇭
+https://sport.livedoomovies.com:4432/02_PremierHD1_720p/chunklist.m3u8
+
+#EXTINF:-1 group-title="Sports",TRUE PREMIER HD 3 🇹🇭
+https://sport.livedoomovies.com:4432/02_PremierHD3_720p/chunklist.m3u8
+
 #EXTINF:-1 group-title="Sports",CCTV5 🇨🇳
 https://node1.olelive.com:6443/live/CCTV5HD/hls.m3u8
 
@@ -615,8 +633,14 @@ https://live.sportstv.com.tr/hls/low/sportstv.m3u8
 #EXTINF:-1 group-title="Sports",SPORTS TV 🇹🇷
 http://live.sportstv.com.tr/hls/low/sportstv_fhd/index.m3u8
 
+#EXTINF:-1 group-title="Sports",Geo Super 🇮🇳
+http://103.162.136.103:25461/live/FAH/fah/98.m3u8
+
 #EXTINF:-1 group-title="Sports",TNT SPORTS 3 🇮🇳
 https://live.rftv.wtf/test/1616/index.m3u8
+
+#EXTINF:-1 group-title="Sports",PTV SPORTS 🇮🇳
+http://live.globalflix.net:80/Call-Me/Whatsapp8801971466614/154.m3u8
 
 #EXTINF:-1 group-title="Sports",TNT SPORTS 🇧🇷
 https://glxlmn026c.singularcdn.net.br/playout_03/playlist-720p.m3u8
@@ -644,6 +668,9 @@ https://glxlmn026c.singularcdn.net.br/playout_02/playlist-720p.m3u8
 
 #EXTINF:-1 group-title="Sports",TIGO SPORTS 🇨🇷
 https://linear-556.frequency.stream/dist/vix/556/hls/master/playlist.m3u8
+
+#EXTINF:-1 group-title="Sports",TIGO SPORTS 🇨🇷
+http://38.7.131.2:8000/play/a0eo/index.m3u8
 
 #EXTINF:-1 group-title="Sports",WOW TV EL SALVADOR 🇸🇻
 https://cdn.elsalvadordigital.com:1936/wowtv/smil:wowtv.smil/playlist.m3u8
@@ -683,6 +710,12 @@ https://admdn1.cdn.mangomolo.com/adsports1/smil:adsports1.stream.smil/playlist.m
 
 #EXTINF:-1 group-title="Sports",YAS 🇸🇦
 https://admdn1.cdn.mangomolo.com/yastv/smil:yastv.stream.smil/playlist.m3u8
+
+#EXTINF:-1 group-title="Sports",Aysh Sport 🇮🇷
+https://stream.live12.ir/hls2/persiana.m3u8
+
+#EXTINF:-1 group-title="Sports",Persiana Sports HD 🇮🇷
+https://af.ayas.ir/hls2/persiana.m3u8
 
 #EXTINF:-1 group-title="Sports",TELETRAK 🇨🇱
 http://unlimited6-cl.dps.live/sportinghd/sportinghd.smil/playlist.m3u8
