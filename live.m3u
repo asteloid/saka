@@ -1,15 +1,3 @@
-#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/jiz6iruaxep7up8/live2.png" group-title="Live Events",Frankfurt vs Koln
-https://179720687.global.cdnfastest.com/live/sd-x7lm7ph31ekpm2w/chunklist_w1689552391.m3u8
-#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/jiz6iruaxep7up8/live2.png" group-title="Live Events",Frankfurt vs Koln
-https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull06.scstream.net/live/stream-9911989_lhd.m3u8?user_session_id=b77347df86e938b65900e6613a1bfb96&edge_slice=true&sub_m3u8=true&auth_key=1693750652-0-0-76f9ccafe91734feca964f693d06379d
-#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/jiz6iruaxep7up8/live2.png" group-title="Live Events",Frankfurt vs Koln
-https://pull.lianggexinxi.xyz/live/stream-778499_lhd.flv?auth_key=1693750520-0-0-051c326ab5b8b59245e0bb97a2795c5c
-#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/jiz6iruaxep7up8/live2.png" group-title="Live Events",Mallorca vs Athletic Club
-https://pull01.rrwes.live/live/stream-102933_lhd.m3u8?txSecret=17978434d1aa28eb19cfb5134636dcea&txTime=64f4e6d0
-#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/jiz6iruaxep7up8/live2.png" group-title="Live Events",Mallorca vs Athletic Club
-https://pull.lianggexinxi.xyz/live/stream-743404_lhd.flv?auth_key=1693753640-0-0-22049a3d556157e068b9a383f0adeff9
-#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/jiz6iruaxep7up8/live2.png" group-title="Live Events",Mallorca vs Athletic Club
-https://pull.lianggexinxi.xyz/live/stream-743404_lhd.flv?auth_key=1693753640-0-0-22049a3d556157e068b9a383f0adeff9
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/jiz6iruaxep7up8/live2.png" group-title="Live Events",Nice vs Strasbourg
 https://179720687.global.cdnfastest.com/live/sd-l5ergphl9kk7r8k/chunklist_w792980086.m3u8
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/jiz6iruaxep7up8/live2.png" group-title="Live Events",Nice vs Strasbourg
@@ -28,12 +16,18 @@ https://nvndcagevswv87c6afake.thapcam.link/live/_definst_/stream_1_1bda7@may3FHD
 https://pull.lianggexinxi.xyz/live/stream-508364_lhd.flv?auth_key=1693757660-0-0-de2de3cadd0ef3dd5aba421fcd0d042f
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/jiz6iruaxep7up8/live2.png" group-title="Live Events",Arsenal vs Man United
 https://pull01.rrwes.live/live/stream-201313_lhd.m3u8?txSecret=53739a71edc959d93f2facbc7031b1f4&txTime=64f4f738
-#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/jiz6iruaxep7up8/live2.png" group-title="Live Events",Inter vs Fiorentina 
-#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/jiz6iruaxep7up8/live2.png" group-title="Live Events",Inter vs Fiorentina 
-#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/jiz6iruaxep7up8/live2.png" group-title="Live Events",Inter vs Fiorentina 
-#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/jiz6iruaxep7up8/live2.png" group-title="Live Events",Torino vs Genoa 
-#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/jiz6iruaxep7up8/live2.png" group-title="Live Events",Torino vs Genoa 
-#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/jiz6iruaxep7up8/live2.png" group-title="Live Events",Torino vs Genoa 
+#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/jiz6iruaxep7up8/live2.png" group-title="Live Events",Inter vs Fiorentina
+https://1123139281.cdn.khmer-hd.com/oldHD/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/jiz6iruaxep7up8/live2.png" group-title="Live Events",Inter vs Fiorentina
+https://pull01.rrwes.live/live/stream-9912019_lhd.m3u8?txSecret=6e5d42f2037c3d657b5f204c5dfc19ce&txTime=64f50584
+#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/jiz6iruaxep7up8/live2.png" group-title="Live Events",Inter vs Fiorentina
+https://pull.lianggexinxi.xyz/live/stream-564408_lhd.flv?auth_key=1693761800-0-0-432db70b59080c013a22b8acae21e025
+#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/jiz6iruaxep7up8/live2.png" group-title="Live Events",Torino vs Genoa
+https://pull.lianggexinxi.xyz/live/stream-553852_lhd.flv?auth_key=1693761740-0-0-3140c68bbb4c7123d93864ab9668e2d2
+#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/jiz6iruaxep7up8/live2.png" group-title="Live Events",Torino vs Genoa
+https://ab8b015f73be7afff38f332fb2361575.livehwc3.cn/pull06.scstream.net/live/stream-9912016_lhd.m3u8?auth_key=1693761392-0-0-634c65df5d54da696eabb51cef47de45&edge_slice=true&user_session_id=d725e7498dc9235be4d234088e1ff74b&sub_m3u8=true
+#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/jiz6iruaxep7up8/live2.png" group-title="Live Events",Torino vs Genoa
+https://pull.lianggexinxi.xyz/live/stream-553852_lhd.flv?auth_key=1693761740-0-0-3140c68bbb4c7123d93864ab9668e2d2
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/jiz6iruaxep7up8/live2.png" group-title="Live Events",Lyon vs PSG 
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/jiz6iruaxep7up8/live2.png" group-title="Live Events",Lyon vs PSG 
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/jiz6iruaxep7up8/live2.png" group-title="Live Events",Lyon vs PSG 
