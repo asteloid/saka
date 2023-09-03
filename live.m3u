@@ -1,16 +1,11 @@
-#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/jiz6iruaxep7up8/live2.png" group-title="Live Events",Toulouse vs Clermont Foot
-https://179720687.global.cdnfastest.com/live/hd-en-jw2r09h6o55drz8/chunklist_w1018834288.m3u8
-#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/jiz6iruaxep7up8/live2.png" group-title="Live Events",Toulouse vs Clermont Foot
-https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull06.scstream.net/live/stream-9912036_lhd.m3u8?user_session_id=83bb1068d7c07e866ce54c4c54d0c9ab&auth_key=1693740452-0-0-59079e13576c93416efbd6a68fe40029&sub_m3u8=true&edge_slice=true
-#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/jiz6iruaxep7up8/live2.png" group-title="Live Events",Toulouse vs Clermont Foot
-https://pull.lianggexinxi.xyz/live/stream-238362_lhd.flv?auth_key=1693740380-0-0-58d806d1801f77814157f520e4dff194
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/jiz6iruaxep7up8/live2.png" group-title="Live Events",Girona vs Las Palmas
 https://179720687.global.cdnfastest.com/live/sd-6ypq3nh792ywmd7/chunklist_w1464557723.m3u8
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/jiz6iruaxep7up8/live2.png" group-title="Live Events",Girona vs Las Palmas
 https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull06.scstream.net/live/stream-9912013_lhd.m3u8?auth_key=1693745192-0-0-91ca14ef667f5cfc9d235a019b88fe44&user_session_id=b19c9ed298d901fd7bd1b730b7921280&sub_m3u8=true&edge_slice=true
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/jiz6iruaxep7up8/live2.png" group-title="Live Events",Girona vs Las Palmas
 https://pull.lianggexinxi.xyz/live/stream-3045619_lhd.flv?auth_key=1693745060-0-0-af2be1808dc695093b9a640700c17f2e
-#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/jiz6iruaxep7up8/live2.png" group-title="Live Events",Le Havre vs Lorient 
+#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/jiz6iruaxep7up8/live2.png" group-title="Live Events",Le Havre vs Lorient
+https://179720687.global.cdnfastest.com/live/sd-y39mp1h02dd0moj/chunklist_w1210482631.m3u8
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/jiz6iruaxep7up8/live2.png" group-title="Live Events",Le Havre vs Lorient
 https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull06.scstream.net/live/stream-372746_lhd.m3u8?auth_key=1693748792-0-0-821f68c239bcf5fb9d7003a8f6c9bbd9&edge_slice=true&user_session_id=54e4461182608723b4f5a6f5c10715fe&sub_m3u8=true
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/jiz6iruaxep7up8/live2.png" group-title="Live Events",Le Havre vs Lorient
@@ -20,7 +15,8 @@ https://pull.lianggexinxi.xyz/live/stream-675198_lhd.flv?auth_key=1693748600-0-0
 https://pull01.rrwes.live/live/stream-9911990_lhd.m3u8?txSecret=047caa7c341e1c6c7cbe3a4126b2489f&txTime=64f4d1b8
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/jiz6iruaxep7up8/live2.png" group-title="Live Events",Lille vs Montpellier
 https://pull.lianggexinxi.xyz/live/stream-716626_lhd.flv?auth_key=1693748720-0-0-f02d7a82531c03d394c444766c2a2acc
-#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/jiz6iruaxep7up8/live2.png" group-title="Live Events",Metz vs Reims 
+#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/jiz6iruaxep7up8/live2.png" group-title="Live Events",Metz vs Reims
+https://179720687.global.cdnfastest.com/live/sd-318q66h6588xqo9/chunklist_w1460394250.m3u8
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/jiz6iruaxep7up8/live2.png" group-title="Live Events",Metz vs Reims
 https://d83e8dc9b3450f5a2962a7b324817603.livehwc3.cn/pull06.scstream.net/live/stream-479849_lhd.m3u8?auth_key=1693748432-0-0-ab9df37b3170547363e4e48561c4afb7&edge_slice=true&sub_m3u8=true&user_session_id=9f73535026b4450a240c6d117987407c
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/jiz6iruaxep7up8/live2.png" group-title="Live Events",Metz vs Reims
@@ -829,3 +825,21 @@ http://989423234229165392.of529.xyz:80/play/vi0210254/pTHg@YmFYV/165392.ts
 
 #EXTINF:-1 group-title="Sports",4
 http://989423234229165385.of529.xyz:80/play/vi0210254/pTHg@YmFYV/165385.ts
+
+#EXTINF:-1 group-title="Sports",5
+http://989423234229165392.of529.xyz:80/play/vi0210254/pTHg@YmFYV/165391.ts
+
+#EXTINF:-1 group-title="Sports",6
+http://989423234229165392.of529.xyz:80/play/vi0210254/pTHg@YmFYV/165390.ts
+
+#EXTINF:-1 group-title="Sports",7
+http://989423234229165392.of529.xyz:80/play/vi0210254/pTHg@YmFYV/165389.ts
+
+#EXTINF:-1 group-title="Sports",8
+http://989423234229165392.of529.xyz:80/play/vi0210254/pTHg@YmFYV/165388.ts
+
+#EXTINF:-1 group-title="Sports",9
+http://989423234229165392.of529.xyz:80/play/vi0210254/pTHg@YmFYV/165387.ts
+
+#EXTINF:-1 group-title="Sports",10
+http://989423234229165392.of529.xyz:80/play/vi0210254/pTHg@YmFYV/165386.ts
