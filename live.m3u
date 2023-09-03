@@ -28,8 +28,10 @@ https://pull.lianggexinxi.xyz/live/stream-553852_lhd.flv?auth_key=1693761740-0-0
 https://ab8b015f73be7afff38f332fb2361575.livehwc3.cn/pull06.scstream.net/live/stream-9912016_lhd.m3u8?auth_key=1693761392-0-0-634c65df5d54da696eabb51cef47de45&edge_slice=true&user_session_id=d725e7498dc9235be4d234088e1ff74b&sub_m3u8=true
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/jiz6iruaxep7up8/live2.png" group-title="Live Events",Torino vs Genoa
 https://pull.lianggexinxi.xyz/live/stream-553852_lhd.flv?auth_key=1693761740-0-0-3140c68bbb4c7123d93864ab9668e2d2
-#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/jiz6iruaxep7up8/live2.png" group-title="Live Events",Lyon vs PSG 
-#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/jiz6iruaxep7up8/live2.png" group-title="Live Events",Lyon vs PSG 
+#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/jiz6iruaxep7up8/live2.png" group-title="Live Events",Lyon vs PSG
+https://1123139281.cdn.khmer-hd.com/may3HD/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/jiz6iruaxep7up8/live2.png" group-title="Live Events",Lyon vs PSG
+https://d83e8dc9b3450f5a2962a7b324817603.livehwc3.cn/pull06.scstream.net/live/stream-9911990_lhd.m3u8?auth_key=1693768652-0-0-fb73043d0e6c20fd32fdc43948ed77dc&user_session_id=91db0bc608c11344df1b63270a428e6f&edge_slice=true&sub_m3u8=true
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/jiz6iruaxep7up8/live2.png" group-title="Live Events",Lyon vs PSG 
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/jiz6iruaxep7up8/live2.png" group-title="Live Events",Empoli vs Juventus 
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/jiz6iruaxep7up8/live2.png" group-title="Live Events",Empoli vs Juventus 
@@ -37,7 +39,8 @@ https://pull.lianggexinxi.xyz/live/stream-553852_lhd.flv?auth_key=1693761740-0-0
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/jiz6iruaxep7up8/live2.png" group-title="Live Events",Lecce vs Salernitana 
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/jiz6iruaxep7up8/live2.png" group-title="Live Events",Lecce vs Salernitana 
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/jiz6iruaxep7up8/live2.png" group-title="Live Events",Lecce vs Salernitana 
-#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/jiz6iruaxep7up8/live2.png" group-title="Live Events",Osasuna vs Barcelona 
+#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/jiz6iruaxep7up8/live2.png" group-title="Live Events",Osasuna vs Barcelona
+https://1123139281.cdn.khmer-hd.com/may1HD/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/jiz6iruaxep7up8/live2.png" group-title="Live Events",Osasuna vs Barcelona 
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/jiz6iruaxep7up8/live2.png" group-title="Live Events",Osasuna vs Barcelona 
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/jiz6iruaxep7up8/live2.png" group-title="Live Events",LAFC vs Inter Miami CF 
@@ -856,10 +859,3 @@ http://989423234229165392.of529.xyz:80/play/vi0210254/pTHg@YmFYV/165392.ts
 
 #EXTINF:-1 group-title="Sports",4
 http://989423234229165385.of529.xyz:80/play/vi0210254/pTHg@YmFYV/165385.ts
-
-
-#EXTINF:-1 group-title="Sports",Eleven Sports 1 HD
-http://195.201.61.48:8080/Ahmetozkan/25uVVD7PSz6/142412
-
-#EXTINF:-1 group-title="Sports",Eleven Sports 2 HD
-http://195.201.61.48:8080/Ahmetozkan/25uVVD7PSz6/142413
