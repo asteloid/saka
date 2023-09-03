@@ -33,9 +33,12 @@ https://1123139281.cdn.khmer-hd.com/trauHD/chunks.m3u8
 https://17afc863e4e771f160cb6f614a52fb1c.livehwc3.cn/pull06.scstream.net/live/stream-9912037_lhd.m3u8?user_session_id=af6200b04a01674ed8c1e1c3bea8310b&sub_m3u8=true&auth_key=1693747952-0-0-a1717c82b350260ebbd1003e30775ff1&edge_slice=true
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/jiz6iruaxep7up8/live2.png" group-title="Live Events",Liverpool vs Aston Villa
 https://pull.lianggexinxi.xyz/live/stream-517241_lhd.flv?auth_key=1693748240-0-0-75b1f9e4cca47944ff7ba08c2a594c73
-#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/jiz6iruaxep7up8/live2.png" group-title="Live Events",Frankfurt vs Koln 
-#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/jiz6iruaxep7up8/live2.png" group-title="Live Events",Frankfurt vs Koln 
-#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/jiz6iruaxep7up8/live2.png" group-title="Live Events",Frankfurt vs Koln 
+#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/jiz6iruaxep7up8/live2.png" group-title="Live Events",Frankfurt vs Koln
+https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull06.scstream.net/live/stream-9911989_lhd.m3u8?user_session_id=b77347df86e938b65900e6613a1bfb96&edge_slice=true&sub_m3u8=true&auth_key=1693750652-0-0-76f9ccafe91734feca964f693d06379d
+#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/jiz6iruaxep7up8/live2.png" group-title="Live Events",Frankfurt vs Koln
+https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull06.scstream.net/live/stream-9911989_lhd.m3u8?user_session_id=b77347df86e938b65900e6613a1bfb96&edge_slice=true&sub_m3u8=true&auth_key=1693750652-0-0-76f9ccafe91734feca964f693d06379d
+#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/jiz6iruaxep7up8/live2.png" group-title="Live Events",Frankfurt vs Koln
+https://pull.lianggexinxi.xyz/live/stream-778499_lhd.flv?auth_key=1693750520-0-0-051c326ab5b8b59245e0bb97a2795c5c
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/jiz6iruaxep7up8/live2.png" group-title="Live Events",Mallorca vs Athletic Club 
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/jiz6iruaxep7up8/live2.png" group-title="Live Events",Mallorca vs Athletic Club 
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/jiz6iruaxep7up8/live2.png" group-title="Live Events",Mallorca vs Athletic Club 
@@ -825,21 +828,3 @@ http://989423234229165392.of529.xyz:80/play/vi0210254/pTHg@YmFYV/165392.ts
 
 #EXTINF:-1 group-title="Sports",4
 http://989423234229165385.of529.xyz:80/play/vi0210254/pTHg@YmFYV/165385.ts
-
-#EXTINF:-1 group-title="Sports",5
-http://989423234229165392.of529.xyz:80/play/vi0210254/pTHg@YmFYV/165391.ts
-
-#EXTINF:-1 group-title="Sports",6
-http://989423234229165392.of529.xyz:80/play/vi0210254/pTHg@YmFYV/165390.ts
-
-#EXTINF:-1 group-title="Sports",7
-http://989423234229165392.of529.xyz:80/play/vi0210254/pTHg@YmFYV/165389.ts
-
-#EXTINF:-1 group-title="Sports",8
-http://989423234229165392.of529.xyz:80/play/vi0210254/pTHg@YmFYV/165388.ts
-
-#EXTINF:-1 group-title="Sports",9
-http://989423234229165392.of529.xyz:80/play/vi0210254/pTHg@YmFYV/165387.ts
-
-#EXTINF:-1 group-title="Sports",10
-http://989423234229165392.of529.xyz:80/play/vi0210254/pTHg@YmFYV/165386.ts
