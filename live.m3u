@@ -55,10 +55,19 @@ http://localiptv.site:85/SuperMediaSk/kt5dMH5axtKF/1468
 http://dvag4ile.russtv.net/iptv/2KKRWH284VKAUD/2531/index.m3u8
 
 #EXTINF:-1 group-title="Sports",ELEVEN Sports 1 🇵🇹
+http://dvag4ile.russtv.net/iptv/2KKRWH284VKAUD/19158/index.m3u8
+
+#EXTINF:-1 group-title="Sports",ELEVEN Sports 1 🇵🇹
 http://2615a5d9.edmonst.net/iptv/4PYL58K99PM8FU/2531/index.m3u8
 
 #EXTINF:-1 group-title="Sports",ArenaSport 3 🇭🇷
 http://localiptv.site:85/SuperMediaSk/kt5dMH5axtKF/29072
+
+#EXTINF:-1 group-title="Sports",ArenaSport 3 🇭🇷
+http://dvag4ile.russtv.net/iptv/2KKRWH284VKAUD/7331/index.m3u8
+
+#EXTINF:-1 group-title="Sports",ArenaSport 3 🇭🇷
+http://dvag4ile.russtv.net/iptv/2KKRWH284VKAUD/7265/index.m3u8
 
 #EXTINF:-1 group-title="Sports",ORANGE SPORT 1 🇷🇴
 http://localiptv.site:85/SuperMediaSk/kt5dMH5axtKF/1733
@@ -356,6 +365,12 @@ http://almanya888.com:80/rahmisaylam35/x19112019x/155461
 
 #EXTINF:-1 group-title="Sports",SPORT TV NBA 🇵🇹
 http://almanya888.com:80/rahmisaylam35/x19112019x/155462
+
+#EXTINF:-1 group-title="Sports",Sport TV1 🇵🇹
+http://15.204.217.195/SPORTTV1/index.m3u8
+
+#EXTINF:-1 group-title="Sports",Sport TV2 🇵🇹
+http://15.204.217.195/SPORTTV2/index.m3u8
 
 #EXTINF:-1 group-title="Sports",MAX SPORT 4 🇧🇬
 http://46.10.218.219:8000/play/a05n
