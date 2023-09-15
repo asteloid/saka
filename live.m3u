@@ -1,14 +1,20 @@
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/jiz6iruaxep7up8/live2.png" group-title="Live Events",Bayern Munchen vs Leverkusen
 https://1123139281.cdn.khmer-hd.com/myHD/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/jiz6iruaxep7up8/live2.png" group-title="Live Events",Bayern Munchen vs Leverkusen
-https://1123139281.cdn.khmer-hd.com/myHD/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/jiz6iruaxep7up8/live2.png" group-title="Live Events",Bayern Munchen vs Leverkusen 
+https://pull.niues.live/live/stream-201313_lhd.m3u8?auth_key=1694806722-0-0-e96c12441d0199ce0b4b6249ec42e765
+#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/jiz6iruaxep7up8/live2.png" group-title="Live Events",Bayern Munchen vs Leverkusen
+https://pull.niues.live/live/stream-201313_lhd.m3u8?auth_key=1694806722-0-0-e96c12441d0199ce0b4b6249ec42e765
+#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/jiz6iruaxep7up8/live2.png" group-title="Live Events",Rayo Vallecano vs Deportivo Alaves
+https://pull01.rrwes.live/live/stream-434154_lhd.m3u8?txSecret=8f8ae7550de83aaf000c1ab056d703e2&txTime=6504fab6
+#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/jiz6iruaxep7up8/live2.png" group-title="Live Events",Rayo Vallecano vs Deportivo Alaves
+https://pull01.rrwes.live/live/stream-434154_lhd.m3u8?txSecret=8f8ae7550de83aaf000c1ab056d703e2&txTime=6504fab6
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/jiz6iruaxep7up8/live2.png" group-title="Live Events",Rayo Vallecano vs Deportivo Alaves 
-#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/jiz6iruaxep7up8/live2.png" group-title="Live Events",Rayo Vallecano vs Deportivo Alaves 
-#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/jiz6iruaxep7up8/live2.png" group-title="Live Events",Rayo Vallecano vs Deportivo Alaves 
-#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/jiz6iruaxep7up8/live2.png" group-title="Live Events",PSG  vs Nice  
-#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/jiz6iruaxep7up8/live2.png" group-title="Live Events",PSG  vs Nice  
-#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/jiz6iruaxep7up8/live2.png" group-title="Live Events",PSG  vs Nice  
+#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/jiz6iruaxep7up8/live2.png" group-title="Live Events",PSG  vs Nice 
+https://1123139281.cdn.khmer-hd.com/chaHD/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/jiz6iruaxep7up8/live2.png" group-title="Live Events",PSG  vs Nice 
+https://pull01.rrwes.live/live/stream-9911977_lhd.m3u8?txSecret=f7bd61724e2241dfe544ea2b7f18dfee&txTime=6504fa3e
+#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/jiz6iruaxep7up8/live2.png" group-title="Live Events",PSG  vs Nice 
+https://pull01.rrwes.live/live/stream-9911977_lhd.m3u8?txSecret=f7bd61724e2241dfe544ea2b7f18dfee&txTime=6504fa3e
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/jiz6iruaxep7up8/live2.png" group-title="Live Events",Wolves  vs Liverpool  
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/jiz6iruaxep7up8/live2.png" group-title="Live Events",Wolves  vs Liverpool  
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/jiz6iruaxep7up8/live2.png" group-title="Live Events",Wolves  vs Liverpool  
