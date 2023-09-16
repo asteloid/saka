@@ -1,21 +1,3 @@
-#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/jiz6iruaxep7up8/live2.png" group-title="Live Events",Aston Villa vs Crystal Palace
-https://1123139281.cdn.khmer-hd.com/may3HD/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/jiz6iruaxep7up8/live2.png" group-title="Live Events",Aston Villa vs Crystal Palace
-https://pull01.rrwes.live/live/stream-9911969_lhd.m3u8?txSecret=4b80744866a41d6a748f2ff50c2afb8d&txTime=65060352
-#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/jiz6iruaxep7up8/live2.png" group-title="Live Events",Aston Villa vs Crystal Palace
-https://pull.lianggexinxi.xyz/live/stream-735610_lhd.flv?auth_key=1694875401-0-0-e3ea9fea2afec7ef25da0497218cb4c1
-#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/jiz6iruaxep7up8/live2.png" group-title="Live Events",Tottenham vs Sheff Utd
-https://1123139281.cdn.khmer-hd.com/nenHD/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/jiz6iruaxep7up8/live2.png" group-title="Live Events",Tottenham vs Sheff Utd
-https://pull01.rrwes.live/live/stream-9912052_lhd.m3u8?txSecret=ca7286ff886efd17a067368d592ad35c&txTime=65060442
-#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/jiz6iruaxep7up8/live2.png" group-title="Live Events",Tottenham vs Sheff Utd
-https://pull.lianggexinxi.xyz/live/stream-743404_lhd.flv?auth_key=1694875461-0-0-4ffcdc5c2b40c16fae2a432e4d2fa5f0
-#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/jiz6iruaxep7up8/live2.png" group-title="Live Events",Valencia vs Atletico Madrid
-https://179720687.global.cdnfastest.com/live/hd-en-965mkyh2vjd0r1g/chunklist_w1700028642.m3u8
-#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/jiz6iruaxep7up8/live2.png" group-title="Live Events",Valencia vs Atletico Madrid
-https://pull.niues.live/live/stream-9912004_lhd.m3u8?auth_key=1694876022-0-0-a22eb5110563a8dc380119f9e32b9992
-#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/jiz6iruaxep7up8/live2.png" group-title="Live Events",Valencia vs Atletico Madrid
-https://pull.lianggexinxi.xyz/live/stream-564408_lhd.flv?auth_key=1694875941-0-0-d19a7b8ec6614c46d1308ad42774f65f
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/jiz6iruaxep7up8/live2.png" group-title="Live Events",Rennes vs Lille
 https://179720687.global.cdnfastest.com/live/sd-3glrw7h3v49kqdy/chunklist_w1451071602.m3u8
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/jiz6iruaxep7up8/live2.png" group-title="Live Events",Rennes vs Lille
@@ -28,15 +10,24 @@ https://1123139281.cdn.khmer-hd.com/cuonHD/chunks.m3u8
 https://pull01.rrwes.live/live/stream-201313_lhd.m3u8?txSecret=0bc9b5d816a10269ccaa2427ac81468f&txTime=6506227e
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/jiz6iruaxep7up8/live2.png" group-title="Live Events",Inter vs Milan
 https://pull.lianggexinxi.xyz/live/stream-363344_lhd.flv?auth_key=1694882901-0-0-43e1244e64aa01ec4a12d1b24241c68b
-#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/jiz6iruaxep7up8/live2.png" group-title="Live Events",Vfl Bochum vs Frankfurt 
-#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/jiz6iruaxep7up8/live2.png" group-title="Live Events",Vfl Bochum vs Frankfurt 
-#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/jiz6iruaxep7up8/live2.png" group-title="Live Events",Vfl Bochum vs Frankfurt 
-#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/jiz6iruaxep7up8/live2.png" group-title="Live Events",Celta Vigo vs Mallorca 
-#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/jiz6iruaxep7up8/live2.png" group-title="Live Events",Celta Vigo vs Mallorca 
-#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/jiz6iruaxep7up8/live2.png" group-title="Live Events",Celta Vigo vs Mallorca 
-#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/jiz6iruaxep7up8/live2.png" group-title="Live Events",Newcastle vs Brentford 
-#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/jiz6iruaxep7up8/live2.png" group-title="Live Events",Newcastle vs Brentford 
-#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/jiz6iruaxep7up8/live2.png" group-title="Live Events",Newcastle vs Brentford 
+#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/jiz6iruaxep7up8/live2.png" group-title="Live Events",Vfl Bochum vs Frankfurt
+https://pull.lianggexinxi.xyz/live/stream-789274_lhd.flv?auth_key=1694884281-0-0-50f47df1ce589aad221828896b5ea65d
+#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/jiz6iruaxep7up8/live2.png" group-title="Live Events",Vfl Bochum vs Frankfurt
+https://pull01.rrwes.live/live/stream-379816_lhd.m3u8?txSecret=287c697c500fcac801f1533488f984ff&txTime=65062896
+#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/jiz6iruaxep7up8/live2.png" group-title="Live Events",Vfl Bochum vs Frankfurt
+https://pull.lianggexinxi.xyz/live/stream-789274_lhd.flv?auth_key=1694884281-0-0-50f47df1ce589aad221828896b5ea65d
+#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/jiz6iruaxep7up8/live2.png" group-title="Live Events",Celta Vigo vs Mallorca
+https://pull01.rrwes.live/live/stream-403677_lhd.m3u8?txSecret=2e778a2d688a508bac14c826f9a45800&txTime=650628d2
+#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/jiz6iruaxep7up8/live2.png" group-title="Live Events",Celta Vigo vs Mallorca
+https://pull01.rrwes.live/live/stream-403677_lhd.m3u8?txSecret=2e778a2d688a508bac14c826f9a45800&txTime=650628d2
+#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/jiz6iruaxep7up8/live2.png" group-title="Live Events",Celta Vigo vs Mallorca
+https://pull.lianggexinxi.xyz/live/stream-564408_lhd.flv?auth_key=1694884341-0-0-76ca704d44d4fde8c65cbe827f55d4b0
+#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/jiz6iruaxep7up8/live2.png" group-title="Live Events",Newcastle vs Brentford
+https://1123139281.cdn.khmer-hd.com/may1HD/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/jiz6iruaxep7up8/live2.png" group-title="Live Events",Newcastle vs Brentford
+https://pull.niues.live/live/stream-9912018_lhd.m3u8?auth_key=1694884482-0-0-d9a5489a30a1ba6fc375e4f585aa6500
+#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/jiz6iruaxep7up8/live2.png" group-title="Live Events",Newcastle vs Brentford
+https://pull.lianggexinxi.xyz/live/stream-655865_lhd.flv?auth_key=1694884221-0-0-b2041a05bf65378a73ba3bd7d7bbc7c6
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/jiz6iruaxep7up8/live2.png" group-title="Live Events",Genoa vs Napoli 
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/jiz6iruaxep7up8/live2.png" group-title="Live Events",Genoa vs Napoli 
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/jiz6iruaxep7up8/live2.png" group-title="Live Events",Genoa vs Napoli 
