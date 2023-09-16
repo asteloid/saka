@@ -1,9 +1,3 @@
-#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/jiz6iruaxep7up8/live2.png" group-title="Live Events",Juventus  vs Lazio 
-https://1123139281.cdn.khmer-hd.com/may2HD/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/jiz6iruaxep7up8/live2.png" group-title="Live Events",Juventus  vs Lazio 
-https://pull.niues.live/live/stream-9912006_lhd.m3u8?auth_key=1694871102-0-0-5fd1c9eaeed2da65e91f66cf44f45a10
-#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/jiz6iruaxep7up8/live2.png" group-title="Live Events",Juventus  vs Lazio 
-https://pull.lianggexinxi.xyz/live/stream-561402_lhd.flv?auth_key=1694870841-0-0-b3febb79c3653add6903b1b30e688050
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/jiz6iruaxep7up8/live2.png" group-title="Live Events",Koln  vs Hoffenheim 
 https://179720687.global.cdnfastest.com/live/hd-en-965mkyh26x78r1g/chunklist_w2133232248.m3u8
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/jiz6iruaxep7up8/live2.png" group-title="Live Events",Koln  vs Hoffenheim 
@@ -70,7 +64,8 @@ https://179720687.global.cdnfastest.com/live/hd-en-965mkyh2vjd0r1g/chunklist_w17
 https://pull.niues.live/live/stream-9912004_lhd.m3u8?auth_key=1694876022-0-0-a22eb5110563a8dc380119f9e32b9992
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/jiz6iruaxep7up8/live2.png" group-title="Live Events",Valencia vs Atletico Madrid
 https://pull.lianggexinxi.xyz/live/stream-564408_lhd.flv?auth_key=1694875941-0-0-d19a7b8ec6614c46d1308ad42774f65f
-#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/jiz6iruaxep7up8/live2.png" group-title="Live Events",Rennes vs Lille 
+#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/jiz6iruaxep7up8/live2.png" group-title="Live Events",Rennes vs Lille
+https://179720687.global.cdnfastest.com/live/sd-3glrw7h3v49kqdy/chunklist_w1451071602.m3u8
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/jiz6iruaxep7up8/live2.png" group-title="Live Events",Rennes vs Lille
 https://pull.niues.live/live/stream-9912007_lhd.m3u8?auth_key=1694879082-0-0-78f75474e7cf378f2d3e401858445da7
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/jiz6iruaxep7up8/live2.png" group-title="Live Events",Rennes vs Lille
