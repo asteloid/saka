@@ -28,9 +28,11 @@ https://1123139281.cdn.khmer-hd.com/myHD/chunks.m3u8
 https://pull01.rrwes.live/live/stream-9912043_lhd.m3u8?txSecret=7ae8ea4557cc013219b6cb7b9139e2d3&txTime=6507734a
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/jiz6iruaxep7up8/live2.png" group-title="Live Events",Fiorentina vs Atalanta
 https://pull.lianggexinxi.xyz/live/stream-537790_lhd.flv?auth_key=1694969181-0-0-f1d44592863666280975a44b146233d6
+#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/jiz6iruaxep7up8/live2.png" group-title="Live Events",Sevilla vs Las Palmas
+https://1123139281.cdn.khmer-hd.com/cuonHD/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/jiz6iruaxep7up8/live2.png" group-title="Live Events",Sevilla vs Las Palmas 
-#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/jiz6iruaxep7up8/live2.png" group-title="Live Events",Sevilla vs Las Palmas 
-#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/jiz6iruaxep7up8/live2.png" group-title="Live Events",Sevilla vs Las Palmas 
+#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/jiz6iruaxep7up8/live2.png" group-title="Live Events",Sevilla vs Las Palmas
+https://pull.lianggexinxi.xyz/live/stream-665951_lhd.flv?auth_key=1694969481-0-0-04c76ed586f7044896119ca7292a3bf6
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/jiz6iruaxep7up8/live2.png" group-title="Live Events",Lyon vs Le Havre 
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/jiz6iruaxep7up8/live2.png" group-title="Live Events",Lyon vs Le Havre 
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/jiz6iruaxep7up8/live2.png" group-title="Live Events",Lyon vs Le Havre 
