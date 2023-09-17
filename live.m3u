@@ -1,9 +1,3 @@
-#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/jiz6iruaxep7up8/live2.png" group-title="Live Events",Getafe vs Osasuna
-https://1123139281.cdn.khmer-hd.com/may2HD/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/jiz6iruaxep7up8/live2.png" group-title="Live Events",Getafe vs Osasuna
-https://pull.lianggexinxi.xyz/live/stream-716626_lhd.flv?auth_key=1694954721-0-0-86211211f97345bc4dc10965364fe2f3
-#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/jiz6iruaxep7up8/live2.png" group-title="Live Events",Getafe vs Osasuna
-https://pull.niues.live/live/stream-120778_lhd.m3u8?auth_key=1694953302-0-0-cb551975731b991bcf0e54d2e23b8081
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/jiz6iruaxep7up8/live2.png" group-title="Live Events",Clermont Foot vs Nantes
 https://179720687.global.cdnfastest.com/live/hd-en-dj2ryohez776q1z/chunklist_w177606603.m3u8
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/jiz6iruaxep7up8/live2.png" group-title="Live Events",Clermont Foot vs Nantes
@@ -99,8 +93,14 @@ http://185.188.188.235/live/novasport3/playlist.m3u8
 #EXTINF:-1 group-title="Sports",NOVA SPORT 4 🇸🇰
 http://185.188.188.235/live/novasport4/playlist.m3u8
 
-#EXTINF:-1 group-title="Sports",S LALIGA
-http://157.245.57.114:5000/?id=superlaliga
+#EXTINF:-1 group-title="Sports",Arena Sport 6 🇭🇷
+http://iptvaruba.com:8080/mitrovic/f261dbc5c4/36922
+
+#EXTINF:-1 group-title="Sports",ESPN DEPORTES 🇺🇸
+http://iptvaruba.com:8080/mitrovic/f261dbc5c4/281417
+
+#EXTINF:-1 group-title="Sports",SPILER 2 🇭🇺
+http://iptvaruba.com:8080/mitrovic/f261dbc5c4/77769
 
 #EXTINF:-1 group-title="Sports",Setanta Sports 2 HD 🇷🇺
 https://tv.movielab.pro/943/video.m3u8
@@ -149,9 +149,6 @@ http://84.42.140.147:8890/hdmi
 
 #EXTINF:-1 group-title="Sports",Spiler2 🇭🇺
 http://149.62.183.194:9293/play/a0c4
-
-#EXTINF:-1 group-title="Sports",SPILER 2 🇭🇺
-http://iptvaruba.com:8080/mitrovic/f261dbc5c4/77769
 
 #EXTINF:-1 group-title="Sports",SuperSport LaLiga 🇿🇦
 http://iptvaruba.com:8080/mitrovic/f261dbc5c4/194358
