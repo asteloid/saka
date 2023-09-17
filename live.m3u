@@ -40,7 +40,8 @@ https://179720687.global.cdnfastest.com/live/hd-en-23xmvkhpexdjqg8/chunklist_w66
 https://pull.niues.live/live/stream-342075_lhd.m3u8?auth_key=1694957930-0-0-33b7af36a9e4c450eec0eadd15721e5e
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/jiz6iruaxep7up8/live2.png" group-title="Live Events",Monza vs Lecce
 https://pull.lianggexinxi.xyz/live/stream-617898_lhd.flv?auth_key=1694957121-0-0-b2e5daa093dc75c00e5bdb9c92a5c924
-#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/jiz6iruaxep7up8/live2.png" group-title="Live Events",FC Heidenheim vs Werder Bremen 
+#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/jiz6iruaxep7up8/live2.png" group-title="Live Events",FC Heidenheim vs Werder Bremen
+https://179720687.global.cdnfastest.com/live/sd-k82rekh074vjrep/chunklist_w2112738096.m3u8
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/jiz6iruaxep7up8/live2.png" group-title="Live Events",FC Heidenheim vs Werder Bremen
 https://pull01.rrwes.live/live/stream-9911977_lhd.m3u8?txSecret=e17407d97d5ee234d043a9ee76a72312&txTime=65074eba
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/jiz6iruaxep7up8/live2.png" group-title="Live Events",FC Heidenheim vs Werder Bremen
@@ -104,29 +105,11 @@ https://tv.movielab.pro/943/video.m3u8
 #EXTINF:-1 group-title="Sports",BEIN SPORT 2 🇫🇷
 http://7f5ad5a8.tvclub.xyz/iptv/NGG8FXA8A4FG8S/2500/index.m3u8
 
-#EXTINF:-1 group-title="Sports",BEIN 1 🇶🇦
-https://ir14.footballii.ir/hls2/bein.m3u8
-
-#EXTINF:-1 group-title="Sports",BEIN 1 🇶🇦
-http://116.202.231.21/hls/RedLine_beIN_Sports_1.m3u8
-
-#EXTINF:-1 group-title="Sports",bein sport 2 🇶🇦
-http://116.202.231.21/hls/RedLine_beIN_Sports_2.m3u8
-
 #EXTINF:-1 group-title="Sports",ELEVEN SPORT 1 🇵🇱
 http://ua3.iptv.monster/play/1904/350B326FB34F4B8/video.m3u8
 
 #EXTINF:-1 group-title="Sports",BEIN 3 TRUE VISIONS 🇹🇭
 https://sport.livedoomovies.com:4432/02_epl2_720p/chunklist.m3u8
-
-#EXTINF:-1 group-title="Sports",ESPN DEPORTES 🇺🇸 
-http://likea8bitboss.xyz:80/tquad/6305812479/5935
-
-#EXTINF:-1 group-title="Sports",ESPN DEPORTES 🇺🇸 
-http://hostengine.live/live/willbilly/willbilly/147617.ts
-
-#EXTINF:-1 group-title="Sports",ESPN DEPORTES 🇺🇸 
-http://proiptvdigic.com:8080/3mejinetar/bXk93gWZ3e2L/218745
 
 #EXTINF:-1 group-title="Sports",Sports18 🇮🇳
 http://14.102.123.50:4000/play/a048
