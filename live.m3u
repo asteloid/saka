@@ -1,9 +1,3 @@
-#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/jiz6iruaxep7up8/live2.png" group-title="Live Events",Salernitana vs Torino
-https://1123139281.cdn.khmer-hd.com/may3HD/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/jiz6iruaxep7up8/live2.png" group-title="Live Events",Salernitana vs Torino
-https://pull.niues.live/live/stream-9912042_lhd.m3u8?auth_key=1695057280-0-0-4513331e985a56ca073c0976bd25ba9f
-#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/jiz6iruaxep7up8/live2.png" group-title="Live Events",Salernitana vs Torino
-https://pull.lianggexinxi.xyz/live/stream-570320_lhd.flv?auth_key=1695057382-0-0-cdf414dd9ba618babac537988ceb457b
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/jiz6iruaxep7up8/live2.png" group-title="Live Events",Nottm Forest vs Burnley
 https://1123139281.cdn.khmer-hd.com/may1HD/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/jiz6iruaxep7up8/live2.png" group-title="Live Events",Nottm Forest vs Burnley
@@ -16,9 +10,12 @@ https://1123139281.cdn.khmer-hd.com/oldHD/chunks.m3u8
 https://pull.niues.live/live/stream-9912018_lhd.m3u8?auth_key=1695065260-0-0-06c7cceb13af21284086b7bbdfaa89b7
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/jiz6iruaxep7up8/live2.png" group-title="Live Events",Hellas Verona vs Bologna
 https://pull.lianggexinxi.xyz/live/stream-683087_lhd.flv?auth_key=1695065542-0-0-c82f3601ae291bd9326d584bc024d9ca
-#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/jiz6iruaxep7up8/live2.png" group-title="Live Events",Granada vs Girona 
-#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/jiz6iruaxep7up8/live2.png" group-title="Live Events",Granada vs Girona 
-#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/jiz6iruaxep7up8/live2.png" group-title="Live Events",Granada vs Girona 
+#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/jiz6iruaxep7up8/live2.png" group-title="Live Events",Granada vs Girona
+https://1123139281.cdn.khmer-hd.com/myHD/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/jiz6iruaxep7up8/live2.png" group-title="Live Events",Granada vs Girona
+https://pull.niues.live/live/stream-9912011_lhd.m3u8?auth_key=1695065920-0-0-35d0ddbd350953cd483852e6e4b7ac60
+#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/jiz6iruaxep7up8/live2.png" group-title="Live Events",Granada vs Girona
+https://pull.lianggexinxi.xyz/live/stream-570320_lhd.flv?auth_key=1695065842-0-0-ea0ac2ace323a0cf08a1f8c2a633f8be
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/jiz6iruaxep7up8/live2.png" group-title="Live Events",Milan vs Newcastle 
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/jiz6iruaxep7up8/live2.png" group-title="Live Events",Milan vs Newcastle 
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/jiz6iruaxep7up8/live2.png" group-title="Live Events",Milan vs Newcastle 
