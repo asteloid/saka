@@ -99,13 +99,16 @@ https://dcs-live-uc1.mp.lura.live/server/play/p0d5L5aFqyXYNTGA/rendition.m3u8?tr
 #EXTINF:-1 group-title="Sports",CCTV5 🇨🇳
 https://node1.olelive.com:6443/live/CCTV5HD/hls.m3u8
 
-#EXTINF:-1 group-title="Sports",TNT SPORTS 🇧🇷
-http://45.58.126.146:14341/.ts
+#EXTINF:-1 group-title="Sports",TNT SPORTS 1 🇮🇪
+https://gqgq.fordems.live/live/for-dems1/chunks.m3u8
 
-#EXTINF:-1 group-title="Sports",TNT SPORTS 3 🇧🇷
+#EXTINF:-1 group-title="Sports",TNT SPORTS 1 🇮🇪
+https://spedd2work.realbitsport.com/live/n-1/chunks.m3u8
+
+#EXTINF:-1 group-title="Sports",TNT SPORTS 3 🇮🇪
 https://gqgq.fordems.live/live/for-dems2/chunks.m3u8
 
-#EXTINF:-1 group-title="Sports",TNT SPORTS 3 🇧🇷
+#EXTINF:-1 group-title="Sports",TNT SPORTS 3 🇮🇪
 https://spedd2work.realbitsport.com/live/n-2/chunks.m3u8
 
 #EXTINF:-1 group-title="Sports",NOVA SPORT 4 🇸🇰
