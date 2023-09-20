@@ -7,7 +7,7 @@ https://pull.lianggexinxi.xyz/live/stream-609240_lhd.flv?auth_key=1695222622-0-0
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/jiz6iruaxep7up8/live2.png" group-title="Live Events",Galatasaray vs FC Kobenhavn
 https://1123139281.cdn.khmer-hd.com/chaHD/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/jiz6iruaxep7up8/live2.png" group-title="Live Events",Galatasaray vs FC Kobenhavn
-https://pull01.rrwes.live/live/stream-9912009_lhd.m3u8?txSecret=fe60fe4a04422c4f891cf1c6103151d5&txTime=650b70ec
+https://pull01.rrwes.live/live/stream-9912047_lhd.m3u8?txSecret=a712152b199ed94c77a57d137217e3af&txTime=650b768c
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/jiz6iruaxep7up8/live2.png" group-title="Live Events",Galatasaray vs FC Kobenhavn
 https://pull.lianggexinxi.xyz/live/stream-743404_lhd.flv?auth_key=1695231202-0-0-bb0aca39df7559e53f3b3774a6c3057e
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/jiz6iruaxep7up8/live2.png" group-title="Live Events",Real Madrid vs Union Berlin
@@ -77,6 +77,9 @@ http://bl.uma.media/live/126863/HLS/6866944_4/2/1/playlist.m3u8
 
 #EXTINF:-1 group-title="Sports",МАТЧ Футбол 3 HD 🇷🇺
 http://bl.uma.media/live/126865/HLS/6866944_4/2/1/playlist.m3u8
+
+#EXTINF:-1 group-title="Sports",ALKORA LIVE 🇶🇦
+https://mo3ad@live-global-cdn-v02.afreecatv.com:443/live-stm-11/auth_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.Zle1w-9A0ahnguC5d2StKGJnEujrchnfMueVecF6qX4MGos-8FX9VfKUQago8U82gwUk6uPLfl89T5m1f_81VJomVW984Thw0sKW7mRPaYe9UNZsmxdl_kwhmTVEJOkI
 
 #EXTINF:-1 group-title="Sports",CCTV5 🇨🇳
 https://node1.olelive.com:6443/live/CCTV5HD/hls.m3u8
