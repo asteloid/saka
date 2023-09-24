@@ -63,6 +63,12 @@
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/jiz6iruaxep7up8/live2.png" group-title="Live Events",Empoli vs Inter 
 
 
+#EXTINF:-1 group-title="Sports",SEGUNDA DIVISION 
+http://restream.geniptv.com:8080/TomasArana_always/OJBHdsadsa112/8694
+
+#EXTINF:-1 group-title="Sports",MAX SPORTS 4 🇧🇬
+http://93.155.227.38:555/m3u8/webmtelsport4_web.m3u8
+
 #EXTINF:-1 group-title="Sports",MAX SPORT 4 🇧🇬
 http://iptvaruba.com:8080/mitrovic/f261dbc5c4/16433
 
@@ -177,9 +183,6 @@ http://iptvaruba.com:8080/mitrovic/f261dbc5c4/16433
 #EXTINF:-1 group-title="Sports",MAX SPORT 4 🇧🇬
 http://ua3.iptv.monster/play/6878/350B326FB34F4B8/video.m3u8
 
-#EXTINF:-1 group-title="Sports",MAX SPORTS 4 🇧🇬
-http://93.155.227.38:90/m3u8/webmtelsport4_web.m3u8
-
 #EXTINF:-1 group-title="Sports",ESPN Brasil 🇧🇷
 http://mn.appserv19.xyz:2095/Xplus-1-VSmETvtBbb/AJjywwOynA/131
 
@@ -277,7 +280,16 @@ http://176.119.29.17:8080/play/hls/Nm9sUDMyNHFCTUFjUzBrOlh1OEp5MGpoMldwQjQxRjowM
 http://smartsistem.xyz:8080/emreaydin/YxTAxcdvC2/8
 
 #EXTINF:-1 group-title="Sports",beIN SPORTS 1 HD 🇶🇦
-https://mo3ad@stream.ayas.ir/hls2/bein1.m3u8
+https://stream.ayas.ir/hls2/bein1.m3u8
+
+#EXTINF:-1 group-title="Sports",beIN SPORTS 2 HD 🇶🇦
+https://stream.ayas.ir/hls2/bein2.m3u8
+
+#EXTINF:-1 group-title="Sports",beIN SPORTS 3 HD 🇶🇦
+https://stream.ayas.ir/hls2/bein3.m3u8
+
+#EXTINF:-1 group-title="Sports",beIN SPORTS 4 HD 🇶🇦
+https://stream.ayas.ir/hls2/bein4.m3u8
 
 #EXTINF:-1 group-title="Sports",beIN SPORTS 3 HD 🇶🇦
 http://vzagut73.megogo.xyz/iptv/5WS4WSUFCCHGQF/6124/index.m3u8
@@ -305,6 +317,21 @@ https://Pericopalotes135@directes-tv-cat.ccma.cat/live-origin/tv3-hls/master.m3u
 
 #EXTINF:-1 group-title="Sports",EUROSPORT 🇪🇸
 http://SigueSoñandoPericopalotes135@185.188.188.235/live/eurosport/playlist.m3u8
+
+#EXTINF:-1 group-title="Sports",ESPN HD 🇦🇷
+http://170.254.172.10:8000/play/a07z/index.m3u8
+
+#EXTINF:-1 group-title="Sports",ESPN 2 HD 🇦🇷
+http://170.254.172.10:8000/play/a081/index.m3u8
+
+#EXTINF:-1 group-title="Sports",ESPN 3 HD 🇦🇷
+http://170.254.172.10:8000/play/a080/index.m3u8
+
+#EXTINF:-1 group-title="Sports",ESPN 4 HD 🇦🇷
+http://170.254.172.10:8000/play/a07a/index.m3u8
+
+#EXTINF:-1 group-title="Sports",ESPN EXTRA 🇦🇷
+http://170.254.172.10:8000/play/a03r/index.m3u8
 
 #EXTINF:-1 group-title="Sports",ESPN HD 🇦🇷
 http://190.90.251.18:8000/play/a009
@@ -435,6 +462,9 @@ http://eu-ams.bestvideostreaming.is/8797/index.m3u8
 #EXTINF:-1 group-title="Sports",OVERSPORT 2 🇦🇱
 http://eu-ams.bestvideostreaming.is/8798/index.m3u8
 
+#EXTINF:-1 group-title="Sports", SUPERSPORT VARIETY 1 🇿🇦
+http://176.119.29.17:8080/play/hls/WjBFOGxkOTY0YUZEdVZlOk1ENEVmYTA5Q3Iyazh1RzowMDFBNzlBOUIyQkI6VTFNZ1ZtRnlhV1YwZVNBeDozNQ==/7cc28bb7-f165-4e2f-ac4e-640e58c39d7d.m3u8
+
 #EXTINF:-1 group-title="Sports",L'EQUIPE 🇫🇷
 https://d3awaj0f2u3w26.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-gy7euubgydp20-ssai-prd/8fd3efae-4468-4ca0-9486-c6cdcb7b65d7/2.m3u8
 
@@ -494,6 +524,36 @@ http://185.244.240.33:8000/play/a01s
 
 #EXTINF:-1 group-title="Sports",Nova Sport GS 🇷🇸
 http://185.244.240.33:8000/play/a01e
+
+#EXTINF:-1 group-title="Sports",ArenaEsport HD
+http://176.104.105.86:1975/play/a0ox
+
+#EXTINF:-1 group-title="Sports",Arena Sport 1 HD
+http://176.104.105.86:1975/play/a0ly
+
+#EXTINF:-1 group-title="Sports",Arena Sport 2 HD
+http://176.104.105.86:1975/play/a0mf
+
+#EXTINF:-1 group-title="Sports",Arena Sport 4 HD
+http://176.104.105.86:1975/play/a0pn
+
+#EXTINF:-1 group-title="Sports",Arena Sport 7 HD
+http://176.104.105.86:1975/play/a0oc
+
+#EXTINF:-1 group-title="Sports",Arena Sport 8 HD
+http://178.220.140.13:4002/play/a07r
+
+#EXTINF:-1 group-title="Sports",Arena Sport 8 HD
+http://176.104.105.86:1975/play/a0nw
+
+#EXTINF:-1 group-title="Sports",Arena Premium 1 HD
+http://176.104.105.86:1975/play/a0pk
+
+#EXTINF:-1 group-title="Sports",Arena Premium 2 HD
+http://176.104.105.86:1975/play/a0pl
+
+#EXTINF:-1 group-title="Sports",Arena Premium 3 HD
+http://176.104.105.86:1975/play/a0pm
 
 #EXTINF:-1 group-title="Sports",Arena 2 HD 🇧🇦
 http://94.250.2.6:7374/play/a02n/index.m3u8
@@ -622,16 +682,16 @@ http://149.62.183.194:9293/play/a09b
 http://149.62.183.194:9293/play/a0c4
 
 #EXTINF:-1 group-title="Sports",MAX SPORTS 1 🇧🇬
-http://93.155.227.38:90/m3u8/webmtelsport_web.m3u8
+http://93.155.227.38:555/m3u8/webmtelsport1_web.m3u8
 
 #EXTINF:-1 group-title="Sports",MAX SPORTS 2 🇧🇬
-http://93.155.227.38:90/m3u8/webmtelsport2_web.m3u8
+http://93.155.227.38:555/m3u8/webmtelsport2_web.m3u8
 
 #EXTINF:-1 group-title="Sports",MAX SPORTS 3 🇧🇬
-http://93.155.227.38:90/m3u8/webmtelsport3_web.m3u8
+http://93.155.227.38:555/m3u8/webmtelsport3_web.m3u8
 
 #EXTINF:-1 group-title="Sports",MAX SPORTS 4 🇧🇬
-http://93.155.227.38:90/m3u8/webmtelsport4_web.m3u8
+http://93.155.227.38:555/m3u8/webmtelsport4_web.m3u8
 
 #EXTINF:-1 group-title="Sports",MAX Sport 1 🇧🇬
 http://83.228.75.166:8000/play/a0be
@@ -722,6 +782,21 @@ http://iptv.prosto.tv:7000/ch109/video.m3u8
 
 #EXTINF:-1 group-title="Sports",Viju+ Sport 🇷🇺
 https://bl.uma.media/live/485548/HLS/4614144_3,2883584/2/1/playlist.m3u8
+
+#EXTINF:-1 ,VIJU Sport 🇦🇲
+http://31.146.176.94/viasatsport/mpegts
+
+#EXTINF:-1 ,Setanta Sport 1 🇦🇲
+http://31.146.176.94/setanta1/index.m3u8
+
+#EXTINF:-1 ,Setanta Sport 2 🇦🇲
+http://31.146.176.94/setanta2/index.m3u8
+
+#EXTINF:-1 ,Setanta Sport 3 🇦🇲
+http://31.146.176.94/setanta3/mpegts
+
+#EXTINF:-1 group-title="Sports",Fast sports 🇦🇲
+http://91.196.39.252:4000/play/a01f
 
 #EXTINF:-1 group-title="Sports",BELARUS 5 🇧🇾
 http://82.209.197.187:8080/udp/239.0.100.9:1234
