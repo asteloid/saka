@@ -63,38 +63,14 @@
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/jiz6iruaxep7up8/live2.png" group-title="Live Events",Empoli vs Inter 
 
 
-#EXTINF:-1 group-title="Sports",SEGUNDA
-http://proiptvdigic.com:8080/nacho65543/ZtQMBNtvykAK/219987
-
-#EXTINF:-1 group-title="Sports",SEGUNDA
-http://proiptvdigic.com:8080/nacho65543/ZtQMBNtvykAK/219988
-
-#EXTINF:-1 group-title="Sports",SEGUNDA
-http://clubberprosstl.tech:8080/12/12/272481
-
-#EXTINF:-1 group-title="Sports",MATH 🇷🇺
-https://bl.uma.media/live/312119/HLS/4614144_3/2/1/playlist.m3u8
-
-#EXTINF:-1 group-title="Sports",МАТЧ Футбол 1 HD 🇷🇺
-http://bl.uma.media/live/126863/HLS/6866944_4/2/1/playlist.m3u8
-
-#EXTINF:-1 group-title="Sports",МАТЧ Футбол 2 HD 🇷🇺
-http://bl.uma.media/live/126864/HLS/6866944_4/2/1/playlist.m3u8
-
-#EXTINF:-1 group-title="Sports",МАТЧ Футбол 3 HD 🇷🇺
-http://bl.uma.media/live/126865/HLS/6866944_4/2/1/playlist.m3u8
-
-#EXTINF:-1 group-title="Sports",ELEVEN SPORTS 1 HD 🇵🇹
-http://cdn.rtyh.xyz:80/IanSomma/Somma1982/77961
-
 #EXTINF:-1 group-title="Sports",MAX SPORTS 4 🇧🇬
 http://93.155.227.38:555/m3u8/webmtelsport4_web.m3u8
 
-#EXTINF:-1 group-title="Sports",NOVA SPORT 3 🇸🇰
-http://185.188.188.235/live/novasport3/playlist.m3u8
-
 #EXTINF:-1 group-title="Sports",NOVA SPORT 4 🇸🇰
 http://185.188.188.235/live/novasport4/playlist.m3u8
+
+#EXTINF:-1 group-title="Sports",NOVA SPORT 3 🇸🇰
+http://185.188.188.235/live/novasport3/playlist.m3u8
 
 #EXTINF:-1 group-title="Sports",SPILER 2 🇭🇺
 http://149.62.183.194:9293/play/a0c8
@@ -1217,6 +1193,15 @@ http://proiptvdigic.com:8080/nacho65543/ZtQMBNtvykAK/219985
 
 #EXTINF:-1 group-title="Sports",SEGUNDA
 http://proiptvdigic.com:8080/nacho65543/ZtQMBNtvykAK/219986
+
+#EXTINF:-1 group-title="Sports",SEGUNDA
+http://proiptvdigic.com:8080/nacho65543/ZtQMBNtvykAK/219987
+
+#EXTINF:-1 group-title="Sports",SEGUNDA
+http://proiptvdigic.com:8080/nacho65543/ZtQMBNtvykAK/219988
+
+#EXTINF:-1 group-title="Sports",SEGUNDA
+http://clubberprosstl.tech:8080/12/12/272481
 
 #EXTINF:-1 group-title="Sports",1
 http://989423234229262413.of529.xyz:80/play/vi0210254/pTHg@YmFYV/262413.ts
