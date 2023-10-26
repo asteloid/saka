@@ -237,6 +237,15 @@ http://190.61.43.117:45000/play/a06w
 #EXTINF:-1 group-title="Sports",ESPN EXTRA HD 🇦🇷
 http://190.61.43.117:45000/play/a01v
 
+#EXTINF:-1 group-title="Sports",ESPN 🇦🇷
+http://45.5.151.151:8000/play/a0bq/index.m3u8
+
+#EXTINF:-1 group-title="Sports",ESPN 3 🇦🇷
+http://45.5.151.151:8000/play/a02e/index.m3u8
+
+#EXTINF:-1 group-title="Sports",ESPN Premium HD 🇦🇷
+http://45.5.151.151:8000/play/a001/index.m3u8
+
 #EXTINF:-1 group-title="Sports",Fox Sports 1 HD 🇦🇷
 http://190.108.85.20:9999/play/a011
 
@@ -564,14 +573,8 @@ https://glxlmn026c.singularcdn.net.br/playout_02/playlist-720p.m3u8
 #EXTINF:-1 group-title="Sports",TIGO SPORTS 🇨🇷
 https://linear-556.frequency.stream/dist/vix/556/hls/master/playlist.m3u8
 
-#EXTINF:-1 group-title="Sports",TIGO SPORTS 🇨🇷
-http://38.7.131.2:8000/play/a0eo/index.m3u8
-
 #EXTINF:-1 group-title="Sports",WOW TV EL SALVADOR 🇸🇻
 https://cdn.elsalvadordigital.com:1936/wowtv/smil:wowtv.smil/playlist.m3u8
-
-#EXTINF:-1 group-title="Sports",SWISS SPORT TV 🇨🇭
-https://cdn02.upstream-cloud.ch/sstvlinear/ngrp:sstvlinear_all/chunklist_w1922077967_b2628000.m3u8
 
 #EXTINF:-1 group-title="Sports",ARMENIA TV 🇦🇲
 http://ott-cdn.ucom.am/s4/04.m3u8
@@ -597,9 +600,6 @@ https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/arriadia/hls_snrt/arriad
 #EXTINF:-1 group-title="Sports",SPORT ARAB 🇸🇦
 https://mo3ad@admdn1.cdn.mgmlcdn.com:443/adsports1/smil:adsports1.stream.smil/chunklist_b4000000_t64MTA4MHA=.m3u8
 
-#EXTINF:-1 group-title="Sports",AIO SPORT HD 🇸🇦
-https://af.ayas.ir/hls2/aiosport.m3u8
-
 #EXTINF:-1 group-title="Sports",AIO SPORT 2HD 🇸🇦
 https://af.ayas.ir/hls2/aiosport2.m3u8
 
@@ -608,12 +608,6 @@ https://admdn1.cdn.mangomolo.com/adsports1/smil:adsports1.stream.smil/playlist.m
 
 #EXTINF:-1 group-title="Sports",YAS 🇸🇦
 https://admdn1.cdn.mangomolo.com/yastv/smil:yastv.stream.smil/playlist.m3u8
-
-#EXTINF:-1 group-title="Sports",Aysh Sport 🇮🇷
-https://stream.live12.ir/hls2/persiana.m3u8
-
-#EXTINF:-1 group-title="Sports",Persiana Sports HD 🇮🇷
-https://af.ayas.ir/hls2/persiana.m3u8
 
 #EXTINF:-1 group-title="Sports",TELETRAK 🇨🇱
 http://unlimited6-cl.dps.live/sportinghd/sportinghd.smil/playlist.m3u8
@@ -626,9 +620,6 @@ https://5cf4a2c2512a2.streamlock.net/dgrau/dgrau/chunklist.m3u8
 
 #EXTINF:-1 group-title="Sports",ATG1 🇸🇪
 https://httpcache0-00688-cacheliveedge0.dna.qbrick.com/00688-cacheliveedge0/out/u/atg_sdi_1_free_3.m3u8
-
-#EXTINF:-1 group-title="Sports",TENNIS CHANNEL 🇬🇧
-http://likea8bitboss.xyz:80/tquad/6305812479/316514
 
 #EXTINF:-1 group-title="Sports",TENNIS CHANNEL INTERNACIONAL 1 🇬🇧
 https://tennischannel-intl-samsung-uk.amagi.tv/playlist720_p.m3u8
@@ -655,8 +646,7 @@ https://1123139281.cdn.khmer-hd.com/may2HD/chunks.m3u8
 https://1123139281.cdn.khmer-hd.com/may3HD/chunks.m3u8
 
 
-#EXTINF:-1 group-title="Sports",TUDN 🇺🇸
-https://dcs-live-uc1.mp.lura.live/server/play/p0d5L5aFqyXYNTGA/rendition.m3u8?track=video-0&anvsid=m177626908-n9a67649a447c84b4ffdf2ca9d434d104&ts=1695138655&anvtrid=4c15138b74ac39fc88f272421343a554
+
 
 #EXTINF:-1 group-title="Sports",NOVA SPORT 3 🇸🇰
 http://185.188.188.235/live/novasport3/playlist.m3u8
@@ -682,35 +672,11 @@ http://15.235.15.232:8081/SPAIN%7CLIGADECAMPR/SPAIN%7CLIGADECAMPR/playlist.m3u8
 #EXTINF:-1 group-title="Sports",CCTV5 🇨🇳
 https://node1.olelive.com:6443/live/CCTV5HD/hls.m3u8
 
-#EXTINF:-1 group-title="Sports",TNT SPORTS 1 🇮🇪
-https://gqgq.fordems.live/live/for-dems1/chunks.m3u8
-
-#EXTINF:-1 group-title="Sports",TNT SPORTS 1 🇮🇪
-https://spedd2work.realbitsport.com/live/n-1/chunks.m3u8
-
-#EXTINF:-1 group-title="Sports",TNT SPORTS 1 🇮🇪
-https://Pericopalotes135@spedd2work.realbitsport.com/live/n-5/chunks.m3u8
-
-#EXTINF:-1 group-title="Sports",TNT SPORTS 3 🇮🇪
-https://gqgq.fordems.live/live/for-dems2/chunks.m3u8
-
-#EXTINF:-1 group-title="Sports",TNT SPORTS 3 🇮🇪
-https://spedd2work.realbitsport.com/live/n-2/chunks.m3u8
-
-#EXTINF:-1 group-title="Sports",BEIN 3 🇶🇦
-https://mo3ad@cdn2.livehd720.com/hlsbeinp3/bein/playlist.m3u8
-
-#EXTINF:-1 group-title="Sports",S MAXIMO 🇿🇦
-https://Pericopalotes135@spedd2work.realbitsport.com/live/n-6/chunks.m3u8
-
 #EXTINF:-1 group-title="Sports",NOVA SPORT 4 🇸🇰
 http://185.188.188.235/live/novasport4/playlist.m3u8
 
 #EXTINF:-1 group-title="Sports",HRT 2 🇭🇷
 http://195.29.70.84/PLTV/88888888/224/3221226140/04.m3u8
-
-#EXTINF:-1 group-title="Sports",HRT 2 🇭🇷
-http://37.18.239.37:8000/play/a00g/index.m3u8
 
 #EXTINF:-1 group-title="Sports",TV MAX 🇵🇦 
 https://bcovlive-a.akamaihd.net/474b6caf58f8407fb1d1cc1ef64f50ff/us-west-2/6058004209001/profile_0/chunklist_dvr.m3u8?
@@ -777,12 +743,3 @@ http://989423234229165392.of529.xyz:80/play/vi0210254/pTHg@YmFYV/165392.ts
 
 #EXTINF:-1 group-title="Sports",4
 http://989423234229165385.of529.xyz:80/play/vi0210254/pTHg@YmFYV/165385.ts
-
-#EXTINF:-1 group-title="Sports",ESPN 🇦🇷
-http://45.5.151.151:8000/play/a0bq/index.m3u8
-
-#EXTINF:-1 group-title="Sports",ESPN 3 🇦🇷
-http://45.5.151.151:8000/play/a02e/index.m3u8
-
-#EXTINF:-1 group-title="Sports",ESPN Premium HD 🇦🇷
-http://45.5.151.151:8000/play/a001/index.m3u8
