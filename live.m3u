@@ -63,23 +63,11 @@
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/jiz6iruaxep7up8/live2.png" group-title="Live Events",Empoli vs Inter 
 
 
-#EXTINF:-1 group-title="Sports",NOVA SPORT 3 🇸🇰
-http://185.188.188.235/live/novasport3/playlist.m3u8
+#EXTINF:-1 group-title="Sports",Arena Sport 3 HD 🇷🇸
+http://93.155.227.38:90/m3u8/arenasport3.m3u8
 
-#EXTINF:-1 group-title="Sports",МАТЧ Футбол 2 HD 🇷🇺
-http://bl.uma.media/live/126864/HLS/6866944_4/2/1/playlist.m3u8
-
-#EXTINF:-1 group-title="Sports",MAX SPORTS 4 🇧🇬
-http://93.155.227.38:555/m3u8/webmtelsport4_web.m3u8
-
-#EXTINF:-1 group-title="Sports",MATH 🇷🇺
-https://bl.uma.media/live/312119/HLS/4614144_3/2/1/playlist.m3u8
-
-#EXTINF:-1 group-title="Sports",МАТЧ Футбол 1 HD 🇷🇺
-http://bl.uma.media/live/126863/HLS/6866944_4/2/1/playlist.m3u8
-
-#EXTINF:-1 group-title="Sports",МАТЧ Футбол 3 HD 🇷🇺
-http://bl.uma.media/live/126865/HLS/6866944_4/2/1/playlist.m3u8
+#EXTINF:-1 group-title="Sports",Directv sport 🇺🇾
+http://51.158.36.9:8080/26septiembre/26septiembre/423445
 
 #EXTINF:-1 group-title="Sports",SEGUNDA 1 
 http://panthercanary.com:8080/santitvtrial/TWwcpTX9b2Uz/402
@@ -95,6 +83,18 @@ http://185.188.188.235/live/novasport3/playlist.m3u8
 
 #EXTINF:-1 group-title="Sports",SPILER 2 🇭🇺
 http://149.62.183.194:9293/play/a0c8
+
+#EXTINF:-1 group-title="Sports",LALIGA TV 🇬🇧
+http://linkhd.top:80/Luiscesar457347/2679435/144048
+
+#EXTINF:-1 group-title="Sports",LALIGA DAZN 🇪🇸
+http://linkhd.top:80/Luiscesar457347/2679435/144049
+
+#EXTINF:-1 group-title="Sports",LIGAS MUNDIALES 🇧🇷
+http://linkhd.top:80/Luiscesar457347/2679435/160238
+
+#EXTINF:-1 group-title="Sports",S SPORT 1 HD 🇹🇷
+http://smartsistem.xyz:8080/emreaydin/YxTAxcdvC2/24
 
 #EXTINF:-1 group-title="Sports",Premier sport 1 🇸🇰
 http://185.188.188.235/live/premiersport/playlist.m3u8
@@ -162,6 +162,21 @@ https://tv.movielab.pro/942/video.m3u8
 #EXTINF:-1 group-title="Sports",Setanta Sports 2 HD 🇷🇺
 https://tv.movielab.pro/943/video.m3u8
 
+#EXTINF:-1 group-title="Sports",Setanta Ukraine + HD 🇺🇦
+http://194.33.181.28:9010/udp/238.255.51.33:1234
+
+#EXTINF:-1 group-title="Sports",Setanta_1
+http://95.216.6.244:8000/play/a013/index.m3u8
+
+#EXTINF:-1 group-title="Sports",Setanta_Sports_1_HD
+http://95.216.6.244:8000/play/a001/index.m3u8
+
+#EXTINF:-1 group-title="Sports",Setanta_Sports_2_HD
+http://95.216.6.244:8000/play/a003/index.m3u8
+
+#EXTINF:-1 group-title="Sports",Setanta_Sports_Ukraine
+http://95.216.6.244:8000/play/a005/index.m3u8
+
 #EXTINF:-1 group-title="Sports",Беларусь 5 🇧🇾
 http://82.209.197.187:8080/udp/239.0.100.9:1234
 
@@ -185,6 +200,27 @@ https://stream.ayas.ir/hls2/bein4.m3u8
 
 #EXTINF:-1 group-title="Sports",BEIN SPORT LIVE 🇶🇦
 http://mmn.mypsx.net:1935/live/mmnhdsport/chunklist.m3u8
+
+#EXTINF:-1 group-title="Sports",NOVA SPORT 1 🇨🇿
+http://91.237.170.206:43210/channel/2a497e91/index.m3u8?q=1696530240920
+
+#EXTINF:-1 group-title="Sports",NOVA SPORT 2 🇨🇿
+http://91.237.170.206:43210/channel/2a497e92/index.m3u8?q=1696530240920
+
+#EXTINF:-1 group-title="Sports",SPORT 1 🇨🇿
+http://91.237.170.206:43210/channel/n7722e17b/index.m3u8?q=1696530240920
+
+#EXTINF:-1 group-title="Sports",SPORT 2 🇨🇿
+http://91.237.170.206:43210/channel/n7722e17a/index.m3u8?q=1696530240920
+
+#EXTINF:-1 group-title="Sports",TNT SPORTS 1 🇮🇪 
+https://chop.fordems.live/hls/for-1.m3u8
+
+#EXTINF:-1 group-title="Sports",TNT SPORTS 2 🇮🇪 
+https://chop.fordems.live/hls/for-4.m3u8
+
+#EXTINF:-1 group-title="Sports",TNT SPORTS 4 🇮🇪 
+https://chop.fordems.live/hls/for-2.m3u8
 
 #EXTINF:-1 group-title="Sports",TV3 🇪🇸
 https://Pericopalotes135@directes-tv-cat.ccma.cat/live-origin/tv3-hls/master.m3u8
@@ -1009,11 +1045,8 @@ http://bl.uma.media/live/126864/HLS/6866944_4/2/1/playlist.m3u8
 #EXTINF:-1 group-title="Sports",МАТЧ Футбол 3 HD 🇷🇺
 http://bl.uma.media/live/126865/HLS/6866944_4/2/1/playlist.m3u8
 
-#EXTINF:-1 group-title="Sports",ALKORA LIVE 🇶🇦
-https://mo3ad@live-global-cdn-v02.afreecatv.com:443/live-stm-11/auth_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.Zle1w-9A0ahnguC5d2StKGJnEujrchnfMueVecF6qX4MGos-8FX9VfKUQago8U82gwUk6uPLfl89T5m1f_81VJomVW984Thw0sKW7mRPaYe9UNZsmxdl_kwhmTVEJOkI
-
-#EXTINF:-1 group-title="Sports",TNT SPORTS 1 🇮🇪
-https://prod-ec-us-west-1.video.pscp.tv/Transcoding/v1/hls/CGJ6dewfpSv-_raJHWdgDaZTYJok2w3L-vLcmA3-H_ob0jjFLxbgx-UiU4QMcbGOCfLju6S-jABDrecpHaM0Dw/non_transcode/us-west-1/periscope-replay-direct-prod-us-west-1-public/tw_master_dynamic_highlatency.m3u8?type=live
+#EXTINF:-1 group-title="Sports",М LIGA CAMPEONES 🇪🇸
+http://15.235.15.232:8081/SPAIN%7CLIGADECAMPR/SPAIN%7CLIGADECAMPR/playlist.m3u8
 
 #EXTINF:-1 group-title="Sports",CCTV5 🇨🇳
 https://node1.olelive.com:6443/live/CCTV5HD/hls.m3u8
@@ -1053,14 +1086,6 @@ https://bcovlive-a.akamaihd.net/474b6caf58f8407fb1d1cc1ef64f50ff/us-west-2/60580
 
 
 
-#EXTINF:-1 group-title="Sports",ARENA SPORT 1 🇭🇷
-http://185.82.108.21:4646/live/ab2/ba2/93.ts
-
-#EXTINF:-1 group-title="Sports",ARENA SPORT 2 🇭🇷
-http://185.82.108.21:4646/live/ab2/ba2/94.ts
-
-#EXTINF:-1 group-title="Sports",Arena Sport 4 🇧🇦
-http://94.250.2.6:7374/play/a012/index.m3u8
 
 #EXTINF:-1 group-title="Sports",ARENA SPORT 1 🇭🇷
 http://80.252.37.194:5000/udp/233.233.233.3:12000
@@ -1071,53 +1096,8 @@ http://rhsbjv7k.tvclub.xyz/iptv/MXUV9GU7KLRNNN/7263/index.m3u8
 #EXTINF:-1 group-title="Sports",ARENA SPORT 5 🇷🇸
 http://80.252.37.194:5000/udp/233.233.233.7:12000
 
-#EXTINF:-1 group-title="Sports",DirecTV Sports 🇦🇷
-http://104.37.187.234:8080/XB21cLxBT4/kdeojk2vDM/15614
-
-#EXTINF:-1 group-title="Sports",Directv Sports HD 🇦🇷
-http://181.177.255.253:8000/play/a075/index.m3u8
-
-#EXTINF:-1 group-title="Sports",Directv Sports 2 HD 🇦🇷
-http://181.177.255.253:8000/play/a076/index.m3u8
-
-#EXTINF:-1 group-title="Sports",Directv Sports + HD 🇦🇷
-http://181.177.255.253:8000/play/a078/index.m3u8
-
-#EXTINF:-1 group-title="Sports",ArenaSport 3 🇭🇷
-https://kusnadipepenk.github.io/ntn/arns3.m3u8
-
-#EXTINF:-1 group-title="Sports",ELEVEN Sports 1 🇵🇹
-https://kusnadipepenk.github.io/ntn/ele1.m3u8
-
 #EXTINF:-1 group-title="Sports",ELEVEN Sports 1 🇵🇹
 http://2615a5d9.edmonst.net/iptv/4PYL58K99PM8FU/2531/index.m3u8
-
-#EXTINF:-1 group-title="Sports",ELEVEN Sports 1 🇵🇹
-http://dvag4ile.russtv.net/iptv/2KKRWH284VKAUD/2531/index.m3u8
-
-#EXTINF:-1 group-title="Sports",ELEVEN Sports 1 🇵🇹
-http://dvag4ile.russtv.net/iptv/2KKRWH284VKAUD/19158/index.m3u8
-
-#EXTINF:-1 group-title="Sports",ArenaSport 3 🇭🇷
-http://dvag4ile.russtv.net/iptv/2KKRWH284VKAUD/7331/index.m3u8
-
-#EXTINF:-1 group-title="Sports",ArenaSport 3 🇭🇷
-http://dvag4ile.russtv.net/iptv/2KKRWH284VKAUD/7265/index.m3u8
-
-#EXTINF:-1 group-title="Sports",DIRECTV SPORTS 🇦🇷
-http://playhispano.org:8080/RolaM/TZRfjE6xGN/79660
-
-#EXTINF:-1 group-title="Sports",DIRECTV SPORTS Ecuador 🇪🇨
-http://playhispano.org:8080/RolaM/TZRfjE6xGN/131149
-
-#EXTINF:-1 group-title="Sports",DIRECTV SPORTS Colombia 🇨🇴
-http://playhispano.org:8080/RolaM/TZRfjE6xGN/125780
-
-#EXTINF:-1 group-title="Sports",DIRECTV SPORTS Uruguay 🇺🇾
-http://playhispano.org:8080/RolaM/TZRfjE6xGN/215535
-
-#EXTINF:-1 group-title="Sports",DIRECTV SPORTS Chile 🇨🇱
-http://playhispano.org:8080/RolaM/TZRfjE6xGN/86584
 
 #EXTINF:-1 group-title="Sports",SEGUNDA
 http://proiptvdigic.com:8080/nacho65543/ZtQMBNtvykAK/218261
@@ -1166,3 +1146,12 @@ http://989423234229165392.of529.xyz:80/play/vi0210254/pTHg@YmFYV/165392.ts
 
 #EXTINF:-1 group-title="Sports",4
 http://989423234229165385.of529.xyz:80/play/vi0210254/pTHg@YmFYV/165385.ts
+
+#EXTINF:-1 group-title="Sports",ESPN 🇦🇷
+http://45.5.151.151:8000/play/a0bq/index.m3u8
+
+#EXTINF:-1 group-title="Sports",ESPN 3 🇦🇷
+http://45.5.151.151:8000/play/a02e/index.m3u8
+
+#EXTINF:-1 group-title="Sports",ESPN Premium HD 🇦🇷
+http://45.5.151.151:8000/play/a001/index.m3u8
