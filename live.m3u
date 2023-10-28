@@ -63,11 +63,14 @@
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/jiz6iruaxep7up8/live2.png" group-title="Live Events",Empoli vs Inter 
 
 
+#EXTINF:-1 group-title="Sports",MAX SPORTS 4 🇧🇬
+http://93.155.227.38:555/m3u8/webmtelsport4_web.m3u8
+
 #EXTINF:-1 group-title="Sports",NOVA SPORT 3 🇸🇰
 http://185.188.188.235/live/novasport3/playlist.m3u8
 
-#EXTINF:-1 group-title="Sports",MAX SPORTS 4 🇧🇬
-http://93.155.227.38:555/m3u8/webmtelsport4_web.m3u8
+#EXTINF:-1 group-title="Sports",NOVA SPORT 4 🇸🇰
+http://185.188.188.235/live/novasport4/playlist.m3u8
 
 #EXTINF:-1 group-title="Sports",Primetel2 🇨🇾
 http://95.214.235.32:557/play/primetel2
@@ -77,15 +80,6 @@ http://95.214.235.32:557/play/a005
 
 #EXTINF:-1 group-title="Sports",Eleven 1 HD 🇵🇹
 http://92.114.85.99:8000/play/a00n
-
-#EXTINF:-1 group-title="Sports",CANAL+ PREMIUM HD 🇵🇱
-http://45.65.112.49:8000/play/a03h
-
-#EXTINF:-1 group-title="Sports",Eleven Sports 1 HD 🇵🇱
-http://45.65.112.49:8000/play/a05d
-
-#EXTINF:-1 group-title="Sports",NOVA SPORT 4 🇸🇰
-http://185.188.188.235/live/novasport4/playlist.m3u8
 
 #EXTINF:-1 group-title="Sports",beIN SPORTS 3 HD 🇶🇦
 http://vzagut73.megogo.xyz/iptv/5WS4WSUFCCHGQF/6124/index.m3u8
@@ -97,19 +91,10 @@ http://149.62.183.194:9293/play/a0c4
 http://149.62.183.194:9293/play/a0c8
 
 #EXTINF:-1 group-title="Sports",LALIGA TV 🇬🇧
-http://linkhd.top:80/Luiscesar457347/2679435/144048
-
-#EXTINF:-1 group-title="Sports",LALIGA TV 🇬🇧
 https://ktpremium.com:443/FTV379146/Aa1234/932570
 
 #EXTINF:-1 group-title="Sports",LALIGA DAZN 🇪🇸
-http://linkhd.top:80/Luiscesar457347/2679435/144049
-
-#EXTINF:-1 group-title="Sports",LALIGA DAZN 🇪🇸
 https://ktpremium.com:443/FTV379146/Aa1234/935823
-
-#EXTINF:-1 group-title="Sports",LIGAS MUNDIALES 🇧🇷
-http://linkhd.top:80/Luiscesar457347/2679435/160238
 
 #EXTINF:-1 group-title="Sports",S SPORT 1 HD 🇹🇷
 http://smartsistem.xyz:8080/emreaydin/YxTAxcdvC2/24
@@ -161,6 +146,9 @@ http://smartsistem.xyz:8080/emreaydin/YxTAxcdvC2/20085
 
 #EXTINF:-1 group-title="Sports",S SPORT 2 HD 🇹🇷
 http://smartsistem.xyz:8080/emreaydin/YxTAxcdvC2/20086
+
+#EXTINF:-1 group-title="Sports",Eleven Sports 1 HD 🇵🇱
+http://45.65.112.49:8000/play/a05d
 
 #EXTINF:-1 group-title="Sports",Setanta Sports 1 HD 🇷🇺
 https://tv.movielab.pro/942/video.m3u8
