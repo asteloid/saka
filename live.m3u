@@ -405,6 +405,36 @@ https://d3awaj0f2u3w26.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da
 #EXTINF:-1 group-title="Sports",RTSH Sport 🇦🇱
 http://edge01eu.ekranet.com:80/rtshsport_240p/index.m3u8
 
+#EXTINF:-1 group-title="Sports",RTSH Sport 🇦🇱
+http://195.206.234.17:8000/play/a011
+
+#EXTINF:-1 group-title="Sports",OverSport1 🇦🇱
+http://195.206.234.17:8000/play/a001
+
+#EXTINF:-1 group-title="Sports",OverSport2 🇦🇱
+http://195.206.234.17:8000/play/a003
+
+#EXTINF:-1 group-title="Sports",OverSport3 🇦🇱
+http://195.206.234.17:8000/play/a004
+
+#EXTINF:-1 group-title="Sports",OverSport4 🇦🇱
+http://195.206.234.17:8000/play/a013
+
+#EXTINF:-1 group-title="Sports",OverSportNews 🇦🇱
+http://195.206.234.17:8000/play/a006
+
+#EXTINF:-1 group-title="Sports",Oversport 1 🇦🇱
+http://185.30.144.231:8001/play/a08q
+
+#EXTINF:-1 group-title="Sports",Oversport 2 🇦🇱
+http://185.30.144.231:8001/play/a08r
+
+#EXTINF:-1 group-title="Sports",Oversport 4 🇦🇱
+http://185.30.144.231:8001/play/a08t
+
+#EXTINF:-1 group-title="Sports",SportAlb 🇦🇱
+http://195.206.234.17:8000/play/a00w
+
 #EXTINF:-1 group-title="Sports",Arena Sport 1 HD 🇷🇸
 http://93.155.227.38:90/m3u8/arenasport1.m3u8
 
@@ -419,6 +449,24 @@ http://93.155.227.38:90/m3u8/arenasport4.m3u8
 
 #EXTINF:-1 group-title="Sports",Arena Sport 5 HD 🇷🇸
 http://93.155.227.38:90/m3u8/arenasport5.m3u8
+
+#EXTINF:-1 group-title="Sports",Arena Premium 1 HD (PP) 🇷🇸
+http://185.6.22.6:8000/play/a03n
+
+#EXTINF:-1 group-title="Sports",Arena Premium 2 HD (PP) 🇷🇸
+http://185.6.22.6:8000/play/a04l
+
+#EXTINF:-1 group-title="Sports",Arena Premium 3 HD (PP) 🇷🇸
+http://185.6.22.6:8000/play/a04m
+
+#EXTINF:-1 group-title="Sports",SK 1 HR HD 🇭🇷
+http://185.6.22.6:8000/play/a040
+
+#EXTINF:-1 group-title="Sports",SK 2 HR HD 🇭🇷
+http://185.6.22.6:8000/play/a042
+
+#EXTINF:-1 group-title="Sports",SK 3 HR HD 🇭🇷
+http://185.6.22.6:8000/play/a041
 
 #EXTINF:-1 group-title="Sports",HRT2 🇭🇷
 http://195.29.70.82/PLTV/88888888/224/3221226140/index.m3u8?per
@@ -650,6 +698,9 @@ http://iptv.prosto.tv:7000/ch109/video.m3u8
 
 #EXTINF:-1 group-title="Sports",Viju+ Sport 🇷🇺
 https://bl.uma.media/live/485548/HLS/4614144_3,2883584/2/1/playlist.m3u8
+
+#EXTINF:-1 group-title="Sports",megogo 4 🇺🇦
+http://45.146.7.90:8000/play/a00k
 
 #EXTINF:-1 ,VIJU Sport 🇦🇲
 http://31.146.176.94/viasatsport/mpegts
@@ -921,41 +972,6 @@ http://proiptvdigic.com:8080/nacho65543/ZtQMBNtvykAK/219988
 #EXTINF:-1 group-title="Sports",Arena Sport 3 HD 🇷🇸
 http://93.155.227.38:90/m3u8/arenasport3.m3u8
 
-
-#EXTINF:-1 group-title="Sports",megogo 4
-http://45.146.7.90:8000/play/a00k
-#EXTINF:-1 group-title="Sports",OverSport1
-http://195.206.234.17:8000/play/a001
-#EXTINF:-1 group-title="Sports",OverSport2
-http://195.206.234.17:8000/play/a003
-#EXTINF:-1 group-title="Sports",OverSport3
-http://195.206.234.17:8000/play/a004
-#EXTINF:-1 group-title="Sports",OverSport4
-http://195.206.234.17:8000/play/a013
-#EXTINF:-1 group-title="Sports",OverSportNews
-http://195.206.234.17:8000/play/a006
-#EXTINF:-1 group-title="Sports",RTSH Sport
-http://195.206.234.17:8000/play/a011
-#EXTINF:-1 group-title="Sports",SportAlb
-http://195.206.234.17:8000/play/a00w
-#EXTINF:-1 group-title="Sports",Arena Premium 1 HD (PP)
-http://185.6.22.6:8000/play/a03n
-#EXTINF:-1 group-title="Sports",Arena Premium 2 HD (PP)
-http://185.6.22.6:8000/play/a04l
-#EXTINF:-1 group-title="Sports",Arena Premium 3 HD (PP)
-http://185.6.22.6:8000/play/a04m
-#EXTINF:-1 group-title="Sports",SK 1 HR HD
-http://185.6.22.6:8000/play/a040
-#EXTINF:-1 group-title="Sports",SK 2 HR HD
-http://185.6.22.6:8000/play/a042
-#EXTINF:-1 group-title="Sports",SK 3 HR HD
-http://185.6.22.6:8000/play/a041
-#EXTINF:-1 group-title="Sports",Oversport 1
-http://185.30.144.231:8001/play/a08q
-#EXTINF:-1 group-title="Sports",Oversport 2
-http://185.30.144.231:8001/play/a08r
-#EXTINF:-1 group-title="Sports",Oversport 4
-http://185.30.144.231:8001/play/a08t
 
 #EXTINF:-1 group-title="Sports",1
 http://989423234229262413.of529.xyz:80/play/vi0210254/pTHg@YmFYV/262413.ts
