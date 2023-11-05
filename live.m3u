@@ -220,51 +220,6 @@ http://154.54.220.244:47256/play/a004/index.m3u8
 http://154.54.220.244:47256/play/a02y/index.m3u8
 
 #EXTINF:-1 group-title="Sports",beIN SPORTS 1 HD 🇶🇦
-http://212.224.84.200:2200/Plus/beIN_Sports1_HD-ar/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 group-title="Sports",beIN SPORTS 2 HD 🇶🇦
-http://212.224.84.200:2200/Plus/beIN_Sports2_HD-ar/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 group-title="Sports",beIN SPORTS 3 HD 🇶🇦
-http://212.224.84.200:2200/Plus/beIN_Sports3_HD-ar/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 group-title="Sports",beIN SPORTS 4 HD 🇶🇦
-http://212.224.84.200:2200/Plus/beIN_Sports4_HD-ar/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 group-title="Sports",beIN SPORTS 5 HD 🇶🇦
-http://212.224.84.200:2200/Plus/beIN_Sports5_HD-ar/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 group-title="Sports",beIN SPORTS 6 HD 🇶🇦
-http://212.224.84.200:2200/Plus/beIN_Sports6_HD-ar/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 group-title="Sports",beIN SPORTS 7 HD 🇶🇦
-http://212.224.84.200:2200/Plus/beIN_Sports7_HD-ar/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 group-title="Sports",beIN SPORTS 1 HD 🇶🇦
-http://212.224.84.200:2200/Plus/beIN_Sports1_SD-ar/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 group-title="Sports",beIN SPORTS 2 HD 🇶🇦
-http://212.224.84.200:2200/Plus/beIN_Sports2_SD-ar/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 group-title="Sports",beIN SPORTS 3 HD 🇶🇦
-http://212.224.84.200:2200/Plus/beIN_Sports3_SD-ar/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 group-title="Sports",beIN SPORTS 4 HD 🇶🇦
-http://212.224.84.200:2200/Plus/beIN_Sports4_SD-ar/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 group-title="Sports",beIN SPORTS 5 HD 🇶🇦
-http://212.224.84.200:2200/Plus/beIN_Sports5_SD-ar/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 group-title="Sports",beIN SPORTS 6 HD 🇶🇦
-http://212.224.84.200:2200/Plus/beIN_Sports6_SD-ar/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 group-title="Sports",beIN SPORTS 7 HD 🇶🇦
-http://212.224.84.200:2200/Plus/beIN_Sports7_SD-ar/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 group-title="Sports",beIN SPORTS 1 HD 🇶🇦
-http://smartsistem.xyz:8080/emreaydin/YxTAxcdvC2/8
-
-#EXTINF:-1 group-title="Sports",beIN SPORTS 1 HD 🇶🇦
 https://stream.ayas.ir/hls2/bein1.m3u8
 
 #EXTINF:-1 group-title="Sports",beIN SPORTS 2 HD 🇶🇦
@@ -296,6 +251,15 @@ https://Pericopalotes135@directes-tv-cat.ccma.cat/live-origin/tv3-hls/master.m3u
 
 #EXTINF:-1 group-title="Sports",EUROSPORT 🇪🇸
 http://SigueSoñandoPericopalotes135@185.188.188.235/live/eurosport/playlist.m3u8
+
+#EXTINF:-1 group-title="Sports",ESPN HD 🇦🇷
+http://190.90.251.18:8000/play/a009/index.m3u8
+
+#EXTINF:-1 group-title="Sports",ESPN 2 HD 🇦🇷
+http://190.90.251.18:8000/play/a003/index.m3u8
+
+#EXTINF:-1 group-title="Sports",ESPN 3 HD 🇦🇷
+http://190.90.251.18:8000/play/a004/index.m3u8
 
 #EXTINF:-1 group-title="Sports",ESPN HD 🇦🇷
 http://170.254.172.10:8000/play/a07z/index.m3u8
