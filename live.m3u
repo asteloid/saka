@@ -114,6 +114,9 @@ http://667782866163165407.of1030ok.xyz:80/play/fe323808/DUyEgpSJcc/628466.ts
 #EXTINF:-1 group-title="Sports",MAX SPORTS 4 🇧🇬
 http://ca.ukrainske.tv/6878/5FB414E1EC8D010/video.m3u8
 
+#EXTINF:-1 group-title="Sports",MAX SPORTS 4 🇧🇬
+http://ru.seetv.cc/play/6878/5347DCCEF2C3AA0/video.m3u8
+
 #EXTINF:-1 group-title="Sports",ARENA SPORT 6 🇭🇷
 http://312834923831637079.of1030ok.xyz:80/play/fe323808/DUyEgpSJcc/637079.ts
 
@@ -269,6 +272,9 @@ http://edge02.odtv.az/o4/beinsport/playlist.m3u8
 
 #EXTINF:-1 group-title="Sports",TNT SPORTS 2 🇬🇧
 https://storage.googleapis.com/atnticatoreovo2/mux_video_ts/index-1.m3u8
+
+#EXTINF:-1 group-title="Sports",PREMIER SPORT 1 🇬🇧
+http://ru.seetv.cc/play/930/5347DCCEF2C3AA0/video.m3u8
 
 #EXTINF:-1 group-title="Sports",BEIN SPORTS 1 🇫🇷
 http://154.54.220.244:47256/play/a03b/index.m3u8
