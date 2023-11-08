@@ -78,6 +78,9 @@ http://bl.uma.media/live/126863/HLS/6866944_2/2/1/playlist.m3u8
 #EXTINF:-1 group-title="Sports",Megogo Футбол 2 HD 🇺🇦
 http://45.146.7.90:8000/play/a00m
 
+#EXTINF:-1 group-title="Sports",Megogo Футбол 2 HD 🇺🇦
+http://158.101.214.187:8080/channel/n6107de44/index.m3u8?q=103bce48d8fe1dcdb5781d4d42123a60
+
 #EXTINF:-1 group-title="Sports",Premier sport 2 🇸🇰
 http://185.188.188.235/live/premiersport2/playlist.m3u8
 
@@ -117,8 +120,14 @@ http://bl.uma.media/live/126863/HLS/6866944_2/2/1/playlist.m3u8
 #EXTINF:-1 group-title="Sports",МАТЧ Футбол 2 HD 🇷🇺
 http://bl.uma.media/live/126864/HLS/6866944_4/2/1/playlist.m3u8
 
+#EXTINF:-1 group-title="Sports",МАТЧ Футбол 2 🇷🇺
+http://bl.uma.media/live/126864/HLS/6866944_2/2/1/playlist.m3u8
+
 #EXTINF:-1 group-title="Sports",МАТЧ Футбол 3 HD 🇷🇺
 http://bl.uma.media/live/126865/HLS/6866944_4/2/1/playlist.m3u8
+
+#EXTINF:-1 group-title="Sports",МАТЧ Футбол 3 🇷🇺
+http://bl.uma.media/live/126865/HLS/6866944_2/2/1/playlist.m3u8
 
 #EXTINF:-1 group-title="Sports",М LIGA CAMPEONES 🇪🇸
 http://15.235.15.232:8081/SPAIN%7CLIGADECAMPR/SPAIN%7CLIGADECAMPR/playlist.m3u8
