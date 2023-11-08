@@ -72,6 +72,9 @@ http://312834923831678927.of1030ok.xyz:80/play/vi913363/C5aFau8@D4/165358.ts
 #EXTINF:-1 group-title="Sports",МАТЧ Футбол 1 HD 🇷🇺
 http://bl.uma.media/live/126863/HLS/6866944_4/2/1/playlist.m3u8
 
+#EXTINF:-1 group-title="Sports",МАТЧ Футбол 1 🇷🇺
+http://bl.uma.media/live/126863/HLS/6866944_2/2/1/playlist.m3u8
+
 #EXTINF:-1 group-title="Sports",Megogo Футбол 2 HD 🇺🇦
 http://45.146.7.90:8000/play/a00m
 
@@ -108,6 +111,9 @@ https://bl.uma.media/live/312119/HLS/4614144_3/2/1/playlist.m3u8
 #EXTINF:-1 group-title="Sports",МАТЧ Футбол 1 HD 🇷🇺
 http://bl.uma.media/live/126863/HLS/6866944_4/2/1/playlist.m3u8
 
+#EXTINF:-1 group-title="Sports",МАТЧ Футбол 1 🇷🇺
+http://bl.uma.media/live/126863/HLS/6866944_2/2/1/playlist.m3u8
+
 #EXTINF:-1 group-title="Sports",МАТЧ Футбол 2 HD 🇷🇺
 http://bl.uma.media/live/126864/HLS/6866944_4/2/1/playlist.m3u8
 
@@ -143,12 +149,6 @@ https://bcovlive-a.akamaihd.net/474b6caf58f8407fb1d1cc1ef64f50ff/us-west-2/60580
 
 #EXTINF:-1 group-title="Sports",S LALIGA 🇿🇦
 https://hisoverline.crystalnew.pro/live/n-4/chunks.m3u8
-
-#EXTINF:-1 group-title="Sports",Setanta Sports 1 HD 🇷🇺
-http://158.101.214.187:8080/channel/18b15187/index.m3u8?q=103bce48d8fe1dcdb5781d4d42123a60
-
-#EXTINF:-1 group-title="Sports",Setanta Sports 2 HD 🇷🇺
-http://158.101.214.187:8080/channel/62654053/index.m3u8?q=103bce48d8fe1dcdb5781d4d42123a60
 
 #EXTINF:-1 group-title="Sports",Megogo Футбол 1 HD 🇺🇦
 http://158.101.214.187:8080/channel/n6107de45/index.m3u8?q=103bce48d8fe1dcdb5781d4d42123a60
@@ -349,6 +349,12 @@ https://tv.movielab.pro/942/video.m3u8
 
 #EXTINF:-1 group-title="Sports",Setanta Sports 1 HD 🇷🇺
 https://ucdn.beetv.kz/btv/live/hls/000004498.m3u8
+
+#EXTINF:-1 group-title="Sports",Setanta Sports 1 HD 🇷🇺
+http://158.101.214.187:8080/channel/18b15187/index.m3u8?q=103bce48d8fe1dcdb5781d4d42123a60
+
+#EXTINF:-1 group-title="Sports",Setanta Sports 2 HD 🇷🇺
+http://158.101.214.187:8080/channel/62654053/index.m3u8?q=103bce48d8fe1dcdb5781d4d42123a60
 
 #EXTINF:-1 group-title="Sports",Setanta Sports 2 HD 🇷🇺
 https://ucdn.beetv.kz/btv/live/hls/000004499.m3u8
