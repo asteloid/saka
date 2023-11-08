@@ -69,6 +69,15 @@ http://667782866163165358.of1030ok.xyz:80/play/vi913363/C5aFau8@D4/165358.ts
 #EXTINF:-1 group-title="Sports",LIGA CAMPEONES 🇪🇸
 http://312834923831678927.of1030ok.xyz:80/play/vi913363/C5aFau8@D4/165358.ts
 
+#EXTINF:-1 group-title="Sports",МАТЧ Футбол 1 HD 🇷🇺
+http://bl.uma.media/live/126863/HLS/6866944_4/2/1/playlist.m3u8
+
+#EXTINF:-1 group-title="Sports",Premier sport 2 🇸🇰
+http://185.188.188.235/live/premiersport2/playlist.m3u8
+
+#EXTINF:-1 group-title="Sports",TNT Sports 4 🇮🇪
+http://primestreams.tv:826/ueiQJ2qgtX/Deaj2nrLYk/89211
+
 #EXTINF:-1 group-title="Sports",NOVA SPORT 4 🇸🇰
 http://185.188.188.235/live/novasport4/playlist.m3u8
 
@@ -77,6 +86,9 @@ http://93.155.227.38:555/m3u8/webmtelsport4_web.m3u8
 
 #EXTINF:-1 group-title="Sports",beIN SPORTS 2 HD 🇶🇦
 https://stream.ayas.ir/hls2/bein2.m3u8
+
+#EXTINF:-1 group-title="Sports",beIN SPORTS 2 HD 🇶🇦
+https://cdn1.livehd720.com/hlsbeinp2/bein/playlist.m3u8
 
 #EXTINF:-1 group-title="Sports",beIN SPORTS 3 HD 🇶🇦
 https://stream.ayas.ir/hls2/bein3.m3u8
@@ -102,15 +114,80 @@ http://bl.uma.media/live/126865/HLS/6866944_4/2/1/playlist.m3u8
 #EXTINF:-1 group-title="Sports",М LIGA CAMPEONES 🇪🇸
 http://15.235.15.232:8081/SPAIN%7CLIGADECAMPR/SPAIN%7CLIGADECAMPR/playlist.m3u8
 
+#EXTINF:-1 group-title="Sports",TNT Sports 1 🇮🇪
+http://primestreams.tv:826/ueiQJ2qgtX/Deaj2nrLYk/110708
+
+#EXTINF:-1 group-title="Sports",TNT Sports 2 🇮🇪
+http://primestreams.tv:826/ueiQJ2qgtX/Deaj2nrLYk/89213
+
+#EXTINF:-1 group-title="Sports",TNT Sports 3 🇮🇪
+http://primestreams.tv:826/ueiQJ2qgtX/Deaj2nrLYk/89212
+
+#EXTINF:-1 group-title="Sports",TNT Sports 4 🇮🇪
+http://primestreams.tv:826/ueiQJ2qgtX/Deaj2nrLYk/89211
+
 #EXTINF:-1 group-title="Sports",CCTV5 🇨🇳
 https://node1.olelive.com:6443/live/CCTV5HD/hls.m3u8
 
-#EXTINF:-1 group-title="Sports",HRT 2 🇭🇷
-http://195.29.70.84/PLTV/88888888/224/3221226140/04.m3u8
+#EXTINF:-1 group-title="Sports",CHAMPIONS 1
+https://hls.streambtw.com/live/stream_1.m3u8
+
+#EXTINF:-1 group-title="Sports",CHAMPIONS 2
+https://hls.streambtw.com/live/stream_6.m3u8
 
 #EXTINF:-1 group-title="Sports",TV MAX 🇵🇦 
 https://bcovlive-a.akamaihd.net/474b6caf58f8407fb1d1cc1ef64f50ff/us-west-2/6058004209001/profile_0/chunklist_dvr.m3u8?
 
+#EXTINF:-1 group-title="Sports",S LALIGA 🇿🇦
+https://hisoverline.crystalnew.pro/live/n-4/chunks.m3u8
+
+#EXTINF:-1 group-title="Sports",MATH 🇷🇺
+http://view.my-tv.biz/tv/3c9374f5ae/0141838383/video.m3u8
+
+#EXTINF:-1 group-title="Sports",МАТЧ Футбол 1 HD 🇷🇺
+http://view.my-tv.biz/tv/3c9374f5ae/84e6fa3a07/video.m3u8
+
+#EXTINF:-1 group-title="Sports",МАТЧ Футбол 2 HD 🇷🇺
+http://view.my-tv.biz/tv/3c9374f5ae/740c6ef295/video.m3u8
+
+#EXTINF:-1 group-title="Sports",МАТЧ Футбол 3 HD 🇷🇺
+http://view.my-tv.biz/tv/3c9374f5ae/f87d8f7ef9/video.m3u8
+
+#EXTINF:-1 group-title="Sports",POLSAT SPORT PREMIUM 1 🇵🇱
+http://view.my-tv.biz/tv/3c9374f5ae/35b7868ae8/video.m3u8
+
+#EXTINF:-1 group-title="Sports",Eleven Sports 1 🇵🇱
+http://view.my-tv.biz/tv/3c9374f5ae/3a96d63f24/video.m3u8
+
+#EXTINF:-1 group-title="Sports",Polsat Sport Premium 1 🇵🇱
+http://view.my-tv.biz/tv/3c9374f5ae/c7bba290e6/video.m3u8
+
+#EXTINF:-1 group-title="Sports",Setanta Sports 1 FHD 🇷🇺
+http://view.my-tv.biz/tv/3c9374f5ae/18262657e3/video.m3u8
+
+#EXTINF:-1 group-title="Sports",Setanta Sports Ukraine HD 🇺🇦
+http://view.my-tv.biz/tv/3c9374f5ae/4fab5190f2/video.m3u8
+
+#EXTINF:-1 group-title="Sports",Setanta Sports+ Eurasia HD 🇺🇦
+http://view.my-tv.biz/tv/3c9374f5ae/c55b4351b4/video.m3u8
+
+#EXTINF:-1 group-title="Sports",Setanta Sports+ Ukraine HD 🇺🇦
+http://view.my-tv.biz/tv/3c9374f5ae/239f30684c/video.m3u8
+
+#EXTINF:-1 group-title="Sports",Setanta Sports 1 HD 🇷🇺
+http://158.101.214.187:8080/channel/18b15187/index.m3u8?q=103bce48d8fe1dcdb5781d4d42123a60
+
+#EXTINF:-1 group-title="Sports",Setanta Sports 2 HD 🇷🇺
+http://158.101.214.187:8080/channel/62654053/index.m3u8?q=103bce48d8fe1dcdb5781d4d42123a60
+
+#EXTINF:-1 group-title="Sports",Megogo Футбол 1 HD 🇺🇦
+http://158.101.214.187:8080/channel/n6107de45/index.m3u8?q=103bce48d8fe1dcdb5781d4d42123a60
+
+#EXTINF:-1 group-title="Sports",Megogo Футбол 3 HD 🇺🇦
+http://158.101.214.187:8080/channel/n6107de43/index.m3u8?q=103bce48d8fe1dcdb5781d4d42123a60
+
+#EXTINF:-1 group-title="Sports",Беларусь 5 🇧🇾
+https://ngtrk.dc.beltelecom.by/ngtrk/smil:belarus5int/playlist.m3u8
 
 
 
