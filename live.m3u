@@ -300,6 +300,12 @@ http://mmn.mypsx.net:1935/live/mmnhdsport/chunklist.m3u8
 #EXTINF:-1 group-title="Sports",AI SPORT 🇮🇷
 https://af.ayas.ir/hls2/aiosport.m3u8?checkedby:iptvcat.com
 
+#EXTINF:-1 group-title="Sports",DAZN 1 🇮🇹
+http://pro.ipcover.tv:8080/kittyx100/12sdHsdIydHf/303702
+
+#EXTINF:-1 group-title="Sports",DAZN 2 🇮🇹
+http://pro.ipcover.tv:8080/kittyx100/12sdHsdIydHf/303703
+
 #EXTINF:-1 group-title="Sports",TV3 🇪🇸
 https://Pericopalotes135@directes-tv-cat.ccma.cat/live-origin/tv3-hls/master.m3u8
 
@@ -628,7 +634,7 @@ http://217.174.225.146/hls/ch004_720/index.m3u8
 http://89.254.128.5:22280/qsport/index.m3u8
 
 #EXTINF:-1 group-title="Sports",CBC SPORT 🇦🇿
-http://ru2.troya.one:34000/ch1534/mono.m3u8?token=rashp180_119.1Ev7PGuPEsydO5Lix9t3Lc58-Dsyo7zufBpw-LuqBVWdj-rU0JVLsFvo3O1dW-N7
+http://85.187.218.116:19002/play/a06h/index.m3u8
 
 #EXTINF:-1 group-title="Sports",TV2 Sport 2 HD 🇳🇴
 http://195.222.7.26:7011/play/a02j
