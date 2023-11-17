@@ -294,8 +294,14 @@ https://stream.ayas.ir/hls2/bein3.m3u8
 #EXTINF:-1 group-title="Sports",beIN SPORTS 4 HD 🇶🇦
 https://stream.ayas.ir/hls2/bein4.m3u8
 
+#EXTINF:-1 group-title="Sports",beIN SPORTS 6 HD 🇶🇦
+http://176.119.29.14:8082/2033e44d-fb78-4d1d-87c5-e113009f710a.m3u8
+
 #EXTINF:-1 group-title="Sports",BEIN SPORT LIVE 🇶🇦
 http://mmn.mypsx.net:1935/live/mmnhdsport/chunklist.m3u8
+
+#EXTINF:-1 group-title="Sports",AI SPORT 🇮🇷
+https://af.ayas.ir/hls2/aiosport.m3u8?checkedby:iptvcat.com
 
 #EXTINF:-1 group-title="Sports",TV3 🇪🇸
 https://Pericopalotes135@directes-tv-cat.ccma.cat/live-origin/tv3-hls/master.m3u8
