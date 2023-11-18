@@ -543,11 +543,26 @@ http://e14921eb.amazzin.pw/iptv/3WHBXNFDU9YG7Q/7296/index.m3u8
 #EXTINF:-1 group-title="Sports",POLSAT SPORT PREMIUM 1 PL 🇵🇱
 http://e14921eb.amazzin.pw/iptv/3WHBXNFDU9YG7Q/7304/index.m3u8
 
+#EXTINF:-1 group-title="Sports",NOVA Sport 1 🇨🇿 
+http://78.130.250.2:8023/play/a009/index.m3u8
+
+#EXTINF:-1 group-title="Sports",NOVA Sport 1 🇨🇿 
+http://78.130.250.2:8023/play/a02k/index.m3u8
+
+#EXTINF:-1 group-title="Sports",NOVA Sport 2 🇨🇿 
+http://78.130.250.2:8023/play/a004/index.m3u8
+
 #EXTINF:-1 group-title="Sports",NOVA Sport 3 🇨🇿 
 http://84.42.140.147:8890/hdmi
 
+#EXTINF:-1 group-title="Sports",SPORT 1 🇨🇿 
+http://78.130.250.2:8023/play/a02u/index.m3u8
+
 #EXTINF:-1 group-title="Sports",O2 TV SPORT HD 🇨🇿 
 http://84.42.140.148:8880/hdmi
+
+#EXTINF:-1 group-title="Sports",ARENA Sport 1 🇨🇿
+http://78.130.250.2:8023/play/a02o/index.m3u8
 
 #EXTINF:-1 group-title="Sports",MATH 🇷🇺
 https://bl.uma.media/live/312119/HLS/4614144_3/2/1/playlist.m3u8
@@ -626,6 +641,15 @@ http://89.254.128.5:22280/qsport/index.m3u8
 
 #EXTINF:-1 group-title="Sports",CBC SPORT 🇦🇿
 http://85.187.218.116:19002/play/a06h/index.m3u8
+
+#EXTINF:-1 group-title="Sports",Ziggo Sport Select HD 🇳🇱
+http://78.130.250.2:8023/play/a00n/index.m3u8
+
+#EXTINF:-1 group-title="Sports",Ziggo Sport Voetbal 🇳🇱
+http://78.130.250.2:8023/play/a00f/index.m3u8
+
+#EXTINF:-1 group-title="Sports",Ziggo Sport Golf 🇳🇱
+http://78.130.250.2:8023/play/a00g/index.m3u8
 
 #EXTINF:-1 group-title="Sports",TV2 Sport 2 HD 🇳🇴
 http://195.222.7.26:7011/play/a02j
