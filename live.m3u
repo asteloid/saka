@@ -69,38 +69,20 @@ http://93.155.227.38:555/m3u8/webmtelsport4_web.m3u8
 #EXTINF:-1 group-title="Sports",MAX SPORTS 4 🇧🇬
 http://93.155.227.38:90/m3u8/webmtelsport4_web.m3u8
 
-#EXTINF:-1 group-title="Sports",S LALIGA 🇿🇦
-https://247ovo.com/n-5.m3u8
-
 #EXTINF:-1 group-title="Sports",SKY SPORTS LALIGA 🇲🇽
 http://paco@181.78.105.146:2000/play/a08m/index.m3u8
 
-#EXTINF:-1 group-title="Sports",S LALIGA 🇿🇦
-http://mail.195-62-32-107.cprapid.com:8080/etzi.patrizio/vMzMcEyk5N/315209
+#EXTINF:-1 group-title="Sports",SYRIA LIVE 🇸🇾
+https://salam-2-16.rutube.ru/dive/river-5-513.rutube.ru/ksEcz6JEEU3vP8f1mkIK1g/stream/genetta-319.m9.rutube.ru/FsDY0jLE2rGLB2KEf6rabQ/1702221540/002881b5a27354ff17da5b72e5b217eb/720p_stream.m3u8
+
+#EXTINF:-1 group-title="Sports",SYRIA LIVE 🇸🇾
+https://river-3-312.rutube.ru/stream/genetta-319.m9.rutube.ru/52xHF9CjjmB63x21MO5o5w/1702221535/002881b5a27354ff17da5b72e5b217eb/720p_stream.m3u8
 
 #EXTINF:-1 group-title="Sports",BAR 🇪🇸
 http://250557523696165407.of1030ok.xyz:80/play/fe323808/DUyEgpSJcc/165407.ts
 
 #EXTINF:-1 group-title="Sports",BAR 🇪🇸
 http://667782866163165407.of1030ok.xyz:80/play/vi913363/C5aFau8@D4/165407.
-
-#EXTINF:-1 group-title="Sports",ESPN DEPORTE 🇺🇸
-http://51.79.18.213:25461/8061884/5593271/5593
-
-#EXTINF:-1 group-title="Sports",ESPN DEPORTE 🇺🇸
-http://51.79.18.213:25461/8061884/5593271/20050
-
-#EXTINF:-1 group-title="Sports",ESPN DEPORTE 🇺🇸
-http://sdmx.vip:8080/Rodolfo01/Rodolfo01/158472
-
-#EXTINF:-1 group-title="Sports",ESPN DEPORTE 🇺🇸
-http://sdmx.vip:8080/Rodolfo01/Rodolfo01/2123475
-
-#EXTINF:-1 group-title="Sports",ESPN + 🇺🇸
-https://paco@mlb.mrgamingstreams.com/hanover.m3u8
-
-#EXTINF:-1 group-title="Sports",LALIGA TV 🇬🇧
-https://ktpremium.com:443/FTV379146/Aa1234/932570
 
 #EXTINF:-1 group-title="Sports",Setanta Sports 2 HD 🇷🇺
 https://ucdn.beetv.kz/btv/live/hls/000004499.m3u8
