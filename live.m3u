@@ -67,6 +67,12 @@
 http://93.155.227.38:555/m3u8/webmtelsport4_web.m3u8
 
 #EXTINF:-1 group-title="Sports",S LALIGA 🇿🇦
+https://paco@hls.streambtw.com/live/stream_6.m3u8
+
+#EXTINF:-1 group-title="Sports",ESPN HD 🇺🇸
+https://mlb.mrgamingstreams.com/espnd.m3u8
+
+#EXTINF:-1 group-title="Sports",S LALIGA 🇿🇦
 http://163.172.55.74:8080/ChrisM22/sAQQVR2smjsT/14630
 
 #EXTINF:-1 group-title="Sports",S LALIGA 🇿🇦
