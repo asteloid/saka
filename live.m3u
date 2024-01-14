@@ -72,6 +72,9 @@ https://paco@hls.streambtw.com/live/stream_6.m3u8
 #EXTINF:-1 group-title="Sports",ESPN HD 🇺🇸
 https://mlb.mrgamingstreams.com/espnd.m3u8
 
+#EXTINF:-1 group-title="Sports",ESPN DEPORTES 🇺🇸
+http://215602c2.kazaktelekom.com/iptv/D72CVTDTWM4NGY/19166/index.m3u8
+
 #EXTINF:-1 group-title="Sports",S LALIGA 🇿🇦
 http://163.172.55.74:8080/ChrisM22/sAQQVR2smjsT/14630
 
@@ -98,6 +101,15 @@ http://312834923831466462.of1030ok.xyz:80/play/fe323808/DUyEgpSJcc/466462.ts
 
 #EXTINF:-1 group-title="Sports",SPILER 2 🇭🇺
 http://667782866163165407.of1030ok.xyz:80/play/fe323808/DUyEgpSJcc/466462.ts
+
+#EXTINF:-1 group-title="Sports",FAST SPORT 🇦🇲
+http://3.troya.one:34000/ch1492/mono.m3u8?token=romik2023.GEQCZh7EnpKYyvkM90qT4V39kyi7xBDkOTX9-38SaBOu0lGJzH8BkZfoOjKo8e7T
+
+#EXTINF:-1 group-title="Sports",GO3 SPORT 1 🇱🇹
+https://eu01.spr24.net/17864/index.m3u8?token=Dv98T7iEm5a7aB
+
+#EXTINF:-1 group-title="Sports",S SPORT 1 HD 🇹🇷
+http://215602c2.kazaktelekom.com/iptv/D72CVTDTWM4NGY/6825/index.m3u8
 
 #EXTINF:-1 group-title="Sports",ELEVEN 2 🇵🇹
 http://jokerprotectd.xyz:8080/JoaoSilva/45465423/46519
@@ -218,6 +230,9 @@ https://ucdn.beetv.kz/btv/live/hls/000004499.m3u8
 
 #EXTINF:-1 group-title="Sports",Setanta Sports + 🇷🇺
 http://146.59.85.40:89/setantaplus/mono.m3u8
+
+#EXTINF:-1 group-title="Sports",Беларусь 5 🇧🇾
+http://moobl.ru/hls/Belarus5_hd.m3u8
 
 #EXTINF:-1 group-title="Sports",Беларусь 5 🇧🇾
 https://ngtrk.dc.beltelecom.by/ngtrk/smil:belarus5int/playlist.m3u8
@@ -641,6 +656,15 @@ https://tbs01-edge11.itdc.ge/silksport3/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 group-title="Sports",Silk 1 HD 🇬🇪
 http://ru2.troya.one:34000/ch1603/mono.m3u8?token=rashp180_119.1Ev7PGuPEsydO5Lix9t3LbItC5i9X_H6o3cB84myOMETlbOIeMHM01_-k0cO5ziy
+
+#EXTINF:-1 group-title="Sports",GO3 SPORT 1 🇱🇹
+https://eu01.spr24.net/17864/index.m3u8?token=Dv98T7iEm5a7aB
+
+#EXTINF:-1 group-title="Sports",GO3 SPORT 2 🇱🇹
+https://eu01.spr24.net/17867/index.m3u8?token=Dv98T7iEm5a7aB
+
+#EXTINF:-1 group-title="Sports",GO3 SPORT 3 🇱🇹
+https://eu01.spr24.net/17880/index.m3u8?token=Dv98T7iEm5a7aB
 
 #EXTINF:-1 group-title="Sports",Turkmenistan Sport 🇹🇲
 https://alpha.tv.online.tm/legacyhls/ch004_720/index.m3u8
