@@ -63,6 +63,9 @@
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/jiz6iruaxep7up8/live2.png" group-title="Live Events",Empoli vs Inter 
 
 
+#EXTINF:-1 group-title="Sports",ELEVEN SPORTS 5 🇵🇹
+http://213.13.16.138/shls/LIVE$Eleven_Sports_5_HD/index.m3u8?device=TVOS_Live&start=LIVE&end=END
+
 #EXTINF:-1 group-title="Sports",LIGA BAR 🇪🇸
 https://paco@bp1.mrgaminghoster.xyz/bar.m3u8
 
