@@ -96,6 +96,9 @@ https://edge1.laotv.la/live/Bsport1/index.m3u8
 #EXTINF:-1 group-title="Sports",BEIN 2 🇲🇾
 https://edge1.laotv.la/live/Bsport2/index.m3u8
 
+#EXTINF:-1 group-title="Sports",M Liga 🇪🇸
+http://215602c2.kazaktelekom.com/iptv/D72CVTDTWM4NGY/6073/index.m3u8
+
 #EXTINF:-1 group-title="Sports",TNT SPORTS 1 🇬🇧
 https://catowrap.live/mrgamingbtsport1.m3u8
 
@@ -206,6 +209,9 @@ https://tv91.hostingnuclear.com:19360/telecosta/telecosta.m3u8
 
 #EXTINF:-1 group-title="Sports",TUDN 🇲🇽
 https://linear-439.frequency.stream/439/hls/master/playlist.m3u8
+
+#EXTINF:-1 group-title="Sports",MAX SPORT 1 🇧🇬
+http://79.124.21.250:9981/play/MaxSport1HD/index.m3u8?token=test
 
 #EXTINF:-1 group-title="Sports",RTSH Sport 🇦🇱
 http://edge01eu.ekranet.com:80/rtshsport_240p/index.m3u8
