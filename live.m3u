@@ -108,20 +108,44 @@ http://185.248.173.79:9999/play/a00b
 #EXTINF:-1 group-title="Sports",Match HD--КК 🇷🇺
 http://178.212.71.253:8002/play/a00k/index.m3u8
 
-#EXTINF:-1 group-title="Sports",Match HD--КК 🇷🇺
-http://91.142.158.107:8092/play/33/index.m3u
+#EXTINF:-1 group-title="Sports",Match HD 🇷🇺
+http://91.142.158.107:8092/play/33/index.m3u8
+
+#EXTINF:-1 group-title="Sports",Match HD 🇷🇺
+https://livetv.mylifeisgood.net.ru/channels/matchhd_nocensored.m3u8
 
 #EXTINF:-1 group-title="Sports",Матч! Футбол 1 HD 🇷🇺
 http://194.143.148.28:8080/MatchFutbol1/mpegts
 
+#EXTINF:-1 group-title="Sports",Матч! Футбол 1 HD 🇷🇺
+http://str28.tv/7881/video.m3u8?token=443838617b5249cf1f748aa0f47fbb74
+
 #EXTINF:-1 group-title="Sports",Матч! Футбол 2 HD 🇷🇺
 http://91.207.114.209:5000/c115
+
+#EXTINF:-1 group-title="Sports",Матч! Футбол 2 HD 🇷🇺
+http://str28.tv/2222/video.m3u8?token=443838617b5249cf1f748aa0f47fbb74
+
+#EXTINF:-1 group-title="Sports",Матч! Футбол 3 HD 🇷🇺
+http://str28.tv/1846/video.m3u8?token=443838617b5249cf1f748aa0f47fbb74
+
+#EXTINF:-1 group-title="Sports",SETANTA SPORT 2 🇺🇦
+http://ru.iptv.monster/play/943/58A6BB07681962A/video.m3u8
+
+#EXTINF:-1 group-title="Sports",Ziggo Sport Select HD 🇳🇱
+http://78.130.250.2:8023/play/a00n/index.m3u8
+
+#EXTINF:-1 group-title="Sports",Ziggo Sport Voetbal 🇳🇱
+http://78.130.250.2:8023/play/a00f/index.m3u8
 
 #EXTINF:-1 group-title="Sports",bTVActionHD 🇧🇬
 http://185.163.244.10:204/play/bTVActionHD/index.m3u8
 
 #EXTINF:-1 group-title="Sports",Беларусь 5 🇧🇾
 https://ngtrk.dc.beltelecom.by/ngtrk/smil:belarus5int/playlist.m3u8
+
+#EXTINF:-1 group-title="Sports",Беларусь 5 🇧🇾
+https://edge59.dc.beltelecom.by/ngtrk/smil:belarus5int.smil/playlist.m3u8
 
 #EXTINF:-1 group-title="Sports",Беларусь 5 🇧🇾
 http://strm.yandex.ru/kal/belarus_5/belarus_50.m3u8
