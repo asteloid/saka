@@ -78,6 +78,12 @@ http://str28.tv/7881/video.m3u8?token=443838617b5249cf1f748aa0f47fbb74
 #EXTINF:-1 group-title="Sports",Ziggo Sport Select HD 🇳🇱
 http://78.130.250.2:8023/play/a00n/index.m3u8
 
+#EXTINF:-1 group-title="Sports",Tring Sport 1 FHD 🇦🇱
+http://aziptv.net:8080/EMIRETVIptv200conn/7RBJU2tfdYDy/1762
+
+#EXTINF:-1 group-title="Sports",BEIN Sports 1 HD 🇸🇦
+http://aziptv.net:8080/EMIRETVIptv200conn/7RBJU2tfdYDy/8510
+
 #EXTINF:-1 group-title="Sports",VIX LALIGA 🇨🇷
 http://190.185.121.102:58092/play/a00t
 
