@@ -102,11 +102,20 @@ https://live.aionet.ir/hls/tv3/tv3_540/index.m3u8
 #EXTINF:-1 group-title="Sports",QAZ SPORT 🇰🇿
 https://bkm.beetv.kz/btv/live/hls/000003038.m3u8
 
+#EXTINF:-1 group-title="Sports",QAZ SPORT 🇰🇿
+http://87.99.87.203:2007/channel/n7c9a2d6e/index.m3u8?q=1b8c2b84d89772e85341da42b9e646b9
+
+#EXTINF:-1 group-title="Sports",QAZ SPORT 🇰🇿
+http://158.101.214.187:8080/channel/6a187c2a/index.m3u8?q=b92e505ee8a30dc40ddf8c9d0c3bbb38
+
 #EXTINF:-1 group-title="Sports",VARZISH SPORT 🇹🇯
 https://live.teleradiocom.tj/5/3m.m3u8
 
 #EXTINF:-1 group-title="Sports",CBC SPORT 🇦🇿
 https://bozztv.com/dvrfl05/gin-cbc-sport/index.m3u8
+
+#EXTINF:-1 group-title="Sports",UZ SPORT 🇺🇿
+https://vs1758.vcdn.biz/2a89fb5c1ea0e32fc03ff26e7c46fc8f_megogo/live/hls/b/4000/u_sid/0/o/140085841/rsid/73723949-6c32-43e3-aa6a-80c33e100322/u_uid/0/u_vod/0/u_device/cms_webandroid/u_devicekey/_site_mobile/lip/84.54.73.172*asn/u_srvc/83576/u_did/web_U9ij9aVdY2r1FMHFZmJd2CoxXvGlCGgX/type.live/chunklist-sid230322689978648235-b4000000-a72531.m3u8
 
 #EXTINF:-1 group-title="Sports",Ziggo Sport Select HD 🇳🇱
 http://78.130.250.2:8023/play/a00n/index.m3u8
