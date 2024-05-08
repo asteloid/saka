@@ -63,6 +63,9 @@
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/jiz6iruaxep7up8/live2.png" group-title="Live Events",Empoli vs Inter 
 
 
+#EXTINF:-1 group-title="Sports",TV MAX 🇵🇦 
+https://bcovlive-a.akamaihd.net/74f665e9ff8447639d4de4b8b458d8ae/us-east-1/6058004209001/playlist_dvr.m3u8
+
 #EXTINF:-1 group-title="Sports",Match HD 🇷🇺
 http://91.142.158.107:8092/play/33/index.m3u8
 
@@ -72,23 +75,26 @@ https://livetv.mylifeisgood.net.ru/channels/matchhd_nocensored.m3u8
 #EXTINF:-1 group-title="Sports",Матч! Футбол 1 HD 🇷🇺
 http://194.143.148.28:8080/MatchFutbol1/mpegts
 
+#EXTINF:-1 group-title="Sports",Match HD 🇷🇺
+https://7o8gab7zdd.a.trbcdn.net/hls-livef1/matchtv/tracks-v5a1/mono.m3u8
+
+#EXTINF:-1 group-title="Sports",BEIN Sports 1 HD 🇸🇦
+http://85.237.89.6:9590/ar-s/B-S-pre-1-stop-TimeSheft/index.m3u8
+
+#EXTINF:-1 group-title="Sports",BEIN Sports 1 HD 🇸🇦
+http://85.237.89.6:9590/ar-s/B-S-pre-1-stop-TimeSheft/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="Sports",AIO SPORT 🇮🇷
+https://live.aionet.ir/hls/tv3/tv3_540/index.m3u8
+
+#EXTINF:-1 group-title="Sports",QAZ SPORT 🇰🇿
+https://bkm.beetv.kz/btv/live/hls/000003038.m3u8
+
 #EXTINF:-1 group-title="Sports",Ziggo Sport Select HD 🇳🇱
 http://78.130.250.2:8023/play/a00n/index.m3u8
 
-#EXTINF:-1 group-title="Sports",CHAMP
-http://paco@www.oha.to/play/3566202896/index.m3u8
-
-#EXTINF:-1 group-title="Sports",TNT
-https://s@d2fzbxqedm1sx.cloudfront.net/zone-11_1.m3u8
-
-#EXTINF:-1 group-title="Sports",TNT
-https://s@dns.crystalnew.pro:443/n-1_1.m3u8
-
-#EXTINF:-1 group-title="Sports",TNT
-https://plpl111.fdhgfdha.space/playlist/22126/jcvjcks.cloudcdn5.com/caxi.m3u8
-
-#EXTINF:-1 group-title="Sports",TNT
-https://pl.rrrewwq888.shop/playlist/22126/goozr.uyyvbc4558d6gg.shop/caxi.m3u8
+#EXTINF:-1 group-title="Sports",M4 sport 🇭🇺
+http://119338040796387491.tkop413.xyz:80/play/429TKYVPKC/UGGB3e8DwWe7/387491.m3u8
 
 #EXTINF:-1 group-title="Sports",Tring Sport 1 FHD 🇦🇱
 http://aziptv.net:8080/EMIRETVIptv200conn/7RBJU2tfdYDy/1762
@@ -113,6 +119,24 @@ http://185.71.64.20:23000/marinoducati/94hBcQzd3A/48795
 
 #EXTINF:-1 group-title="Sports",Arena Sport 6 (HR) 🇭🇷
 http://aziptv.net:8080/EMIRETVIptv200conn/7RBJU2tfdYDy/36441
+
+#EXTINF:-1 group-title="Sports",beIN SPORTS 1 🇸🇦
+http://85.237.89.6:9590/ar-s/B-S-pre-1-stop-TimeSheft/index.m3u8
+
+#EXTINF:-1 group-title="Sports",beIN SPORTS 2 🇸🇦
+http://85.237.89.6:9590/ar-s/B-S-pre-2-stop-TimeSheft/index.m3u8
+
+#EXTINF:-1 group-title="Sports",beIN SPORTS 3 🇸🇦
+http://85.237.89.6:9590/ar-s/B-S-pre-3-stop-TimeSheft/index.m3u8
+
+#EXTINF:-1 group-title="Sports",beIN SPORTS 1 🇸🇦
+http://85.237.89.6:9590/ar-s/B-S-pre-1-stop-TimeSheft/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="Sports",beIN SPORTS 2 🇸🇦
+http://85.237.89.6:9590/ar-s/B-S-pre-2-stop-TimeSheft/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="Sports",beIN SPORTS 3 🇸🇦
+http://85.237.89.6:9590/ar-s/B-S-pre-3-stop-TimeSheft/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 group-title="Sports",SuperSport 2 🇦🇱
 http://185.248.173.79:9999/play/arep
@@ -239,9 +263,6 @@ http://190.61.43.117:45000/play/a060
 
 #EXTINF:-1 group-title="Sports",TV1 🇪🇸
 https://rtvelivestream.akamaized.net/rtvesec/la1/la1_main_720.m3u8
-
-#EXTINF:-1 group-title="Sports",TV MAX 🇵🇦 
-https://bcovlive-a.akamaihd.net/74f665e9ff8447639d4de4b8b458d8ae/us-east-1/6058004209001/playlist_dvr.m3u8
 
 #EXTINF:-1 group-title="Sports",TV MAX 🇵🇦 
 https://bcovlive-a.akamaihd.net/74f665e9ff8447639d4de4b8b458d8ae/us-east-1/6058004209001/playlist_dvr.m3u8
