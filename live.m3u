@@ -81,6 +81,12 @@ http://80.252.37.194:5000/udp/233.233.233.8:12000
 #EXTINF:-1 group-title="Sports",HYP 🇪🇸
 http://185.71.64.20:23000/marinoducati/94hBcQzd3A/48642
 
+#EXTINF:-1 group-title="Sports",Arena Sport 4 (HR) 🇭🇷
+http://80.252.37.194:5000/udp/233.233.233.6:12000
+
+#EXTINF:-1 group-title="Sports",Arena Sport 4 (HR) 🇭🇷
+http://aziptv.net:8080/EMIRETVIptv200conn/7RBJU2tfdYDy/7219
+
 #EXTINF:-1 group-title="Sports",beIN SPORTS 1 🇸🇦
 http://85.237.89.6:9590/ar-s/B-S-pre-1-stop-TimeSheft/index.m3u8
 
@@ -335,6 +341,9 @@ http://171.238.181.52:18080/194.m3u8
 
 #EXTINF:-1 group-title="Sports",SPORTS TV 🇹🇷
 http://live.sportstv.com.tr/hls/low/sportstv_fhd/index.m3u8
+
+#EXTINF:-1 group-title="Sports",Gaora Sports 🇯🇵
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs17
 
 #EXTINF:-1 group-title="Sports",WOW TV EL SALVADOR 🇸🇻
 https://cdn.elsalvadordigital.com:1936/wowtv/smil:wowtv.smil/playlist.m3u8
