@@ -162,6 +162,9 @@ https://7pal.short.gy/tntspts3
 #EXTINF:-1 group-title="Sports",TNT SPORT 4 🇬🇧
 https://7pal.short.gy/tntspts4
 
+#EXTINF:-1 group-title="Sports",Bein Sports 1 France 🇫🇷
+http://51.178.65.238/BeinSport/mono.m3u8
+
 #EXTINF:-1 group-title="Sports",BEIN 1 🇫🇷
 http://102.129.186.98:8080/4519833353199323/4519833353199323/327311
 
@@ -209,9 +212,6 @@ http://185.248.173.79:9999/play/a00k
 
 #EXTINF:-1 group-title="Sports",SUPER SPORT KOSOVA 1 🇽🇰
 http://185.248.173.79:9999/play/a00l
-
-#EXTINF:-1 group-title="Sports",Bein Sports 1 France 🇫🇷
-http://51.178.65.238/BeinSport/mono.m3u8
 
 #EXTINF:-1 group-title="Sports",Match HD--КК 🇷🇺
 http://178.212.71.253:8002/play/a00k/index.m3u8
@@ -639,18 +639,6 @@ https://cdn.footballii.ir/hls2/persianas.m3u8
 
 #EXTINF:-1 group-title="Sports",Polsat SPORT 1 🇵🇱
 http://178.219.128.68:64889/POLSSPORHD
-
-#EXTINF:-1 group-title="Sports",Tring Sport 1 FHD 🇦🇱
-http://aziptv.net:8080/EMIRETVIptv200conn/7RBJU2tfdYDy/1762
-
-#EXTINF:-1 group-title="Sports",BEIN Sports 1 HD 🇸🇦
-http://aziptv.net:8080/EMIRETVIptv200conn/7RBJU2tfdYDy/8510
-
-#EXTINF:-1 group-title="Sports",Arena Sport 1 (HR) 🇭🇷
-http://aziptv.net:8080/EMIRETVIptv200conn/7RBJU2tfdYDy/36436
-
-#EXTINF:-1 group-title="Sports",TNT Sport 1 FHD 🇬🇧
-http://aziptv.net:8080/EMIRETVIptv200conn/7RBJU2tfdYDy/1865
 
 
 
