@@ -82,7 +82,7 @@ http://restream.globaltv1.net:8080/MarcG/x10072022x/55359
 http://restream.globaltv1.net:8080/MarcG/x10072022x/255761
 
 #EXTINF:-1 group-title="Sports",PREMIERE SPORT 2 🇮🇪
-https://live.notebulk.xyz/4LJDijI7HiBnFPfeZ5MhBg/1715910544/uk_premiersports2/tracks-v1a1/mono.m3u8
+http://restream.globaltv1.net:8080/MarcG/x10072022x/255763
 
 #EXTINF:-1 group-title="Sports",Premier Sport 1ᴴᴰ 🇨🇿
 http://olam.telka.uk/premiersport_JnD4eF8ALBI4HWrUOpDMUj9sqakB/playlist.m3u8
@@ -347,6 +347,9 @@ https://linear-439.frequency.stream/439/hls/master/playlist.m3u8
 
 #EXTINF:-1 group-title="Sports",TUDN 🇲🇽
 http://190.185.121.102:58092/play/a00m
+
+#EXTINF:-1 group-title="Sports",TUDN 🇲🇽
+http://app.agametv.com:25461/CatherineP1963/Catherine1963/77056
 
 #EXTINF:-1 group-title="Sports",HRT2 🇭🇷
 http://195.29.70.82/PLTV/88888888/224/3221226140/index.m3u8?per
@@ -666,6 +669,7 @@ https://cdn.footballii.ir/hls2/persianas.m3u8
 
 #EXTINF:-1 group-title="Sports",Polsat SPORT 1 🇵🇱
 http://178.219.128.68:64889/POLSSPORHD
+
 
 
 
