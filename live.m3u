@@ -63,12 +63,6 @@
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/jiz6iruaxep7up8/live2.png" group-title="Live Events",Empoli vs Inter 
 
 
-#EXTINF:-1 group-title="Sports",HYP 🇪🇸
-http://185.71.64.20:23000/marinoducati/94hBcQzd3A/48642
-
-#EXTINF:-1 group-title="Sports",HYP 🇪🇸
-http://491832524308571905.ofsd5513.xyz:80/play/tello3/23122023/571905.ts
-
 #EXTINF:-1 group-title="Sports",VIX LALIGA 🇨🇷
 http://190.185.121.102:58092/play/a00t
 
@@ -200,6 +194,12 @@ http://185.71.64.20:23000/marinoducati/94hBcQzd3A/48795
 
 #EXTINF:-1 group-title="Sports",Arena Sport 6 (HR) 🇭🇷
 http://80.252.37.194:5000/udp/233.233.233.8:12000
+
+#EXTINF:-1 group-title="Sports",HYP 🇪🇸
+http://185.71.64.20:23000/marinoducati/94hBcQzd3A/48642
+
+#EXTINF:-1 group-title="Sports",HYP 🇪🇸
+http://491832524308571905.ofsd5513.xyz:80/play/tello3/23122023/571905.ts
 
 #EXTINF:-1 group-title="Sports",A SPORT  🇮🇳
 http://mixbix.xyz:8080/live/afVZb46zeZrT/LdZyXr6ZeqaY/236842.m3u8
