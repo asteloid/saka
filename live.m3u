@@ -63,11 +63,20 @@
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/jiz6iruaxep7up8/live2.png" group-title="Live Events",Empoli vs Inter 
 
 
+#EXTINF:-1 group-title="Sports",HYP 🇪🇸
+http://185.71.64.20:23000/marinoducati/94hBcQzd3A/48642
+
+#EXTINF:-1 group-title="Sports",HYP 🇪🇸
+http://491832524308571905.ofsd5513.xyz:80/play/tello3/23122023/571905.ts
+
 #EXTINF:-1 group-title="Sports",VIX LALIGA 🇨🇷
 http://190.185.121.102:58092/play/a00t
 
 #EXTINF:-1 group-title="Sports",SKY SPORTS LALIGA 🇲🇽
 http://181.78.105.146:2000/play/a08m/index.m3u8
+
+#EXTINF:-1 group-title="Sports",SKY SPORTS LALIGA 🇲🇽
+http://181.78.105.146:2000/play/a08m/index.m3u8?Marcosdos
 
 #EXTINF:-1 group-title="Sports",Sports18 1 HD 🇮🇳
 http://tv.cloudcdn.me/live.ts?channelId=102479&uid=4944&deviceMac=00:1A:79:94:98:FE
@@ -127,6 +136,9 @@ http://mixbix.xyz:8080/Zx5WVffKH747/xxhPzTc8etFw/242882
 http://85.237.89.6:9590/ar-s/B-S-pre-3-stop-TimeSheft/index.m3u8
 
 #EXTINF:-1 group-title="Sports",beIN SPORTS 3 🇸🇦
+http://mixbix.xyz:8080/live/fAueYvrzHX58/9xTFRAYVjxbj/242883.m3u8
+
+#EXTINF:-1 group-title="Sports",beIN SPORTS 3 🇸🇦
 http://85.237.89.6:9590/ar-s/B-S-pre-3-stop-TimeSheft/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 group-title="Sports",beIN SPORT 03 SD 🇸🇦
@@ -156,9 +168,6 @@ http://mixbix.xyz:8080/Zx5WVffKH747/xxhPzTc8etFw/268508
 #EXTINF:-1 group-title="Sports",beIN SPORT 5 SD 🇸🇦
 http://mixbix.xyz:8080/Zx5WVffKH747/xxhPzTc8etFw/242885
 
-#EXTINF:-1 group-title="Sports",HYP 🇪🇸
-http://185.71.64.20:23000/marinoducati/94hBcQzd3A/48642
-
 #EXTINF:-1 group-title="Sports",SUPERSPORT LaLiga 🇿🇦
 http://185.71.64.20:23000/marinoducati/94hBcQzd3A/48795
 
@@ -170,6 +179,9 @@ http://mixbix.xyz:8080/live/afVZb46zeZrT/LdZyXr6ZeqaY/236842.m3u8
 
 #EXTINF:-1 group-title="Sports",A SPORT  🇮🇳
 http://mixbix.xyz:8080/Zx5WVffKH747/xxhPzTc8etFw/236842
+
+#EXTINF:-1 group-title="Sports",A SPORT  🇮🇳
+http://mixbix.xyz:8080/live/fAueYvrzHX58/9xTFRAYVjxbj/236842.m3u8
 
 #EXTINF:-1 group-title="Sports",T SPORTS 🇮🇳
 http://portal.code-crafters.app/app/play.m3u8?id=10741
@@ -187,16 +199,7 @@ http://mixbix.xyz:8080/Zx5WVffKH747/xxhPzTc8etFw/237254
 http://mixbix.xyz:8080/live/3CMxWqrPS9wp/8f9CymgKYLDG/237254.m3u8
 
 #EXTINF:-1 group-title="Sports",TNT SPORT 1 🇬🇧
-https://7pal.short.gy/tntspts1
-
-#EXTINF:-1 group-title="Sports",TNT SPORT 1 🇬🇧
 http://lordofthepings.xyz:8080/play/live.php?mac=00:1A:79:C8:3D:DF&stream=4449&extension=m3u8
-
-#EXTINF:-1 group-title="Sports",TNT SPORT 2 🇬🇧
-https://7pal.short.gy/tntspts2
-
-#EXTINF:-1 group-title="Sports",TNT SPORT 3 🇬🇧
-https://7pal.short.gy/tntspts3
 
 #EXTINF:-1 group-title="Sports",TNT SPORT 4 🇬🇧
 https://7pal.short.gy/tntspts4
@@ -204,47 +207,14 @@ https://7pal.short.gy/tntspts4
 #EXTINF:-1 group-title="Sports",Bein Sports 1 France 🇫🇷
 http://51.178.65.238/BeinSport/mono.m3u8
 
-#EXTINF:-1 group-title="Sports",SuperSport 2 🇦🇱
-http://185.248.173.79:9999/play/arep
-
-#EXTINF:-1 group-title="Sports",SuperSport 2 🇦🇱
-http://185.222.138.163:9000/play/a0tt
-
-#EXTINF:-1 group-title="Sports",TIGO SPORTS 🇨🇷
-http://190.185.121.102:58092/play/a00s
-
-#EXTINF:-1 group-title="Sports",SUPER SPORT 3 🇦🇱
-http://185.248.173.79:9999/play/asp3
-
-#EXTINF:-1 group-title="Sports",SUPER SPORT 4 🇦🇱
-http://185.248.173.79:9999/play/a06c
-
-#EXTINF:-1 group-title="Sports",SUPER SPORT 5 🇦🇱
-http://185.248.173.79:9999/play/a004
-
-#EXTINF:-1 group-title="Sports",SUPER SPORT 6 🇦🇱
-http://185.248.173.79:9999/play/a00j
-
-#EXTINF:-1 group-title="Sports",SUPER SPORT 7 🇦🇱
-http://185.248.173.79:9999/play/a00k
-
-#EXTINF:-1 group-title="Sports",SUPER SPORT KOSOVA 1 🇽🇰
-http://185.248.173.79:9999/play/a00l
-
 #EXTINF:-1 group-title="Sports",Match HD--КК 🇷🇺
 http://178.212.71.253:8002/play/a00k/index.m3u8
 
 #EXTINF:-1 group-title="Sports",Match HD 🇷🇺
 http://91.142.158.107:8092/play/33/index.m3u8
 
-#EXTINF:-1 group-title="Sports",Match HD 🇷🇺
-http://194.143.148.28/MatchHD/mpegts
-
-#EXTINF:-1 group-title="Sports",Match Futbol 1 🇷🇺
-http://194.143.148.28/MatchFutbol1/mpegts
-
 #EXTINF:-1 group-title="Sports",Матч! Футбол 1 HD 🇷🇺
-http://194.143.148.28:8080/MatchFutbol1/mpegts
+http://91.207.114.209:5000/c114
 
 #EXTINF:-1 group-title="Sports",Матч! Футбол 2 HD 🇷🇺
 http://91.207.114.209:5000/c115
@@ -270,14 +240,14 @@ https://hls.sweet.tv/stream/qfq2fp954aui9guc8e4d5526tu8uudcnyj342af9kxq8sry8g7n4
 #EXTINF:-1 group-title="Sports",SETANTA SPORT 2 🇺🇦
 http://ru.iptv.monster/play/943/58A6BB07681962A/video.m3u8
 
-#EXTINF:-1 group-title="Sports",SETANTA SPORT 2 🇺🇦
-https://bkm.beetv.kz/btv/live/hls/000004499.m3u8
-
 #EXTINF:-1 group-title="Sports",Ziggo Sport Select HD 🇳🇱
 http://78.130.250.2:8023/play/a00n/index.m3u8
 
 #EXTINF:-1 group-title="Sports",Ziggo Sport Voetbal 🇳🇱
 http://78.130.250.2:8023/play/a00f/index.m3u8
+
+#EXTINF:-1 group-title="Sports",Ziggo Sport Golf 🇳🇱
+http://78.130.250.2:8023/play/a00g/index.m3u8
 
 #EXTINF:-1 group-title="Sports",bTVActionHD 🇧🇬
 http://185.163.244.10:204/play/bTVActionHD/index.m3u8
@@ -291,11 +261,8 @@ https://edge59.dc.beltelecom.by/ngtrk/smil:belarus5int.smil/playlist.m3u8
 #EXTINF:-1 group-title="Sports",Беларусь 5 🇧🇾
 http://strm.yandex.ru/kal/belarus_5/belarus_50.m3u8
 
-#EXTINF:-1 group-title="Sports",BEIN SPORT LIVE 🇶🇦
+#EXTINF:-1 group-title="Sports",MMN Sport 🇶🇦
 http://mmn.mypsx.net:1935/live/mmnhdsport/chunklist.m3u8
-
-#EXTINF:-1 group-title="Sports",SuperSport 2 🇦🇱
-http://185.248.173.79:9999/play/arep
 
 #EXTINF:-1 group-title="Sports",ARENA SPORT 1 🇭🇷
 http://80.252.37.194:5000/udp/233.233.233.3:12000
@@ -331,16 +298,10 @@ http://38.252.218.10:4000/play/a091/index.m3u8
 http://170.82.37.21:8000/play/a04g/index.m3u8
 
 #EXTINF:-1 group-title="Sports",ESPN VIVO 🇦🇷
-http://204.199.122.4:8000/play/b031/index.m3u8
-
-#EXTINF:-1 group-title="Sports",ESPN VIVO 🇦🇷
 http://181.78.8.90:16123/play/ch16
 
-#EXTINF:-1 group-title="Sports",ESPN HD 🇦🇷
+#EXTINF:-1 group-title="Sports",ESPN VIVO HD 🇦🇷
 http://190.61.43.117:45000/play/a01l
-
-#EXTINF:-1 group-title="Sports",ESPN 2 VIVO HD 🇦🇷
-http://204.199.122.4:8000/play/b032/index.m3u8
 
 #EXTINF:-1 group-title="Sports",ESPN 2 HD 🇦🇷
 http://190.61.43.117:45000/play/a053
@@ -354,14 +315,14 @@ http://190.61.43.117:45000/play/a051
 #EXTINF:-1 group-title="Sports",ESPN 3 HD 🇦🇷
 http://204.199.122.4:8000/play/b033/index.m3u8
 
+#EXTINF:-1 group-title="Sports",ESPN 3 HD 🇦🇷
+http://181.78.8.90:16123/play/ch18
+
 #EXTINF:-1 group-title="Sports",ESPN 4 HD 🇦🇷
 http://190.61.43.117:45000/play/a01v
 
-#EXTINF:-1 group-title="Sports",ESPN 4 HD 🇦🇷
-http://204.199.122.4:8000/play/c015/index.m3u8
-
-#EXTINF:-1 group-title="Sports",ESPN 4 HD 🇦🇷
-http://204.199.122.4:8000/play/b005/index.m3u8
+#EXTINF:-1 group-title="Sports",ESPN 5 🇦🇷
+http://181.78.8.90:16123/play/ch19
 
 #EXTINF:-1 group-title="Sports",ESPN 5 🇦🇷
 http://190.61.43.117:45000/play/a06w
@@ -372,17 +333,14 @@ http://204.199.122.4:8000/play/b028/index.m3u8
 #EXTINF:-1 group-title="Sports",ESPN 6 🇦🇷
 http://204.199.122.4:8000/play/b030/index.m3u8
 
+#EXTINF:-1 group-title="Sports",ESPN 6 🇦🇷
+http://190.61.43.117:45000/play/a060
+
 #EXTINF:-1 group-title="Sports",ESPN 7 🇦🇷
 http://204.199.122.4:8000/play/b029/index.m3u8
 
-#EXTINF:-1 group-title="Sports",Fox Sports 1 HD 🇦🇷
-http://190.108.85.20:9999/play/a011
-
-#EXTINF:-1 group-title="Sports",FOX Sports 2 HD 🇦🇷
+#EXTINF:-1 group-title="Sports",ESPN 7 🇦🇷
 http://190.61.43.117:45000/play/a01g
-
-#EXTINF:-1 group-title="Sports",Fox Sports 3 🇦🇷
-http://190.61.43.117:45000/play/a060
 
 #EXTINF:-1 group-title="Sports",SPORT TV+ 🇵🇹
 http://90.5.77.128:8001/play/a0qw/index.m3u8
@@ -420,8 +378,8 @@ https://tv91.hostingnuclear.com:19360/telecosta/telecosta.m3u8
 #EXTINF:-1 group-title="Sports",TIGO SPORTS 🇨🇷
 http://170.82.37.21:8000/play/a047/index.m3u8
 
-#EXTINF:-1 group-title="Sports",TIGO SPORTS 🇧🇴
-http://131.161.53.2:8000/play/a05i/index.m3u8
+#EXTINF:-1 group-title="Sports",TIGO SPORTS 🇨🇷
+http://190.185.121.102:58092/play/a00s
 
 #EXTINF:-1 group-title="Sports",TUDN 🇲🇽
 https://linear-439.frequency.stream/439/hls/master/playlist.m3u8
@@ -474,17 +432,11 @@ http://e14921eb.amazzin.pw/iptv/3WHBXNFDU9YG7Q/7296/index.m3u8
 #EXTINF:-1 group-title="Sports",Polsat Sport NEWS 🇵🇱
 http://178.219.128.68:64889/POLSSPORNEWSHD
 
-#EXTINF:-1 group-title="Sports",Nova Sport Bulgaria 🇧🇬
-http://87.120.142.8:18000/bs_nova_sport
-
 #EXTINF:-1 group-title="Sports",Nova Sport 3 🇬🇷
 http://213.7.193.54:4000/play/a005/index.m3u8
 
 #EXTINF:-1 group-title="Sports",Sport5 🇮🇱
 https://rgelive.akamaized.net/hls/live/2043151/radiolive/playlist.m3u8
-
-#EXTINF:-1 group-title="Sports",Match Arena 🇷🇺
-http://194.143.148.28/MatchArena/mpegts
 
 #EXTINF:-1 group-title="Sports",SPORT RU 🇷🇺
 http://streaming.astrakhan.ru/astrakhanrusporthd/tracks-v3a1/index.m3u8
@@ -517,19 +469,10 @@ http://217.174.225.146/legacyhls/ch004_720/index.m3u8
 http://217.174.225.146/hls/ch004_720/index.m3u8
 
 #EXTINF:-1 group-title="Sports",S-SPORT 1 🇹🇷
-https://www.oha.to/play/4108728197/index.m3u8
-
-#EXTINF:-1 group-title="Sports",S-SPORT 1 🇹🇷
 https://www.oha.to/play/2666527925/index.m3u8
-
-#EXTINF:-1 group-title="Sports",S-SPORT 1 🇹🇷
-https://www.oha.to/play/896754509/index.m3u8
 
 #EXTINF:-1 group-title="Sports",S-SPORT 2 🇹🇷
 https://www.oha.to/play/4226047772/index.m3u8
-
-#EXTINF:-1 group-title="Sports",S-SPORT 2 🇹🇷
-https://www.oha.to/play/3153880238/index.m3u8
 
 #EXTINF:-1 group-title="Sports",S-SPORT 2 🇹🇷
 https://www.oha.to/play/2573123488/index.m3u8
@@ -579,20 +522,8 @@ https://bit.ly/48XfUCc?profile=inspirationFreetv.m3u8
 #EXTINF:-1 group-title="Sports",ACISPORT TV 🇮🇹
 http://45.65.112.49:8000/play/a0ns
 
-#EXTINF:-1 group-title="Sports",Ziggo Sport Select HD 🇳🇱
-http://78.130.250.2:8023/play/a00n/index.m3u8
-
-#EXTINF:-1 group-title="Sports",Ziggo Sport Voetbal 🇳🇱
-http://78.130.250.2:8023/play/a00f/index.m3u8
-
-#EXTINF:-1 group-title="Sports",Ziggo Sport Golf 🇳🇱
-http://78.130.250.2:8023/play/a00g/index.m3u8
-
-#EXTINF:-1 group-title="Sports",Sport5 🇮🇱
-https://rgelive.akamaized.net/hls/live/2043151/radiolive/playlist.m3u8
-
-#EXTINF:-1 group-title="Sports",SSC 1 HD 🇶🇦
-http://mixbix.xyz:8080/live/3VHmwTKF6qmN/eP3LNRbuUZ3w/294865.m3u8
+#EXTINF:-1 group-title="Sports",SKY SPORT MAINT EVENT 🇬🇧
+https://eu02.dmca.run/247-skymain/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 group-title="Sports",SSC SPORTS 1 SD 🇶🇦
 http://mixbix.xyz:8080/live/3VHmwTKF6qmN/eP3LNRbuUZ3w/294856.m3u8
@@ -620,9 +551,6 @@ https://live.aionet.ir/hls/aiosport/aiosport_1080/index.m3u8
 
 #EXTINF:-1 group-title="Sports",AIO Sport 2 🇶🇦
 https://live.aionet.ir/hls/aiosport2/aiosport2.m3u8
-
-#EXTINF:-1 group-title="Sports",MMN Sport 🇶🇦
-http://mmn.mypsx.net:1935/live/mmnhdsport/chunklist.m3u8
 
 #EXTINF:-1 group-title="Sports",IRIB TV 3 Iran 🇮🇷
 https://live.aionet.ir/hls/tv3/tv3_720/index.m3u8
@@ -678,9 +606,6 @@ http://dmitwlvvll.cdn.mangomolo.com/dubaisportshd5/smil:dubaisportshd5.smil/chun
 #EXTINF:-1 group-title="Sports",SHARJJAH SPORT 🇸🇦
 https://svs.itworkscdn.net/smc4sportslive/smc4.smil/playlist.m3u8
 
-#EXTINF:-1 group-title="Sports",ARAB CHANNEL 1 🇸🇦
-https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/arriadia/hls_snrt/arriadia-avc1_1000000=3-mp4a_130400_qad=1.m3u8
-
 #EXTINF:-1 group-title="Sports",TELETRAK 🇨🇱
 http://unlimited6-cl.dps.live/sportinghd/sportinghd.smil/playlist.m3u8
 
@@ -709,26 +634,14 @@ https://d3qg0hadt0dkov.cloudfront.net/amgtennisus/playlist1080_p.m3u8
 https://d3qg0hadt0dkov.cloudfront.net:443/amgtennisus/playlist1080_p.m3u8
 
 
-#EXTINF:-1 group-title="Sports",M CAMPEONES 🇪🇸
-https://63oa6gbllzujj5j.ngolpdkyoctjcddxshli469r.org/sunshine/QB9fDMyoO7hDbUoWLMvtr0nUyeLf4-KIBvj7z9DmBTQHM_gnqRq7RfCsnZOEaoR9EaPurUg0E3-4hCq7NdmxhVNy0iITl0LxV5LzOcvEpFhRnuUb7fKwLa5gz1QDXLi4d4PHq_EVvE4lkkiunPhKRQJzRLSuPgKFdvb6Psf27hOwgPlacBeo3SDbxYCif7_l/hls/index.m3u8
 
-#EXTINF:-1 group-title="Sports",Match HD 🇷🇺
-http://195.158.222.113:8000/play/156/index.m3u8
+
 
 #EXTINF:-1 group-title="Sports",Match HD 🇷🇺
 http://91.142.158.107:8092/play/33/index.m3u8
 
 #EXTINF:-1 group-title="Sports",Матч! Футбол 1 HD 🇷🇺
-http://194.143.148.28:8080/MatchFutbol1/mpegts
-
-#EXTINF:-1 group-title="Sports",Матч! Футбол 1 HD 🇷🇺
 http://193.201.98.10:5000/c114
-
-#EXTINF:-1 group-title="Sports",Match HD 🇷🇺
-https://7o8gab7zdd.a.trbcdn.net/hls-livef1/matchtv/tracks-v5a1/mono.m3u8
-
-#EXTINF:-1 group-title="Sports",Match HD 🇷🇺
-http://tv.streams.baikal-telecom.net/MatchHD/index.m3u8
 
 #EXTINF:-1 group-title="Sports",Match HD 🇷🇺
 https://streaming.televizor-24-tochka.ru/live/6.m3u8
@@ -761,9 +674,6 @@ https://live.aionet.ir/hls/tv3/tv3_540/index.m3u8
 https://bkm.beetv.kz/btv/live/hls/000003038.m3u8
 
 #EXTINF:-1 group-title="Sports",QAZ SPORT 🇰🇿
-http://87.99.87.203:2007/channel/n7c9a2d6e/index.m3u8?q=1b8c2b84d89772e85341da42b9e646b9
-
-#EXTINF:-1 group-title="Sports",QAZ SPORT 🇰🇿
 http://158.101.214.187:8080/channel/6a187c2a/index.m3u8?q=b92e505ee8a30dc40ddf8c9d0c3bbb38
 
 #EXTINF:-1 group-title="Sports",VARZISH SPORT 🇹🇯
@@ -780,12 +690,6 @@ https://vs1758.vcdn.biz/2a89fb5c1ea0e32fc03ff26e7c46fc8f_megogo/live/hls/b/4000/
 
 #EXTINF:-1 group-title="Sports",Ziggo Sport Select HD 🇳🇱
 http://78.130.250.2:8023/play/a00n/index.m3u8
-
-#EXTINF:-1 group-title="Sports",M4 sport 🇭🇺
-http://119338040796387491.tkop413.xyz:80/play/429TKYVPKC/UGGB3e8DwWe7/387491.m3u8
-
-#EXTINF:-1 group-title="Sports",PERSIANA SPORT 🇮🇷 
-https://cdn.footballii.ir/hls2/persianas.m3u8
 
 #EXTINF:-1 group-title="Sports",PERSIANA SPORT 🇮🇷 
 https://persiana.mastercast.cloud/memfs/f1accec0-3b52-476b-ada9-65f74ead985e.m3u8
