@@ -600,6 +600,9 @@ http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs17
 #EXTINF:-1 group-title="Sports",GEO SUPER HD 🇮🇳
 http://mixbix.xyz:8080/Zx5WVffKH747/xxhPzTc8etFw/236840
 
+#EXTINF:-1 group-title="Sports",SUKAN RTM 🇮🇳
+https://d25tgymtnqzu8s.cloudfront.net/smil:sukan/playlist.m3u8?id=4
+
 #EXTINF:-1 group-title="Sports",WOW TV EL SALVADOR 🇸🇻
 https://cdn.elsalvadordigital.com:1936/wowtv/smil:wowtv.smil/playlist.m3u8
 
@@ -717,6 +720,15 @@ https://persiana.mastercast.cloud/memfs/f1accec0-3b52-476b-ada9-65f74ead985e.m3u
 
 #EXTINF:-1 group-title="Sports",Polsat SPORT 1 🇵🇱
 http://178.219.128.68:64889/POLSSPORHD
+
+#EXTINF:-1 group-title="Sports",CHAMPIONS LEAGUE 1 HD
+http://pubgamers.net:80/RahmanBalajXhevdet/dTjoKahOiK/753
+
+#EXTINF:-1 group-title="Sports",CHAMPIONS LEAGUE 2 HD
+http://pubgamers.net:80/RahmanBalajXhevdet/dTjoKahOiK/754
+
+#EXTINF:-1 group-title="Sports",CHAMPIONS LEAGUE 3 HD
+http://pubgamers.net:80/RahmanBalajXhevdet/dTjoKahOiK/755
 
 
 
