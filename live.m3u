@@ -63,6 +63,9 @@
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/jiz6iruaxep7up8/live2.png" group-title="Live Events",Empoli vs Inter 
 
 
+#EXTINF:-1 group-title="Sports",ELEVEN SPORTS 5 🇵🇹
+http://50.7.137.106:8080/ELEVEN_SPORTS_5/index.m3u8
+
 #EXTINF:-1 group-title="Sports",BEIN SPORTS MAX 10 HD 🇫🇷
 http://sf.bleutv.net:8080/live/172016382891759/172012817095810/340.ts
 
