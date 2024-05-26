@@ -63,11 +63,11 @@
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/jiz6iruaxep7up8/live2.png" group-title="Live Events",Empoli vs Inter 
 
 
-#EXTINF:-1 group-title="Sports",M+2 🇪🇸
-http://424214324989654580.ofgh525.xyz:80/play/tello3/23122023/654580.ts
-
 #EXTINF:-1 group-title="Sports",ELEVEN SPORTS 5 🇵🇹
 http://50.7.137.106:8080/ELEVEN_SPORTS_5/index.m3u8
+
+#EXTINF:-1 group-title="Sports",EUROLIGA 🇪🇸
+https://www.oha.to/play/2344934304/index.m3u8
 
 #EXTINF:-1 group-title="Sports",VIX LALIGA 🇨🇷
 http://190.185.121.102:58092/play/a00t
