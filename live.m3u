@@ -81,8 +81,17 @@ https://cdn.footballii.ir/hls2/bein1.m3u8
 #EXTINF:-1 group-title="Sports",BEIN SPORT 2 MAX 🇶🇦
 http://85.237.89.6:9590/ar-s/B-S-pre-2-stop-TimeSheft/tracks-v1a1/mono.m3u8
 
+#EXTINF:-1 group-title="Sports",SONY SPORT 5 🇮🇳
+https://homeip.biz/livso/index.m3u8
+
 #EXTINF:-1 group-title="Sports",PERSIANA SPORT 🇸🇦
 https://cdn.footballii.ir/hls2/persianas.m3u8
+
+#EXTINF:-1 group-title="Sports",TSN 1 🇨🇦
+http://xlbh-a36-ul29-30-lvnvcolox.dns-online.network:70/TSN1/index.m3u8
+
+#EXTINF:-1 group-title="Sports",TSN 4 🇨🇦
+http://45.41.213.34:70/TSN4/index.m3u8
 
 #EXTINF:-1 group-title="Sports",SPORTV 🇧🇷
 http://179.124.14.153:8080/19/index.m3u8
