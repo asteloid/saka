@@ -87,6 +87,9 @@ https://homeip.biz/livso/index.m3u8
 #EXTINF:-1 group-title="Sports",PERSIANA SPORT 🇸🇦
 https://cdn.footballii.ir/hls2/persianas.m3u8
 
+#EXTINF:-1 group-title="Sports",Матч! Футбол 1 HD 🇷🇺
+http://88.85.172.243:7002/play/a02j
+
 #EXTINF:-1 group-title="Sports",TSN 1 🇨🇦
 http://xlbh-a36-ul29-30-lvnvcolox.dns-online.network:70/TSN1/index.m3u8
 
