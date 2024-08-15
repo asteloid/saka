@@ -75,11 +75,20 @@ http://181.78.105.146:2000/play/a08m/index.m3u8?Marcosdos
 #EXTINF:-1 group-title="Sports",SUPERSPORT LaLiga 🇿🇦
 http://145.239.5.177:8080/565/index.m3u8
 
+#EXTINF:-1 group-title="Sports",SUPERSPORT LaLiga 🇿🇦
+https://bong.ink/zone-1.m3u8
+
+#EXTINF:-1 group-title="Sports",SUPERSPORT LaLiga 🇿🇦
+https://bongsports.stream/live/zone-11/chunks.m3u8
+
 #EXTINF:-1 group-title="Sports",M+ LALIGA HD 🇪🇸
 http://604262224137165392.ofre802.xyz:80/play/tello3/23122023/165392.ts
 
 #EXTINF:-1 group-title="Sports",DAZN LALIGA HD 🇪🇸
 http://604262224137320781.ofre802.xyz:80/play/tello3/23122023/320781.ts
+
+#EXTINF:-1 group-title="Sports",BEIN SPORT 1 🇶🇦
+http://176.9.60.218:8080/BE1HDHEVC/index.m3u8
 
 #EXTINF:-1 group-title="Sports",Sports18 1 HD 🇮🇳
 http://tv.cloudcdn.me/live.ts?channelId=102479&uid=4944&deviceMac=00:1A:79:94:98:FE
@@ -326,6 +335,12 @@ http://217.174.225.146/legacyhls/ch004_720/index.m3u8
 
 #EXTINF:-1 group-title="Sports",Turkmenistan Sport 🇹🇲
 http://217.174.225.146/hls/ch004_720/index.m3u8
+
+#EXTINF:-1 group-title="Sports",BEIN SOORT HABER 🇹🇷
+https://bozztv.com/dvrfl05/gin-beinsportshaber/index.m3u8
+
+#EXTINF:-1 group-title="Sports",TRT SPORT 🇹🇷
+http://ttk0811.xyz:8080/live/drs3433/cn.0905/353402.m3u8
 
 #EXTINF:-1 group-title="Sports",S-SPORT 1 🇹🇷
 https://www.oha.to/play/2666527925/index.m3u8
