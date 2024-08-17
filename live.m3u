@@ -93,6 +93,15 @@ https://bong.ink/zone-1.m3u8
 #EXTINF:-1 group-title="Sports",SUPERSPORT LaLiga 🇿🇦
 https://bongsports.stream/live/zone-11/chunks.m3u8
 
+#EXTINF:-1 group-title="Sports",BZBUZ 🇶🇦
+https://m12.buz-sport.site/hls/0/stream.m3u8
+
+#EXTINF:-1 group-title="Sports",BZBUZ 🇶🇦
+https://m12.buz-sport.site/hls/1/stream.m3u8
+
+#EXTINF:-1 group-title="Sports",BZBUZ 🇶🇦
+https://m2.buz-sport.site/hls/0/stream.m3u8
+
 #EXTINF:-1 group-title="Sports",M+ LALIGA HD 🇪🇸
 https://www.oha.to/play/2428779244/index.m3u8
 
