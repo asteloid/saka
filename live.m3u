@@ -159,6 +159,9 @@ http://worldcup1.sawatvplus.store/streams_cach/158551.m3u8?token=
 #EXTINF:-1 group-title="Sports",Sports18 1 HD 🇮🇳
 http://tv.cloudcdn.me/live.ts?channelId=102479&uid=4944&deviceMac=00:1A:79:94:98:FE
 
+#EXTINF:-1 group-title="Sports",ARY Sports🇮🇳
+http://125.209.88.166:45793/BRN/ArySports.stream/playlist.m3u8
+
 #EXTINF:-1 group-title="Sports",S SPORT 1 🇹🇷
 http://tvs.lol:8080/play/WNlrFYAKGYvNLo3JwNIga20b706Se0tOyCMqB5MNBVU/ts
 
@@ -224,6 +227,9 @@ http://91.142.158.107:8092/play/33/index.m3u8
 
 #EXTINF:-1 group-title="Sports",Футбол 1 HD 🇷🇺
 http://194.143.148.28:8080/MatchFutbol1/mpegts
+
+#EXTINF:-1 group-title="Sports",Матч! Футбол 3 HD 🇷🇺
+http://185.57.68.33/110/mpegts
 
 #EXTINF:-1 group-title="Sports",Fast Sports 🇦🇲
 http://stream01.vnet.am/Channel_131/mono.m3u8
