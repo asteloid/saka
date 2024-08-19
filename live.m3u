@@ -88,6 +88,12 @@ http://190.185.121.102:58092/play/a00t
 https://vipgoodlive-tvs.creativehub.sbs/La_Liga_TV_Live_TV/index.m3u8
 
 #EXTINF:-1 group-title="Sports",SUPERSPORT LaLiga 🇿🇦
+https://vipgoodlive-tvs.creativehub.sbs/SuperSport_LaLiga_Live_TV/index.m3u8
+
+#EXTINF:-1 group-title="Sports",SUPERSPORT LaLiga 🇿🇦
+https://xcdn.bong.ink/hls/bong2.m3u8
+
+#EXTINF:-1 group-title="Sports",SUPERSPORT LaLiga 🇿🇦
 http://145.239.5.177:8080/565/index.m3u8
 
 #EXTINF:-1 group-title="Sports",SUPERSPORT LaLiga 🇿🇦
