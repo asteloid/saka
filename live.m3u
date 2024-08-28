@@ -63,11 +63,23 @@
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/jiz6iruaxep7up8/live2.png" group-title="Live Events",Empoli vs Inter 
 
 
+#EXTINF:-1 group-title="Sports",ELEVEN SPORTS 3 🇵🇹
+http://50.7.137.106:8080/ELEVEN_SPORTS_3/index.m3u8
+
+#EXTINF:-1 group-title="Sports",Футбол 1 HD 🇷🇺
+http://194.143.148.28:8080/MatchFutbol1/mpegts
+
+#EXTINF:-1 group-title="Sports",Fast Sports 🇦🇲
+http://stream01.vnet.am/Channel_131/mono.m3u8
+
 #EXTINF:-1 group-title="Sports",CANAL+ SPORT HD 🇵🇱
 http://185.236.229.62:9981/play/a04c
 
 #EXTINF:-1 group-title="Sports",ESPN 3 VIVO 🇦🇷
 http://190.90.18.161:15082/play/a05h/index.m3u8
+
+#EXTINF:-1 group-title="Sports",ESPN 3 VIVO 🇦🇷
+http://181.78.8.90:16123/play/ch18
 
 #EXTINF:-1 group-title="Sports",Bein Sports 1 France 🇫🇷
 http://51.178.65.238/BeinSport/mono.m3u8
