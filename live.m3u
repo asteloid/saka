@@ -66,6 +66,9 @@
 #EXTINF:-1 group-title="Sports",CANAL+ SPORT HD 🇵🇱
 http://185.236.229.62:9981/play/a04c
 
+#EXTINF:-1 group-title="Sports",ESPN 3 VIVO 🇦🇷
+http://190.90.18.161:15082/play/a05h/index.m3u8
+
 #EXTINF:-1 group-title="Sports",Bein Sports 1 France 🇫🇷
 http://51.178.65.238/BeinSport/mono.m3u8
 
@@ -101,6 +104,9 @@ http://181.78.105.146:8800/play/a07h
 
 #EXTINF:-1 group-title="Sports",SKY SPORTS LALIGA 🇲🇽
 http://190.185.121.102:58092/play/a00t
+
+#EXTINF:-1 group-title="Sports",ESPN DEPORTES 🇺🇸
+http://190.92.10.66:4000/play/a003/index.m3u8
 
 #EXTINF:-1 group-title="Sports",M+ LALIGA HD 🇪🇸
 https://www.oha.to/play/2428779244/index.m3u8
@@ -347,6 +353,9 @@ http://190.185.121.102:58092/play/a00s
 
 #EXTINF:-1 group-title="Sports",TUDN 🇲🇽
 http://190.185.121.102:58092/play/a00m
+
+#EXTINF:-1 group-title="Sports",TUDN 🇲🇽
+http://190.92.10.66:4000/play/a002/index.m3u8
 
 #EXTINF:-1 group-title="Sports",TSN 1 🇨🇦
 http://lordofthepings.xyz:8080/play/live.php?mac=00:1A:79:C8:3D:DF&stream=1130111&extension=ts
