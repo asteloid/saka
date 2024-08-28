@@ -114,6 +114,12 @@ http://190.185.121.102:58092/play/a00t
 #EXTINF:-1 group-title="Sports",ESPN DEPORTES 🇺🇸
 http://190.92.10.66:4000/play/a003/index.m3u8
 
+#EXTINF:-1 group-title="Sports",S LALIGA 🇿🇦
+https://1.goalglory.org/n-1/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="Sports",S LALIGA 🇿🇦
+https://1.goalglory.org/n-2/tracks-v1a1/mono.m3u8
+
 #EXTINF:-1 group-title="Sports",M+ LALIGA HD 🇪🇸
 https://www.oha.to/play/2428779244/index.m3u8
 
