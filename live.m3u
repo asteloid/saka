@@ -216,6 +216,9 @@ http://178.212.71.253:8002/play/a00k/index.m3u8
 #EXTINF:-1 group-title="Sports",Match HD 🇷🇺
 http://91.142.158.107:8092/play/33/index.m3u8
 
+#EXTINF:-1 group-title="Sports",Match HD 🇷🇺
+http://91.207.114.220:9001/play/a050/index.m3u8
+
 #EXTINF:-1 group-title="Sports",Футбол 1 HD 🇷🇺
 http://194.143.148.28:8080/MatchFutbol1/mpegts
 
