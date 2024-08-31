@@ -63,11 +63,8 @@
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/jiz6iruaxep7up8/live2.png" group-title="Live Events",Empoli vs Inter 
 
 
-#EXTINF:-1 group-title="Sports",Bein Sports 1 France 🇫🇷
-http://51.178.65.238/BeinSport/mono.m3u8
-
-#EXTINF:-1 group-title="Sports",PERSIANA SPORT 🇮🇷 
-https://cdn.footballii.ir/hls2/persianas.m3u8
+#EXTINF:-1 group-title="Sports",ELEVEN SPORTS 3 🇵🇹
+http://50.7.137.106:8080/ELEVEN_SPORTS_3/index.m3u8
 
 #EXTINF:-1 group-title="Sports",TV4 Fotbol 🇸🇪
 http://81.170.137.124:9998/stream/channelid/602448551
@@ -78,14 +75,17 @@ http://190.92.10.66:4000/play/a003/index.m3u8
 #EXTINF:-1 group-title="Sports",ELEVEN SPORT 1 🇵🇱
 http://185.236.229.62:9981/play/a05w
 
-#EXTINF:-1 group-title="Sports",S LALIGA 🇿🇦
-https://1.goalglory.org/n-1/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 group-title="Sports",Setanta Sports 1 🇷🇺
-https://stream2.cinerama.uz/1263/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Sports",Setanta Sports 2 🇷🇺
+https://stream2.cinerama.uz/1264/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 group-title="Sports",TSN 2 🇨🇦
 http://lordofthepings.xyz:8080/play/live.php?mac=00:1A:79:C8:3D:DF&stream=1130112&extension=ts
+
+#EXTINF:-1 group-title="Sports",ARY Sports🇮🇳
+http://125.209.88.166:45793/BRN/ArySports.stream/playlist.m3u8
+
+#EXTINF:-1 group-title="Sports",S SPORT 1 🇹🇷
+http://tvs.lol:8080/play/WNlrFYAKGYvNLo3JwNIga20b706Se0tOyCMqB5MNBVU/ts
 
 #EXTINF:-1 group-title="Sports",Turkmenistan Sport 🇹🇲
 https://alpha.tv.online.tm/legacyhls/ch004_720/index.m3u8
@@ -93,8 +93,17 @@ https://alpha.tv.online.tm/legacyhls/ch004_720/index.m3u8
 #EXTINF:-1 group-title="Sports",Turkmenistan Sport 🇹🇲
 http://217.174.225.146/legacyhls/ch004_720/index.m3u8
 
-#EXTINF:-1 group-title="Sports",S SPORT 1 🇹🇷
-http://tvs.lol:8080/play/WNlrFYAKGYvNLo3JwNIga20b706Se0tOyCMqB5MNBVU/ts
+#EXTINF:-1 group-title="Sports",Bein Sports 1 France 🇫🇷
+http://51.178.65.238/BeinSport/mono.m3u8
+
+#EXTINF:-1 group-title="Sports",PERSIANA SPORT 🇮🇷 
+https://cdn.footballii.ir/hls2/persianas.m3u8
+
+#EXTINF:-1 group-title="Sports",S LALIGA 🇿🇦
+https://1.goalglory.org/n-1/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="Sports",Setanta Sports 1 🇷🇺
+https://stream2.cinerama.uz/1263/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 group-title="Sports",VIX LALIGA 🇨🇷
 http://190.185.121.102:58092/play/a00t
@@ -116,9 +125,6 @@ http://181.78.105.146:8800/play/a07h
 
 #EXTINF:-1 group-title="Sports",SKY SPORTS LALIGA 🇲🇽
 http://190.185.121.102:58092/play/a00t
-
-#EXTINF:-1 group-title="Sports",BEIN 3 🇶🇦
-http://z88.ubtvfans.com/live/rx1/2405/b2e567a130b342be942234f5e48c28dc/index.m3u8
 
 #EXTINF:-1 group-title="Sports",M+ LALIGA HD 🇪🇸
 https://www.oha.to/play/2428779244/index.m3u8
