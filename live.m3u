@@ -63,26 +63,20 @@
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/jiz6iruaxep7up8/live2.png" group-title="Live Events",Empoli vs Inter 
 
 
-#EXTINF:-1 group-title="Sports",LIGA
-https://drjpy7suzu4c5.cloudfront.net/out/v1/0c06db0274c04e64ab6ae0450f5fbda8/index_6.m3u8
-
-#EXTINF:-1 group-title="Sports",ARENA SPORT 6 🇭🇷
-http://uccio.privres.xyz:80/jokerpersonale/qYurq7TIam/250826
-
-#EXTINF:-1 group-title="Sports",MAX SPORT 4 🇧🇬
-http://uccio.privres.xyz:80/jokerpersonale/qYurq7TIam/280186
-
-#EXTINF:-1 group-title="Sports",ELEVEN SPORTS 3 🇵🇹
-http://50.7.137.106:8080/ELEVEN_SPORTS_3/index.m3u8
-
-#EXTINF:-1 group-title="Sports",TV4 Fotbol 🇸🇪
-http://81.170.137.124:9998/stream/channelid/602448551
+#EXTINF:-1 group-title="Sports",Bein Sports 1 France 🇫🇷
+http://51.178.65.238/BeinSport/mono.m3u8
 
 #EXTINF:-1 group-title="Sports",ESPN DEPORTES 🇺🇸
 http://190.92.10.66:4000/play/a003/index.m3u8
 
-#EXTINF:-1 group-title="Sports",ELEVEN SPORT 1 🇵🇱
-http://185.236.229.62:9981/play/a05w
+#EXTINF:-1 group-title="Sports",CANAL+ SPORT 2 HD 🇵🇱
+http://185.236.229.62:9981/play/a05t
+
+#EXTINF:-1 group-title="Sports",LIGA
+https://drjpy7suzu4c5.cloudfront.net/out/v1/0c06db0274c04e64ab6ae0450f5fbda8/index_6.m3u8
+
+#EXTINF:-1 group-title="Sports",TV4 Fotbol 🇸🇪
+http://81.170.137.124:9998/stream/channelid/602448551
 
 #EXTINF:-1 group-title="Sports",Setanta Sports 2 🇷🇺
 https://stream2.cinerama.uz/1264/tracks-v1a1/mono.m3u8
@@ -101,9 +95,6 @@ https://alpha.tv.online.tm/legacyhls/ch004_720/index.m3u8
 
 #EXTINF:-1 group-title="Sports",Turkmenistan Sport 🇹🇲
 http://217.174.225.146/legacyhls/ch004_720/index.m3u8
-
-#EXTINF:-1 group-title="Sports",Bein Sports 1 France 🇫🇷
-http://51.178.65.238/BeinSport/mono.m3u8
 
 #EXTINF:-1 group-title="Sports",PERSIANA SPORT 🇮🇷 
 https://cdn.footballii.ir/hls2/persianas.m3u8
@@ -170,33 +161,6 @@ http://50.7.137.106:8080/ELEVEN_SPORTS_4/index.m3u8
 
 #EXTINF:-1 group-title="Sports",ELEVEN SPORTS 5 🇵🇹
 http://50.7.137.106:8080/ELEVEN_SPORTS_5/index.m3u8
-
-#EXTINF:-1 group-title="Sports",BEIN Sports 1 🇶🇦
-http://uccio.privres.xyz:80/jokerpersonale/qYurq7TIam/341348
-
-#EXTINF:-1 group-title="Sports",BEIN Sports 2 🇶🇦
-http://uccio.privres.xyz:80/jokerpersonale/qYurq7TIam/341337
-
-#EXTINF:-1 group-title="Sports",BEIN Sports 3 🇶🇦
-http://uccio.privres.xyz:80/jokerpersonale/qYurq7TIam/341338
-
-#EXTINF:-1 group-title="Sports",Bein Sports 1 France 🇫🇷
-http://uccio.privres.xyz:80/jokerpersonale/qYurq7TIam/341355
-
-#EXTINF:-1 group-title="Sports",Bein Sports 2 France 🇫🇷
-http://uccio.privres.xyz:80/jokerpersonale/qYurq7TIam/341356
-
-#EXTINF:-1 group-title="Sports",Bein Sports 3 France 🇫🇷
-http://uccio.privres.xyz:80/jokerpersonale/qYurq7TIam/329213
-
-#EXTINF:-1 group-title="Sports",SUPERSPORT FOOTBALL 🇿🇦
-http://145.239.5.177:8080/564/index.m3u8
-
-#EXTINF:-1 group-title="Sports",SUPERSPORT PREMIER LEAGUE 🇿🇦
-http://145.239.5.177:8080/566/index.m3u8
-
-#EXTINF:-1 group-title="Sports",SUPERSPORT 🇿🇦
-http://145.239.5.177:8080/567/index.m3u8
 
 #EXTINF:-1 group-title="Sports",TNT SPORT 1 🇬🇧
 http://lordofthepings.xyz:8080/play/live.php?mac=00:1A:79:C8:3D:DF&stream=4449&extension=m3u8
@@ -275,9 +239,6 @@ http://185.236.229.62:9981/play/a061
 
 #EXTINF:-1 group-title="Sports",CANAL+ SPORT HD 🇵🇱
 http://185.236.229.62:9981/play/a04c
-
-#EXTINF:-1 group-title="Sports",CANAL+ SPORT 2 HD 🇵🇱
-http://185.236.229.62:9981/play/a05t
 
 #EXTINF:-1 group-title="Sports",Беларусь 5 🇧🇾
 https://ngtrk.dc.beltelecom.by/ngtrk/smil:belarus5int/playlist.m3u8
