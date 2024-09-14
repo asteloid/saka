@@ -81,6 +81,9 @@ http://65.21.85.175:8000/play/a008/index.m3u8?token=livetv
 #EXTINF:-1 group-title="Sports",МАТЧ! Футбол2 🇷🇺
 http://194.26.229.213/matc-futbol-2/index.m3u8?token=Panda
 
+#EXTINF:-1 group-title="Sports",DIRECTV SPORT HD 🇦🇷
+http://209.45.20.210:50001/play/a03o/index.m3u8
+
 #EXTINF:-1 group-title="Sports",BEIN 3 🇶🇦
 http://188.93.236.142:8080/live/431714716778004/68da21d2dca3/25108.m3u8?token=Q0FaWEpZFFsXU1dSAFVTUgQDUFNUD10FAAUFV1cHBgYIUFQBD1QFAA0VGEZGFUdTUl9qWwIVAlNXAgBcGENHQ10RbVBdEwxDAwINVARUFxoRRlxfAxUCUU4RQA1QQwheTQ9eFRtUThVQRVoFWT5RU0VbVldEDVYUDl8cRlsPbVRdDlNXXRMMQwQVGEZcEkUUCVxAXgobGgMLR0IFQAQQClYWXlUVE1UOQFlAFkxDDxRmYRceRFJAFQddQw1bDxAKGg4BTAETGkNcRGsWUBJBRFZTWFcUFQJDUhEcRlkASm9bDFxXXFJCCFpZR0YPQwQUHxBYXQheTA4QbEANUEMIXk0PXkQ=
 
@@ -372,6 +375,15 @@ http://200.60.124.19:29000/play/a06p/index.m3u8
 #EXTINF:-1 group-title="Sports",Movistar Deportes 🇪🇸
 http://38.43.151.206:8000/play/a02z/index.m3u8
 
+#EXTINF:-1 group-title="Sports",DIRECTV SPORT HD 🇦🇷
+http://209.45.20.210:50001/play/a03o/index.m3u8
+
+#EXTINF:-1 group-title="Sports",DIRECTV SPORT 2 HD 🇦🇷
+http://209.45.20.210:50001/play/a03p/index.m3u8
+
+#EXTINF:-1 group-title="Sports",DIRECTV SPORT + HD 🇦🇷
+http://209.45.20.210:50001/play/a03q/index.m3u8
+
 #EXTINF:-1 group-title="Sports",DIRECTV SPORT 1 HD 🇦🇷
 http://masplay.net:80/play/oEcPdncA1OherpWq1eyfNlhxX8lV088kyGE9Jl3AwBo/ts
 
@@ -419,6 +431,12 @@ http://200.60.124.19:29000/play/a01f/index.m3u8
 
 #EXTINF:-1 group-title="Sports",ESPN 7 🇦🇷
 http://200.60.124.19:29000/play/a01e/index.m3u8
+
+#EXTINF:-1 group-title="Sports",ESPN 7 🇦🇷
+http://209.45.20.210:50001/play/a00w/index.m3u8
+
+#EXTINF:-1 group-title="Sports",ESPN Premium HD 🇦🇷
+http://209.45.20.210:50001/play/a02p/index.m3u8
 
 #EXTINF:-1 group-title="Sports",TV MAX 🇵🇦 
 https://bcovlive-a.akamaihd.net/74f665e9ff8447639d4de4b8b458d8ae/us-east-1/6058004209001/playlist_dvr.m3u8
