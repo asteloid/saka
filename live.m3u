@@ -67,6 +67,12 @@
 https://drjpy7suzu4c5.cloudfront.net/out/v1/0c06db0274c04e64ab6ae0450f5fbda8/index_6.m3u8
 
 #EXTINF:-1 group-title="Sports",LIGA
+https://db7g5t2s3y0c9.cloudfront.net/out/v1/1c7f5a41c9934f24916b7ce5d1ea381e/index.m3u8
+
+#EXTINF:-1 group-title="Sports",LIGA
+https://dz6knuujo9z7i.cloudfront.net/out/v1/a54d9b3234aa4b61a2d1f475bfad6a58/index.m3u8
+
+#EXTINF:-1 group-title="Sports",LIGA
 https://7.tutl24.xyz/live/STa1e37b42ad44cef.m3u8
 
 #EXTINF:-1 group-title="Sports",BEIN 3 🇶🇦
@@ -146,6 +152,9 @@ http://tv.cloudcdn.me/live.ts?channelId=102479&uid=4944&deviceMac=00:1A:79:94:98
 
 #EXTINF:-1 group-title="Sports",ARY Sports🇮🇳
 http://125.209.88.166:45793/BRN/ArySports.stream/playlist.m3u8
+
+#EXTINF:-1 group-title="Sports",T Sports🇮🇳
+http://dcdn.bdixsports.live:1935/event/event1.stream/playlist.m3u8
 
 #EXTINF:-1 group-title="Sports",S SPORT 1 🇹🇷
 http://tvs.lol:8080/play/WNlrFYAKGYvNLo3JwNIga20b706Se0tOyCMqB5MNBVU/ts
@@ -443,6 +452,9 @@ http://ttk0811.xyz:8080/live/drs3433/cn.0905/353402.m3u8
 
 #EXTINF:-1 group-title="Sports",SPORTS TV 🇹🇷
 http://live.sportstv.com.tr/hls/low/sportstv_fhd/index.m3u8
+
+#EXTINF:-1 group-title="Sports",TV 8,5 🇹🇷
+https://hw1.jemtv.com/app/tv85/chunks.m3u8
 
 #EXTINF:-1 group-title="Sports",Digi Sport 1 🇷🇴
 http://e14921eb.amazzin.pw/iptv/3WHBXNFDU9YG7Q/2523/index.m3u8
