@@ -222,6 +222,9 @@ http://91.207.114.220:9001/play/a050/index.m3u8
 #EXTINF:-1 group-title="Sports",Match 🇷🇺
 http://ost.uspeh.sbs/va2VuPVtzdGJfdG9rZW5dIiwiYSI6Imh0dHA6Ly8xOTUuMjExLjI3LjE1Mjo4ODg3LzgwMTYvdGltZXNoaWZ0X2Ficy1bdGltZV9zdGFydF0ubTN1OD90b2tlbj1bc3RiX3Rva2VuXVtjdXJyX3RpbWVdIiwibCI6ImEyM2Y2ZWZmIiwicCI6ImEyM2Y2ZWZmYWU3N2ZjMWEiLCJjIjoiMTYiLCJ0IjoiNTQ5YmViOWIxNmYyMTUxMDE4M2M1MjNiZmI4N2EzZjEiLCJkIjoiNjg0NDgiLCJyIjoiNjk3NzYiLCJtIjoidHYiLCJkdCI6IjAifQeyJ1IjoiaHR0cDovLzE5NS4yMTEuMjcuMTQ5Ojg4ODcvODAxNi9pbmRleC5tM3U4P3R/index.m3u8
 
+#EXTINF:-1 group-title="Sports",Match 🇷🇺
+http://s18209.cdn.ngenix.net/hls/CH_R04_ROSSIA2/variant.m3u8
+
 #EXTINF:-1 group-title="Sports",Футбол 1 HD 🇷🇺
 http://194.143.148.28:8080/MatchFutbol1/mpegts
 
@@ -435,6 +438,12 @@ https://rgelive.akamaized.net/hls/live/2043151/radiolive/playlist.m3u8
 #EXTINF:-1 group-title="Sports",TV4 Fotbol 🇸🇪
 http://81.170.137.124:9998/stream/channelid/602448551
 
+#EXTINF:-1 group-title="Sports",Viju+ Sport 🇷🇺
+https://stream1.cinerama.uz/1229/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="Sports",Матч! Планета 🇷🇺
+https://stream1.cinerama.uz/1049/tracks-v1a1/mono.m3u8
+
 #EXTINF:-1 group-title="Sports",SPORT RU 🇷🇺
 http://streaming.astrakhan.ru/astrakhanrusporthd/tracks-v3a1/index.m3u8
 
@@ -506,6 +515,9 @@ http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs17
 
 #EXTINF:-1 group-title="Sports",STAR SPORT 2 🇮🇳
 http://50.7.218.122:80/sp2hd/index.m3u8
+
+#EXTINF:-1 group-title="Sports",BTV5 — On Sports Action 🇹🇭
+https://liveh12.vtvcab.vn/hls/ONBTV5/04.m3u8
 
 #EXTINF:-1 group-title="Sports",WOW TV EL SALVADOR 🇸🇻
 https://cdn.elsalvadordigital.com:1936/wowtv/smil:wowtv.smil/playlist.m3u8
