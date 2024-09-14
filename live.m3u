@@ -75,6 +75,12 @@ https://dz6knuujo9z7i.cloudfront.net/out/v1/a54d9b3234aa4b61a2d1f475bfad6a58/ind
 #EXTINF:-1 group-title="Sports",LIGA
 https://7.tutl24.xyz/live/STa1e37b42ad44cef.m3u8
 
+#EXTINF:-1 group-title="Sports",МАТЧ! Футбол2 🇷🇺
+http://65.21.85.175:8000/play/a008/index.m3u8?token=livetv
+
+#EXTINF:-1 group-title="Sports",МАТЧ! Футбол2 🇷🇺
+http://194.26.229.213/matc-futbol-2/index.m3u8?token=Panda
+
 #EXTINF:-1 group-title="Sports",BEIN 3 🇶🇦
 http://188.93.236.142:8080/live/431714716778004/68da21d2dca3/25108.m3u8?token=Q0FaWEpZFFsXU1dSAFVTUgQDUFNUD10FAAUFV1cHBgYIUFQBD1QFAA0VGEZGFUdTUl9qWwIVAlNXAgBcGENHQ10RbVBdEwxDAwINVARUFxoRRlxfAxUCUU4RQA1QQwheTQ9eFRtUThVQRVoFWT5RU0VbVldEDVYUDl8cRlsPbVRdDlNXXRMMQwQVGEZcEkUUCVxAXgobGgMLR0IFQAQQClYWXlUVE1UOQFlAFkxDDxRmYRceRFJAFQddQw1bDxAKGg4BTAETGkNcRGsWUBJBRFZTWFcUFQJDUhEcRlkASm9bDFxXXFJCCFpZR0YPQwQUHxBYXQheTA4QbEANUEMIXk0PXkQ=
 
@@ -201,6 +207,12 @@ http://lordofthepings.xyz:8080/play/live.php?mac=00:1A:79:C8:3D:DF&stream=4462&e
 #EXTINF:-1 group-title="Sports",Bein Sports 1 🇬🇧
 http://worldcup1.sawatvplus.store/streams_cach/158552.m3u8?token=
 
+#EXTINF:-1 group-title="Sports",Premier Sports 1 🇮🇪
+https://7pal.short.gy/prsport1
+
+#EXTINF:-1 group-title="Sports",Premier Sports 2 🇮🇪
+https://7pal.short.gy/prsport2
+
 #EXTINF:-1 group-title="Sports",Bein Sports 1 France 🇫🇷
 http://51.178.65.238/BeinSport/mono.m3u8
 
@@ -235,7 +247,13 @@ http://s18209.cdn.ngenix.net/hls/CH_R04_ROSSIA2/variant.m3u8
 http://194.143.148.28:8080/MatchFutbol1/mpegts
 
 #EXTINF:-1 group-title="Sports",Футбол 1 HD 🇷🇺
+http://65.21.85.175:8000/play/a007/index.m3u8?token=livetv
+
+#EXTINF:-1 group-title="Sports",Футбол 1 HD 🇷🇺
 http://88.85.172.243:7002/play/a02j
+
+#EXTINF:-1 group-title="Sports",Футбол 1 HD 🇷🇺
+http://194.26.229.213/matc-futbol-1/index.m3u8?token=Panda
 
 #EXTINF:-1 group-title="Sports",МАТЧ! Футбол1 🇷🇺
 http://ost.uspeh.sbs/va2VuPVtzdGJfdG9rZW5dIiwiYSI6Imh0dHA6Ly8xOTUuMjExLjI3LjE1Mjo4ODg3LzgwMjEvdGltZXNoaWZ0X2Ficy1bdGltZV9zdGFydF0ubTN1OD90b2tlbj1bc3RiX3Rva2VuXVtjdXJyX3RpbWVdIiwibCI6ImEyM2Y2ZWZmIiwicCI6ImEyM2Y2ZWZmYWU3N2ZjMWEiLCJjIjoiMjEiLCJ0IjoiNTQ5YmViOWIxNmYyMTUxMDE4M2M1MjNiZmI4N2EzZjEiLCJkIjoiNjg0NDgiLCJyIjoiNjk3NzYiLCJtIjoidHYiLCJkdCI6IjAifQeyJ1IjoiaHR0cDovLzE5NS4yMTEuMjcuMTQ5Ojg4ODcvODAyMS9pbmRleC5tM3U4P3R/index.m3u8
@@ -246,11 +264,23 @@ http://ost.uspeh.sbs/va2VuPVtzdGJfdG9rZW5dIiwiYSI6Imh0dHA6Ly8xOTUuMjExLjI3LjE1Mj
 #EXTINF:-1 group-title="Sports",МАТЧ! Футбол2 🇷🇺
 http://ost.uspeh.sbs/va2VuPVtzdGJfdG9rZW5dIiwiYSI6Imh0dHA6Ly8xOTUuMjExLjI3LjE1NDo4ODg3LzgyMzcvdGltZXNoaWZ0X2Ficy1bdGltZV9zdGFydF0ubTN1OD90b2tlbj1bc3RiX3Rva2VuXVtjdXJyX3RpbWVdIiwibCI6ImEyM2Y2ZWZmIiwicCI6ImEyM2Y2ZWZmYWU3N2ZjMWEiLCJjIjoiMjIzIiwidCI6IjU0OWJlYjliMTZmMjE1MTAxODNjNTIzYmZiODdhM2YxIiwiZCI6IjY4NDQ4IiwiciI6IjY5Nzc2IiwibSI6InR2IiwiZHQiOiIwIn0eyJ1IjoiaHR0cDovLzE5NS4yMTEuMjcuMTQ5Ojg4ODcvODIzNy9pbmRleC5tM3U4P3R/index.m3u8
 
+#EXTINF:-1 group-title="Sports",МАТЧ! Футбол2 🇷🇺
+http://65.21.85.175:8000/play/a008/index.m3u8?token=livetv
+
+#EXTINF:-1 group-title="Sports",МАТЧ! Футбол2 🇷🇺
+http://194.26.229.213/matc-futbol-2/index.m3u8?token=Panda
+
 #EXTINF:-1 group-title="Sports",МАТЧ! Футбол3 🇷🇺
 http://ost.uspeh.sbs/va2VuPVtzdGJfdG9rZW5dIiwiYSI6Imh0dHA6Ly8xOTUuMjExLjI3LjE1Mjo4ODg3LzgwMjkvdGltZXNoaWZ0X2Ficy1bdGltZV9zdGFydF0ubTN1OD90b2tlbj1bc3RiX3Rva2VuXVtjdXJyX3RpbWVdIiwibCI6ImEyM2Y2ZWZmIiwicCI6ImEyM2Y2ZWZmYWU3N2ZjMWEiLCJjIjoiMjkiLCJ0IjoiNTQ5YmViOWIxNmYyMTUxMDE4M2M1MjNiZmI4N2EzZjEiLCJkIjoiNjg0NDgiLCJyIjoiNjk3NzYiLCJtIjoidHYiLCJkdCI6IjAifQeyJ1IjoiaHR0cDovLzE5NS4yMTEuMjcuMTQ5Ojg4ODcvODAyOS9pbmRleC5tM3U4P3R/index.m3u8
 
 #EXTINF:-1 group-title="Sports",Матч! Футбол 3 HD 🇷🇺
 http://185.57.68.33/110/mpegts
+
+#EXTINF:-1 group-title="Sports",Матч! Футбол 3 HD 🇷🇺
+http://65.21.85.175:8000/play/a009/index.m3u8?token=livetv
+
+#EXTINF:-1 group-title="Sports",Матч! Футбол 3 HD 🇷🇺
+http://194.26.229.213/matc-futbol-3/index.m3u8?token=Panda
 
 #EXTINF:-1 group-title="Sports",Fast Sports 🇦🇲
 http://stream01.vnet.am/Channel_131/mono.m3u8
@@ -503,6 +533,12 @@ http://88.99.66.6:8080/str.yodacdn.net/cbcsport/tracks-v1a1/mono.m3u8?token=f321
 
 #EXTINF:-1 group-title="Sports",CBC SPORT 🇦🇿
 http://50.7.144.122:1935/livetv/cbcsport.stream/sec-f5-v1-a1.m3u8
+
+#EXTINF:-1 group-title="Sports",KAZAJISTAN SPORT 🇰🇿 
+https://qazsporttv-stream.qazcdn.com/qazsporttv/qazsporttv_720/playlist.m3u8
+
+#EXTINF:-1 group-title="Sports",Tivibu Spor 🇹🇷
+http://stream.tvcdn.net/spor/tivibu-spor.m3u8
 
 #EXTINF:-1 group-title="Sports",BEIN SPORT HABER 🇹🇷
 https://bozztv.com/dvrfl05/gin-beinsportshaber/index.m3u8
