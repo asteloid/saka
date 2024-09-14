@@ -462,6 +462,12 @@ http://217.174.225.146/legacyhls/ch004_720/index.m3u8
 #EXTINF:-1 group-title="Sports",Turkmenistan Sport 🇹🇲
 http://217.174.225.146/hls/ch004_720/index.m3u8
 
+#EXTINF:-1 group-title="Sports",UZ SPORT 🇺🇿
+https://stream1.cinerama.uz/1004/index.m3u8
+
+#EXTINF:-1 group-title="Sports",UzreportTV 🇺🇿
+https://stream1.cinerama.uz/1015/index.m3u8
+
 #EXTINF:-1 group-title="Sports",BEIN SPORT HABER 🇹🇷
 https://bozztv.com/dvrfl05/gin-beinsportshaber/index.m3u8
 
