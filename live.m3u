@@ -456,6 +456,21 @@ http://lordofthepings.xyz:8080/play/live.php?mac=00:1A:79:C8:3D:DF&stream=113011
 #EXTINF:-1 group-title="Sports",TSN 5 🇨🇦
 http://lordofthepings.xyz:8080/play/live.php?mac=00:1A:79:C8:3D:DF&stream=1130115&extension=ts
 
+#EXTINF:-1 group-title="Sports",Arena Sport 1 🇭🇷
+http://5.206.237.85:8600/play/a014/index.m3u8
+
+#EXTINF:-1 group-title="Sports",Arena Sport 2 🇭🇷
+http://5.206.237.85:8600/play/a015/index.m3u8
+
+#EXTINF:-1 group-title="Sports",Arena Sport 3 🇭🇷
+http://5.206.237.85:8600/play/a016/index.m3u8
+
+#EXTINF:-1 group-title="Sports",Arena Sport 4 🇭🇷
+http://5.206.237.85:8600/play/a017/index.m3u8
+
+#EXTINF:-1 group-title="Sports",Arena Sport 5 🇭🇷
+http://5.206.237.85:8600/play/a018/index.m3u8
+
 #EXTINF:-1 group-title="Sports",HRT2 🇭🇷
 http://195.29.70.82/PLTV/88888888/224/3221226140/index.m3u8?per
 
@@ -524,6 +539,9 @@ http://rr3.8v8i8p.com/~109e1a3c05fcad5b22d13b9453dc0db5122/52093/hls/pl.m3u8
 
 #EXTINF:-1 group-title="Sports",ТЕЛЕКАНАЛ ФУТБОЛ 🇷🇺
 http://iptv-hls.idc.md:8200/hls/77/live1.m3u8
+
+#EXTINF:-1 group-title="Sports",СТАРТ ТРИУМФ 🇷🇺
+http://88.218.242.237:8000/play/a00d
 
 #EXTINF:-1 group-title="Sports",Turkmenistan Sport 🇹🇲
 https://alpha.tv.online.tm/legacyhls/ch004_720/index.m3u8
