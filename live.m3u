@@ -84,6 +84,9 @@ https://80abdb7ac79b.ap-northeast-2.playback.live-video.net/api/video/v1/ap-nort
 #EXTINF:-1 group-title="Sports",S LALIGA 🇿🇦
 https://sportnext.online/hls/M2.m3u8
 
+#EXTINF:-1 group-title="Sports",S LALIGA 🇿🇦
+https://7pal.short.gy/sperspllg
+
 #EXTINF:-1 group-title="Sports",DIRECTV SPORT HD 🇦🇷
 http://209.45.20.210:50001/play/a03o/index.m3u8
 
@@ -323,6 +326,15 @@ http://158.101.214.187:8080/channel/55bea1f0/index.m3u8?q=b92e505ee8a30dc40ddf8c
 
 #EXTINF:-1 group-title="Sports",Setanta Sports 1 🇺🇦
 http://158.101.214.187:8080/channel/4eb18fdb/index.m3u8?q=b92e505ee8a30dc40ddf8c9d0c3bbb38
+
+#EXTINF:-1 group-title="Sports",MEGOGO Sports 1 🇺🇦
+http://135.125.235.54/0509/video.m3u8?token=01867E7BE1C1
+
+#EXTINF:-1 group-title="Sports",MEGOGO Sports 2 🇺🇦
+http://135.125.235.54/0510/video.m3u8?token=01867E7BE1C1
+
+#EXTINF:-1 group-title="Sports",MEGOGO Sports 3 🇺🇦
+http://135.125.235.54/0511/video.m3u8?token=01867E7BE1C1
 
 #EXTINF:-1 group-title="Sports",Ziggo Sport Select HD 🇳🇱
 http://78.130.250.2:8023/play/a00n/index.m3u8
