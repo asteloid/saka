@@ -78,6 +78,12 @@ https://7.tutl24.xyz/live/STa1e37b42ad44cef.m3u8
 #EXTINF:-1 group-title="Sports",МАТЧ! Футбол2 🇷🇺
 http://65.21.85.175:8000/play/a008/index.m3u8?token=livetv
 
+#EXTINF:-1 group-title="Sports",TERA PLAY
+https://80abdb7ac79b.ap-northeast-2.playback.live-video.net/api/video/v1/ap-northeast-2.442426874016.channel.8ZcaiEPi05tT.m3u8
+
+#EXTINF:-1 group-title="Sports",S LALIGA 🇿🇦
+https://sportnext.online/hls/M2.m3u8
+
 #EXTINF:-1 group-title="Sports",DIRECTV SPORT HD 🇦🇷
 http://209.45.20.210:50001/play/a03o/index.m3u8
 
@@ -116,9 +122,6 @@ https://alpha.tv.online.tm/legacyhls/ch004_720/index.m3u8
 
 #EXTINF:-1 group-title="Sports",Turkmenistan Sport 🇹🇲
 http://217.174.225.146/legacyhls/ch004_720/index.m3u8
-
-#EXTINF:-1 group-title="Sports",ARY Sports🇮🇳
-http://125.209.88.166:45793/BRN/ArySports.stream/playlist.m3u8
 
 #EXTINF:-1 group-title="Sports",BEIN SPORT 1 🇶🇦
 http://125.209.88.166:45793/BRN/beINSP11.stream/playlist.m3u8
@@ -642,8 +645,17 @@ http://145.239.5.177:8080/538/index.m3u8
 #EXTINF:-1 group-title="Sports",Gaora Sports 🇯🇵
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs17
 
+#EXTINF:-1 group-title="Sports",GEO SUPER 🇮🇳
+http://125.209.88.166:45793/BRN/GeoSuper.stream/playlist.m3u8
+
 #EXTINF:-1 group-title="Sports",STAR SPORT 2 🇮🇳
 http://50.7.218.122:80/sp2hd/index.m3u8
+
+#EXTINF:-1 group-title="Sports",PTV SPORT 🇮🇳
+http://125.209.88.166:45793/BRN/PTVSports.stream/playlist.m3u8
+
+#EXTINF:-1 group-title="Sports",TEN SPORT 🇮🇳
+http://125.209.88.166:45793/BRN/TenSports.stream/playlist.m3u8
 
 #EXTINF:-1 group-title="Sports",BTV5 — On Sports Action 🇹🇭
 https://liveh12.vtvcab.vn/hls/ONBTV5/04.m3u8
