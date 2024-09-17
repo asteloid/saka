@@ -66,17 +66,11 @@
 #EXTINF:-1 group-title="Sports",LC 🇪🇸
 https://7.tutl24.xyz/live/ST26068faf23d1751.m3u8
 
-#EXTINF:-1 group-title="Sports",LC 🇪🇸
-https://oha.to/play/2726712057/index.m3u8
-
 #EXTINF:-1 group-title="Sports",MEGOGO Sports 2 🇺🇦
 http://135.125.235.54/0510/video.m3u8?token=01867E7BE1C1
 
 #EXTINF:-1 group-title="Sports",BEIN SPORT 2 🇶🇦
 http://125.209.88.166:45793/BRN/beINSP12.stream/playlist.m3u8
-
-#EXTINF:-1 group-title="Sports",BEIN SPORT 2 🇶🇦
-http://pakin2.satocean.uk:9090/vip_bein_sports_2_hd/index.m3u8?token=47b31f5488726406ffbb9266ec2604e4
 
 #EXTINF:-1 group-title="Sports",Sony Ten 1 HD- Rs 19 🇮🇳
 http://103.84.57.155:8000/play/a027/index.m3u8
@@ -195,17 +189,8 @@ http://217.174.225.146/legacyhls/ch004_720/index.m3u8
 #EXTINF:-1 group-title="Sports",BEIN SPORT 1 🇶🇦
 http://125.209.88.166:45793/BRN/beINSP11.stream/playlist.m3u8
 
-#EXTINF:-1 group-title="Sports",BEIN SPORT 1 🇶🇦
-http://pakin2.satocean.uk:9090/vip_bein_sports_1_hd/index.m3u8?token=1a7787fbc7aaa5e91c76327157251aa5
-
 #EXTINF:-1 group-title="Sports",BEIN SPORT 2 🇶🇦
 http://125.209.88.166:45793/BRN/beINSP12.stream/playlist.m3u8
-
-#EXTINF:-1 group-title="Sports",BEIN SPORT 2 🇶🇦
-http://pakin2.satocean.uk:9090/vip_bein_sports_2_hd/index.m3u8?token=47b31f5488726406ffbb9266ec2604e4
-
-#EXTINF:-1 group-title="Sports",BEIN SPORT 4 🇶🇦
-http://pakin2.satocean.uk:9090/vip_bein_sports_4_hd/index.m3u8?token=6a4b808780f3df3eb9cba7120a2771c1
 
 #EXTINF:-1 group-title="Sports",S SPORT 1 🇹🇷
 http://tvs.lol:8080/play/WNlrFYAKGYvNLo3JwNIga20b706Se0tOyCMqB5MNBVU/ts
