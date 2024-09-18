@@ -99,8 +99,8 @@ http://stream01.vnet.am/Channel_131/mono.m3u8
 #EXTINF:-1 group-title="Sports",QAZ SPORT 🇰🇿
 https://bkm.beetv.kz/btv/live/hls/000003038.m3u8
 
-#EXTINF:-1 group-title="Sports",KAZAJISTAN SPORT 🇰🇿 
-https://qazsporttv-stream.qazcdn.com/qazsporttv/qazsporttv_720/playlist.m3u8
+#EXTINF:-1 group-title="Sports",TUDN EN VIVO 🇲🇽
+http://190.92.10.66:4000/play/a002/index.m3u8
 
 #EXTINF:-1 group-title="Sports",Sport5 🇮🇱
 https://rgelive.akamaized.net/hls/live/2043151/radiolive/playlist.m3u8
@@ -218,9 +218,6 @@ http://181.78.105.146:8800/play/a07h
 
 #EXTINF:-1 group-title="Sports",M+ LALIGA HD 🇪🇸
 https://www.oha.to/play/2428779244/index.m3u8
-
-#EXTINF:-1 group-title="Sports",VIX 🇨🇷
-http://190.92.10.66:4000/play/a002/index.m3u8
 
 #EXTINF:-1 group-title="Sports",HYPERMOTION 🇪🇸
 https://7.tutl24.xyz/live/STc98783bbeb1fd56.m3u8
@@ -542,9 +539,6 @@ http://190.185.121.102:58092/play/a00m
 
 #EXTINF:-1 group-title="Sports",TUDN EN VIVO 🇲🇽
 https://7.tutl24.xyz/live/STbf8e8e95160e2a0.m3u8
-
-#EXTINF:-1 group-title="Sports",TUDN 🇲🇽
-http://190.92.10.66:4000/play/a002/index.m3u8
 
 #EXTINF:-1 group-title="Sports",TSN 1 🇨🇦
 http://lordofthepings.xyz:8080/play/live.php?mac=00:1A:79:C8:3D:DF&stream=1130111&extension=ts
