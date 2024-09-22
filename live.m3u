@@ -69,6 +69,9 @@ https://drjpy7suzu4c5.cloudfront.net/out/v1/0c06db0274c04e64ab6ae0450f5fbda8/ind
 #EXTINF:-1 group-title="Sports",GXR WORLD 🇮🇳
 https://db7g5t2s3y0c9.cloudfront.net/out/v1/1c7f5a41c9934f24916b7ce5d1ea381e/index.m3u8
 
+#EXTINF:-1 group-title="Sports",GXR WORLD 🇮🇳
+https://drjpy7suzu4c5.cloudfront.net/out/v1/0c06db0274c04e64ab6ae0450f5fbda8/index.m3u8
+
 #EXTINF:-1 group-title="Sports",TV BAR 🇪🇸
 https://www.oha.to/play/1980907224/index.m3u8
 
@@ -116,6 +119,12 @@ http://190.92.10.66:4000/play/a003/index.m3u8
 
 #EXTINF:-1 group-title="Sports",PERSIANA SPORT 🇮🇷 
 https://cdn.footballii.ir/hls2/persianas.m3u8
+
+#EXTINF:-1 group-title="Sports",BEIN SPORT 3 TRUE VISION 🇹🇭
+https://live444.xyz/stream/8/index.m3u8
+
+#EXTINF:-1 group-title="Sports",BEIN SPORT 1 TRUE VISION 🇹🇭
+https://live444.xyz/cloud/stream/ddbff45394054f2b8e99c96e076634a0/75/index.m3u8
 
 #EXTINF:-1 group-title="Sports",Match HD 🇷🇺
 http://65.21.85.175:8000/play/a006/index.m3u8?token=livetv
@@ -179,6 +188,9 @@ https://www.oha.to/play/2428779244/index.m3u8
 
 #EXTINF:-1 group-title="Sports",HYPERMOTION 🇪🇸
 https://7.tutl24.xyz/live/STc98783bbeb1fd56.m3u8
+
+#EXTINF:-1 group-title="Sports",HYPERMOTION 🇪🇸
+https://iezmzlrgtn5pgme.ngolpdkyoctjcddxshli469r.org/sunshine/yEPT2LGXKCnFNCY9imLP1rwnLaAgtFtqJnPUNMGam9gs-3-wmb4NDpdJVvIj8JTnz_TSiI8L7eGNAFKieJf9paZ06u_9IbXh-ff_BLfwKk1UqU5KhVGDNbCY-cp5Hk4_eK_twXM8oUE2Q8JVermWBCP1Spxkt3qiiMuZQcUgdug/hls/index.m3u8
 
 #EXTINF:-1 group-title="Sports",Sports18 1 HD 🇮🇳
 http://tv.cloudcdn.me/live.ts?channelId=102479&uid=4944&deviceMac=00:1A:79:94:98:FE
