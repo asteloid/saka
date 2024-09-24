@@ -93,15 +93,6 @@ https://7pal.short.gy/sperspllg
 #EXTINF:-1 group-title="Sports",S LALIGA 🇿🇦
 https://sportnext.online/hls/M2.m3u8
 
-#EXTINF:-1 group-title="Sports",MAX SPORT 4 🇧🇬
-http://housery.top:8080/29170146196916/71701461969391/24047
-
-#EXTINF:-1 group-title="Sports",SPILER 2 🇭🇺
-http://housery.top:8080/29170146196916/71701461969391/8912
-
-#EXTINF:-1 group-title="Sports",Arena Sport6 🇭🇷
-http://housery.top:8080/29170146196916/71701461969391/24033
-
 #EXTINF:-1 group-title="Sports",Arena Sport6 🇭🇷
 http://qbczh9gw.russtv.net/iptv/BAKPC3UUA8D68QRV3R9LXHM6/31607/index.m3u8
 
@@ -396,6 +387,21 @@ http://135.125.235.54/0512/video.m3u8?token=01867E7BE1C1
 #EXTINF:-1 group-title="Sports",Ziggo Sport Select HD 🇳🇱
 http://78.130.250.2:8023/play/a00n/index.m3u8
 
+#EXTINF:-1 group-title="Sports",SportKlub 1 🇧🇦 
+http://89.187.191.99:8080/sk1/index.m3u8
+
+#EXTINF:-1 group-title="Sports",SportKlub 2 🇧🇦 
+http://89.187.191.99:8080/sk2/index.m3u8
+
+#EXTINF:-1 group-title="Sports",SportKlub 3 🇧🇦 
+http://89.187.191.99:8080/sk3/index.m3u8
+
+#EXTINF:-1 ,SportKlub 4 🇧🇦 
+http://89.187.191.99:8080/sk5/index.m3u8
+
+#EXTINF:-1 group-title="Sports",SportKlub 6 🇧🇦 
+http://89.187.191.99:8080/sk6/index.m3u8
+
 #EXTINF:-1 group-title="Sports",ELEVEN SPORT 1 🇵🇱
 http://185.236.229.62:9981/play/a05w
 
@@ -461,6 +467,9 @@ https://7.tutl24.xyz/live/STbc87b12328d99c1.m3u8
 
 #EXTINF:-1 group-title="Sports",Movistar + 🇪🇸
 https://7.tutl24.xyz/live/STa17d1d4740e2686.m3u8
+
+#EXTINF:-1 group-title="Sports",La liga Inside 🇪🇸
+https://is.gd/P9HFAg?LaligaInside.m3u8
 
 #EXTINF:-1 group-title="Sports",DIRECTV SPORT HD 🇦🇷
 http://209.45.20.210:50001/play/a03o/index.m3u8
@@ -545,6 +554,24 @@ http://190.185.121.102:58092/play/a00m
 
 #EXTINF:-1 group-title="Sports",TUDN EN VIVO 🇲🇽
 https://7.tutl24.xyz/live/STbf8e8e95160e2a0.m3u8
+
+#EXTINF:-1 group-title="Sports",TUDN 🇲🇽
+http://181.78.105.146:2000/play/a08j/index.m3u8
+
+#EXTINF:-1 group-title="Sports",ESPN 1 BRASIL 🇧🇷
+https://cdn-5.nxplay.com.br/ESPN/index.m3u8
+
+#EXTINF:-1 group-title="Sports",ESPN 2 BRASIL 🇧🇷
+https://cdn-5.nxplay.com.br/ESPN_2/index.m3u8
+
+#EXTINF:-1 group-title="Sports",ESPN 3 BRASIL 🇧🇷
+https://cdn-5.nxplay.com.br/ESPN_3/index.m3u8
+
+#EXTINF:-1 group-title="Sports",ESPN 4 BRASIL 🇧🇷
+https://cdn-5.nxplay.com.br/ESPN_4/index.m3u8
+
+#EXTINF:-1 group-title="Sports",SPORT FANS 🇧🇷
+http://91.132.74.4:7374/play/a00k/index.m3u8
 
 #EXTINF:-1 group-title="Sports",TSN 1 🇨🇦
 http://lordofthepings.xyz:8080/play/live.php?mac=00:1A:79:C8:3D:DF&stream=1130111&extension=ts
@@ -708,6 +735,12 @@ http://45.65.112.49:8000/play/a0ns
 #EXTINF:-1 group-title="Sports",SPORT ITALIA 🇮🇹
 https://amg01370-italiansportcom-sportitalia-rakuten-3hmdb.amagi.tv/amRdirect/ads_pod_type=playerpage_midroll&ads_env=prod&ads_ppid=&ads_rtvid=271861&ads_streaming_id=4f185419-74f6-4564-8ea9-4cdc60746e2f&ads_amagi_channel=781&ads_device_type=web&ads_device_model=&ads_device_year=&ads_player_width=&ads_rtv_content_language=ita&ads_market=it&ads_rtv_content_id=3741&ads_device_make=&ads_user_type=visitor&ads_content_classification=6&ads_gdpr_consent=&ads_device_lmt=1&ads_player_height=&uid=1gnmqg5gu-qsvc-bfo-gaq3-3dgjgexshpe/hls/amagi_hls_data_rakutenAA-sportitalia-rakuten/CDN/1920x1080_4540800/chunklist.m3u8
 
+#EXTINF:-1 group-title="Sports",Sport en Franceᴴᴰ 🇫🇷 
+https://sp1564435593.mytvchain.info/live/sp1564435593_720/index.m3u8
+
+#EXTINF:-1 group-title="Sports",INFOSPORT 🇫🇷 
+http://212.102.60.80/Infosport/index.m3u8
+
 #EXTINF:-1 group-title="Sports",Gaora Sports 🇯🇵
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs17
 
@@ -725,6 +758,9 @@ https://liveh12.vtvcab.vn/hls/ONBTV5/04.m3u8
 
 #EXTINF:-1 group-title="Sports",WOW TV EL SALVADOR 🇸🇻
 https://cdn.elsalvadordigital.com:1936/wowtv/smil:wowtv.smil/playlist.m3u8
+
+#EXTINF:-1 group-title="Sports",Seo Tv Deportes
+https://seo.tv.bo/tv/SEO-TV-5.2.m3u8
 
 #EXTINF:-1 group-title="Sports",Football HD Tajikistan 🇹🇯
 https://live.teleradiocom.tj/8/3m.m3u8
