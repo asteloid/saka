@@ -441,6 +441,9 @@ http://38.43.151.206:8000/play/a02z/index.m3u8
 #EXTINF:-1 group-title="Sports",La liga Inside 🇪🇸
 https://is.gd/P9HFAg?LaligaInside.m3u8
 
+#EXTINF:-1 group-title="Sports",BEIN SPORT EXTRA Ñ 🇪🇸
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/bein-sports-xtra-en-espanol/playlist.m3u8
+
 #EXTINF:-1 group-title="Sports",DIRECTV SPORT HD 🇦🇷
 http://209.45.20.210:50001/play/a03o/index.m3u8
 
