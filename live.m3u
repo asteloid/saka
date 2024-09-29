@@ -72,6 +72,12 @@ https://db7g5t2s3y0c9.cloudfront.net/out/v1/1c7f5a41c9934f24916b7ce5d1ea381e/ind
 #EXTINF:-1 group-title="Sports",GXR WORLD 🇮🇳
 https://drjpy7suzu4c5.cloudfront.net/out/v1/0c06db0274c04e64ab6ae0450f5fbda8/index.m3u8
 
+#EXTINF:-1 group-title="Sports",GXR WORLD 🇮🇳
+https://s@db7g5t2s3y0c9.cloudfront.net:443/out/v1/1c7f5a41c9934f24916b7ce5d1ea381e/index_7.m3u8
+
+#EXTINF:-1 group-title="Sports",GXR WORLD 🇮🇳
+https://s@d2yxu0gr4ksneg.cloudfront.net:443/out/v1/ed259f6465634f6382767e23f564e695/index_7.m3u8
+
 #EXTINF:-1 group-title="Sports",TV BAR 🇪🇸
 https://www.oha.to/play/1980907224/index.m3u8
 
@@ -128,6 +134,9 @@ https://flussonic.1mrgamingstreams.com/daznlaliga/index.m3u8
 
 #EXTINF:-1 group-title="Sports",ESPN DEPORTES 🇺🇸
 https://66368cdf63a9.ap-northeast-2.playback.live-video.net/api/video/v1/ap-northeast-2.585677956555.channel.Qca78Txnmqx3.m3u8?&token=eyJhbGciOiJFUzM4NCIsInR5cCI6IkpXVCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czphcC1ub3J0aGVhc3QtMjo1ODU2Nzc5NTY1NTU6Y2hhbm5lbC9RY2E3OFR4bm1xeDMiLCJleHAiOjE3MjY5NTE0NTAyNzcsImlhdCI6MTcyNjkwODI1MH0.TUTaAf2WlxyCkPUykDVV1I9kZwtn9ddK9JQC1D4kKq1BAVRAfM5rT8AZdu3oulCRKpU5l7vmK38QP8ulOFmtsDEgmjN0yLw2YYnUu722_EqMd2m4VEpaJpCOUUkSCMsN
+
+#EXTINF:-1 group-title="Sports",ESPN DEPORTES 🇺🇸
+https://cdn.whystream.pro:8089/hls/SYTijlpoDcpt/index.m3u8?st=7jPWat103kgHAfL4rcHywTneiaGwb394ImEi1uWzgj0&e=1727639873
 
 #EXTINF:-1 group-title="Sports",MAX SPORT 4 🇧🇬
 http://caratio.top:8080/4711726088315179/04df5449df98/24047
@@ -636,11 +645,26 @@ http://78.130.250.2:8023/play/a004/index.m3u8
 #EXTINF:-1 group-title="Sports",SPORT 1 🇨🇿 
 http://78.130.250.2:8023/play/a02u/index.m3u8
 
+#EXTINF:-1 group-title="Sports",SPORT 1 🇨🇿
+https://ts0-pl.tv.itself.cz/hls/master/live.m3u8?channel=727&device=2b6073bc96d57891dc6410d6ab150035&stream_profiles=profile11,profile12,profile13&changed_at=1726643016
+
+#EXTINF:-1 group-title="Sports",SPORT 2 🇨🇿
+https://ts0-pl.tv.itself.cz/hls/master/live.m3u8?channel=729&device=2b6073bc96d57891dc6410d6ab150035&stream_profiles=profile11,profile12,profile13&changed_at=1726643016
+
 #EXTINF:-1 group-title="Sports",ARENA Sport 1 🇨🇿
 http://78.130.250.2:8023/play/a02o/index.m3u8
 
+#EXTINF:-1 group-title="Sports",ARENA Sport 2 🇨🇿
+https://ts0-pl.tv.itself.cz/hls/master/live.m3u8?channel=681&device=2b6073bc96d57891dc6410d6ab150035&stream_profiles=profile11,profile12,profile13&changed_at=1726643016
+
 #EXTINF:-1 group-title="Sports",Canal + Sport 🇨🇿
 http://78.130.250.2:8023/play/a02v/index.m3u8
+
+#EXTINF:-1 group-title="Sports",RTVS Sport 🇨🇿
+https://ts0-pl.tv.itself.cz/hls/master/live.m3u8?channel=2120&device=2b6073bc96d57891dc6410d6ab150035&stream_profiles=profile11,profile12,profile13&changed_at=172664301
+
+#EXTINF:-1 group-title="Sports",JOJ Sport 🇨🇿
+https://ts0-pl.tv.itself.cz/hls/master/live.m3u8?channel=2164&device=2b6073bc96d57891dc6410d6ab150035&stream_profiles=profile11,profile12,profile13&changed_at=172664301
 
 #EXTINF:-1 group-title="Sports",Polsat SPORT 1 🇵🇱
 http://178.219.128.68:64889/POLSSPORHD
@@ -767,6 +791,12 @@ http://212.102.60.80/Infosport/index.m3u8
 
 #EXTINF:-1 group-title="Sports",Gaora Sports 🇯🇵
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs17
+
+#EXTINF:-1 group-title="Sports",GXR 🇮🇳
+https://s@d29vola26poupl.cloudfront.net:443/out/v1/20a0a9c90ff0479e84ede2f0759a7c7b/index_7.m3u8
+
+#EXTINF:-1 group-title="Sports",GXR 🇮🇳
+https://s@d1yz7zmm8mka3t.cloudfront.net:443/out/v1/cad8af14714e4affa48e07d2f48ebf5f/index_7.m3u8
 
 #EXTINF:-1 group-title="Sports",GEO SUPER 🇮🇳
 http://125.209.88.166:45793/BRN/GeoSuper.stream/playlist.m3u8
