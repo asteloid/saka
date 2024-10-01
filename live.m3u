@@ -63,8 +63,14 @@
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/jiz6iruaxep7up8/live2.png" group-title="Live Events",Empoli vs Inter 
 
 
+#EXTINF:-1 group-title="Sports",LC 🇪🇸
+https://qmaalhy7acgxwhm.ngolpdkyoctjcddxshli469r.org/sunshine/LQCcpXpuoqo7qDZnKZEr3FLYkXALK_-686wZ8byZsUo_sWanICNZz_Eu9QCq_PBkuaNJcf3KTPrFAzuHr8H7rh8LG7LuCbZi0Xx2BW_t5d3Bim2HfbUV5KYZha1ne-6H95ZQnp-N2wOOquX7f4TY_6jYvgOipllZCFnX52qZFEQ/hls/index.m3u8
+
 #EXTINF:-1 group-title="Sports",Arena Sport4 🇭🇷
 http://qbczh9gw.russtv.net/iptv/BAKPC3UUA8D68QRV3R9LXHM6/31605/index.m3u8
+
+#EXTINF:-1 group-title="Sports",ELEVEN 4 🇵🇹
+http://kstv.us:8080/live/jgarcia31/224178522/48446.m3u8
 
 #EXTINF:-1 group-title="Sports",sky sport calcio 🇮🇹
 http://qbczh9gw.russtv.net/iptv/BAKPC3UUA8D68QRV3R9LXHM6/19129/index.m3u8
@@ -89,6 +95,9 @@ http://tv.cloudcdn.me:80/live.ts?channelId=289&uid=7245&deviceMac=00:1A:79:B0:A9
 
 #EXTINF:-1 group-title="Sports",PERSIANA SPORT 🇮🇷 
 https://cdn.footballii.ir/hls2/persianas.m3u8
+
+#EXTINF:-1 group-title="Sports",ELEVEN 1 🇵🇹
+http://kstv.us:8080/live/jgarcia31/224178522/48443.m3u8
 
 #EXTINF:-1 group-title="Sports",TNT SPORT 2 🇬🇧
 http://lordofthepings.xyz:8080/play/live.php?mac=00:1A:79:C8:3D:DF&stream=4446&extension=ts
