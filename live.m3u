@@ -63,6 +63,9 @@
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/jiz6iruaxep7up8/live2.png" group-title="Live Events",Empoli vs Inter 
 
 
+#EXTINF:-1 group-title="Sports",LC 🇪🇸
+https://n8ls15kh.whystream.pro/hls/SYTijlpoDcpt/index.m3u8?st=hWtSuJ0fT6yW_pNWL1ANLZxojUvcymGJllT_QZDeD1o&e=1727905847
+
 #EXTINF:-1 group-title="Sports",BEIN SPORT 1 🇶🇦
 http://125.209.88.166:45793/BRN/beINSP11.stream/playlist.m3u8
 
