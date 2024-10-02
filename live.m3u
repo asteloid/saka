@@ -69,6 +69,9 @@ http://kstv.us:8080/live/jgarcia31/224178522/48443.m3u8
 #EXTINF:-1 group-title="Sports",BEIN SPORT 1 🇶🇦
 http://125.209.88.166:45793/BRN/beINSP11.stream/playlist.m3u8
 
+#EXTINF:-1 group-title="Sports",FOX SPORT 3 🇦🇷
+http://168.197.196.98:82/stream/channelid/33594286?profile=pass
+
 #EXTINF:-1 group-title="Sports",Sport5 🇮🇱
 https://rgelive.akamaized.net/hls/live/2043151/radiolive/playlist.m3u8
 
@@ -672,6 +675,15 @@ https://csm-e-cetubiausw2live204-07ad27f1a339939e4.csm.tubi.video/csm/extlive/tu
 #EXTINF:-1 group-title="Sports",FOX SPORT 1 🇦🇷
 http://187.102.208.83:50000/play/a04h/index.m3u8
 
+#EXTINF:-1 group-title="Sports",FOX SPORT 1 🇦🇷
+http://168.197.196.98:82/stream/channelid/781949579?profile=pass
+
+#EXTINF:-1 group-title="Sports",FOX SPORT 2 🇦🇷
+http://168.197.196.98:82/stream/channelid/2098149736?profile=pass
+
+#EXTINF:-1 group-title="Sports",FOX SPORT 3 🇦🇷
+http://168.197.196.98:82/stream/channelid/33594286?profile=pass
+
 #EXTINF:-1 group-title="Sports",TELECOSTA GUATEMALA 🇬🇹
 https://tv91.hostingnuclear.com:19360/telecosta/telecosta.m3u8
 
@@ -728,6 +740,9 @@ https://fl2.moveonjoy.com/CBS_SPORTS_NETWORK/index.m3u8
 
 #EXTINF:-1 group-title="Sports",FS 1 SPORT 🇺🇸
 http://212.102.60.10/FOX_Sports_1/index.m3u8
+
+#EXTINF:-1 group-title="Sports",FS 2 SPORT 🇺🇸
+https://v11.thetvapp.to/hls/FoxSports2/index.m3u8?token=RHZPaWVxMXlidFFzTnZyczdaM0QzRWk4d3REcEkzc2RCZE1wbmdlSQ==
 
 #EXTINF:-1 group-title="Sports",FS 2 SPORT 🇺🇸
 http://212.102.60.231/FOX_Sports_2/index.m3u8
