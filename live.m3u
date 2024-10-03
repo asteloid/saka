@@ -469,6 +469,9 @@ http://65.21.85.175:8000/play/a009/index.m3u8?token=livetv
 #EXTINF:-1 group-title="Sports",Матч! Футбол 3 HD 🇷🇺
 http://194.26.229.213/matc-futbol-3/index.m3u8?token=Panda
 
+#EXTINF:-1 group-title="Sports",Матч! Футбол 3 HD 🇷🇺
+http://103.97.89.234/football3/index.m3u8
+
 #EXTINF:-1 group-title="Sports",Fast Sports 🇦🇲
 http://stream01.vnet.am/Channel_131/mono.m3u8
 
@@ -894,6 +897,9 @@ https://stream1.cinerama.uz/1015/index.m3u8
 
 #EXTINF:-1 group-title="Sports",CBC SPORT 🇦🇿
 http://50.7.144.122:1935/livetv/cbcsport.stream/sec-f5-v1-a1.m3u8
+
+#EXTINF:-1 group-title="Sports",CBC SPORT 🇦🇿
+http://88.99.66.6:8080/str.yodacdn.net/cbcsport/tracks-v1a1/mono.m3u8?token=f3215d55e722954033783f3dd4ea88b87c9a22e7-e81fa0fa6395f13455d0eddd
 
 #EXTINF:-1 group-title="Sports",KAZAJISTAN SPORT 🇰🇿 
 https://qazsporttv-stream.qazcdn.com/qazsporttv/qazsporttv_720/playlist.m3u8
