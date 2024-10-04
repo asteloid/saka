@@ -63,118 +63,6 @@
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/jiz6iruaxep7up8/live2.png" group-title="Live Events",Empoli vs Inter 
 
 
-#EXTINF:-1 group-title="Sports",LC 🇪🇸
-https://n8ls15kh.whystream.pro/hls/SYTijlpoDcpt/index.m3u8?st=hWtSuJ0fT6yW_pNWL1ANLZxojUvcymGJllT_QZDeD1o&e=1727905847
-
-#EXTINF:-1 group-title="Sports",BEIN SPORT 1 🇶🇦
-http://125.209.88.166:45793/BRN/beINSP11.stream/playlist.m3u8
-
-#EXTINF:-1 group-title="Sports",ELEVEN 1 🇵🇹
-http://kstv.us:8080/live/jgarcia31/224178522/48443.m3u8
-
-#EXTINF:-1 group-title="Sports",FOX SPORT 3 🇦🇷
-http://168.197.196.98:82/stream/channelid/33594286?profile=pass
-
-#EXTINF:-1 group-title="Sports",Sport5 🇮🇱
-https://rgelive.akamaized.net/hls/live/2043151/radiolive/playlist.m3u8
-
-#EXTINF:-1 group-title="Sports",Sony Ten 1 HD- Rs 19 🇮🇳
-http://103.84.57.155:8000/play/a027/index.m3u8
-
-#EXTINF:-1 group-title="Sports",Sony Ten 1 HD 🇮🇳
-http://119.156.26.155:8000/play/a06b/index.m3u8
-
-#EXTINF:-1 group-title="Sports",Sony Ten 1 HD 🇮🇳
-http://tv.cloudcdn.me:80/live.ts?channelId=289&uid=7245&deviceMac=00:1A:79:B0:A9:0C
-
-#EXTINF:-1 group-title="Sports",Sony Ten 1 HD 🇮🇳
-http://117.102.16.2:34567/play/a08u/index.m3u8
-
-#EXTINF:-1 group-title="Sports",TRT SPORT 🇹🇷
-http://ttk0811.xyz:8080/live/drs3433/cn.0905/353402.m3u8
-
-#EXTINF:-1 group-title="Sports",ELEVEN SPORTS 1 HD 🇵🇹
-http://bdtb.io:80/328331/K8PTjw/191277.ts
-
-#EXTINF:-1 group-title="Sports",sky sport calcio 🇮🇹
-http://qbczh9gw.russtv.net/iptv/BAKPC3UUA8D68QRV3R9LXHM6/19129/index.m3u8
-
-#EXTINF:-1 group-title="Sports",aio Sport 🇸🇦
-https://liveproxy.splus.ir/hls/aiosport/aiosport.m3u8
-
-#EXTINF:-1 group-title="Sports",ELEVEN 4 🇵🇹
-http://kstv.us:8080/live/jgarcia31/224178522/48446.m3u8
-
-#EXTINF:-1 group-title="Sports",Arena Sport4 🇭🇷
-http://qbczh9gw.russtv.net/iptv/BAKPC3UUA8D68QRV3R9LXHM6/31605/index.m3u8
-
-#EXTINF:-1 group-title="Sports",CBC SPORT 🇦🇿
-https://bozztv.com/dvrfl05/gin-cbc-sport/index.m3u8
-
-#EXTINF:-1 group-title="Sports",Sony Ten 2 HD 🇮🇳
-http://117.102.16.2:34567/play/a08a/index.m3u8
-
-#EXTINF:-1 group-title="Sports",Sony Ten 3 HD 🇮🇳
-http://117.102.16.2:34567/play/a090/index.m3u8
-
-#EXTINF:-1 group-title="Sports",Sony Ten 5 HD 🇮🇳
-http://117.102.16.2:34567/play/a08v/index.m3u8
-
-#EXTINF:-1 group-title="Sports",PERSIANA SPORT 🇮🇷 
-https://cdn.footballii.ir/hls2/persianas.m3u8
-
-#EXTINF:-1 group-title="Sports",TNT SPORT 2 🇬🇧
-http://lordofthepings.xyz:8080/play/live.php?mac=00:1A:79:C8:3D:DF&stream=4446&extension=ts
-
-#EXTINF:-1 group-title="Sports",TRT 1 🇹🇷
-https://canlitvulusal.xyz/live/trt1/index.m3u8
-
-#EXTINF:-1 group-title="Sports",TRT 1 🇹🇷
-https://helga.iptv2022.com/sh/trt_1/index.m3u8
-
-#EXTINF:-1 group-title="Sports",TRT 1 🇹🇷
-https://trt.daioncdn.net/trt-1/master.m3u8?app=web
-
-#EXTINF:-1 group-title="Sports",TRT 1 🇹🇷
-https://trt.daioncdn.net/trt-1/master.m3u8?app=ed3904e8-737b-4a5e-856a-1b0d7a0a94e2
-
-#EXTINF:-1 group-title="Sports",TRT 1 🇹🇷
-https://trt.daioncdn.net/trt-1/master.m3u8?app=e435840d-2653-45a3-afef-082d4ea998f3
-
-#EXTINF:-1 group-title="Sports",Fast Sports 🇦🇲
-http://stream01.vnet.am/Channel_131/mono.m3u8
-
-#EXTINF:-1 group-title="Sports",HRT2 🇭🇷
-http://195.29.70.82/PLTV/88888888/224/3221226140/index.m3u8?per
-
-#EXTINF:-1 group-title="Sports",HRT 2 🇭🇷
-http://195.29.70.84/PLTV/88888888/224/3221226140/04.m3u8
-
-#EXTINF:-1 group-title="Sports",HRT 2 🇭🇷
-http://195.29.70.67/PLTV/88888888/224/3221226140/index.m3u8?
-
-#EXTINF:-1 group-title="Sports",TUDN EN VIVO 🇲🇽
-http://190.92.10.66:4000/play/a002/index.m3u8
-
-#EXTINF:-1 group-title="Sports",Ten Sport HD 🇮🇳
-http://125.209.88.166:45793/BRN/TenSports.stream/playlist.m3u8
-
-#EXTINF:-1 group-title="Sports",TNT SPORT 1 🇬🇧
-http://lordofthepings.xyz:8080/play/live.php?mac=00:1A:79:C8:3D:DF&stream=4449&extension=m3u8
-
-#EXTINF:-1 group-title="Sports",TNT SPORT 1 🇬🇧
-http://lordofthepings.xyz:8080/play/live.php?mac=00:1A:79:C8:3D:DF&stream=4445&extension=ts
-
-#EXTINF:-1 group-title="Sports",CBS SPORT 🇺🇸
-https://fl2.moveonjoy.com/CBS_SPORTS_NETWORK/index.m3u8
-
-
-
-
-
-
-
-
 #EXTINF:-1 group-title="Sports",GXR WORLD 🇮🇳
 https://drjpy7suzu4c5.cloudfront.net/out/v1/0c06db0274c04e64ab6ae0450f5fbda8/index_6.m3u8
 
@@ -195,6 +83,9 @@ https://www.oha.to/play/1980907224/index.m3u8
 
 #EXTINF:-1 group-title="Sports",TV BAR 🇪🇸
 http://91.246.45.126:8080/live/501713267546155/6768e43df355/5661.m3u8?token=Q0FaWEpZFFsXB1BUBwMHB1EBU1AEUQ8HUVZRUFUEV1MAVVNcWAYFAAIVGEZGFUdTUl9qWwIVAlRUBQFIFhRBVUo8W10bCxRXAAcCVwBDGRRHW1hXRA0ITUBDWQAWWxACCFIHChsdFARNQ1EWWwBZaVdXQ1sFUhpbDEZcCBhDXV5nB1dUWF9SQw8VBUYZQ1xFQxAPXBNbVE1AUVkQRgBGVRpZEA0LAwBDGRVXC0APQURKEA8QI2QaTUBWSBBRD0FZVw0QAxtcBRQNFRhGXBJqRFZBQUADVlUEEBEKRgRDHhJVAkpmWl5YD1BUQA1aD0YUCRAEEEoVVQ4MWkQLRj5CWVxBCBsIBQNQBhVJ
+
+#EXTINF:-1 group-title="Sports",ARENA PREMIUM LIGA 🇷🇸
+http://91.132.74.4:7374/play/a00k/index.m3u8
 
 #EXTINF:-1 group-title="Sports",DAZN LIGA 🇪🇸
 http://91.246.45.126:8080/live/501713267546155/6768e43df355/25125.m3u8?token=Q0FaWEpZFFsXUVIFUwQDAlBWUVdfUgtTBFYIAlBSUAhZBgENXQUPUlYVGEZGFUdTUl9qWwIVAlNXAgJRGENHQ10RbVBdEwxDAwIEUgZUFxoRRlxfAxUCUU4RQA1QQwgSDVoCCBsdFARNQ1EWWwBZaVdXQ1sFUhpbDEZcCBhDXV5nB1dUWF9SQw8VBUYZQ1xFQxAPXBNbVE1AUVkQRgBGVRpZEAgNBA5DGRVXC0APQURKEA8QI2QaTUBWSBBRD0FZVw0QAxtcBRQNFRhGXBJqRFZBQUADVlUEEBEKRgRDHhJVAkpmWl5YD1BUQA1aD0YUCRAEEEoVVQ4MWkQLRj5CWVxBCBsPAwRRARVJ
@@ -1047,6 +938,119 @@ https://d3qg0hadt0dkov.cloudfront.net/amgtennisus/playlist1080_p.m3u8
 
 #EXTINF:-1 group-title="Sports",TENNIS
 https://d3qg0hadt0dkov.cloudfront.net:443/amgtennisus/playlist1080_p.m3u8
+
+
+
+
+
+
+#EXTINF:-1 group-title="Sports",LC 🇪🇸
+https://n8ls15kh.whystream.pro/hls/SYTijlpoDcpt/index.m3u8?st=hWtSuJ0fT6yW_pNWL1ANLZxojUvcymGJllT_QZDeD1o&e=1727905847
+
+#EXTINF:-1 group-title="Sports",BEIN SPORT 1 🇶🇦
+http://125.209.88.166:45793/BRN/beINSP11.stream/playlist.m3u8
+
+#EXTINF:-1 group-title="Sports",ELEVEN 1 🇵🇹
+http://kstv.us:8080/live/jgarcia31/224178522/48443.m3u8
+
+#EXTINF:-1 group-title="Sports",FOX SPORT 3 🇦🇷
+http://168.197.196.98:82/stream/channelid/33594286?profile=pass
+
+#EXTINF:-1 group-title="Sports",Sport5 🇮🇱
+https://rgelive.akamaized.net/hls/live/2043151/radiolive/playlist.m3u8
+
+#EXTINF:-1 group-title="Sports",Sony Ten 1 HD- Rs 19 🇮🇳
+http://103.84.57.155:8000/play/a027/index.m3u8
+
+#EXTINF:-1 group-title="Sports",Sony Ten 1 HD 🇮🇳
+http://119.156.26.155:8000/play/a06b/index.m3u8
+
+#EXTINF:-1 group-title="Sports",Sony Ten 1 HD 🇮🇳
+http://tv.cloudcdn.me:80/live.ts?channelId=289&uid=7245&deviceMac=00:1A:79:B0:A9:0C
+
+#EXTINF:-1 group-title="Sports",Sony Ten 1 HD 🇮🇳
+http://117.102.16.2:34567/play/a08u/index.m3u8
+
+#EXTINF:-1 group-title="Sports",TRT SPORT 🇹🇷
+http://ttk0811.xyz:8080/live/drs3433/cn.0905/353402.m3u8
+
+#EXTINF:-1 group-title="Sports",ELEVEN SPORTS 1 HD 🇵🇹
+http://bdtb.io:80/328331/K8PTjw/191277.ts
+
+#EXTINF:-1 group-title="Sports",sky sport calcio 🇮🇹
+http://qbczh9gw.russtv.net/iptv/BAKPC3UUA8D68QRV3R9LXHM6/19129/index.m3u8
+
+#EXTINF:-1 group-title="Sports",aio Sport 🇸🇦
+https://liveproxy.splus.ir/hls/aiosport/aiosport.m3u8
+
+#EXTINF:-1 group-title="Sports",ELEVEN 4 🇵🇹
+http://kstv.us:8080/live/jgarcia31/224178522/48446.m3u8
+
+#EXTINF:-1 group-title="Sports",Arena Sport4 🇭🇷
+http://qbczh9gw.russtv.net/iptv/BAKPC3UUA8D68QRV3R9LXHM6/31605/index.m3u8
+
+#EXTINF:-1 group-title="Sports",CBC SPORT 🇦🇿
+https://bozztv.com/dvrfl05/gin-cbc-sport/index.m3u8
+
+#EXTINF:-1 group-title="Sports",Sony Ten 2 HD 🇮🇳
+http://117.102.16.2:34567/play/a08a/index.m3u8
+
+#EXTINF:-1 group-title="Sports",Sony Ten 3 HD 🇮🇳
+http://117.102.16.2:34567/play/a090/index.m3u8
+
+#EXTINF:-1 group-title="Sports",Sony Ten 5 HD 🇮🇳
+http://117.102.16.2:34567/play/a08v/index.m3u8
+
+#EXTINF:-1 group-title="Sports",PERSIANA SPORT 🇮🇷 
+https://cdn.footballii.ir/hls2/persianas.m3u8
+
+#EXTINF:-1 group-title="Sports",TNT SPORT 2 🇬🇧
+http://lordofthepings.xyz:8080/play/live.php?mac=00:1A:79:C8:3D:DF&stream=4446&extension=ts
+
+#EXTINF:-1 group-title="Sports",TRT 1 🇹🇷
+https://canlitvulusal.xyz/live/trt1/index.m3u8
+
+#EXTINF:-1 group-title="Sports",TRT 1 🇹🇷
+https://helga.iptv2022.com/sh/trt_1/index.m3u8
+
+#EXTINF:-1 group-title="Sports",TRT 1 🇹🇷
+https://trt.daioncdn.net/trt-1/master.m3u8?app=web
+
+#EXTINF:-1 group-title="Sports",TRT 1 🇹🇷
+https://trt.daioncdn.net/trt-1/master.m3u8?app=ed3904e8-737b-4a5e-856a-1b0d7a0a94e2
+
+#EXTINF:-1 group-title="Sports",TRT 1 🇹🇷
+https://trt.daioncdn.net/trt-1/master.m3u8?app=e435840d-2653-45a3-afef-082d4ea998f3
+
+#EXTINF:-1 group-title="Sports",Fast Sports 🇦🇲
+http://stream01.vnet.am/Channel_131/mono.m3u8
+
+#EXTINF:-1 group-title="Sports",HRT2 🇭🇷
+http://195.29.70.82/PLTV/88888888/224/3221226140/index.m3u8?per
+
+#EXTINF:-1 group-title="Sports",HRT 2 🇭🇷
+http://195.29.70.84/PLTV/88888888/224/3221226140/04.m3u8
+
+#EXTINF:-1 group-title="Sports",HRT 2 🇭🇷
+http://195.29.70.67/PLTV/88888888/224/3221226140/index.m3u8?
+
+#EXTINF:-1 group-title="Sports",TUDN EN VIVO 🇲🇽
+http://190.92.10.66:4000/play/a002/index.m3u8
+
+#EXTINF:-1 group-title="Sports",Ten Sport HD 🇮🇳
+http://125.209.88.166:45793/BRN/TenSports.stream/playlist.m3u8
+
+#EXTINF:-1 group-title="Sports",TNT SPORT 1 🇬🇧
+http://lordofthepings.xyz:8080/play/live.php?mac=00:1A:79:C8:3D:DF&stream=4449&extension=m3u8
+
+#EXTINF:-1 group-title="Sports",TNT SPORT 1 🇬🇧
+http://lordofthepings.xyz:8080/play/live.php?mac=00:1A:79:C8:3D:DF&stream=4445&extension=ts
+
+#EXTINF:-1 group-title="Sports",CBS SPORT 🇺🇸
+https://fl2.moveonjoy.com/CBS_SPORTS_NETWORK/index.m3u8
+
+
+
 
 #EXTINF:-1 group-title="Sports",Real Madrid TV 🇪🇸
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=1545
