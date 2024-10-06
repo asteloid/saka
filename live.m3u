@@ -108,6 +108,12 @@ https://7pal.short.gy/sperspllg
 #EXTINF:-1 group-title="Sports",S LALIGA 🇿🇦
 https://sportnext.online/hls/M2.m3u8
 
+#EXTINF:-1 group-title="Sports",S LALIGA 🇿🇦
+https://lavirtostorage.lol/live/n-3/chunks.m3u8
+
+#EXTINF:-1 group-title="Sports",S LALIGA 🇿🇦
+https://pepebong.online/live/3/chunks.m3u8
+
 #EXTINF:-1 group-title="Sports",Arena Sport6 🇭🇷
 http://qbczh9gw.russtv.net/iptv/BAKPC3UUA8D68QRV3R9LXHM6/31607/index.m3u8
 
@@ -116,6 +122,12 @@ http://ktv.im:8080/0567616054/0567616054/116970
 
 #EXTINF:-1 group-title="Sports",NovaSports 1 🇬🇷
 http://cdn.ottshow.net:80/kanaliURedirect2442/kd0dk39dkyxs0A/81188
+
+#EXTINF:-1 group-title="Sports",AIO SPORT 🇶🇦
+https://liveproxy.splus.ir/hls/tv3/tv3.m3u8
+
+#EXTINF:-1 group-title="Sports",AIO SPORT 🇶🇦
+https://cdn-azd2046.telewebion.com/ek/tv3/live/720p/index.m3u8?isp=NA&city=NA
 
 #EXTINF:-1 group-title="Sports",BEIN SPORT 3 🇶🇦
 http://1.1usd.tv:34000/ch229/mono.m3u8?token=1usdtv_kol218.FQLwEoHD4r5K2LNrRWktdO_JESnnGWLZymSHJgVfwOOvN7KZQBjhDpGdgRLBL9zW
@@ -899,6 +911,9 @@ http://ott-cdn.ucom.am/s83/03.m3u8
 
 #EXTINF:-1 group-title="Sports",aio Sport 🇸🇦
 https://liveproxy.splus.ir/hls/aiosport/aiosport.m3u8
+
+#EXTINF:-1 group-title="Sports",aio Sport 🇸🇦
+https://cdn.footballii.ir/hls2/stream01.m3u8
 
 #EXTINF:-1 group-title="Sports",aio Sport 2 🇸🇦
 https://ss.90minlive.online/sport/aiosport2/chunks.m3u8
