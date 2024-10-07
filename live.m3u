@@ -150,6 +150,9 @@ https://66368cdf63a9.ap-northeast-2.playback.live-video.net/api/video/v1/ap-nort
 #EXTINF:-1 group-title="Sports",ESPN DEPORTES 🇺🇸
 https://cdn.whystream.pro:8089/hls/SYTijlpoDcpt/index.m3u8?st=7jPWat103kgHAfL4rcHywTneiaGwb394ImEi1uWzgj0&e=1727639873
 
+#EXTINF:-1 group-title="Sports",ESPN DEPORTES 🇺🇸
+https://s@cloudserve.world/live/stream_6.m3u8
+
 #EXTINF:-1 group-title="Sports",ELEVEN SPORTS 1 HD 🇵🇹
 http://bdtb.io:80/328331/K8PTjw/191277.ts
 
@@ -872,6 +875,9 @@ https://s@d29vola26poupl.cloudfront.net:443/out/v1/20a0a9c90ff0479e84ede2f0759a7
 
 #EXTINF:-1 group-title="Sports",GXR 🇮🇳
 https://s@d1yz7zmm8mka3t.cloudfront.net:443/out/v1/cad8af14714e4affa48e07d2f48ebf5f/index_7.m3u8
+
+#EXTINF:-1 group-title="Sports",GXR 🇮🇳
+https://s@dx12yig2oz0vp.cloudfront.net:443/out/v1/48bb590edb2f4bcd91e0ab46950bf94a/index_5.m3u8
 
 #EXTINF:-1 group-title="Sports",Sports18 1 HD 🇮🇳
 http://tv.cloudcdn.me/live.ts?channelId=102479&uid=4944&deviceMac=00:1A:79:94:98:FE
