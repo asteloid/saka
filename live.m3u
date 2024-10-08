@@ -222,6 +222,9 @@ http://181.78.109.49:8000/play/a06r/index.m3u8
 #EXTINF:-1 group-title="Sports",SKY SPORTS LALIGA 🇲🇽
 http://181.78.105.146:8800/play/a07h
 
+#EXTINF:-1 group-title="Sports",SKY SPORTS LALIGA 🇲🇽
+http://45.5.117.182:8000/play/jnl0/index.m3u8
+
 #EXTINF:-1 group-title="Sports",M+ LALIGA HD 🇪🇸
 https://www.oha.to/play/2428779244/index.m3u8
 
@@ -738,6 +741,9 @@ https://ts0-pl.tv.itself.cz/hls/master/live.m3u8?channel=681&device=2b6073bc96d5
 #EXTINF:-1 group-title="Sports",Canal + Sport 🇨🇿
 http://78.130.250.2:8023/play/a02v/index.m3u8
 
+#EXTINF:-1 group-title="Sports",ČT Sport (720p) 🇨🇿
+http://88.212.15.27/live/test_ctsport_25p/playlist.m3u8
+
 #EXTINF:-1 group-title="Sports",RTVS Sport 🇨🇿
 https://ts0-pl.tv.itself.cz/hls/master/live.m3u8?channel=2120&device=2b6073bc96d57891dc6410d6ab150035&stream_profiles=profile11,profile12,profile13&changed_at=172664301
 
@@ -908,6 +914,9 @@ http://125.209.88.166:45793/BRN/TenSports.stream/playlist.m3u8
 
 #EXTINF:-1 group-title="Sports",BTV5 — On Sports Action 🇹🇭
 https://liveh12.vtvcab.vn/hls/ONBTV5/04.m3u8
+
+#EXTINF:-1 group-title="Sports",VTC 1 HD 🇹🇭
+https://liveh12.vtvcab.vn/hls/ONVTC1_CL/index.m3u8
 
 #EXTINF:-1 group-title="Sports",WOW TV EL SALVADOR 🇸🇻
 https://cdn.elsalvadordigital.com:1936/wowtv/smil:wowtv.smil/playlist.m3u8
