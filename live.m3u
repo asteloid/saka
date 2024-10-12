@@ -210,6 +210,21 @@ http://45.5.117.182:8000/play/jnl0/index.m3u8
 #EXTINF:-1 group-title="Sports",M+ LALIGA HD 🇪🇸
 https://www.oha.to/play/2428779244/index.m3u8
 
+#EXTINF:-1 group-title="Sports",DAZN LALIGA 🇪🇸
+https://oha.to/play/3461295847/index.m3u8
+
+#EXTINF:-1 group-title="Sports",HYPERMOTION 🇪🇸
+www.oha.to/play/3958277473/index.m3u8
+
+#EXTINF:-1 group-title="Sports",HYPERMOTION 2 🇪🇸
+https://oha.to/play/899887126/index.m3u8
+
+#EXTINF:-1 group-title="Sports",HYPERMOTION 2 🇪🇸
+https://oha.to/play/899887126/index.m3u8
+
+#EXTINF:-1 group-title="Sports",DAZN F1 🇪🇸
+http://oha.to/play/1826839470/index.m3u8
+
 #EXTINF:-1 group-title="Sports",TNT SPORT 1 🇬🇧
 http://lordofthepings.xyz:8080/play/live.php?mac=00:1A:79:C8:3D:DF&stream=4449&extension=m3u8
 
@@ -877,6 +892,9 @@ https://d3qg0hadt0dkov.cloudfront.net:443/amgtennisus/playlist1080_p.m3u8
 
 #EXTINF:-1 group-title="Sports",LC 🇪🇸
 https://n8ls15kh.whystream.pro/hls/SYTijlpoDcpt/index.m3u8?st=hWtSuJ0fT6yW_pNWL1ANLZxojUvcymGJllT_QZDeD1o&e=1727905847
+
+#EXTINF:-1 group-title="Sports",LC 🇪🇸
+https://oha.to/play/2726712057/index.m3u8
 
 #EXTINF:-1 group-title="Sports",BEIN SPORT 1 🇶🇦
 http://125.209.88.166:45793/BRN/beINSP11.stream/playlist.m3u8
