@@ -336,14 +336,23 @@ http://91.132.74.4:7374/play/a00k/index.m3u8
 #EXTINF:-1 group-title="Sports",Arena Sport 1 🇷🇸
 http://89.187.191.99:8080/arena1/index.m3u8
 
+#EXTINF:-1 group-title="Sports",Arena Sport 1 🇷🇸
+http://109.105.201.198/ARENASPORT1/video.m3u8?token=test
+
 #EXTINF:-1 group-title="Sports",Arena Sport 2 🇷🇸
 http://89.187.191.99:8080/arena2/index.m3u8
 
 #EXTINF:-1 group-title="Sports",Arena Sport 3 🇷🇸
 http://89.187.191.99:8080/arena3/index.m3u8
 
+#EXTINF:-1 group-title="Sports",Arena Sport 3 🇷🇸
+http://109.105.201.198/ARENASPORT3/video.m3u8?token=test
+
 #EXTINF:-1 group-title="Sports",Arena Sport 4 🇷🇸
 http://89.187.191.99:8080/arena4/index.m3u8
+
+#EXTINF:-1 group-title="Sports",Arena Sport 4 🇷🇸
+http://109.105.201.198/ARENASPORT4/video.m3u8?token=test
 
 #EXTINF:-1 group-title="Sports",Arena Sport 5 🇷🇸
 http://89.187.191.99:8080/arena5/index.m3u8
@@ -750,6 +759,9 @@ https://stream1.cinerama.uz/1229/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Sports",Матч! Планета 🇷🇺
 https://stream1.cinerama.uz/1049/tracks-v1a1/mono.m3u8
 
+#EXTINF:-1 group-title="Sports",NASH FOOTBALL 🇷🇺
+http://95.216.40.210/nashfootball/index.m3u8
+
 #EXTINF:-1 group-title="Sports",SPORT RU 🇷🇺
 http://streaming.astrakhan.ru/astrakhanrusporthd/tracks-v3a1/index.m3u8
 
@@ -863,6 +875,9 @@ http://125.209.88.166:45793/BRN/PTVSports.stream/playlist.m3u8
 
 #EXTINF:-1 group-title="Sports",TEN SPORTS LIVE 🇮🇳
 http://125.209.88.166:45793/BRN/TenSports.stream/playlist.m3u8
+
+#EXTINF:-1 group-title="Sports",SPORTV 🇧🇷
+https://cr7v.short.gy/ManoTV/Whats75991634025/1/Index.m3u8
 
 #EXTINF:-1 group-title="Sports",VTC 1 HD 🇹🇭
 https://liveh12.vtvcab.vn/hls/ONVTC1_CL/index.m3u8
