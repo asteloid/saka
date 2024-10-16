@@ -120,6 +120,9 @@ https://cdn-azd2046.telewebion.com/ek/tv3/live/720p/index.m3u8?isp=NA&city=NA
 #EXTINF:-1 group-title="Sports",AIO SPORT 🇶🇦
 https://cdn-azd2044.telewebion.com/tv3/live/720p/index.m3u8?isp=NA&city=NA
 
+#EXTINF:-1 group-title="Sports",Bien sport 3 🇶🇦
+https://live2.beinconnect.us/YallaGoalApp/beINSports3.m3u8
+
 #EXTINF:-1 group-title="Sports",BEIN SPORT 3 🇶🇦
 http://1.1usd.tv:34000/ch229/mono.m3u8?token=1usdtv_kol218.FQLwEoHD4r5K2LNrRWktdO_JESnnGWLZymSHJgVfwOOvN7KZQBjhDpGdgRLBL9zW
 
@@ -161,6 +164,12 @@ https://stream2.cinerama.uz/1264/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 group-title="Sports",Setanta Sports 2 🇷🇺
 http://103.97.89.234/setanta2/index.m3u8
+
+#EXTINF:-1 group-title="Sports",SETANTA 2 🇷🇺
+https://25axin5tbn8.a.trbcdn.net/Setanta2_La_Liga/index.m3u8
+
+#EXTINF:-1 group-title="Sports",SETANTA 1 🇷🇺
+https://25axin5tbn8.a.trbcdn.net/Setanta1_La_Liga/index.m3u8
 
 #EXTINF:-1 group-title="Sports",Setanta Sports 1 🇷🇺
 http://103.97.89.234/setanta1/index.m3u8
@@ -252,6 +261,9 @@ http://sd4sd54ds54f5sd4f54df54dsyuu.ottclub.xyz/iptv/YAG6W4BD6QN38Q/2536/index.m
 #EXTINF:-1 group-title="Sports",SPORTV1 🇵🇹
 https://8r1fp7ro6am.a.trbcdn.net/SportTV1/index.m3u8
 
+#EXTINF:-1 group-title="Sports",SPORTV1 🇵🇹
+https://8r1fp7ro6am.a.trbcdn.net/SportTV1/tracks-v4a1/mono.m3u8
+
 #EXTINF:-1 group-title="Sports",SPORTV2 🇵🇹
 https://8r1fp7ro6am.a.trbcdn.net/SportTV2/index.m3u8
 
@@ -266,6 +278,24 @@ https://8r1fp7ro6am.a.trbcdn.net/SportTV5/index.m3u8
 
 #EXTINF:-1 group-title="Sports",SPORTV6 🇵🇹
 https://8r1fp7ro6am.a.trbcdn.net/SportTV6/index.m3u8
+
+#EXTINF:-1 group-title="Sports",Bien sport 1 🇶🇦
+https://live2.beinconnect.us/YallaGoalApp/beINSports1.m3u8
+
+#EXTINF:-1 group-title="Sports",Bien sport 2 🇶🇦
+https://live2.beinconnect.us/YallaGoalApp/beINSports2.m3u8
+
+#EXTINF:-1 group-title="Sports",Bien sport 3 🇶🇦
+https://live2.beinconnect.us/YallaGoalApp/beINSports3.m3u8
+
+#EXTINF:-1 group-title="Sports",Bien sport 4 🇶🇦
+https://live2.beinconnect.us/YallaGoalApp/beINSports4.m3u8
+
+#EXTINF:-1 group-title="Sports",Bien sport 5 🇶🇦
+https://live2.beinconnect.us/YallaGoalApp/beINSports5.m3u8
+
+#EXTINF:-1 group-title="Sports",Bien sport 6 🇶🇦
+https://live2.beinconnect.us/YallaGoalApp/beINSports6.m3u8
 
 #EXTINF:-1 group-title="Sports",BEIN 1 ENGLISH 🇬🇧
 http://206.212.244.182:25461/live/jgarcia31/224178522/12554.m3u8?token=TUEMUBFQFVsUUVwCAwVRBgEAB1pcBgEBAFZUDgQBBFZSUQUFVw8GAFAWFRdHQxcHWQk6UV0SAwBQBlYCGhpGEFMRO1gGGg1DBAMIAgwPR04aEAxVXBIDAU4RE19SGglBB1RdAlMaG0NTTE1QRlkEDmcAAE5QU1wTWF0WWloUEQxYPABUD1lZBRQOGwUWG0cLSxRHAldFVV1OEQFfQkpSF1NBXhNUDA5DGhZaWkFZERBBRl8afGMbHUBWG0JTVkAKWQ1GC0BVBBQOFhUXXUQ6EF0XEUpcUVRUEBFZFAYaH0FbAhxuAVdZD1NXTVxbWRZAAkZQGhUSVF4MWhdZRGdDClJBXhNTCQBRARZE
@@ -480,11 +510,20 @@ https://stream2.cinerama.uz/1263/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Sports",Setanta Sports 1 🇷🇺
 http://95.216.40.210:80/setanta1/tracks-v1a1/manifest.m3u8
 
+#EXTINF:-1 group-title="Sports",SETANTA 1 🇷🇺
+https://25axin5tbn8.a.trbcdn.net/Setanta1_La_Liga/index.m3u8
+
+#EXTINF:-1 group-title="Sports",SETANTA 2 🇷🇺
+https://25axin5tbn8.a.trbcdn.net/Setanta2_La_Liga/index.m3u8
+
 #EXTINF:-1 group-title="Sports",Setanta Sports 2 🇷🇺
 https://stream2.cinerama.uz/1264/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 group-title="Sports",Setanta Sports 2 🇷🇺
 http://95.216.40.210:80/setanta2/tracks-v1a1/manifest.m3u8
+
+#EXTINF:-1 group-title="Sports",SETANTA ua 🇷🇺
+https://s44gx6hkds2.a.trbcdn.net/SetantaUA/index.m3u8
 
 #EXTINF:-1 group-title="Sports",Setanta Sports 1 🇺🇦
 https://hls.sweet.tv/stream/qfq2fp954aui9guc8e4d5526tu8uudcnyj342af9kxq8sry8g7n44bwe5rw4k6q68mxhy99h7z5abid8gkju2pcund6c4x89hq96789999.m3u8
