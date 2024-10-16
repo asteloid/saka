@@ -658,10 +658,13 @@ https://tv91.hostingnuclear.com:19360/telecosta/telecosta.m3u8
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=7357
 
 #EXTINF:-1 group-title="Sports",TIGO SPORTS 🇨🇷
-https://cnm-tsl.otteravision.com/cnm/tsl/tsl.m3u8
+http://45.163.205.110:8000/play/a0gy/index.m3u8
 
 #EXTINF:-1 group-title="Sports",TIGO SPORTS 🇨🇷
 http://190.185.121.102:58092/play/a00s
+
+#EXTINF:-1 group-title="Sports",TIGO SPORTS 🇬🇹
+https://cnm-tsl.otteravision.com/cnm/tsl/tsl.m3u8
 
 #EXTINF:-1 group-title="Sports",TUDN 🇲🇽
 http://190.185.121.102:58092/play/a00m
