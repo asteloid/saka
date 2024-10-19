@@ -111,6 +111,9 @@ http://unity-gaming.net:8080/testforflorin/h3jR9MKh/13868
 #EXTINF:-1 group-title="Sports",S LALIGA 🇿🇦
 http://tv.cloudcdn.online:80/live/00:1A:79:A4:26:62/2977/125442.ts
 
+#EXTINF:-1 group-title="Sports",S LALIGA 🇿🇦
+https://s@centerinfomess.lol/live/2/chunks.m3u8
+
 #EXTINF:-1 group-title="Sports",AIO SPORT 🇶🇦
 https://cdn-azd2046.telewebion.com/ek/tv3/live/720p/index.m3u8?isp=NA&city=NA
 
@@ -614,6 +617,9 @@ http://78.130.250.2:8023/play/a004/index.m3u8
 
 #EXTINF:-1 group-title="Sports",NovaSports 2 🇨🇿
 http://cdn.ottshow.net:80/kanaliURedirect2442/kd0dk39dkyxs0A/81189
+
+#EXTINF:-1 group-title="Sports",NovaSports 2 🇨🇿
+http://146.59.85.40:89/novasport2/mono.m3u8
 
 #EXTINF:-1 group-title="Sports",SPORT 1 🇨🇿 
 http://78.130.250.2:8023/play/a02u/index.m3u8
