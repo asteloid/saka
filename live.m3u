@@ -273,23 +273,41 @@ https://p13.lol/centra_live_a_b/n907iOxHult0/1782184.ts
 #EXTINF:-1 group-title="Sports",Bien sport 1 🇶🇦
 https://live2.beinconnect.us/YallaGoalApp/beINSports1.m3u8
 
+#EXTINF:-1 group-title="Sports",Bien sport 1 🇶🇦
+https://live4.beinconnect.us/YallaGoalApp/beINSports1.m3u8
+
 #EXTINF:-1 group-title="Sports",Bein sport 1 🇶🇦
 http://ru.seetv.cc/play/1104/9D6A08075AD5F53/video.m3u8
 
 #EXTINF:-1 group-title="Sports",Bien sport 2 🇶🇦
 https://live2.beinconnect.us/YallaGoalApp/beINSports2.m3u8
 
+#EXTINF:-1 group-title="Sports",Bien sport 2 🇶🇦
+https://live4.beinconnect.us/YallaGoalApp/beINSports2.m3u8
+
 #EXTINF:-1 group-title="Sports",Bien sport 3 🇶🇦
 https://live2.beinconnect.us/YallaGoalApp/beINSports3.m3u8
+
+#EXTINF:-1 group-title="Sports",Bien sport 3 🇶🇦
+https://live4.beinconnect.us/YallaGoalApp/beINSports3.m3u8
 
 #EXTINF:-1 group-title="Sports",Bien sport 4 🇶🇦
 https://live2.beinconnect.us/YallaGoalApp/beINSports4.m3u8
 
+#EXTINF:-1 group-title="Sports",Bien sport 4 🇶🇦
+https://live4.beinconnect.us/YallaGoalApp/beINSports4.m3u8
+
 #EXTINF:-1 group-title="Sports",Bien sport 5 🇶🇦
 https://live2.beinconnect.us/YallaGoalApp/beINSports5.m3u8
 
+#EXTINF:-1 group-title="Sports",Bien sport 5 🇶🇦
+https://live4.beinconnect.us/YallaGoalApp/beINSports5.m3u8
+
 #EXTINF:-1 group-title="Sports",Bien sport 6 🇶🇦
 https://live2.beinconnect.us/YallaGoalApp/beINSports6.m3u8
+
+#EXTINF:-1 group-title="Sports",Bien sport 6 🇶🇦
+https://live4.beinconnect.us/YallaGoalApp/beINSports6.m3u8
 
 #EXTINF:-1 group-title="Sports",TNT SPORT 1 🇬🇧
 http://lordofthepings.xyz:8080/play/live.php?mac=00:1A:79:C8:3D:DF&stream=4449&extension=m3u8
@@ -443,6 +461,15 @@ http://eqatmiyg.megogo.xyz/iptv/EBUCGK992DRF6L/20103/index.m3u8
 
 #EXTINF:-1 group-title="Sports",Ziggo Sport Select HD 🇳🇱
 http://78.130.250.2:8023/play/a00n/index.m3u8
+
+#EXTINF:-1 group-title="Sports",DIGI SPORT 1 🇷🇴
+http://45.90.106.98/digisport1/index.m3u8
+
+#EXTINF:-1 group-title="Sports",DIGI SPORT 2 🇷🇴
+http://45.90.106.98/digisport2/index.m3u8
+
+#EXTINF:-1 group-title="Sports",DIGI SPORT 3 🇷🇴
+http://45.90.106.98/digisport3/index.m3u8
 
 #EXTINF:-1 group-title="Sports",CANAL+ SPORT HD 🇵🇱
 http://185.236.229.62:9981/play/a04c
